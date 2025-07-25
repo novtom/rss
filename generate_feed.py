@@ -1,6 +1,8 @@
 import os
 import requests
 import xml.etree.ElementTree as ET
+import base64
+from urllib.parse import urlparse
 
 OUTPUT_DIR = "feeds"
 
@@ -26,7 +28,6 @@ for filename, url in podcasts.items():
 
     try:
         root = ET.fromstring(r.content)
-        # 🧹 Odstranit <script/> pokud existuje
         for script_tag in root.findall("script"):
             root.remove(script_tag)
     except ET.ParseError as e:
@@ -42,35 +43,49 @@ for filename, url in podcasts.items():
         print(f"❌ Nenalezen <channel> v {filename}")
         continue
 
-    # Uprav <link>
     link = channel.find("link")
     if link is not None:
         link.text = f"https://novtom.github.io/rss/feeds/{filename}"
     else:
         ET.SubElement(channel, "link").text = f"https://novtom.github.io/rss/feeds/{filename}"
 
-    # Přidej description, pokud chybí
     if channel.find("description") is None:
         ET.SubElement(channel, "description").text = "RSS feed z mujRozhlas.cz"
 
-    # 🔧 Očisti <enclosure> URL: odstraň podtrac přesměrování a převeď na http
+    # 🔧 Úprava <enclosure> URL
     for item in channel.findall("item"):
         enclosure = item.find("enclosure")
         if enclosure is not None and "url" in enclosure.attrib:
             url_attr = enclosure.attrib["url"]
 
-            # Pokud je tam podtrac redirect
+            # 1️⃣ Podtrac redirect
             if "dts.podtrac.com/redirect.mp3/" in url_attr:
-                real_url = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
-                if not real_url.startswith("http"):
-                    real_url = "http://" + real_url
-                enclosure.attrib["url"] = real_url
+                url_attr = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
 
-            # Jinak pokud začíná na https, tak jen přepiš na http
-            elif url_attr.startswith("https://"):
-                enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
-    # Výstupní cesta
+            # 2️⃣ Přímý Base64 zakódovaný odkaz z mujRozhlas
+            parsed = urlparse(url_attr)
+            if "aod" in parsed.path and parsed.path.endswith(".mp3"):
+                try:
+                    b64name = parsed.path.split("/")[-1].replace(".mp3", "")
+                    decoded_url = base64.urlsafe_b64decode(b64name + "==").decode("utf-8")
+                    if decoded_url.startswith("https://"):
+                        decoded_url = decoded_url.replace("https://", "http://", 1)
+                    enclosure.attrib["url"] = decoded_url
+                except Exception as e:
+                    print(f"❌ Base64 decode fail: {e} (u {url_attr})")
+                    # fallback: jen https → http
+                    if url_attr.startswith("https://"):
+                        enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
+                    else:
+                        enclosure.attrib["url"] = url_attr
+            else:
+                # 3️⃣ Pokud žádné speciální zacházení, jen https → http
+                if url_attr.startswith("https://"):
+                    enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
+                else:
+                    enclosure.attrib["url"] = url_attr
+
+    # 💾 Ulož soubor
     output_path = os.path.join(OUTPUT_DIR, filename)
     ET.ElementTree(root).write(output_path, encoding="utf-8", xml_declaration=True)
-
     print(f"✅ Uloženo: {output_path}")
