@@ -26,11 +26,9 @@ for filename, url in podcasts.items():
 
     try:
         root = ET.fromstring(r.content)
-
         # 🧹 Odstranit <script/> pokud existuje
         for script_tag in root.findall("script"):
             root.remove(script_tag)
-
     except ET.ParseError as e:
         print(f"❌ Chyba při parsování XML z {url}: {e}")
         continue
@@ -61,15 +59,16 @@ for filename, url in podcasts.items():
         if enclosure is not None and "url" in enclosure.attrib:
             url_attr = enclosure.attrib["url"]
 
-if "dts.podtrac.com/redirect.mp3/" in url_attr:
-    real_url = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
-    if real_url.startswith("https://"):
-        real_url = real_url.replace("https://", "http://", 1)
-    elif real_url.startswith("http://"):
-        pass  # nech jak je
-    else:
-        real_url = "http://" + real_url
-    enclosure.attrib["url"] = real_url
+            # Pokud začíná na podtrac redirect
+            if "dts.podtrac.com/redirect.mp3/" in url_attr:
+                real_url = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
+                if real_url.startswith("https://"):
+                    real_url = real_url.replace("https://", "http://", 1)
+                elif real_url.startswith("http://"):
+                    pass  # nech jak je
+                else:
+                    real_url = "http://" + real_url
+                enclosure.attrib["url"] = real_url
 
             # Jinak jen nahraď https → http
             elif url_attr.startswith("https://"):
