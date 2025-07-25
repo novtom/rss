@@ -25,8 +25,7 @@ jobs:
         run: pip install requests
 
       - name: Generate RSS feeds
-        run: python ../generate_feed.py
-        working-directory: .github/workflows
+        run: python generate_feed.py
 
       - name: Commit and push
         run: |
@@ -35,4 +34,3 @@ jobs:
           git add feeds/*.xml
           git commit -m "Auto-update RSS feed" || echo "No changes"
           git push
-        working-directory: .github/workflows
