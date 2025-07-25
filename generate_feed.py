@@ -19,11 +19,19 @@ for filename, url in podcasts.items():
     r.raise_for_status()
     rss = r.text
 
-    rss = re.sub(r'https://dts\.podtrac\.com', r'http://dts.podtrac.com', rss)
-    rss = re.sub(r"<title>(.*?)</title>", r"<title>\1 (LMS HTTP)</title>", rss, count=1)
+    # Přidej <channel> wrapper
+    rss = re.sub(r'<rss version="2.0">', '<rss version="2.0"><channel>', rss)
+    rss = rss.replace('</rss>', '</channel></rss>')
+
+    # Přidej <link> a <description> pokud chybí
+    rss = re.sub(
+        r'<title>(.*?)</title>',
+        r'<title>\1</title>\n<link>https://example.com</link>\n<description>RSS feed</description>',
+        rss,
+        count=1
+    )
 
     output_path = os.path.join(OUTPUT_DIR, filename)
-
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(rss)
 
