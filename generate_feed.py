@@ -24,11 +24,16 @@ for filename, url in podcasts.items():
         print(f"❌ Chyba při stahování {url}: {e}")
         continue
 
-    try:
-        root = ET.fromstring(r.content)
-    except ET.ParseError as e:
-        print(f"❌ Chyba při parsování XML z {url}: {e}")
-        continue
+ try:
+    root = ET.fromstring(r.content)
+
+    # 🧹 Odstranit <script/> pokud existuje
+    for script_tag in root.findall("script"):
+        root.remove(script_tag)
+
+except ET.ParseError as e:
+    print(f"❌ Chyba při parsování XML z {url}: {e}")
+    continue
 
     if root.tag != "rss":
         print(f"❌ Kořenový element není <rss> v {filename}")
