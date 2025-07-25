@@ -38,11 +38,18 @@ for filename, url in podcasts.items():
         print(f"❌ Kořenový element není <rss> v {filename}")
         continue
 
-    channel = root.find("channel")
+    channel = root.find("channel")    
     if channel is None:
         print(f"❌ Nenalezen <channel> v {filename}")
         continue
 
+    # 🔻 Omez počet epizod v RSS feedu
+    items = channel.findall("item")
+    max_items = 100  # změň podle potřeby (např. 200)
+    for item in items[max_items:]:
+        channel.remove(item)
+
+    
     # Uprav <link>
     link = channel.find("link")
     if link is not None:
