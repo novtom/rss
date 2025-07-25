@@ -16,7 +16,8 @@ podcasts = {
     "Kecy-politika.xml": "https://anchor.fm/s/99c6e0b4/podcast/rss",
     "Chyba-systemu.xml": "https://api.mujrozhlas.cz/rss/podcast/47833fff-1845-3b97-b263-54fe2c4026b7.rss",
     "Ceska-satira.xml": "https://api.mujrozhlas.cz/rss/podcast/4c2d5141-ad8d-3e73-b041-45170e6e1255.rss",
-    "Vojta-zizka.xml": "https://anchor.fm/s/763bc3a8/podcast/rss"
+    "Vojta-zizka.xml": "https://anchor.fm/s/763bc3a8/podcast/rss",
+    "Mezi-rentiery.xml": "https://audioboom.com/channels/5096524.rss"
 }
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
