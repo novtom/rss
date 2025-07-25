@@ -54,38 +54,40 @@ for filename, url in podcasts.items():
     if channel.find("description") is None:
         ET.SubElement(channel, "description").text = "RSS feed z mujRozhlas.cz"
 
-    # 🔧 Úprava <enclosure> URL
-    for item in channel.findall("item"):
-        enclosure = item.find("enclosure")
-        if enclosure is not None and "url" in enclosure.attrib:
-            url_attr = enclosure.attrib["url"]
+# 🔧 Úprava <enclosure> URL
+for item in channel.findall("item"):
+    enclosure = item.find("enclosure")
+    if enclosure is not None and "url" in enclosure.attrib:
+        url_attr = enclosure.attrib["url"]
 
-            # 1️⃣ Podtrac redirect
-            if "dts.podtrac.com/redirect.mp3/" in url_attr:
-                url_attr = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
+        # 1️⃣ Podtrac redirect
+        if "dts.podtrac.com/redirect.mp3/" in url_attr:
+            url_attr = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
 
-            # 2️⃣ Přímý base64 zakódovaný mujRozhlas
-            parsed = urlparse(url_attr)
-            if "aod" in parsed.path and parsed.path.endswith(".mp3"):
-                try:
-                    b64name = parsed.path.split("/")[-1].replace(".mp3", "")
-                    decoded_url = base64.urlsafe_b64decode(b64name + "==").decode("utf-8")
-                    if decoded_url.startswith("https://"):
-                        decoded_url = decoded_url.replace("https://", "http://", 1)
-                    enclosure.attrib["url"] = decoded_url
-                except Exception as e:
-                    print(f"❌ Base64 decode fail: {e} (u {url_attr})")
-                    # fallback: jen https → http
-                    if url_attr.startswith("https://"):
-                        enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
-                    else:
-                        enclosure.attrib["url"] = url_attr
-            else:
-                # 3️⃣ Standardní přepis https → http
+        # 2️⃣ Přímý base64 zakódovaný mujRozhlas
+        parsed = urlparse(url_attr)
+        if "aod" in parsed.path and parsed.path.endswith(".mp3"):
+            try:
+                b64name = parsed.path.split("/")[-1].replace(".mp3", "")
+                decoded_url = base64.urlsafe_b64decode(b64name + "==").decode("utf-8")
+                if decoded_url.startswith("https://"):
+                    decoded_url = decoded_url.replace("https://", "http://", 1)
+                if not decoded_url.startswith(("http://", "https://")):
+                    decoded_url = "http://" + decoded_url
+                enclosure.attrib["url"] = decoded_url
+            except Exception as e:
+                print(f"❌ Base64 decode fail: {e} (u {url_attr})")
+                # fallback: jen https → http
                 if url_attr.startswith("https://"):
                     enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
                 else:
                     enclosure.attrib["url"] = url_attr
+        else:
+            # 3️⃣ Pokud žádné speciální zacházení, jen https → http
+            if url_attr.startswith("https://"):
+                enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
+            else:
+                enclosure.attrib["url"] = url_attr
 
     # 💾 Ulož výstupní XML
     output_path = os.path.join(OUTPUT_DIR, filename)
