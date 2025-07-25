@@ -43,12 +43,14 @@ for filename, url in podcasts.items():
         print(f"❌ Nenalezen <channel> v {filename}")
         continue
 
+    # Uprav <link>
     link = channel.find("link")
     if link is not None:
         link.text = f"https://novtom.github.io/rss/feeds/{filename}"
     else:
         ET.SubElement(channel, "link").text = f"https://novtom.github.io/rss/feeds/{filename}"
 
+    # Přidej <description> pokud chybí
     if channel.find("description") is None:
         ET.SubElement(channel, "description").text = "RSS feed z mujRozhlas.cz"
 
@@ -62,7 +64,7 @@ for filename, url in podcasts.items():
             if "dts.podtrac.com/redirect.mp3/" in url_attr:
                 url_attr = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
 
-            # 2️⃣ Přímý Base64 zakódovaný odkaz z mujRozhlas
+            # 2️⃣ Přímý base64 zakódovaný mujRozhlas
             parsed = urlparse(url_attr)
             if "aod" in parsed.path and parsed.path.endswith(".mp3"):
                 try:
@@ -79,13 +81,13 @@ for filename, url in podcasts.items():
                     else:
                         enclosure.attrib["url"] = url_attr
             else:
-                # 3️⃣ Pokud žádné speciální zacházení, jen https → http
+                # 3️⃣ Standardní přepis https → http
                 if url_attr.startswith("https://"):
                     enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
                 else:
                     enclosure.attrib["url"] = url_attr
 
-    # 💾 Ulož soubor
+    # 💾 Ulož výstupní XML
     output_path = os.path.join(OUTPUT_DIR, filename)
     ET.ElementTree(root).write(output_path, encoding="utf-8", xml_declaration=True)
     print(f"✅ Uloženo: {output_path}")
