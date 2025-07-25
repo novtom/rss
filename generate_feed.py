@@ -51,15 +51,18 @@ for filename, url in podcasts.items():
     if channel.find("description") is None:
         ET.SubElement(channel, "description").text = "RSS feed z mujRozhlas.cz"
 
-    # 🔧 Přepiš https na http v <enclosure>
+    # 🔧 Uprav <enclosure> URL (odstraň Podtrac a https → http)
     for item in channel.findall("item"):
         enclosure = item.find("enclosure")
-        if enclosure is not None:
-            url_attr = enclosure.get("url", "")
-            if url_attr.startswith("https://"):
-                enclosure.set("url", url_attr.replace("https://", "http://", 1))
+        if enclosure is not None and "url" in enclosure.attrib:
+            url_attr = enclosure.attrib["url"]
+            if "dts.podtrac.com/redirect.mp3/" in url_attr:
+                cleaned = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
+                enclosure.attrib["url"] = "http://" + cleaned.split("://", 1)[-1]
+            elif url_attr.startswith("https://"):
+                enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
 
-    # Ulož soubor
+    # Výstupní cesta
     output_path = os.path.join(OUTPUT_DIR, filename)
     ET.ElementTree(root).write(output_path, encoding="utf-8", xml_declaration=True)
 
