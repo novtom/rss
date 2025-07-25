@@ -59,21 +59,16 @@ for filename, url in podcasts.items():
         if enclosure is not None and "url" in enclosure.attrib:
             url_attr = enclosure.attrib["url"]
 
-            # Pokud začíná na podtrac redirect
+            # Pokud je tam podtrac redirect
             if "dts.podtrac.com/redirect.mp3/" in url_attr:
                 real_url = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
-                if real_url.startswith("https://"):
-                    real_url = real_url.replace("https://", "http://", 1)
-                elif real_url.startswith("http://"):
-                    pass  # nech jak je
-                else:
+                if not real_url.startswith("http"):
                     real_url = "http://" + real_url
                 enclosure.attrib["url"] = real_url
 
-            # Jinak jen nahraď https → http
+            # Jinak pokud začíná na https, tak jen přepiš na http
             elif url_attr.startswith("https://"):
                 enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
-
     # Výstupní cesta
     output_path = os.path.join(OUTPUT_DIR, filename)
     ET.ElementTree(root).write(output_path, encoding="utf-8", xml_declaration=True)
