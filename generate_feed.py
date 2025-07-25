@@ -19,11 +19,8 @@ for filename, url in podcasts.items():
         print(f"❌ Chyba při stahování {url}: {e}")
         continue
 
-    # Oprava "podcast://https" → "https"
-    rss_fixed = r.text.replace("podcast://https", "https").replace("podcast://http", "http")
-
     try:
-        root = ET.fromstring(rss_fixed)
+        root = ET.fromstring(r.content)
     except ET.ParseError as e:
         print(f"❌ Chyba při parsování XML z {url}: {e}")
         continue
@@ -37,7 +34,7 @@ for filename, url in podcasts.items():
         print(f"❌ Nenalezen <channel> v {filename}")
         continue
 
-    # Uprav <link>
+    # Uprav <link> v <channel>
     link = channel.find("link")
     if link is not None:
         link.text = f"https://novtom.github.io/rss/feeds/{filename}"
@@ -47,6 +44,14 @@ for filename, url in podcasts.items():
     # Přidej description, pokud chybí
     if channel.find("description") is None:
         ET.SubElement(channel, "description").text = "RSS feed z mujRozhlas.cz"
+
+    # Oprav podcast:// v <enclosure>
+    for item in channel.findall("item"):
+        enclosure = item.find("enclosure")
+        if enclosure is not None and 'url' in enclosure.attrib:
+            orig_url = enclosure.attrib["url"]
+            fixed_url = orig_url.replace("podcast://https", "https").replace("podcast://http", "http")
+            enclosure.set("url", fixed_url)
 
     # Výstupní cesta
     output_path = os.path.join(OUTPUT_DIR, filename)
