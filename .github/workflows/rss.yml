@@ -2,8 +2,11 @@ name: Update podcast RSS
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Každých 6 hodin
+    - cron: '0 */6 * * *'   # každých 6 hodin
   workflow_dispatch:
+
+permissions:
+  contents: write   # ← tohle dovolí pushnout změny
 
 jobs:
   build:
@@ -11,24 +14,23 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
-      - name: Install requests
+      - name: Install deps
         run: pip install requests
 
-      - name: Generate updated RSS feed
-        run: python ../generate_feed.py
-        working-directory: .github/workflows
+      - name: Generate updated RSS feed(s)
+        run: python generate_feed.py   # žádné working-directory!
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add *.xml
-          git commit -m "Auto-update RSS feed" || echo "No changes"
+          git add feeds/*.xml
+          git commit -m "Auto-update RSS feed" || exit 0
           git push
