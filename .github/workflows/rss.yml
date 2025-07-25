@@ -1,11 +1,13 @@
-# .github/workflows/rss.yml
-
 name: Update podcast RSS
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Každých 6 hodin
+    - cron: '0 */6 * * *'  # každých 6 hodin
   workflow_dispatch:
+
+defaults:
+  run:
+    working-directory: .
 
 jobs:
   build:
@@ -29,6 +31,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add ceske-podsveti.xml
+          git add *.xml
           git commit -m "Auto-update RSS feed" || echo "No changes"
           git push
