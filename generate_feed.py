@@ -35,7 +35,6 @@ for filename, url in podcasts.items():
         print(f"❌ Chyba při parsování XML z {url}: {e}")
         continue
 
-
     if root.tag != "rss":
         print(f"❌ Kořenový element není <rss> v {filename}")
         continue
@@ -56,30 +55,23 @@ for filename, url in podcasts.items():
     if channel.find("description") is None:
         ET.SubElement(channel, "description").text = "RSS feed z mujRozhlas.cz"
 
-    # 🔧 Uprav <enclosure> URL (odstraň přesměrování, https → http, podcast://)
+    # 🔧 Očisti <enclosure> URL: odstraň podtrac přesměrování a převeď na http
     for item in channel.findall("item"):
         enclosure = item.find("enclosure")
         if enclosure is not None and "url" in enclosure.attrib:
             url_attr = enclosure.attrib["url"]
 
-            # Odstranit přesměrování přes Podtrac, pokud existuje
+            # Pokud začíná na podtrac redirect
             if "dts.podtrac.com/redirect.mp3/" in url_attr:
-                url_attr = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
-            
-            # Odstranit prefix podcast://
-            if url_attr.startswith("podcast://"):
-                url_attr = url_attr.replace("podcast://", "", 1)
+                real_url = url_attr.split("redirect.mp3/")[-1]
+                # Převod na klasický http odkaz
+                if real_url.startswith("https://"):
+                    real_url = real_url.replace("https://", "http://", 1)
+                enclosure.attrib["url"] = real_url
 
-            # Přepsat https na http
-            if url_attr.startswith("https://"):
-                url_attr = url_attr.replace("https://", "http://", 1)
-
-            # Pokud zbyl ještě dvojitý protokol (např. http://http://...), oprav to
-            if url_attr.startswith("http://http://"):
-                url_attr = url_attr.replace("http://http://", "http://", 1)
-
-            # Zapsat upravenou URL zpět
-            enclosure.set("url", url_attr)
+            # Jinak jen nahraď https → http
+            elif url_attr.startswith("https://"):
+                enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
 
     # Výstupní cesta
     output_path = os.path.join(OUTPUT_DIR, filename)
