@@ -19,8 +19,11 @@ for filename, url in podcasts.items():
         print(f"❌ Chyba při stahování {url}: {e}")
         continue
 
+    # Oprava "podcast://https" → "https"
+    rss_fixed = r.text.replace("podcast://https", "https").replace("podcast://http", "http")
+
     try:
-        root = ET.fromstring(r.content)
+        root = ET.fromstring(rss_fixed)
     except ET.ParseError as e:
         print(f"❌ Chyba při parsování XML z {url}: {e}")
         continue
