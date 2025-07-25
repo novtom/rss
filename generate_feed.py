@@ -14,6 +14,9 @@ podcasts = {
     "Osobnost-plus.xml": "https://api.mujrozhlas.cz/rss/podcast/ad21758a-b517-328e-9bb0-2a2e2819f0b5.rss",
     "Podcasty-HN.xml": "https://www.spreaker.com/show/4194705/episodes/feed",
     "Kecy-politika.xml": "https://anchor.fm/s/99c6e0b4/podcast/rss",
+    "Chyba-systemu.xml": "https://api.mujrozhlas.cz/rss/podcast/47833fff-1845-3b97-b263-54fe2c4026b7.rss",
+    "Ceska-satira.xml": "https://api.mujrozhlas.cz/rss/podcast/4c2d5141-ad8d-3e73-b041-45170e6e1255.rss"
+    
 }
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
