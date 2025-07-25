@@ -56,16 +56,30 @@ for filename, url in podcasts.items():
     if channel.find("description") is None:
         ET.SubElement(channel, "description").text = "RSS feed z mujRozhlas.cz"
 
-    # 🔧 Uprav <enclosure> URL (odstraň Podtrac a https → http)
+    # 🔧 Uprav <enclosure> URL (odstraň přesměrování, https → http, podcast://)
     for item in channel.findall("item"):
         enclosure = item.find("enclosure")
         if enclosure is not None and "url" in enclosure.attrib:
             url_attr = enclosure.attrib["url"]
+
+            # Odstranit přesměrování přes Podtrac, pokud existuje
             if "dts.podtrac.com/redirect.mp3/" in url_attr:
-                cleaned = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
-                enclosure.attrib["url"] = "http://" + cleaned.split("://", 1)[-1]
-            elif url_attr.startswith("https://"):
-                enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
+                url_attr = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
+            
+            # Odstranit prefix podcast://
+            if url_attr.startswith("podcast://"):
+                url_attr = url_attr.replace("podcast://", "", 1)
+
+            # Přepsat https na http
+            if url_attr.startswith("https://"):
+                url_attr = url_attr.replace("https://", "http://", 1)
+
+            # Pokud zbyl ještě dvojitý protokol (např. http://http://...), oprav to
+            if url_attr.startswith("http://http://"):
+                url_attr = url_attr.replace("http://http://", "http://", 1)
+
+            # Zapsat upravenou URL zpět
+            enclosure.set("url", url_attr)
 
     # Výstupní cesta
     output_path = os.path.join(OUTPUT_DIR, filename)
