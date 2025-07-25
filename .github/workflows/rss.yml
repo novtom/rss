@@ -1,0 +1,34 @@
+# .github/workflows/rss.yml
+
+name: Update podcast RSS
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Každých 6 hodin
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Generate updated RSS feed
+        run: python generate_feed.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add ceske-podsveti.xml
+          git commit -m "Auto-update RSS feed" || echo "No changes"
+          git push
