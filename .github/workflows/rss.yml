@@ -21,7 +21,7 @@ jobs:
         run: pip install requests
 
       - name: Generate updated RSS feed
-        run: python generate_feed.py
+        run: run: python ../generate_feed.py
         working-directory: ./  # 👉 TADY JE TO DŮLEŽITÉ 👈
 
       - name: Commit and push changes
