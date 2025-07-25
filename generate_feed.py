@@ -20,7 +20,8 @@ podcasts = {
     "Mezi-rentiery.xml": "https://audioboom.com/channels/5096524.rss",
     "Brain-we-are.xml": "https://anchor.fm/s/7330de0/podcast/rss",
     "Fantastic-future.xml": "https://anchor.fm/s/102799d7c/podcast/rss",
-    "5-59.xml": "https://feeds.transistor.fm/5-59"
+    "5-59.xml": "https://feeds.transistor.fm/5-59",
+    "xtb": "https://anchor.fm/s/3de2cbdc/podcast/rss"
 }
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
