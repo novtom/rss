@@ -21,7 +21,7 @@ podcasts = {
     "Brain-we-are.xml": "https://anchor.fm/s/7330de0/podcast/rss",
     "Fantastic-future.xml": "https://anchor.fm/s/102799d7c/podcast/rss",
     "5-59.xml": "https://feeds.transistor.fm/5-59",
-    "xtb": "https://anchor.fm/s/3de2cbdc/podcast/rss",
+    "xtb.xml": "https://anchor.fm/s/3de2cbdc/podcast/rss",
     
 }
 
