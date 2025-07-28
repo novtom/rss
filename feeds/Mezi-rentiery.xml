@@ -11,7 +11,7 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <ns1:link href="https://audioboom.com/channels/5096524" rel="alternate" type="text/html" />
 <ns1:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <ns1:link href="https://audioboom.com/channels/5096524.rss" rel="self" type="application/rss+xml" />
-<pubDate>Sun, 20 Jul 2025 22:06:02 +0000</pubDate>
+<pubDate>Sun, 27 Jul 2025 22:05:00 +0000</pubDate>
 <language>cs</language>
 <image>
   <url>https://audioboom.com/i/40152868.jpg</url>
@@ -32,6 +32,34 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <ns2:new-feed-url>https://audioboom.com/channels/5096524.rss</ns2:new-feed-url>
 <ns2:type>episodic</ns2:type>
 
+<item>
+  <title>129: 7 pohledů na riziko při správě bohatství</title>
+  <link>https://audioboom.com/posts/8755137</link>
+  <ns2:episode>129</ns2:episode>
+  <ns2:title>7 pohledů na riziko při správě bohatství</ns2:title>
+  <enclosure url="http://audioboom.com/posts/8755137.mp3?modified=1753653871&amp;sid=5096524&amp;source=rss" length="25688825" type="audio/mpeg" />
+  <ns2:image href="https://audioboom.com/i/42938539/s=1400x1400/el=1/rt=fill.png" />
+  <ns2:duration>1576</ns2:duration>
+  <ns2:explicit>false</ns2:explicit>
+  <ns2:episodeType>full</ns2:episodeType>
+  <description>&lt;div&gt;Riziko není jen o výkyvech na burze. &lt;br&gt;
+Je to ztráta cashflow. Ztráta kontroly. Ztráta rodiny.&lt;br&gt;
+&lt;br&gt;
+V této epizodě podcastu Mezi Rentiéry se Vladimír Fichtner a Josef Podlipný ponořili hluboko do tématu, které odlišuje zkušeného investora od začínajícího: jak se mění pohled na riziko, když už člověk nemusí bohatství budovat.&lt;br&gt;
+&lt;br&gt;
+Josef sdílí osobní příběh své rodiny a vysvětluje, jak se jejich přístup k investicím změnil v okamžiku, kdy přestali „hrát o výhru“ a začali „hrát o to, aby nepřišli o to, co vybudovali“. &lt;br&gt;
+&lt;br&gt;
+Co udělá s přístupem vědomí, že už majetek znovu od nuly nevybudujete?&lt;br&gt;
+Proč mají i velmi bohaté rodiny problém s likviditou – a jak tomu předejít?&lt;br&gt;
+Co se stane s vaším portfoliem, když přestanete riskovat?&lt;br&gt;
+&lt;br&gt;
+Objevte sedm konkrétních oblastí, kde se tento posun nejvíce projevuje – od diverzifikace přes likviditu až po mezigenerační plánování a tzv. „index rodinné harmonie”.&lt;/div&gt;
+</description>
+  <pubDate>Sun, 27 Jul 2025 22:05:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2025-07-27:/posts/8755137</guid>
+  <ns2:author>Fichtner Wealth Managers</ns2:author>
+  <dc:creator>Fichtner Wealth Managers</dc:creator>
+</item>
 <item>
   <title>128: Deformují ETF trh? Fakta místo mýtů</title>
   <link>https://audioboom.com/posts/8751451</link>
@@ -2726,28 +2754,6 @@ Vladimír a Josef tentokrát nasdílí své zkušenosti s diamanty, zlatem a pů
 </description>
   <pubDate>Sun, 06 Aug 2023 22:27:40 +0000</pubDate>
   <guid isPermaLink="false">tag:audioboom.com,2023-08-06:/posts/8346053</guid>
-  <ns2:author>Fichtner Wealth Managers</ns2:author>
-  <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
-<item>
-  <title>29: Nástupnictví ve firmě: Motivace pro generálního ředitele</title>
-  <link>https://audioboom.com/posts/8342591</link>
-  <ns2:episode>29</ns2:episode>
-  <ns2:title>Nástupnictví ve firmě: Motivace pro generálního ředitele</ns2:title>
-  <enclosure url="http://audioboom.com/posts/8342591.mp3?modified=1690756911&amp;sid=5096524&amp;source=rss" length="23699887" type="audio/mpeg" />
-  <ns2:image href="https://audioboom.com/i/40785163/s=1400x1400/el=1/rt=fill.png" />
-  <ns2:duration>1458</ns2:duration>
-  <ns2:explicit>false</ns2:explicit>
-  <ns2:episodeType>full</ns2:episodeType>
-  <description>&lt;div&gt;Výběr lidí do firmy je hodně náročná disciplína. &lt;br&gt;
-Obzvlášť pokud má jít o klíčové lidi ve firmě. &lt;br&gt;
-&lt;br&gt;
-Nicméně ať už chcete svou firmu prodat nebo se chcete opustit roli tahouna, potřebujete hlavní místo ve firmě obsadit někým, na koho se můžete spolehnout.&lt;br&gt;
-&lt;br&gt;
-Vladimír a Josef sdílí inspiraci od majitele firmy, kterému se podařilo motivovat generálního ředitele, dotáhnout firmu na další úroveň a zároveň se stáhnout z exekutivy.&lt;/div&gt;
-</description>
-  <pubDate>Sun, 30 Jul 2023 22:41:17 +0000</pubDate>
-  <guid isPermaLink="false">tag:audioboom.com,2023-07-30:/posts/8342591</guid>
   <ns2:author>Fichtner Wealth Managers</ns2:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
 </item>
