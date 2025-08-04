@@ -11,7 +11,7 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <ns1:link href="https://audioboom.com/channels/5096524" rel="alternate" type="text/html" />
 <ns1:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <ns1:link href="https://audioboom.com/channels/5096524.rss" rel="self" type="application/rss+xml" />
-<pubDate>Sun, 27 Jul 2025 22:05:00 +0000</pubDate>
+<pubDate>Sun, 03 Aug 2025 22:05:00 +0000</pubDate>
 <language>cs</language>
 <image>
   <url>https://audioboom.com/i/40152868.jpg</url>
@@ -33,11 +33,39 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <ns2:type>episodic</ns2:type>
 
 <item>
+  <title>130: Erika Matwij: Jak akademie nástupců funguje prakticky</title>
+  <link>https://audioboom.com/posts/8757883</link>
+  <ns2:episode>130</ns2:episode>
+  <ns2:title>Erika Matwij: Jak akademie nástupců funguje prakticky</ns2:title>
+  <enclosure url="http://audioboom.com/posts/8757883.mp3?modified=1754252944&amp;sid=5096524&amp;source=rss" length="31194703" type="audio/mpeg" />
+  <ns2:image href="https://audioboom.com/i/42952376/s=1400x1400/el=1/rt=fill.png" />
+  <ns2:duration>1916</ns2:duration>
+  <ns2:explicit>false</ns2:explicit>
+  <ns2:episodeType>full</ns2:episodeType>
+  <description>&lt;div&gt;Převzít majetek po rodičích není jen otázka talentu a motivace. &lt;br&gt;
+Je to emocionálně náročný proces plný konfliktů, kdy se střetávají dvě generace s odlišnými přístupy k byznysu i životu.&lt;br&gt;
+&lt;br&gt;
+V této epizodě se Vladimír Fichtner a Josef Podlipný znovu setkávají s Erikou Matwij, zakladatelkou Inštitútu Rodinného Businessu, aby prozkoumali, jak systematická příprava pomáhá překlenout mezigenerační propast. Erika sdílí zkušenosti ze čtyř ročníků Akademie nástupců na Slovensku.&lt;br&gt;
+&lt;br&gt;
+Objevíte konkrétní nástroje, které učí nástupce převzít odpovědnost místo pouhého vyžadování prostoru. &lt;br&gt;
+&lt;br&gt;
+Poznáte, proč 90% účastníků přichází kvůli vztahovým problémům s rodiči a jak akademie mění jejich komunikační vzorce. &lt;br&gt;
+&lt;br&gt;
+Zjistíte, jak rodiče mohou podpořit své děti v procesu změny, aniž by brali jejich návrhy jako osobní kritiku.&lt;br&gt;
+&lt;br&gt;
+Pokud chcete, aby vaše rodina zvládla mezigenerační převod majetku bez rozpadnutí vztahů, tato epizoda vám ukáže cestu k systematické přípravě budoucích správců rodinného bohatství.&lt;/div&gt;
+</description>
+  <pubDate>Sun, 03 Aug 2025 22:05:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2025-08-03:/posts/8757883</guid>
+  <ns2:author>Fichtner Wealth Managers</ns2:author>
+  <dc:creator>Fichtner Wealth Managers</dc:creator>
+</item>
+<item>
   <title>129: 7 pohledů na riziko při správě bohatství</title>
   <link>https://audioboom.com/posts/8755137</link>
   <ns2:episode>129</ns2:episode>
   <ns2:title>7 pohledů na riziko při správě bohatství</ns2:title>
-  <enclosure url="http://audioboom.com/posts/8755137.mp3?modified=1753653871&amp;sid=5096524&amp;source=rss" length="25688825" type="audio/mpeg" />
+  <enclosure url="http://audioboom.com/posts/8755137.mp3?modified=1753654186&amp;sid=5096524&amp;source=rss" length="25688825" type="audio/mpeg" />
   <ns2:image href="https://audioboom.com/i/42938539/s=1400x1400/el=1/rt=fill.png" />
   <ns2:duration>1576</ns2:duration>
   <ns2:explicit>false</ns2:explicit>
@@ -177,7 +205,7 @@ Dozvíte se, proč hodnoty jsou důležitější než peníze, jaký význam má
   <link>https://audioboom.com/posts/8738711</link>
   <ns2:episode>124</ns2:episode>
   <ns2:title>Robert Basch: Dárcovské fondy jako alternativa založení vlastní nadace</ns2:title>
-  <enclosure url="http://audioboom.com/posts/8738711.mp3?modified=1750629506&amp;sid=5096524&amp;source=rss" length="30323987" type="audio/mpeg" />
+  <enclosure url="http://audioboom.com/posts/8738711.mp3?modified=1750629846&amp;sid=5096524&amp;source=rss" length="30323987" type="audio/mpeg" />
   <ns2:image href="https://audioboom.com/i/42857598/s=1400x1400/el=1/rt=fill.png" />
   <ns2:duration>1863</ns2:duration>
   <ns2:explicit>false</ns2:explicit>
@@ -2736,24 +2764,6 @@ Vladimír a Josef tentokrát nasdílí své zkušenosti s půdou, veterány a um
 </description>
   <pubDate>Sun, 13 Aug 2023 22:05:00 +0000</pubDate>
   <guid isPermaLink="false">tag:audioboom.com,2023-08-06:/posts/8346054</guid>
-  <ns2:author>Fichtner Wealth Managers</ns2:author>
-  <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
-<item>
-  <title>30: Alternativní investice 1/2: diamanty, zlato a půda</title>
-  <link>https://audioboom.com/posts/8346053</link>
-  <ns2:episode>30</ns2:episode>
-  <ns2:title>Alternativní investice 1/2: diamanty, zlato a půda</ns2:title>
-  <enclosure url="http://audioboom.com/posts/8346053.mp3?modified=1691360896&amp;sid=5096524&amp;source=rss" length="25893668" type="audio/mpeg" />
-  <ns2:image href="https://audioboom.com/i/40804600/s=1400x1400/el=1/rt=fill.png" />
-  <ns2:duration>1595</ns2:duration>
-  <ns2:explicit>false</ns2:explicit>
-  <ns2:episodeType>full</ns2:episodeType>
-  <description>&lt;div&gt;V portfoliích rentiérů najdeme i investice, které nepatří mezi „běžné”: byznys, nemovitosti a finanční aktiva. &lt;br&gt;
-Vladimír a Josef tentokrát nasdílí své zkušenosti s diamanty, zlatem a půdou. Vedle konkrétních příběhů si odnesete i inspiraci, jak se na alternativní investice dívat a na co u nich dávat pozor.&lt;/div&gt;
-</description>
-  <pubDate>Sun, 06 Aug 2023 22:27:40 +0000</pubDate>
-  <guid isPermaLink="false">tag:audioboom.com,2023-08-06:/posts/8346053</guid>
   <ns2:author>Fichtner Wealth Managers</ns2:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
 </item>
