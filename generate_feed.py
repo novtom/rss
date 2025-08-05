@@ -22,6 +22,7 @@ podcasts = {
     "Fantastic-future.xml": "https://anchor.fm/s/102799d7c/podcast/rss",
     "5-59.xml": "https://feeds.transistor.fm/5-59",
     "xtb.xml": "https://anchor.fm/s/3de2cbdc/podcast/rss",
+    "alex.xml": "https://api.mujrozhlas.cz/rss/podcast/6941b521-fb49-3f31-b659-cf4399211d07.rss",
     
 }
 
