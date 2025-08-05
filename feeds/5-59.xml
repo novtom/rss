@@ -12,8 +12,8 @@
     <ns1:guid>7746465b-f986-521d-9eb4-97704ba8ef3a</ns1:guid>
     <ns1:locked owner="podcasty@firma.seznam.cz">no</ns1:locked>
     <language>cs</language>
-    <pubDate>Mon, 04 Aug 2025 02:00:12 +0200</pubDate>
-    <lastBuildDate>Mon, 04 Aug 2025 02:01:24 +0200</lastBuildDate>
+    <pubDate>Tue, 05 Aug 2025 02:00:06 +0200</pubDate>
+    <lastBuildDate>Tue, 05 Aug 2025 02:01:19 +0200</lastBuildDate>
     <link>https://novtom.github.io/rss/feeds/5-59.xml</link>
     <image>
       <url>https://img.transistor.fm/k2OvZW17xIS9p-o0OU8dCovG_0sJBkGOY6CNMksRD1w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYzAw/M2ViMjA4NmE0YWVm/MDU3YWJkYjVkODQ4/OTM0MC5qcGc.jpg</url>
@@ -35,6 +35,32 @@
     </ns2:owner>
     <ns2:complete>No</ns2:complete>
     <ns2:explicit>No</ns2:explicit>
+    <item>
+      <title>Hlad v Gaze zabíjí. Kdo zatlačí na Izrael?</title>
+      <ns2:episode>919</ns2:episode>
+      <ns1:episode>919</ns1:episode>
+      <ns2:title>Hlad v Gaze zabíjí. Kdo zatlačí na Izrael?</ns2:title>
+      <ns2:episodeType>full</ns2:episodeType>
+      <guid isPermaLink="false">36cdbe8c-1652-40c7-8fa6-d43c03b728f1</guid>
+      <link>https://www.seznamzpravy.cz/clanek/283123</link>
+      <description>
+        &lt;p&gt;V Gaze už umírají lidé na podvýživu. Informují o tom světové agentury s odkazem na místní úřady. Izraelská vláda čelí mezinárodní kritice, že používá hlad jako nástroj války, její vojenská operace v Pásmu přesto neutuchá. Na pozadí konfliktu v Gaze teď několik západních států oznámilo, že je připraveno uznat Palestinu jako samostatný stát. Proč přichází tento krok právě teď?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.seznamzpravy.cz/autor/pavel-novotny-781"&gt;Pavel Novotný&lt;/a&gt; - komentátor Hospodářských novin a Seznam Zpráv, který se dlouhodobě zabývá izraelsko-palestinským konfliktem&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/283123"&gt;Seznam Zprávy&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest)"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz.&lt;/p&gt;
+      </description>
+      <ns3:encoded>
+        &lt;p&gt;V Gaze už umírají lidé na podvýživu. Informují o tom světové agentury s odkazem na místní úřady. Izraelská vláda čelí mezinárodní kritice, že používá hlad jako nástroj války, její vojenská operace v Pásmu přesto neutuchá. Na pozadí konfliktu v Gaze teď několik západních států oznámilo, že je připraveno uznat Palestinu jako samostatný stát. Proč přichází tento krok právě teď?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.seznamzpravy.cz/autor/pavel-novotny-781"&gt;Pavel Novotný&lt;/a&gt; - komentátor Hospodářských novin a Seznam Zpráv, který se dlouhodobě zabývá izraelsko-palestinským konfliktem&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/283123"&gt;Seznam Zprávy&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest)"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz.&lt;/p&gt;
+      </ns3:encoded>
+      <pubDate>Tue, 05 Aug 2025 02:00:00 +0200</pubDate>
+      <author>Seznam Zprávy</author>
+      <enclosure url="http://media.transistor.fm/48545e30/2f60af86.mp3" length="38042933" type="audio/mpeg" />
+      <ns2:author>Seznam Zprávy</ns2:author>
+      <ns2:image href="https://img.transistor.fm/GBe7ngicHxzjF07PEkfOwRlAT76VtR29Rwo942qtDXE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMGEy/NTViYWQxZDMyZWVj/N2E5Y2I4MzU0NGVh/ZDgyMi5qcGc.jpg" />
+      <ns2:duration>1584</ns2:duration>
+      <ns2:summary>
+        &lt;p&gt;V Gaze už umírají lidé na podvýživu. Informují o tom světové agentury s odkazem na místní úřady. Izraelská vláda čelí mezinárodní kritice, že používá hlad jako nástroj války, její vojenská operace v Pásmu přesto neutuchá. Na pozadí konfliktu v Gaze teď několik západních států oznámilo, že je připraveno uznat Palestinu jako samostatný stát. Proč přichází tento krok právě teď?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.seznamzpravy.cz/autor/pavel-novotny-781"&gt;Pavel Novotný&lt;/a&gt; - komentátor Hospodářských novin a Seznam Zpráv, který se dlouhodobě zabývá izraelsko-palestinským konfliktem&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/283123"&gt;Seznam Zprávy&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest)"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz.&lt;/p&gt;
+      </ns2:summary>
+      <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
+      <ns2:explicit>No</ns2:explicit>
+    </item>
     <item>
       <title>Průlom v boji s HIV s českou stopou</title>
       <ns2:episode>918</ns2:episode>
@@ -2604,32 +2630,6 @@
       <ns2:duration>1445</ns2:duration>
       <ns2:summary>
         &lt;p&gt;Nemovitosti v Česku za víc než 50 milionů korun a k tomu další v zahraničí včetně přímořské vily v Černé Hoře, jejíž hodnota se podle realitních makléřů může rovněž vyšplhat do desítek milionů. To vše tvoří součást utajovaného majetku, které v průběhu let nashromáždil Pavel Budinský, bývalý náměstek ředitele fakultní nemocnice Motol a jedna z klíčových postav korupční kauzy, kterou policie vyšetřuje.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hostka: &lt;/strong&gt;&lt;a href="https://www.seznamzpravy.cz/autor/kristina-cirokova-807"&gt;Kristina Ciroková&lt;/a&gt; - investigativní reportérka Seznam Zpráv&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/272099"&gt;Seznam Zprávy&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-      </ns2:summary>
-      <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
-      <ns2:explicit>No</ns2:explicit>
-    </item>
-    <item>
-      <title>Do nitra protestů v Srbsku. Kolem tragédie stále není jasno</title>
-      <ns2:episode>820</ns2:episode>
-      <ns1:episode>820</ns1:episode>
-      <ns2:title>Do nitra protestů v Srbsku. Kolem tragédie stále není jasno</ns2:title>
-      <ns2:episodeType>full</ns2:episodeType>
-      <guid isPermaLink="false">5395b9cb-b623-4b5a-9e03-28fe3dd9f229</guid>
-      <link>https://www.seznamzpravy.cz/clanek/272015</link>
-      <description>
-        &lt;p&gt;Srbsko má za sebou zřejmě nejmasovější demonstraci v dějinách země, kdy se v Bělehradu sešlo podle odhadů přes 300 tisíc lidí. Protesty už trvají několik měsíců a organizují je vysokoškolští studenti. I když nemají politický ráz, srbský prezident Aleksandar Vučič je z nich viditelně nervózní. O co tedy demonstrantům jde? A proč jich je stále víc? &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.respekt.cz/redakce/magdalena-fajtova"&gt;Magdaléna Fajtová&lt;/a&gt; - reportérka týdeníku Respekt&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/272015"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
-      </description>
-      <ns3:encoded>
-        &lt;p&gt;Srbsko má za sebou zřejmě nejmasovější demonstraci v dějinách země, kdy se v Bělehradu sešlo podle odhadů přes 300 tisíc lidí. Protesty už trvají několik měsíců a organizují je vysokoškolští studenti. I když nemají politický ráz, srbský prezident Aleksandar Vučič je z nich viditelně nervózní. O co tedy demonstrantům jde? A proč jich je stále víc? &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.respekt.cz/redakce/magdalena-fajtova"&gt;Magdaléna Fajtová&lt;/a&gt; - reportérka týdeníku Respekt&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/272015"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
-      </ns3:encoded>
-      <pubDate>Wed, 19 Mar 2025 02:00:00 +0100</pubDate>
-      <author>Seznam Zprávy</author>
-      <enclosure url="http://media.transistor.fm/c6a3479c/4f538c3a.mp3" length="38315804" type="audio/mpeg" />
-      <ns2:author>Seznam Zprávy</ns2:author>
-      <ns2:image href="https://img.transistor.fm/X2LYH2POhuveLasqBzCzhO9daKVcnZJUf3zpwgkFLkg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZDdh/NmEwMDE2NmRlMzEy/MWNjNmZlN2MzNmJk/MTljMC5wbmc.jpg" />
-      <ns2:duration>1595</ns2:duration>
-      <ns2:summary>
-        &lt;p&gt;Srbsko má za sebou zřejmě nejmasovější demonstraci v dějinách země, kdy se v Bělehradu sešlo podle odhadů přes 300 tisíc lidí. Protesty už trvají několik měsíců a organizují je vysokoškolští studenti. I když nemají politický ráz, srbský prezident Aleksandar Vučič je z nich viditelně nervózní. O co tedy demonstrantům jde? A proč jich je stále víc? &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.respekt.cz/redakce/magdalena-fajtova"&gt;Magdaléna Fajtová&lt;/a&gt; - reportérka týdeníku Respekt&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/272015"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
