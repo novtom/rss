@@ -12,8 +12,8 @@
     <ns1:guid>7746465b-f986-521d-9eb4-97704ba8ef3a</ns1:guid>
     <ns1:locked owner="podcasty@firma.seznam.cz">no</ns1:locked>
     <language>cs</language>
-    <pubDate>Wed, 06 Aug 2025 19:58:24 +0200</pubDate>
-    <lastBuildDate>Wed, 06 Aug 2025 20:04:10 +0200</lastBuildDate>
+    <pubDate>Thu, 07 Aug 2025 02:00:37 +0200</pubDate>
+    <lastBuildDate>Thu, 07 Aug 2025 02:01:07 +0200</lastBuildDate>
     <link>https://novtom.github.io/rss/feeds/5-59.xml</link>
     <image>
       <url>https://img.transistor.fm/k2OvZW17xIS9p-o0OU8dCovG_0sJBkGOY6CNMksRD1w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYzAw/M2ViMjA4NmE0YWVm/MDU3YWJkYjVkODQ4/OTM0MC5qcGc.jpg</url>
@@ -35,6 +35,32 @@
     </ns2:owner>
     <ns2:complete>No</ns2:complete>
     <ns2:explicit>No</ns2:explicit>
+    <item>
+      <title>Reportér od ukrajinské fronty: Je to jiná válka než na začátku</title>
+      <ns2:episode>921</ns2:episode>
+      <ns1:episode>921</ns1:episode>
+      <ns2:title>Reportér od ukrajinské fronty: Je to jiná válka než na začátku</ns2:title>
+      <ns2:episodeType>full</ns2:episodeType>
+      <guid isPermaLink="false">59cfbe37-1f53-48d6-ae88-96f9874d3644</guid>
+      <link>https://www.seznamzpravy.cz/clanek/283294</link>
+      <description>
+        &lt;p&gt;V Irpini se mohutně staví a raketami zasažené budovy vystřídala naleštěná obchodní centra, v Izjumu poblíž fronty naproti tomu stále leží na zemi čísla obětí z masových hrobů, která jim před více než třemi lety přiřadili forenzní technici. Válka na Ukrajině je různá v různých místech, přesto se její charakter podle ukrajinských vojáků změnil - střetům vévodí drony, Rusové útočí v malých skupinách a testují ukrajinskou obranu.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.seznamzpravy.cz/autor/martin-novak-1759"&gt;Martin Novák&lt;/a&gt; - zahraniční reportér Seznam Zpráv&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/283294"&gt;Seznam Zprávy&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </description>
+      <ns3:encoded>
+        &lt;p&gt;V Irpini se mohutně staví a raketami zasažené budovy vystřídala naleštěná obchodní centra, v Izjumu poblíž fronty naproti tomu stále leží na zemi čísla obětí z masových hrobů, která jim před více než třemi lety přiřadili forenzní technici. Válka na Ukrajině je různá v různých místech, přesto se její charakter podle ukrajinských vojáků změnil - střetům vévodí drony, Rusové útočí v malých skupinách a testují ukrajinskou obranu.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.seznamzpravy.cz/autor/martin-novak-1759"&gt;Martin Novák&lt;/a&gt; - zahraniční reportér Seznam Zpráv&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/283294"&gt;Seznam Zprávy&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </ns3:encoded>
+      <pubDate>Thu, 07 Aug 2025 02:00:00 +0200</pubDate>
+      <author>Seznam Zprávy</author>
+      <enclosure url="http://media.transistor.fm/67978182/eaae851d.mp3" length="31465177" type="audio/mpeg" />
+      <ns2:author>Seznam Zprávy</ns2:author>
+      <ns2:image href="https://img.transistor.fm/888bMfO5yf-z5bhPq0Gx-blXWv6Ig3GXKMy6H-_sW0Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNjhk/MzlkZTc0ZDkzNmEy/MDgyZmY4NWFjYjYx/MDM1Ny5qcGc.jpg" />
+      <ns2:duration>1310</ns2:duration>
+      <ns2:summary>
+        &lt;p&gt;V Irpini se mohutně staví a raketami zasažené budovy vystřídala naleštěná obchodní centra, v Izjumu poblíž fronty naproti tomu stále leží na zemi čísla obětí z masových hrobů, která jim před více než třemi lety přiřadili forenzní technici. Válka na Ukrajině je různá v různých místech, přesto se její charakter podle ukrajinských vojáků změnil - střetům vévodí drony, Rusové útočí v malých skupinách a testují ukrajinskou obranu.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.seznamzpravy.cz/autor/martin-novak-1759"&gt;Martin Novák&lt;/a&gt; - zahraniční reportér Seznam Zpráv&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/283294"&gt;Seznam Zprávy&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </ns2:summary>
+      <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
+      <ns2:explicit>No</ns2:explicit>
+    </item>
     <item>
       <title>Případ Klempíř: Frontman J.A.R. zamířil k Motoristům</title>
       <ns2:episode>920</ns2:episode>
@@ -2604,32 +2630,6 @@
       <ns2:duration>1770</ns2:duration>
       <ns2:summary>
         &lt;p&gt;Administrativa Donalda Trumpa prosazuje v USA jedno opatření za druhým a zdá se, že prezident válcuje veškerou opozici. S podporou demokratů se v Senátu republikánům dokonce podařilo schválit návrh zákona o financování vlády. Kam se v americké politice poděly opoziční proudy? A jak na tento vývoj reaguje občanská společnost? &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://x.com/Tomas0912"&gt;Tomáš Klvaňa &lt;/a&gt;- amerikanista, pedagog na New York University Prague&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/272293"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
-      </ns2:summary>
-      <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
-      <ns2:explicit>No</ns2:explicit>
-    </item>
-    <item>
-      <title>Trump vrací Putina do hry. Jaké šance má Ukrajina?</title>
-      <ns2:episode>822</ns2:episode>
-      <ns1:episode>822</ns1:episode>
-      <ns2:title>Trump vrací Putina do hry. Jaké šance má Ukrajina?</ns2:title>
-      <ns2:episodeType>full</ns2:episodeType>
-      <guid isPermaLink="false">2911dca8-08e2-4c13-b5cd-fab7ef80d778</guid>
-      <link>https://www.seznamzpravy.cz/clanek/272172</link>
-      <description>
-        &lt;p&gt;Ostře sledovaný telefonát s nejasným výsledkem. Tak se na konci týdne jeví úterní více než dvouhodinový hovor amerického prezidenta Donalda Trumpa s ruským protějškem Vladimirem Putinem. Na obzoru má být nicméně částečné příměří v podobě pozastavení úderů Ruska i Ukrajiny na energetiku. Může jít o první krok na cestě k míru? A před jakými riziky teď Ukrajina stojí?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://ims.fsv.cuni.cz/contacts/institute-members/80745400"&gt;Michal Smetana&lt;/a&gt; - odborník na mezinárodní bezpečnost z Institutu mezinárodních studií Fakulty sociálních věd Univerzity Karlovy&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/272172"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
-      </description>
-      <ns3:encoded>
-        &lt;p&gt;Ostře sledovaný telefonát s nejasným výsledkem. Tak se na konci týdne jeví úterní více než dvouhodinový hovor amerického prezidenta Donalda Trumpa s ruským protějškem Vladimirem Putinem. Na obzoru má být nicméně částečné příměří v podobě pozastavení úderů Ruska i Ukrajiny na energetiku. Může jít o první krok na cestě k míru? A před jakými riziky teď Ukrajina stojí?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://ims.fsv.cuni.cz/contacts/institute-members/80745400"&gt;Michal Smetana&lt;/a&gt; - odborník na mezinárodní bezpečnost z Institutu mezinárodních studií Fakulty sociálních věd Univerzity Karlovy&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/272172"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
-      </ns3:encoded>
-      <pubDate>Fri, 21 Mar 2025 02:00:00 +0100</pubDate>
-      <author>Seznam Zprávy</author>
-      <enclosure url="http://media.transistor.fm/7a6fc07b/16cc5048.mp3" length="37515812" type="audio/mpeg" />
-      <ns2:author>Seznam Zprávy</ns2:author>
-      <ns2:image href="https://img.transistor.fm/OlVmFYwe7M1VwiiKVp4UmUifOKaZu8uhEtD4pbB6ikU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMDg2/M2Y1N2ZjOTQwYmIz/NWU5M2E1NjA0YTM2/ODRhNC5wbmc.jpg" />
-      <ns2:duration>1561</ns2:duration>
-      <ns2:summary>
-        &lt;p&gt;Ostře sledovaný telefonát s nejasným výsledkem. Tak se na konci týdne jeví úterní více než dvouhodinový hovor amerického prezidenta Donalda Trumpa s ruským protějškem Vladimirem Putinem. Na obzoru má být nicméně částečné příměří v podobě pozastavení úderů Ruska i Ukrajiny na energetiku. Může jít o první krok na cestě k míru? A před jakými riziky teď Ukrajina stojí?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://ims.fsv.cuni.cz/contacts/institute-members/80745400"&gt;Michal Smetana&lt;/a&gt; - odborník na mezinárodní bezpečnost z Institutu mezinárodních studií Fakulty sociálních věd Univerzity Karlovy&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/272172"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
