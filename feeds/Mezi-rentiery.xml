@@ -11,7 +11,7 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <ns1:link href="https://audioboom.com/channels/5096524" rel="alternate" type="text/html" />
 <ns1:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <ns1:link href="https://audioboom.com/channels/5096524.rss" rel="self" type="application/rss+xml" />
-<pubDate>Sun, 03 Aug 2025 22:05:00 +0000</pubDate>
+<pubDate>Sun, 10 Aug 2025 22:05:00 +0000</pubDate>
 <language>cs</language>
 <image>
   <url>https://audioboom.com/i/40152868.jpg</url>
@@ -32,6 +32,34 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <ns2:new-feed-url>https://audioboom.com/channels/5096524.rss</ns2:new-feed-url>
 <ns2:type>episodic</ns2:type>
 
+<item>
+  <title>131: Diskuse o majetku začíná, když je dětem osm – ne padesát</title>
+  <link>https://audioboom.com/posts/8761434</link>
+  <ns2:episode>131</ns2:episode>
+  <ns2:title>Diskuse o majetku začíná, když je dětem osm – ne padesát</ns2:title>
+  <enclosure url="http://audioboom.com/posts/8761434.mp3?modified=1754866151&amp;sid=5096524&amp;source=rss" length="30797484" type="audio/mpeg" />
+  <ns2:image href="https://audioboom.com/i/42969624/s=1400x1400/el=1/rt=fill.png" />
+  <ns2:duration>1895</ns2:duration>
+  <ns2:explicit>false</ns2:explicit>
+  <ns2:episodeType>full</ns2:episodeType>
+  <description>&lt;div&gt;Odpovědnost dětí za majetek nevzniká v den „velkého odhalení“. &lt;br&gt;
+Rodí se roky – v rozhovorech, zkušenostech a drobných chybách.&lt;br&gt;
+&lt;br&gt;
+V této epizodě se Vladimír Fichtner a Josef Podlipný pouštějí do tématu, které řeší snad každý majitel významného majetku: Jak vychovat děti, aby majetek nezničily – a naopak se staly jeho zodpovědnými správci. &lt;br&gt;
+&lt;br&gt;
+Místo teorie ale přinášejí syrové zkušenosti – od dětských her přes rodinnou banku až po hluboké rozhovory.&lt;br&gt;
+&lt;br&gt;
+Otevřeně popisují největší riziko: odkládání dialogu na chvíli „až budou děti připraveny“. Velké odhalení majetku a možností i zodpovědnosti s ním spojených totiž může působit značně demotivačně. Nástupci mají pocit, že nikdy nedosáhnou úrovně zakladatelů, a raději se stáhnou. &lt;br&gt;
+&lt;br&gt;
+Naopak společná, dlouhodobá a otevřená diskuse umožňuje dětem postupně převzít odpovědnost, učit se na vlastních chybách a chápat hodnotu nejen peněz, ale i času, práce a důvěry.&lt;br&gt;
+&lt;br&gt;
+Pokud nechcete, aby vaše děti jednou stály před vaším majetkem jako před cizím hradem bez klíče, poslechněte si tuto epizodu.&lt;/div&gt;
+</description>
+  <pubDate>Sun, 10 Aug 2025 22:05:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2025-08-10:/posts/8761434</guid>
+  <ns2:author>Fichtner Wealth Managers</ns2:author>
+  <dc:creator>Fichtner Wealth Managers</dc:creator>
+</item>
 <item>
   <title>130: Erika Matwij: Jak akademie nástupců funguje prakticky</title>
   <link>https://audioboom.com/posts/8757883</link>
@@ -2746,24 +2774,6 @@ Ať už se filantropii věnujete nebo hledáte způsob jak začít, poslechněte
 </description>
   <pubDate>Sun, 20 Aug 2023 22:43:05 +0000</pubDate>
   <guid isPermaLink="false">tag:audioboom.com,2023-08-20:/posts/8353943</guid>
-  <ns2:author>Fichtner Wealth Managers</ns2:author>
-  <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
-<item>
-  <title>31: Alternativní investice 2/2: půda, veteráni a umění</title>
-  <link>https://audioboom.com/posts/8346054</link>
-  <ns2:episode>31</ns2:episode>
-  <ns2:title>Alternativní investice 2/2: půda, veteráni a umění</ns2:title>
-  <enclosure url="http://audioboom.com/posts/8346054.mp3?modified=1691360947&amp;sid=5096524&amp;source=rss" length="21063310" type="audio/mpeg" />
-  <ns2:image href="https://audioboom.com/i/40804605/s=1400x1400/el=1/rt=fill.png" />
-  <ns2:duration>1293</ns2:duration>
-  <ns2:explicit>false</ns2:explicit>
-  <ns2:episodeType>full</ns2:episodeType>
-  <description>&lt;div&gt;V portfoliích rentiérů najdeme i investice, které nepatří mezi „běžné”: byznys, nemovitosti a finanční aktiva. &lt;br&gt;
-Vladimír a Josef tentokrát nasdílí své zkušenosti s půdou, veterány a uměním. Vedle konkrétních příběhů si odnesete i inspiraci, jak se na alternativní investice dívat a na co u nich dávat pozor.&lt;/div&gt;
-</description>
-  <pubDate>Sun, 13 Aug 2023 22:05:00 +0000</pubDate>
-  <guid isPermaLink="false">tag:audioboom.com,2023-08-06:/posts/8346054</guid>
   <ns2:author>Fichtner Wealth Managers</ns2:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
 </item>
