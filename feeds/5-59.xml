@@ -12,8 +12,8 @@
     <ns1:guid>7746465b-f986-521d-9eb4-97704ba8ef3a</ns1:guid>
     <ns1:locked owner="podcasty@firma.seznam.cz">no</ns1:locked>
     <language>cs</language>
-    <pubDate>Thu, 14 Aug 2025 17:48:13 +0200</pubDate>
-    <lastBuildDate>Thu, 14 Aug 2025 19:11:37 +0200</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 02:00:16 +0200</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 02:01:27 +0200</lastBuildDate>
     <link>https://novtom.github.io/rss/feeds/5-59.xml</link>
     <image>
       <url>https://img.transistor.fm/k2OvZW17xIS9p-o0OU8dCovG_0sJBkGOY6CNMksRD1w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYzAw/M2ViMjA4NmE0YWVm/MDU3YWJkYjVkODQ4/OTM0MC5qcGc.jpg</url>
@@ -35,6 +35,32 @@
     </ns2:owner>
     <ns2:complete>No</ns2:complete>
     <ns2:explicit>No</ns2:explicit>
+    <item>
+      <title>Zatopit firmě, zastřelit psa. Pád Balaštíkové z ANO</title>
+      <ns2:episode>928</ns2:episode>
+      <ns1:episode>928</ns1:episode>
+      <ns2:title>Zatopit firmě, zastřelit psa. Pád Balaštíkové z ANO</ns2:title>
+      <ns2:episodeType>full</ns2:episodeType>
+      <guid isPermaLink="false">fda967f8-451b-4237-ac21-fdd56fbee949</guid>
+      <link>https://www.seznamzpravy.cz/clanek/283808</link>
+      <description>
+        &lt;p&gt;Dlouholetá členka hnutí ANO Margita Balaštíková nedobrovolně končí jako poslankyně. Vaz jí zlomilo odhalení Seznam Zpráv, že se po bouřlivém rozvodu snažila poškodit exmanželovu firmu přes své kontakty ve státní správě. Na tajně pořízených nahrávkách si také objednává zabití psa nové partnerky svého bývalého muže. Jak celou věc sama vysvětluje?  &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.seznamzpravy.cz/autor/vojtech-blazek-172"&gt;Vojtěch Blažek&lt;/a&gt; - investigativní reportér Seznam Zpráv &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/283808"&gt;Seznam Zprávy &lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </description>
+      <ns3:encoded>
+        &lt;p&gt;Dlouholetá členka hnutí ANO Margita Balaštíková nedobrovolně končí jako poslankyně. Vaz jí zlomilo odhalení Seznam Zpráv, že se po bouřlivém rozvodu snažila poškodit exmanželovu firmu přes své kontakty ve státní správě. Na tajně pořízených nahrávkách si také objednává zabití psa nové partnerky svého bývalého muže. Jak celou věc sama vysvětluje?  &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.seznamzpravy.cz/autor/vojtech-blazek-172"&gt;Vojtěch Blažek&lt;/a&gt; - investigativní reportér Seznam Zpráv &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/283808"&gt;Seznam Zprávy &lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </ns3:encoded>
+      <pubDate>Fri, 15 Aug 2025 02:00:00 +0200</pubDate>
+      <author>Seznam Zprávy</author>
+      <enclosure url="http://media.transistor.fm/36036503/1fadcaea.mp3" length="34196099" type="audio/mpeg" />
+      <ns2:author>Seznam Zprávy</ns2:author>
+      <ns2:image href="https://img.transistor.fm/7cjIok8pQOyyaBjV5542ab8RdraUaWGP3QwGDXzz5J4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNTM4/MzdiZTg2MWVhYzdk/Y2M2N2RlYTRjNWQy/M2YyYS5qcGc.jpg" />
+      <ns2:duration>1424</ns2:duration>
+      <ns2:summary>
+        &lt;p&gt;Dlouholetá členka hnutí ANO Margita Balaštíková nedobrovolně končí jako poslankyně. Vaz jí zlomilo odhalení Seznam Zpráv, že se po bouřlivém rozvodu snažila poškodit exmanželovu firmu přes své kontakty ve státní správě. Na tajně pořízených nahrávkách si také objednává zabití psa nové partnerky svého bývalého muže. Jak celou věc sama vysvětluje?  &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.seznamzpravy.cz/autor/vojtech-blazek-172"&gt;Vojtěch Blažek&lt;/a&gt; - investigativní reportér Seznam Zpráv &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/283808"&gt;Seznam Zprávy &lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </ns2:summary>
+      <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
+      <ns2:explicit>No</ns2:explicit>
+    </item>
     <item>
       <title>S miliardářem na dvorku. Vidlákova cesta do politiky</title>
       <ns2:episode>927</ns2:episode>
@@ -2604,32 +2630,6 @@
       <ns2:duration>1673</ns2:duration>
       <ns2:summary>
         &lt;p&gt;Česko obchází strašák slintavky a kulhavky, vysoce infekční choroby, která napadá hospodářská zvířata a momentálně decimuje chovy v Maďarsku a na Slovensku. Tam o víkendu přibylo už páté ohnisko “slintačky a krívačky”, jak Slováci nemoci říkají. Od českých hranic je vzdálené jen 50 km. Jaká je zatím slovenská zkušenost v boji s nákazou? A co se teď děje na česko-slovenské hranici? &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hosté:&lt;/strong&gt; &lt;a href="https://www.sme.sk/aut/491/michaela-kusnirova"&gt;Michaela Štalmachová&lt;/a&gt; - ekonomická reportérka deníku SME &lt;/p&gt;&lt;p&gt;             &lt;a href="https://www.seznamzpravy.cz/autor/tomas-svoboda-484"&gt;Tomáš Svoboda&lt;/a&gt;, reportér Seznam Zpráv&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/272888"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
-      </ns2:summary>
-      <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
-      <ns2:explicit>No</ns2:explicit>
-    </item>
-    <item>
-      <title>Superhrubá chyba? Vládě se vrací zásek ANO a ODS</title>
-      <ns2:episode>828</ns2:episode>
-      <ns1:episode>828</ns1:episode>
-      <ns2:title>Superhrubá chyba? Vládě se vrací zásek ANO a ODS</ns2:title>
-      <ns2:episodeType>full</ns2:episodeType>
-      <guid isPermaLink="false">3df97d18-64ae-4c09-bc1f-c425ced239f3</guid>
-      <link>https://www.seznamzpravy.cz/clanek/272741</link>
-      <description>
-        &lt;p&gt;Česko míří k výraznému navyšování výdajů na obranu. Mezi koalicí a opozicí ale zatím chybí dohoda o jeho pokračování i po listopadových volbách. Politici navíc budou potřebné desítky miliard korun teprve hledat. Podle ekonomického novináře Filipa Zelenky přitom vládu pronásleduje rozpočtový zásek v podobě zrušení superhrubé mzdy. V jak obtížné situaci se Česko nachází?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.respekt.cz/filip-zelenka"&gt;Filip Zelenka&lt;/a&gt; - redaktor týdeníku Respekt&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/272741"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-      </description>
-      <ns3:encoded>
-        &lt;p&gt;Česko míří k výraznému navyšování výdajů na obranu. Mezi koalicí a opozicí ale zatím chybí dohoda o jeho pokračování i po listopadových volbách. Politici navíc budou potřebné desítky miliard korun teprve hledat. Podle ekonomického novináře Filipa Zelenky přitom vládu pronásleduje rozpočtový zásek v podobě zrušení superhrubé mzdy. V jak obtížné situaci se Česko nachází?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.respekt.cz/filip-zelenka"&gt;Filip Zelenka&lt;/a&gt; - redaktor týdeníku Respekt&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/272741"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-      </ns3:encoded>
-      <pubDate>Mon, 31 Mar 2025 02:00:00 +0200</pubDate>
-      <author>Seznam Zprávy</author>
-      <enclosure url="http://media.transistor.fm/e7ff76a1/9df5c783.mp3" length="35265651" type="audio/mpeg" />
-      <ns2:author>Seznam Zprávy</ns2:author>
-      <ns2:image href="https://img.transistor.fm/TqXf7SQKf1NJVXAF5m8-N7ckpOeGJs0LcPCw_SLj4qI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83Y2U4/MmIwNDRiZTljNWY2/NWQ3MGNiZjgyNTM0/Yzg0Yy5qcGc.jpg" />
-      <ns2:duration>1468</ns2:duration>
-      <ns2:summary>
-        &lt;p&gt;Česko míří k výraznému navyšování výdajů na obranu. Mezi koalicí a opozicí ale zatím chybí dohoda o jeho pokračování i po listopadových volbách. Politici navíc budou potřebné desítky miliard korun teprve hledat. Podle ekonomického novináře Filipa Zelenky přitom vládu pronásleduje rozpočtový zásek v podobě zrušení superhrubé mzdy. V jak obtížné situaci se Česko nachází?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.respekt.cz/filip-zelenka"&gt;Filip Zelenka&lt;/a&gt; - redaktor týdeníku Respekt&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/272741"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
