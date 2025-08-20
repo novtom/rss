@@ -12,8 +12,8 @@
     <ns1:guid>7746465b-f986-521d-9eb4-97704ba8ef3a</ns1:guid>
     <ns1:locked owner="podcasty@firma.seznam.cz">no</ns1:locked>
     <language>cs</language>
-    <pubDate>Tue, 19 Aug 2025 18:15:13 +0200</pubDate>
-    <lastBuildDate>Tue, 19 Aug 2025 18:22:04 +0200</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2025 02:00:12 +0200</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2025 02:01:26 +0200</lastBuildDate>
     <link>https://novtom.github.io/rss/feeds/5-59.xml</link>
     <image>
       <url>https://img.transistor.fm/k2OvZW17xIS9p-o0OU8dCovG_0sJBkGOY6CNMksRD1w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYzAw/M2ViMjA4NmE0YWVm/MDU3YWJkYjVkODQ4/OTM0MC5qcGc.jpg</url>
@@ -35,6 +35,32 @@
     </ns2:owner>
     <ns2:complete>No</ns2:complete>
     <ns2:explicit>No</ns2:explicit>
+    <item>
+      <title>Zelenskyj-Putin-Trump. Ukrajinský pohled</title>
+      <ns2:episode>931</ns2:episode>
+      <ns1:episode>931</ns1:episode>
+      <ns2:title>Zelenskyj-Putin-Trump. Ukrajinský pohled</ns2:title>
+      <ns2:episodeType>full</ns2:episodeType>
+      <guid isPermaLink="false">fba06c6d-853c-45ae-bd07-ac1586901bc2</guid>
+      <link>https://www.seznamzpravy.cz/clanek/284242</link>
+      <description>
+        &lt;p&gt;Ruský prezident Vladimir Putin a jeho ukrajinský protějšek Volodymyr Zelenskyj by se mohli brzy potkat a jednat o možném míru na Ukrajině. To je jeden z výsledků mimořádného setkání evropských lídrů a ukrajinského prezidenta s Donaldem Trumpem v Bílém domě. Kde by se zmíněná schůzka mohla odehrát? A jak to bude s bezpečnostními zárukami pro Ukrajinu?  &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.rferl.org/author/rostyslav-khotin/tiyyqy"&gt;Rostyslav Chotin&lt;/a&gt; - mezinárodní editor ukrajinské redakce Rádia Svobodná Evropa/Rádia Svoboda (RFE/RL)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/284242"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </description>
+      <ns3:encoded>
+        &lt;p&gt;Ruský prezident Vladimir Putin a jeho ukrajinský protějšek Volodymyr Zelenskyj by se mohli brzy potkat a jednat o možném míru na Ukrajině. To je jeden z výsledků mimořádného setkání evropských lídrů a ukrajinského prezidenta s Donaldem Trumpem v Bílém domě. Kde by se zmíněná schůzka mohla odehrát? A jak to bude s bezpečnostními zárukami pro Ukrajinu?  &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.rferl.org/author/rostyslav-khotin/tiyyqy"&gt;Rostyslav Chotin&lt;/a&gt; - mezinárodní editor ukrajinské redakce Rádia Svobodná Evropa/Rádia Svoboda (RFE/RL)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/284242"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </ns3:encoded>
+      <pubDate>Wed, 20 Aug 2025 02:00:00 +0200</pubDate>
+      <author>Seznam Zprávy</author>
+      <enclosure url="http://media.transistor.fm/2a477d1c/969b5ab4.mp3" length="40053598" type="audio/mpeg" />
+      <ns2:author>Seznam Zprávy</ns2:author>
+      <ns2:image href="https://img.transistor.fm/InGAYjGPIV6jPsNyhUENlaO-Py-tP61bkBqO51iWAOc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MWU2/OTRlNDcyNDg0M2Y5/NTJmMTQ3ZTZmMWQz/NTRmMy5wbmc.jpg" />
+      <ns2:duration>1667</ns2:duration>
+      <ns2:summary>
+        &lt;p&gt;Ruský prezident Vladimir Putin a jeho ukrajinský protějšek Volodymyr Zelenskyj by se mohli brzy potkat a jednat o možném míru na Ukrajině. To je jeden z výsledků mimořádného setkání evropských lídrů a ukrajinského prezidenta s Donaldem Trumpem v Bílém domě. Kde by se zmíněná schůzka mohla odehrát? A jak to bude s bezpečnostními zárukami pro Ukrajinu?  &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host:&lt;/strong&gt; &lt;a href="https://www.rferl.org/author/rostyslav-khotin/tiyyqy"&gt;Rostyslav Chotin&lt;/a&gt; - mezinárodní editor ukrajinské redakce Rádia Svobodná Evropa/Rádia Svoboda (RFE/RL)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/284242"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </ns2:summary>
+      <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
+      <ns2:explicit>No</ns2:explicit>
+    </item>
     <item>
       <title>Noční razie i „nervozita“ v ODS. Bitcoinová kauza v pohybu</title>
       <ns2:episode>930</ns2:episode>
@@ -2604,32 +2630,6 @@
       <ns2:duration>1723</ns2:duration>
       <ns2:summary>
         &lt;p&gt;Donald Trump a rozhodnutí jeho administrativy dál zaměstnává pozornost světových médií. Ta americká od inaugurace nového prezidenta řeší i jeho kroky vůči americké legislativě a změny, které mohou vést k bujení korupčního prostředí i v nejvyšších patrech americké politiky. Jak to vidí americký protikorupční expert?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://us.transparency.org/who-we-are/"&gt;Scott Greytak&lt;/a&gt; - protikorupční právník a ředitel advokačních aktivit Transparency International ve Spojených státech &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/273226"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-      </ns2:summary>
-      <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
-      <ns2:explicit>No</ns2:explicit>
-    </item>
-    <item>
-      <title>Hradní kauzy v prachu. Mynářovi pomohl „faktor Zeman“</title>
-      <ns2:episode>831</ns2:episode>
-      <ns1:episode>831</ns1:episode>
-      <ns2:title>Hradní kauzy v prachu. Mynářovi pomohl „faktor Zeman“</ns2:title>
-      <ns2:episodeType>full</ns2:episodeType>
-      <guid isPermaLink="false">1a085afa-cfd6-4847-aa2b-80a0adb7cde3</guid>
-      <link>https://www.seznamzpravy.cz/clanek/273074</link>
-      <description>
-        &lt;p&gt;Kauzy kolem bývalého hradního kancléře Vratislava Mynáře policie prověřovala ještě dva roky poté, co spolu s prezidentem Milošem Zemanem odešel z funkce. Teď detektivové případy odložili - celkově už podruhé. Přispěla k tomu i výpověď bývalé hlavy státu, v níž ale nejméně jednou Zeman zjevně otočil oproti svým dřívějším vyjádřením. Co se odehrálo?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.seznamzpravy.cz/autor/lukas-valasek-1332"&gt;Lukáš Valášek&lt;/a&gt; - investigativní reportér Seznam Zpráv&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/273074"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-      </description>
-      <ns3:encoded>
-        &lt;p&gt;Kauzy kolem bývalého hradního kancléře Vratislava Mynáře policie prověřovala ještě dva roky poté, co spolu s prezidentem Milošem Zemanem odešel z funkce. Teď detektivové případy odložili - celkově už podruhé. Přispěla k tomu i výpověď bývalé hlavy státu, v níž ale nejméně jednou Zeman zjevně otočil oproti svým dřívějším vyjádřením. Co se odehrálo?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.seznamzpravy.cz/autor/lukas-valasek-1332"&gt;Lukáš Valášek&lt;/a&gt; - investigativní reportér Seznam Zpráv&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/273074"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-      </ns3:encoded>
-      <pubDate>Thu, 03 Apr 2025 02:00:00 +0200</pubDate>
-      <author>Seznam Zprávy</author>
-      <enclosure url="http://media.transistor.fm/16c3cc29/dd2e16c5.mp3" length="39840433" type="audio/mpeg" />
-      <ns2:author>Seznam Zprávy</ns2:author>
-      <ns2:image href="https://img.transistor.fm/u7aEFYu0Y88YEoPCDZjKeOQdYz-WJB5iis5MUDWWnkA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMTk2/YTFhMmUxYzA0YjYx/M2Y1MzJlNTIwZGJk/NDM3Ni5qcGc.jpg" />
-      <ns2:duration>1659</ns2:duration>
-      <ns2:summary>
-        &lt;p&gt;Kauzy kolem bývalého hradního kancléře Vratislava Mynáře policie prověřovala ještě dva roky poté, co spolu s prezidentem Milošem Zemanem odešel z funkce. Teď detektivové případy odložili - celkově už podruhé. Přispěla k tomu i výpověď bývalé hlavy státu, v níž ale nejméně jednou Zeman zjevně otočil oproti svým dřívějším vyjádřením. Co se odehrálo?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.seznamzpravy.cz/autor/lukas-valasek-1332"&gt;Lukáš Valášek&lt;/a&gt; - investigativní reportér Seznam Zpráv&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/273074"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
