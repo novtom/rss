@@ -12,8 +12,8 @@
     <ns1:guid>7746465b-f986-521d-9eb4-97704ba8ef3a</ns1:guid>
     <ns1:locked owner="podcasty@firma.seznam.cz">no</ns1:locked>
     <language>cs</language>
-    <pubDate>Wed, 20 Aug 2025 18:30:53 +0200</pubDate>
-    <lastBuildDate>Wed, 20 Aug 2025 18:36:43 +0200</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2025 02:00:09 +0200</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 02:01:22 +0200</lastBuildDate>
     <link>https://novtom.github.io/rss/feeds/5-59.xml</link>
     <image>
       <url>https://img.transistor.fm/k2OvZW17xIS9p-o0OU8dCovG_0sJBkGOY6CNMksRD1w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYzAw/M2ViMjA4NmE0YWVm/MDU3YWJkYjVkODQ4/OTM0MC5qcGc.jpg</url>
@@ -35,6 +35,32 @@
     </ns2:owner>
     <ns2:complete>No</ns2:complete>
     <ns2:explicit>No</ns2:explicit>
+    <item>
+      <title>Z kempu pro mladíky na MMA: Když je tématem mužství</title>
+      <ns2:episode>932</ns2:episode>
+      <ns1:episode>932</ns1:episode>
+      <ns2:title>Z kempu pro mladíky na MMA: Když je tématem mužství</ns2:title>
+      <ns2:episodeType>full</ns2:episodeType>
+      <guid isPermaLink="false">19c63e53-9cde-4ac9-af24-6e9c661e0246</guid>
+      <link>https://www.seznamzpravy.cz/clanek/284343</link>
+      <description>
+        &lt;p&gt;Když je tématem (krize) mužství. Reportér týdeníku Respekt Petr Horký měl unikátní příležitost nahlédnout do dvou světů, které se točí právě okolo mužství - na kemp, kde převážně dospívající mladíci hledají odpověď na otázku, jak se stát mužem, a mezi fanoušky bojového sportu MMA. Spojuje oba světy něco?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.respekt.cz/redakce/petr-horky"&gt;Petr Horký&lt;/a&gt; - reportér týdeníku Respekt&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/284343"&gt;Seznam Zprávy&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </description>
+      <ns3:encoded>
+        &lt;p&gt;Když je tématem (krize) mužství. Reportér týdeníku Respekt Petr Horký měl unikátní příležitost nahlédnout do dvou světů, které se točí právě okolo mužství - na kemp, kde převážně dospívající mladíci hledají odpověď na otázku, jak se stát mužem, a mezi fanoušky bojového sportu MMA. Spojuje oba světy něco?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.respekt.cz/redakce/petr-horky"&gt;Petr Horký&lt;/a&gt; - reportér týdeníku Respekt&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/284343"&gt;Seznam Zprávy&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </ns3:encoded>
+      <pubDate>Thu, 21 Aug 2025 02:00:00 +0200</pubDate>
+      <author>Seznam Zprávy</author>
+      <enclosure url="http://media.transistor.fm/49134c56/d1ef513c.mp3" length="39266780" type="audio/mpeg" />
+      <ns2:author>Seznam Zprávy</ns2:author>
+      <ns2:image href="https://img.transistor.fm/qJqM0lsKwW-47u2-LtaaPjDQ2nQEjtEKxFhkGCmCIcU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYTI1/OGQ0YWRhNWZkYzQw/ZjM0NDI4YTYxNTVl/NmI4OC5qcGc.jpg" />
+      <ns2:duration>1635</ns2:duration>
+      <ns2:summary>
+        &lt;p&gt;Když je tématem (krize) mužství. Reportér týdeníku Respekt Petr Horký měl unikátní příležitost nahlédnout do dvou světů, které se točí právě okolo mužství - na kemp, kde převážně dospívající mladíci hledají odpověď na otázku, jak se stát mužem, a mezi fanoušky bojového sportu MMA. Spojuje oba světy něco?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.respekt.cz/redakce/petr-horky"&gt;Petr Horký&lt;/a&gt; - reportér týdeníku Respekt&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/284343"&gt;Seznam Zprávy&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </ns2:summary>
+      <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
+      <ns2:explicit>No</ns2:explicit>
+    </item>
     <item>
       <title>Zelenskyj-Putin-Trump. Ukrajinský pohled</title>
       <ns2:episode>931</ns2:episode>
@@ -2604,32 +2630,6 @@
       <ns2:duration>1448</ns2:duration>
       <ns2:summary>
         &lt;p&gt;Skupina maďarských investigativních novinářů natočila dokument o Viktoru Orbánovi a postarala se o trhák. Film s názvem Dynastie o zrodu ekonomického impéria Orbánovy rodiny má miliony shlédnutí. Novináři ve volně přístupném snímku vyprávějí, jak se z dcery, zetě a osobních přátel maďarského premiéra stali jedni z nejbohatších lidí v zemi. Na co maďarští investigativci přišli? A roste mezi lidmi nespokojenost s vládou Viktora Orbána?  &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.direkt36.hu/en/author/andraspetho/"&gt;András Pethö&lt;/a&gt; - spoluzakladatel a šéf maďarského investigativního centra Direkt36, spoluautor dokumentu „Dynastie“ &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/273367"&gt;Seznam Zprávy&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
-      </ns2:summary>
-      <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
-      <ns2:explicit>No</ns2:explicit>
-    </item>
-    <item>
-      <title>Trump, Musk a korupce. „Jako by přišel jiný člověk.“</title>
-      <ns2:episode>832</ns2:episode>
-      <ns1:episode>832</ns1:episode>
-      <ns2:title>Trump, Musk a korupce. „Jako by přišel jiný člověk.“</ns2:title>
-      <ns2:episodeType>full</ns2:episodeType>
-      <guid isPermaLink="false">61b1fe27-b799-4e7a-809b-5bfe6c681392</guid>
-      <link>https://www.seznamzpravy.cz/clanek/273226</link>
-      <description>
-        &lt;p&gt;Donald Trump a rozhodnutí jeho administrativy dál zaměstnává pozornost světových médií. Ta americká od inaugurace nového prezidenta řeší i jeho kroky vůči americké legislativě a změny, které mohou vést k bujení korupčního prostředí i v nejvyšších patrech americké politiky. Jak to vidí americký protikorupční expert?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://us.transparency.org/who-we-are/"&gt;Scott Greytak&lt;/a&gt; - protikorupční právník a ředitel advokačních aktivit Transparency International ve Spojených státech &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/273226"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-      </description>
-      <ns3:encoded>
-        &lt;p&gt;Donald Trump a rozhodnutí jeho administrativy dál zaměstnává pozornost světových médií. Ta americká od inaugurace nového prezidenta řeší i jeho kroky vůči americké legislativě a změny, které mohou vést k bujení korupčního prostředí i v nejvyšších patrech americké politiky. Jak to vidí americký protikorupční expert?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://us.transparency.org/who-we-are/"&gt;Scott Greytak&lt;/a&gt; - protikorupční právník a ředitel advokačních aktivit Transparency International ve Spojených státech &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/273226"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-      </ns3:encoded>
-      <pubDate>Fri, 04 Apr 2025 02:00:00 +0200</pubDate>
-      <author>Seznam Zprávy</author>
-      <enclosure url="http://media.transistor.fm/16124721/9d68f017.mp3" length="41392805" type="audio/mpeg" />
-      <ns2:author>Seznam Zprávy</ns2:author>
-      <ns2:image href="https://img.transistor.fm/b4AMouGoUWpgALLtqnqlgymLE_gRcGq8Q288Wy2BLG0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hOTRj/YWU5YTg2ZjEwMDY0/MjY2NzlmMjUxM2U3/ZGRjOC5wbmc.jpg" />
-      <ns2:duration>1723</ns2:duration>
-      <ns2:summary>
-        &lt;p&gt;Donald Trump a rozhodnutí jeho administrativy dál zaměstnává pozornost světových médií. Ta americká od inaugurace nového prezidenta řeší i jeho kroky vůči americké legislativě a změny, které mohou vést k bujení korupčního prostředí i v nejvyšších patrech americké politiky. Jak to vidí americký protikorupční expert?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://us.transparency.org/who-we-are/"&gt;Scott Greytak&lt;/a&gt; - protikorupční právník a ředitel advokačních aktivit Transparency International ve Spojených státech &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/273226"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
