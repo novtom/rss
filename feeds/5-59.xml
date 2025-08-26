@@ -12,11 +12,11 @@
     <ns1:guid>7746465b-f986-521d-9eb4-97704ba8ef3a</ns1:guid>
     <ns1:locked owner="podcasty@firma.seznam.cz">no</ns1:locked>
     <language>cs</language>
-    <pubDate>Tue, 26 Aug 2025 04:16:28 +0200</pubDate>
-    <lastBuildDate>Tue, 26 Aug 2025 04:17:15 +0200</lastBuildDate>
+    <pubDate>Tue, 26 Aug 2025 15:38:14 +0200</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2025 15:38:31 +0200</lastBuildDate>
     <link>https://novtom.github.io/rss/feeds/5-59.xml</link>
     <image>
-      <url>https://img.transistor.fm/k2OvZW17xIS9p-o0OU8dCovG_0sJBkGOY6CNMksRD1w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYzAw/M2ViMjA4NmE0YWVm/MDU3YWJkYjVkODQ4/OTM0MC5qcGc.jpg</url>
+      <url>https://img.transistor.fm/hlW850fto18aaHzfAXDDfGnN5AdlgnPmLIy9yAPR3ig/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZWRm/ZWI0NDU4ZmY0NWMw/ZTMzNGY3ZjM5ZTlm/ZDhjNC5qcGc.jpg</url>
       <title>5:59</title>
       <link>https://www.seznamzpravy.cz/</link>
     </image>
@@ -26,7 +26,7 @@
     </ns2:category>
     <ns2:type>episodic</ns2:type>
     <ns2:author>Seznam Zprávy</ns2:author>
-    <ns2:image href="https://img.transistor.fm/k2OvZW17xIS9p-o0OU8dCovG_0sJBkGOY6CNMksRD1w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lYzAw/M2ViMjA4NmE0YWVm/MDU3YWJkYjVkODQ4/OTM0MC5qcGc.jpg" />
+    <ns2:image href="https://img.transistor.fm/hlW850fto18aaHzfAXDDfGnN5AdlgnPmLIy9yAPR3ig/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZWRm/ZWI0NDU4ZmY0NWMw/ZTMzNGY3ZjM5ZTlm/ZDhjNC5qcGc.jpg" />
     <ns2:summary>Jedno zásadní téma každý všední den. To nejdůležitější dění v Česku, ve světě, ekonomice, sportu i kultuře optikou Seznam Zpráv. </ns2:summary>
     <ns2:subtitle>Jedno zásadní téma každý všední den.</ns2:subtitle>
     <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
