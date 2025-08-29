@@ -5,7 +5,7 @@
 		<description>Kecy a politika je podcast komentátora Bohumila Pečinky a Petrose Michopulose, muže, který se čtvrtstoletí zabývá marketingem a politikou. Současná politika pohledem dvou rozdílných osobností, kteří se nebojí říct své názory. Nekorektní podcast, v němž se věci zasazují do kontextu a přísně se tu oddělují prázdné kecy od skutečné politiky.</description>
 		<link>https://novtom.github.io/rss/feeds/Kecy-politika.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 28 Aug 2025 22:03:40 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 28 Aug 2025 15:59:00 GMT</lastBuildDate>
 		<ns0:link href="https://anchor.fm/s/99c6e0b4/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Bohumil Pečinka, Petros Michopulos</author>
 		<copyright>Bohumil Pečinka, Petros Michopulos</copyright>
@@ -23,22 +23,6 @@
 			<ns1:category text="Politics" />
 		</ns1:category>
 		<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
-		<item>
-			<title>SPECIÁL Ondřej Neff: Internet jsme odhadli už před 30 lety</title>
-			<description>&lt;p&gt;Ondřej Neff je novinář, spisovatel, fotograf, překladatel, legenda české sci-fi a hlavně obdivovatel nových technologií. Nedávno oslavil 80 let, ale myslí mu to lépe než většině třicátníků.&lt;/p&gt;&lt;p&gt;Téměř dvouhodinový rozhovor se točí kolem roku 1968, který prožil v Československém rozhlase. Mluvíme o jeho otci Vladimíru Neffovi a sérii jeho knih o podnikatelských rodinách, procházíme 29 let existence jeho internetového deníku &lt;em&gt;Neviditelný pes&lt;/em&gt; a vzpomínáme, jak v roce 1998 spolu s Ivo Lukačovičem a Patrikem Zandlem vyvolali protesty proti zdražení vytáčeného přístupu k internetu.&lt;/p&gt;&lt;p&gt;Jak jinak, zabýváme se humanoidními roboty, kteří dříve nebo později budou využíváni ve válkách – což je v rozporu se třemi zákony robotiky, jak je kdysi zformuloval slavný Isaac Asimov. Pokoušíme se také odpovědět na otázku, zda umělá inteligence prohloubí individualizaci života lidí a rozvrátí jejich psychiku.&lt;/p&gt;&lt;p&gt;Nemohli jsme také nezavadit o psy, kteří v životě i článcích Ondřeje Neffa hrají důležitou roli. V závěru se pak snažím z autora slavných sci-fi knih dostat odpověď na to, kde v osmdesáti letech bere sílu nejen ráno vstát a jít se oholit, ale také tvořit – a to bez pomoci antidepresiv.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Ondej-Neff-Internet-jsme-odhadli-u-ped-30-lety-e37ec6a</link>
-			<guid isPermaLink="false">c7fc8e80-436f-4378-803b-b0961b036637</guid>
-			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
-			<pubDate>Thu, 28 Aug 2025 22:01:00 GMT</pubDate>
-			<enclosure url="http://anchor.fm/s/99c6e0b4/podcast/play/107474570/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-28%2F406467917-44100-2-d0e88f50c4c28.mp3" length="59459708" type="audio/mpeg" />
-			<ns1:summary>&lt;p&gt;Ondřej Neff je novinář, spisovatel, fotograf, překladatel, legenda české sci-fi a hlavně obdivovatel nových technologií. Nedávno oslavil 80 let, ale myslí mu to lépe než většině třicátníků.&lt;/p&gt;&lt;p&gt;Téměř dvouhodinový rozhovor se točí kolem roku 1968, který prožil v Československém rozhlase. Mluvíme o jeho otci Vladimíru Neffovi a sérii jeho knih o podnikatelských rodinách, procházíme 29 let existence jeho internetového deníku &lt;em&gt;Neviditelný pes&lt;/em&gt; a vzpomínáme, jak v roce 1998 spolu s Ivo Lukačovičem a Patrikem Zandlem vyvolali protesty proti zdražení vytáčeného přístupu k internetu.&lt;/p&gt;&lt;p&gt;Jak jinak, zabýváme se humanoidními roboty, kteří dříve nebo později budou využíváni ve válkách – což je v rozporu se třemi zákony robotiky, jak je kdysi zformuloval slavný Isaac Asimov. Pokoušíme se také odpovědět na otázku, zda umělá inteligence prohloubí individualizaci života lidí a rozvrátí jejich psychiku.&lt;/p&gt;&lt;p&gt;Nemohli jsme také nezavadit o psy, kteří v životě i článcích Ondřeje Neffa hrají důležitou roli. V závěru se pak snažím z autora slavných sci-fi knih dostat odpověď na to, kde v osmdesáti letech bere sílu nejen ráno vstát a jít se oholit, ale také tvořit – a to bez pomoci antidepresiv.&lt;/p&gt;
-</ns1:summary>
-			<ns1:explicit>false</ns1:explicit>
-			<ns1:duration>01:01:56</ns1:duration>
-			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
-			<ns1:episodeType>full</ns1:episodeType>
-		</item>
 		<item>
 			<title>Kecy a politika 228: Budou vládnout s Babišem?</title>
 			<description>&lt;p&gt;Sedmapadesáté výročí okupace Československa v srpnu 1968 se pro většinu politiků stalo záminkou k vyjádření postoje k budoucnosti Česka. Strany vládní koalice to vesměs považují za nejtragičtější etapu českých dějin. ANO mlčí a Tomio Okamura naznačuje, že Rusko má své bezpečnostní zájmy, které je třeba respektovat. Lídr hnutí Stačilo Sterzik vnímá dvacetiletou okupaci ruskými vojsky jako období rozkvětu. Chválí okupanty, že „odešli bez jediného výstřelu a všechno nám tady nechali.“&lt;/p&gt;&lt;p&gt;Dlouhá desetiletí se vedly diskuse, kdo Rudou armádu v srpnu 1968 do republiky pozval. Existoval minimálně jeden zvací dopis, který podepsali špičkoví představitelé KSČ s žádostí o invazi, aby se zachránil socialismus. Jak by dnes vypadal podobný zvací dopis? Tak, jak ho poslal Sterzik v roce 2022 Putinovi, když mu vyjádřil podporu? Anebo to bude mít podobu zrušení paragrafu trestního zákoníku o spolupráci s cizí mocí, jak se o tom intenzivně mluví?&lt;/p&gt;&lt;p&gt;V hodnocení minulosti a budoucnosti se také promítá otázka, kdo bude vládnout s pravděpodobným vítězem voleb, hnutím ANO. Má smysl pro některou z vládních stran se obětovat a zadržovat Andreje Babiše? Anebo by bylo lepší nechat vládnout koalici ANO, SPD a Stačilo?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -1766,6 +1750,26 @@ Kozenky jsme udělovali za následující kategorie:
 </ns1:summary>
 			<ns1:explicit>false</ns1:explicit>
 			<ns1:duration>00:48:49</ns1:duration>
+			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+			<ns1:episodeType>full</ns1:episodeType>
+		</item>
+		<item>
+			<title>Kecy a politika 178: Komu uplavaly volby?</title>
+			<description>&lt;p&gt;Tlaková níže Boris způsobila před krajskými a senátními volbami rozsáhlé povodně na většině území. Na jedné straně obrovská tragédie a škody v řádu desítek miliard korun. Na straně druhé jsme byli svědky z větší části perfektně fungujícího integrovaného systému a pouze - na rozdíl od roku 1997 - jednotek tragicky zesnulých. Samozřejmě, že tu byly tragické situace typu zhroucení břehu řeky nebo špatně vyhodnoceného termínu evakuace ze strany primátora Opavy a starosty Krnova. To jsou věci, které nikdy předem nedokážete odhadnout a odvrátit. Také se rozběhne veřejná diskuse, jestli je normální nestavět přehrady, suché poldry a retenční zařízení jen kvůli odporu jednotlivců, aby pak v následných povodních trpěly desetitisíce lidí. Tyto záplavy úplně zatemnily nadcházející krajské a senátní volby. Zároveň nasvítily výrazné osobnosti z řad hejtmanů, primátorů a starostů. Někoho Boris udělal, jiného &amp;quot;oddělal.&amp;quot; K těm prvním určitě patří hejtmané jako Kuba, Grolich, Suchánek, Pecková, Bělica, Schrek a Červíček. V novém podcastu si také klademe otázky: Měly by se krajské a senátní volby odložit? A kdo zaplatí škody? Nejde zase o další socializaci ztrát? Anebo to už neodmyslitelně patří k rysům tzv. nárokové společnosti, v níž žijeme?&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Kompletní hodina a půl o všem možném na &lt;a href="http://Forendors.cz"&gt;Forendors.cz&lt;/a&gt;&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/Kecy-a-politika-178-Komu-uplavaly-volby-e2ofrsm</link>
+			<guid isPermaLink="false">75b5eec4-5c26-47ac-a262-94f664ed65d0</guid>
+			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
+			<pubDate>Mon, 16 Sep 2024 22:01:00 GMT</pubDate>
+			<enclosure url="http://anchor.fm/s/99c6e0b4/podcast/play/91794774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-16%2F386485942-44100-2-d73d314a4cb9c.mp3" length="51139394" type="audio/mpeg" />
+			<ns1:summary>&lt;p&gt;Tlaková níže Boris způsobila před krajskými a senátními volbami rozsáhlé povodně na většině území. Na jedné straně obrovská tragédie a škody v řádu desítek miliard korun. Na straně druhé jsme byli svědky z větší části perfektně fungujícího integrovaného systému a pouze - na rozdíl od roku 1997 - jednotek tragicky zesnulých. Samozřejmě, že tu byly tragické situace typu zhroucení břehu řeky nebo špatně vyhodnoceného termínu evakuace ze strany primátora Opavy a starosty Krnova. To jsou věci, které nikdy předem nedokážete odhadnout a odvrátit. Také se rozběhne veřejná diskuse, jestli je normální nestavět přehrady, suché poldry a retenční zařízení jen kvůli odporu jednotlivců, aby pak v následných povodních trpěly desetitisíce lidí. Tyto záplavy úplně zatemnily nadcházející krajské a senátní volby. Zároveň nasvítily výrazné osobnosti z řad hejtmanů, primátorů a starostů. Někoho Boris udělal, jiného &amp;quot;oddělal.&amp;quot; K těm prvním určitě patří hejtmané jako Kuba, Grolich, Suchánek, Pecková, Bělica, Schrek a Červíček. V novém podcastu si také klademe otázky: Měly by se krajské a senátní volby odložit? A kdo zaplatí škody? Nejde zase o další socializaci ztrát? Anebo to už neodmyslitelně patří k rysům tzv. nárokové společnosti, v níž žijeme?&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Kompletní hodina a půl o všem možném na &lt;a href="http://Forendors.cz"&gt;Forendors.cz&lt;/a&gt;&lt;/p&gt;
+</ns1:summary>
+			<ns1:explicit>false</ns1:explicit>
+			<ns1:duration>00:53:16</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
 		</item>
