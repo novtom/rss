@@ -12,8 +12,8 @@
     <ns1:guid>7746465b-f986-521d-9eb4-97704ba8ef3a</ns1:guid>
     <ns1:locked owner="podcasty@firma.seznam.cz">no</ns1:locked>
     <language>cs</language>
-    <pubDate>Thu, 04 Sep 2025 18:02:27 +0200</pubDate>
-    <lastBuildDate>Thu, 04 Sep 2025 18:03:09 +0200</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 02:00:08 +0200</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 02:01:14 +0200</lastBuildDate>
     <link>https://novtom.github.io/rss/feeds/5-59.xml</link>
     <image>
       <url>https://img.transistor.fm/hlW850fto18aaHzfAXDDfGnN5AdlgnPmLIy9yAPR3ig/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZWRm/ZWI0NDU4ZmY0NWMw/ZTMzNGY3ZjM5ZTlm/ZDhjNC5qcGc.jpg</url>
@@ -35,6 +35,32 @@
     </ns2:owner>
     <ns2:complete>No</ns2:complete>
     <ns2:explicit>No</ns2:explicit>
+    <item>
+      <title>Je to hladomor, nebo ne? Expert z ICG o Gaze</title>
+      <ns2:episode>943</ns2:episode>
+      <ns1:episode>943</ns1:episode>
+      <ns2:title>Je to hladomor, nebo ne? Expert z ICG o Gaze</ns2:title>
+      <ns2:episodeType>full</ns2:episodeType>
+      <guid isPermaLink="false">d7bfbdbc-ac21-4c6b-80da-a858aa4b3707</guid>
+      <link>https://www.seznamzpravy.cz/clanek/285352</link>
+      <description>
+        &lt;p&gt;Izrael pokračuje v pozemním útoku proti městu Gaza. Právě v hustě obydlené metropoli Pásma Gazy přitom podle prohlášení odborného panelu pro potravinovou bezpečnost (IPC), koordinovaného OSN, prokazatelně zuří hladomor. Izraelská vláda to odmítá a označuje tento verdikt za výsledek propagandy Hamásu. Jak to vidí expert na potravinovou bezpečnost z renomované mezinárodní organizace?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.crisisgroup.org/who-we-are/people/chris-newton"&gt;Christopher Newton&lt;/a&gt; - analytik organizace International Crisis Group&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/285352"&gt;Seznam Zprávy&lt;/a&gt; &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </description>
+      <ns3:encoded>
+        &lt;p&gt;Izrael pokračuje v pozemním útoku proti městu Gaza. Právě v hustě obydlené metropoli Pásma Gazy přitom podle prohlášení odborného panelu pro potravinovou bezpečnost (IPC), koordinovaného OSN, prokazatelně zuří hladomor. Izraelská vláda to odmítá a označuje tento verdikt za výsledek propagandy Hamásu. Jak to vidí expert na potravinovou bezpečnost z renomované mezinárodní organizace?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.crisisgroup.org/who-we-are/people/chris-newton"&gt;Christopher Newton&lt;/a&gt; - analytik organizace International Crisis Group&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/285352"&gt;Seznam Zprávy&lt;/a&gt; &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </ns3:encoded>
+      <pubDate>Fri, 05 Sep 2025 02:00:00 +0200</pubDate>
+      <author>Seznam Zprávy</author>
+      <enclosure url="http://media.transistor.fm/57ea36e7/fdde37ee.mp3" length="48870360" type="audio/mpeg" />
+      <ns2:author>Seznam Zprávy</ns2:author>
+      <ns2:image href="https://img.transistor.fm/87i0Aa12eVcqrwItNZjyZCxsa5-9iblSIlSyisnH_bQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Zjkw/MDJlNDAyNzNmYWU2/MzY0ZDc4OWU1MWMy/YmVhOS5qcGc.jpg" />
+      <ns2:duration>2035</ns2:duration>
+      <ns2:summary>
+        &lt;p&gt;Izrael pokračuje v pozemním útoku proti městu Gaza. Právě v hustě obydlené metropoli Pásma Gazy přitom podle prohlášení odborného panelu pro potravinovou bezpečnost (IPC), koordinovaného OSN, prokazatelně zuří hladomor. Izraelská vláda to odmítá a označuje tento verdikt za výsledek propagandy Hamásu. Jak to vidí expert na potravinovou bezpečnost z renomované mezinárodní organizace?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.crisisgroup.org/who-we-are/people/chris-newton"&gt;Christopher Newton&lt;/a&gt; - analytik organizace International Crisis Group&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/285352"&gt;Seznam Zprávy&lt;/a&gt; &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
+      </ns2:summary>
+      <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
+      <ns2:explicit>No</ns2:explicit>
+    </item>
     <item>
       <title>Nový světový řád podle Číny</title>
       <ns2:episode>942</ns2:episode>
@@ -2604,32 +2630,6 @@
       <ns2:duration>1715</ns2:duration>
       <ns2:summary>
         &lt;p&gt;Europoslanec za stranu Motoristé sobě Filip Turek se vyfotil za volantem při jízdě přes 200 km/h. Policie záležitost prověřuje a ve hře je i odebrání řidičského průkazu. Odborná veřejnost Turkovo chování zkritizovala, jeho fanoušci ho naopak začali napodobovat. Čím je tak přitahuje? A může Motoristy dostat do Poslanecké sněmovny nebo i do vlády?&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Hosté:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.seznamzpravy.cz/autor/lukas-valasek-1332"&gt;Lukáš Valášek&lt;/a&gt; - investigativní reportér Seznam Zpráv &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.seznamzpravy.cz/autor/vaclav-dolejsi-2"&gt;Václav Dolejší&lt;/a&gt; - politický komentátor Seznam Zpráv a spoluautor podcastu Vlevo dole&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/274867"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
-      </ns2:summary>
-      <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
-      <ns2:explicit>No</ns2:explicit>
-    </item>
-    <item>
-      <title>Basketbalová královna z Prahy končí. Točí o ní i Netflix</title>
-      <ns2:episode>843</ns2:episode>
-      <ns1:episode>843</ns1:episode>
-      <ns2:title>Basketbalová královna z Prahy končí. Točí o ní i Netflix</ns2:title>
-      <ns2:episodeType>full</ns2:episodeType>
-      <guid isPermaLink="false">6636f4f3-f6fa-44f8-85bc-c9ecc8533b20</guid>
-      <link>https://www.seznamzpravy.cz/clanek/274487</link>
-      <description>
-        &lt;p&gt;Sportovní senzace, jakou český klubový sport dlouho nezažil. Basketbalistky ZVVZ USK Praha vyhrály Euroligu, nejlepší soutěž basketbalových klubů v Evropě. K triumfu je dovedla trenérka Natália Hejková, která oznámila konec své 38 let dlouhé a úspěšné trenérské kariéry. Jak cesta k titulu vypadala? A co basketbal s koncem legendární trenérky ztrácí?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.ceskatelevize.cz/lide/tomas-budka/"&gt;Tomáš Budka&lt;/a&gt; - sportovní komentátor ČT Sport &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/274487"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
-      </description>
-      <ns3:encoded>
-        &lt;p&gt;Sportovní senzace, jakou český klubový sport dlouho nezažil. Basketbalistky ZVVZ USK Praha vyhrály Euroligu, nejlepší soutěž basketbalových klubů v Evropě. K triumfu je dovedla trenérka Natália Hejková, která oznámila konec své 38 let dlouhé a úspěšné trenérské kariéry. Jak cesta k titulu vypadala? A co basketbal s koncem legendární trenérky ztrácí?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.ceskatelevize.cz/lide/tomas-budka/"&gt;Tomáš Budka&lt;/a&gt; - sportovní komentátor ČT Sport &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/274487"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
-      </ns3:encoded>
-      <pubDate>Wed, 23 Apr 2025 02:00:00 +0200</pubDate>
-      <author>Seznam Zprávy</author>
-      <enclosure url="http://media.transistor.fm/c4879d16/6f2da3c5.mp3" length="44718723" type="audio/mpeg" />
-      <ns2:author>Seznam Zprávy</ns2:author>
-      <ns2:image href="https://img.transistor.fm/EgnAZ0D4gSMGy6n80alc0yA3Zj6BGnc1EX6_hhN0spI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zZThh/YzFlZGYxOGE2MDg0/ZDRkY2MwNGQ0Yjky/NWM0Mi5wbmc.jpg" />
-      <ns2:duration>1862</ns2:duration>
-      <ns2:summary>
-        &lt;p&gt;Sportovní senzace, jakou český klubový sport dlouho nezažil. Basketbalistky ZVVZ USK Praha vyhrály Euroligu, nejlepší soutěž basketbalových klubů v Evropě. K triumfu je dovedla trenérka Natália Hejková, která oznámila konec své 38 let dlouhé a úspěšné trenérské kariéry. Jak cesta k titulu vypadala? A co basketbal s koncem legendární trenérky ztrácí?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Host: &lt;/strong&gt;&lt;a href="https://www.ceskatelevize.cz/lide/tomas-budka/"&gt;Tomáš Budka&lt;/a&gt; - sportovní komentátor ČT Sport &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Článek a další informace&lt;strong&gt; &lt;/strong&gt;najdete na webu &lt;a href="https://www.seznamzpravy.cz/clanek/274487"&gt;Seznam Zprávy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Sledujte nás na sociálních sítích &lt;a href="https://x.com/zaminutusest"&gt;X&lt;/a&gt;, &lt;a href="https://www.instagram.com/zaminutusest/"&gt;Instagram&lt;/a&gt;, &lt;a href="https://www.threads.net/@zaminutusest"&gt;Threads&lt;/a&gt; nebo &lt;a href="https://bsky.app/profile/zaminutusest.bsky.social"&gt;Bluesky&lt;/a&gt;. Náměty a připomínky nám můžete psát na e-mail zaminutusest@sz.cz&lt;/p&gt;
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
