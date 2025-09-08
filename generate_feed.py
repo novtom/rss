@@ -4,7 +4,11 @@ import xml.etree.ElementTree as ET
 import base64
 from urllib.parse import urlparse
 
-
+# --- namespaces pro iTunes a Media RSS ---
+ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
+MRSS_NS   = "http://search.yahoo.com/mrss/"
+ET.register_namespace("itunes", ITUNES_NS)
+ET.register_namespace("media", MRSS_NS)
 
 OUTPUT_DIR = "feeds"
 
@@ -54,7 +58,21 @@ for filename, url in podcasts.items():
     if channel is None:
         print(f"❌ Nenalezen <channel> v {filename}")
         continue
+# --- zjisti URL obrázku kanálu jako fallback pro epizody ---
+channel_img_url = None
 
+# <image><url>...</url></image>
+img_tag = channel.find("image")
+if img_tag is not None:
+    url_tag = img_tag.find("url")
+    if url_tag is not None and url_tag.text:
+        channel_img_url = url_tag.text.strip()
+
+# <itunes:image href="..."/>
+if not channel_img_url:
+    it_img = channel.find(f"{{{ITUNES_NS}}}image")
+    if it_img is not None and it_img.get("href"):
+        channel_img_url = it_img.get("href").strip()
     # 🔻 Omez počet epizod v RSS feedu
     items = channel.findall("item")
     max_items = 100  # změň podle potřeby (např. 200)
@@ -203,7 +221,24 @@ for filename, url in podcasts.items():
                     enclosure.attrib["url"] = "http://" + url_attr
                 else:
                     enclosure.attrib["url"] = url_attr
+# --- doplň metadata epizody: itunes:title a obrázek pro epizodu ---
+# itunes:title = stejné jako <title> (některé klienty to chtějí kvůli zobrazení)
+title_tag = item.find("title")
+if title_tag is not None and (title_tag.text or "").strip():
+    # vytvoř jen pokud chybí
+    if item.find(f"{{{ITUNES_NS}}}title") is None:
+        it_title = ET.SubElement(item, f"{{{ITUNES_NS}}}title")
+        it_title.text = title_tag.text.strip()
 
+# obrázek epizody – jen když není; použijeme obrázek kanálu
+if channel_img_url:
+    has_itunes_image = item.find(f"{{{ITUNES_NS}}}image") is not None
+    has_mrss_thumb   = item.find(f"{{{MRSS_NS}}}thumbnail") is not None
+    if not (has_itunes_image or has_mrss_thumb):
+        it_img = ET.SubElement(item, f"{{{ITUNES_NS}}}image")
+        it_img.set("href", channel_img_url)
+        thumb = ET.SubElement(item, f"{{{MRSS_NS}}}thumbnail")
+        thumb.set("url", channel_img_url)
     # 💾 Ulož výstupní XML
     output_path = os.path.join(OUTPUT_DIR, filename)
     ET.ElementTree(root).write(output_path, encoding="utf-8", xml_declaration=True)
