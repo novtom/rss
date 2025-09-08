@@ -4,7 +4,7 @@ import requests
 import xml.etree.ElementTree as ET
 from urllib.parse import urlparse, unquote, quote
 
-# ===== Namespaces (aby se pekně zapsaly itunes:/media:) =====
+# ===== Namespaces =====
 ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 MEDIA_NS  = "http://search.yahoo.com/mrss/"
 ATOM_NS   = "http://www.w3.org/2005/Atom"
@@ -16,7 +16,7 @@ ET.register_namespace("atom", ATOM_NS)
 # ===== Nastavení =====
 OUTPUT_DIR = "feeds"
 MAX_ITEMS  = 30
-RELAY_BASE = "https://podcast-relay.novtom.workers.dev/?u="
+WORKER_RELAY = "https://podcast-relay.novtom.workers.dev/?u="  # necháme HTTPS, Worker to zvládne
 
 podcasts = {
     "pro-a-proti.xml": "https://api.mujrozhlas.cz/rss/podcast/0bc5da25-f081-33b6-94a3-3181435cc0a0.rss",
@@ -39,87 +39,58 @@ podcasts = {
 }
 
 # ===== Pomocné funkce =====
-def remove_podtrac(url: str) -> str:
-    return (url
-            .replace("https://dts.podtrac.com/redirect.mp3/", "")
-            .replace("http://dts.podtrac.com/redirect.mp3/", ""))
 
-def decode_mujrozhlas_aod(url: str) -> str:
-    """
-    Pokud je to mujRozhlas AOD tvar (.../aod/<base64>.mp3),
-    vrátí dekódovanou URL, jinak vrátí původní.
-    """
+def clean_enclosure_url(raw: str) -> str | None:
+    """Vrátí čistý přehratelný URL (bez podtrac, bez dvojitého URL).
+       Neřeší http/https – to obstará Worker relay."""
+    if not raw:
+        return None
+    url = raw.strip()
+
+    # 1) Podtrac pryč
+    url = url.replace("https://dts.podtrac.com/redirect.mp3/", "")
+    url = url.replace("http://dts.podtrac.com/redirect.mp3/", "")
+
+    # 2) Rozbal percent-encoding
+    try:
+        url = unquote(url)
+    except Exception:
+        pass
+
+    # 3) Anchor/Spotify „URL v URL“ – vem poslední http(s)://
+    last_http = max(url.rfind("https://"), url.rfind("http://"))
+    if last_http > 0:
+        candidate = url[last_http:]
+        if ".mp3" in candidate:
+            url = candidate
+
+    # 4) mujRozhlas aod – base64 v názvu souboru
     try:
         p = urlparse(url)
         if "aod" in p.path and p.path.endswith(".mp3"):
             b64name = p.path.rsplit("/", 1)[-1].replace(".mp3", "")
-            dec = base64.urlsafe_b64decode(b64name + "==").decode("utf-8")
-            return dec
+            decoded = base64.urlsafe_b64decode(b64name + "==").decode("utf-8")
+            url = decoded
     except Exception:
         pass
-    return url
 
-def extract_last_http_segment(url: str) -> str:
-    """
-    Anchor/Spotify často dávají do enclosure něco jako:
-    http://anchor.fm/.../https%3A%2F%2Fcloudfront...mp3
-    → vezmeme POSLEDNÍ výskyt http(s):// a zbytek.
-    """
-    u = unquote(url)
-    idx_https = u.rfind("https://")
-    idx_http  = u.rfind("http://")
-    idx = max(idx_https, idx_http)
-    if idx > 0:
-        candidate = u[idx:]
-        if ".mp3" in candidate:
-            return candidate
-    return u
-
-def normalize_enclosure(url: str) -> str:
-    """
-    1) rozbal percent-encoding
-    2) sundej podtrac
-    3) vytáhni skutečný http(s) segment (Anchor apod.)
-    4) mujRozhlas aod decode
-    5) routing: Rozhlas → http (bez relaye), ostatní → přes https + relay
-    """
-    if not url:
-        return url
-
-    # 1+2
-    url = remove_podtrac(unquote(url))
-
-    # 3
-    url = extract_last_http_segment(url)
-
-    # 4
-    url = decode_mujrozhlas_aod(url)
-
-    # 5 rozhodnutí podle hosta
+    # 5) Doplň schéma, kdyby chybělo
     if not url.startswith(("http://", "https://")):
         url = "http://" + url.lstrip("/")
 
-    host = (urlparse(url).hostname or "").lower()
+    return url
 
-    # Rozhlas (croaod/rozhlas) jede po staru na HTTP (LMS)
-    if ("croaod.cz" in host) or ("rozhlas.cz" in host):
-        # vynutit http
-        if url.startswith("https://"):
-            url = "http://" + url[len("https://"):]
-        return url
-
-    # Všechno ostatní → přepnout na https (kvůli originům) a poslat přes relay
-    if url.startswith("http://"):
-        url = "https://" + url[len("http://"):]
-    return RELAY_BASE + quote(url, safe="")
+def wrap_with_worker(url: str) -> str:
+    """Obalí výslednou URL přes Cloudflare Worker relay."""
+    return f"{WORKER_RELAY}{quote(url, safe=':/?&=%')}"  # percent-encode, ale ponech běžné delim.
 
 def get_channel_image(channel) -> str | None:
     it = channel.find(f"{{{ITUNES_NS}}}image")
     if it is not None and it.get("href"):
         return it.get("href").strip()
-    ch_img = channel.find("image")
-    if ch_img is not None:
-        u = ch_img.find("url")
+    img = channel.find("image")
+    if img is not None:
+        u = img.find("url")
         if u is not None and (u.text or "").strip():
             return u.text.strip()
     return None
@@ -132,39 +103,49 @@ def get_item_image(item) -> str | None:
     if mt is not None and mt.get("url"):
         return mt.get("url").strip()
     for mc in item.findall(f"{{{MEDIA_NS}}}content"):
-        if mc.get("medium") == "image" and mc.get("url"):
+        if (mc.get("medium") == "image") and mc.get("url"):
             return mc.get("url").strip()
     return None
 
-def ensure_item_artwork(item, fallback_url: str | None):
-    img = get_item_image(item) or fallback_url
+def ensure_item_artwork_and_title(item, channel_img_url: str | None):
+    # itunes:title
+    if item.find(f"{{{ITUNES_NS}}}title") is None:
+        it_t = ET.SubElement(item, f"{{{ITUNES_NS}}}title")
+        it_t.text = (item.findtext("title") or "").strip()
+
+    # artwork
+    img = get_item_image(item) or channel_img_url
     if not img:
         return
-    it = item.find(f"{{{ITUNES_NS}}}image")
-    if it is None:
-        it = ET.SubElement(item, f"{{{ITUNES_NS}}}image")
-    it.set("href", img)
+    it_img = item.find(f"{{{ITUNES_NS}}}image")
+    if it_img is None:
+        it_img = ET.SubElement(item, f"{{{ITUNES_NS}}}image")
+    it_img.set("href", img)
+
     mt = item.find(f"{{{MEDIA_NS}}}thumbnail")
     if mt is None:
         mt = ET.SubElement(item, f"{{{MEDIA_NS}}}thumbnail")
     mt.set("url", img)
 
-def process_feed(filename: str, url: str):
+# ===== Hlavní zpracování jednoho feedu =====
+
+def process_feed(filename: str, src_url: str):
     print(f"→ Zpracovávám {filename}")
+
     try:
-        r = requests.get(url, timeout=30)
+        r = requests.get(src_url, timeout=30)
         r.raise_for_status()
     except requests.exceptions.RequestException as e:
-        print(f"❌ Chyba stahování {url}: {e}")
+        print(f"❌ Chyba stahování {src_url}: {e}")
         return
 
     try:
         root = ET.fromstring(r.content)
-        # kdyby náhodou přišlo <script/>, vyhodíme
+        # případné <script/> ven
         for script_tag in root.findall("script"):
             root.remove(script_tag)
     except ET.ParseError as e:
-        print(f"❌ Chyba parsování XML z {url}: {e}")
+        print(f"❌ Chyba parsování XML z {src_url}: {e}")
         return
 
     if root.tag != "rss":
@@ -179,51 +160,46 @@ def process_feed(filename: str, url: str):
     # Omez počet epizod
     items = channel.findall("item")
     if len(items) > MAX_ITEMS:
-        for item in items[MAX_ITEMS:]:
-            channel.remove(item)
+        for it in items[MAX_ITEMS:]:
+            channel.remove(it)
         items = channel.findall("item")
 
-    # Uprav <link> kanálu na GitHub Pages
-    gh_url = f"https://novtom.github.io/rss/feeds/{filename}"
-    link = channel.find("link")
-    if link is not None:
-        link.text = gh_url
+    # Link kanálu na GitHub Pages (chceš-li HTTP, změň na http://)
+    gh_link = f"https://novtom.github.io/rss/feeds/{filename}"
+    ch_link = channel.find("link")
+    if ch_link is not None:
+        ch_link.text = gh_link
     else:
-        ET.SubElement(channel, "link").text = gh_url
+        ET.SubElement(channel, "link").text = gh_link
 
-    # Přidej <description> pokud chybí
+    # Popis kanálu, pokud chybí
     if channel.find("description") is None:
         ET.SubElement(channel, "description").text = "RSS feed agregovaný a normalizovaný pro LMS."
 
-    # Fallback obrázek kanálu
-    channel_img_url = get_channel_image(channel)
+    # Fallback artwork kanálu
+    channel_img = get_channel_image(channel)
 
-    # Enclosure + artwork pro každou epizodu
-    for item in channel.findall("item"):
+    # Přepočítej enclosure a doplň metadata u položek
+    for item in items:
         enc = item.find("enclosure")
-        if enc is not None and "url" in enc.attrib:
-            raw_url = enc.attrib["url"]
-            final_url = normalize_enclosure(raw_url)
-            enc.set("url", final_url)
+        if enc is not None and enc.get("url"):
+            cleaned = clean_enclosure_url(enc.get("url"))
+            if cleaned:
+                enc.set("url", wrap_with_worker(cleaned))
 
-        # itunes:title (některé klienty ho berou)
-        if item.find(f"{{{ITUNES_NS}}}title") is None:
-            t = (item.findtext("title") or "").strip()
-            if t:
-                ET.SubElement(item, f"{{{ITUNES_NS}}}title").text = t
-
-        # obrázek epizody (dlaždice)
-        ensure_item_artwork(item, channel_img_url)
+        ensure_item_artwork_and_title(item, channel_img)
 
     # Ulož
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    out = os.path.join(OUTPUT_DIR, filename)
-    ET.ElementTree(root).write(out, encoding="utf-8", xml_declaration=True)
-    print(f"✅ Uloženo: {out}")
+    out_path = os.path.join(OUTPUT_DIR, filename)
+    ET.ElementTree(root).write(out_path, encoding="utf-8", xml_declaration=True)
+    print(f"✅ Uloženo: {out_path}")
+
+# ===== main =====
 
 def main():
-    for filename, url in podcasts.items():
-        process_feed(filename, url)
+    for fname, src in podcasts.items():
+        process_feed(fname, src)
 
 if __name__ == "__main__":
     main()
