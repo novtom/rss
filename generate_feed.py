@@ -4,6 +4,8 @@ import xml.etree.ElementTree as ET
 import base64
 from urllib.parse import urlparse
 
+
+
 OUTPUT_DIR = "feeds"
 
 podcasts = {
@@ -134,7 +136,36 @@ for filename, url in podcasts.items():
             thumb = ET.SubElement(item, f"{{{MRSS_NS}}}thumbnail")
             thumb.set("url", channel_img_url)
 
-    
+        # 🧩 Per-item fallbacky na title a artwork
+    # Zjisti kanálový artwork jako fallback
+    channel_img_url = None
+    ch_img_el = channel.find("image")
+    if ch_img_el is not None:
+        channel_img_url = (ch_img_el.findtext("url") or "").strip() or None
+    if not channel_img_url:
+        ch_it_img = channel.find(f"{{{ITUNES_NS}}}image")
+        if ch_it_img is not None:
+            channel_img_url = ch_it_img.attrib.get("href")
+
+    for item in channel.findall("item"):
+        # 1) itunes:title – pokud chybí, vytvoř ho (z <title> nebo fallback)
+        it_title = item.find(f"{{{ITUNES_NS}}}title")
+        if it_title is None:
+            base_title = (item.findtext("title") or "").strip()
+            if not base_title:
+                # poslední pojistka z description (zkráceně)
+                base_title = (item.findtext("description") or "").strip().replace("\n", " ")
+                base_title = base_title[:140] if base_title else "Episode"
+            ET.SubElement(item, f"{{{ITUNES_NS}}}title").text = base_title
+
+        # 2) Obrázek na položce: pokud chybí, doplň itunes:image + media:thumbnail z kanálu
+        has_it_img = item.find(f"{{{ITUNES_NS}}}image") is not None
+        has_media_thumb = item.find(f"{{{MRSS_NS}}}thumbnail") is not None
+        if channel_img_url and not (has_it_img or has_media_thumb):
+            it_img = ET.SubElement(item, f"{{{ITUNES_NS}}}image")
+            it_img.set("href", channel_img_url)
+            thumb = ET.SubElement(item, f"{{{MRSS_NS}}}thumbnail")
+            thumb.set("url", channel_img_url)
     # 🔧 Úprava <enclosure> URL
     for item in channel.findall("item"):
         enclosure = item.find("enclosure")
