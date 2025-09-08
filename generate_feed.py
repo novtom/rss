@@ -2,117 +2,152 @@ import os
 import base64
 import requests
 import xml.etree.ElementTree as ET
-from urllib.parse import unquote, urlparse
+from urllib.parse import urlparse, unquote, quote
 
-# ===== Namespaces (zaregistrujeme, ať se hezky zapisují prefixy) =====
+# ===== Namespaces (aby se pekně zapsaly itunes:/media:) =====
 ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 MEDIA_NS  = "http://search.yahoo.com/mrss/"
 ATOM_NS   = "http://www.w3.org/2005/Atom"
 
 ET.register_namespace("itunes", ITUNES_NS)
-ET.register_namespace("media",  MEDIA_NS)
-ET.register_namespace("atom",   ATOM_NS)
+ET.register_namespace("media", MEDIA_NS)
+ET.register_namespace("atom", ATOM_NS)
 
 # ===== Nastavení =====
 OUTPUT_DIR = "feeds"
-MAX_ITEMS  = 30   # omezíme feed kvůli rychlosti LMS
+MAX_ITEMS  = 30
+RELAY_BASE = "https://podcast-relay.novtom.workers.dev/?u="
 
 podcasts = {
-    "pro-a-proti.xml":     "https://api.mujrozhlas.cz/rss/podcast/0bc5da25-f081-33b6-94a3-3181435cc0a0.rss",
-    "nazory-argumenty.xml":"https://api.mujrozhlas.cz/rss/podcast/f4133d64-ccb2-30e7-a70f-23e9c54d8e76.rss",
-    "vinohradska12.xml":   "https://api.mujrozhlas.cz/rss/podcast/ee6095c0-33ac-3526-b8bf-df233af38211.rss",
-    "Interview-plus.xml":  "https://api.mujrozhlas.cz/rss/podcast/1235fcbc-baa9-3656-9488-857fca2eb987.rss",
-    "Osobnost-plus.xml":   "https://api.mujrozhlas.cz/rss/podcast/ad21758a-b517-328e-9bb0-2a2e2819f0b5.rss",
-    "Podcasty-HN.xml":     "https://www.spreaker.com/show/4194705/episodes/feed",
-    "Kecy-politika.xml":   "https://anchor.fm/s/99c6e0b4/podcast/rss",
-    "Chyba-systemu.xml":   "https://api.mujrozhlas.cz/rss/podcast/47833fff-1845-3b97-b263-54fe2c4026b7.rss",
-    "Ceska-satira.xml":    "https://api.mujrozhlas.cz/rss/podcast/4c2d5141-ad8d-3e73-b041-45170e6e1255.rss",
-    "Vojta-zizka.xml":     "https://anchor.fm/s/763bc3a8/podcast/rss",
-    "Mezi-rentiery.xml":   "https://audioboom.com/channels/5096524.rss",
-    "Brain-we-are.xml":    "https://anchor.fm/s/7330de0/podcast/rss",
-    "Fantastic-future.xml":"https://anchor.fm/s/102799d7c/podcast/rss",
-    "5-59.xml":            "https://feeds.transistor.fm/5-59",
-    "xtb.xml":             "https://anchor.fm/s/3de2cbdc/podcast/rss",
-    "kilometry.xml":       "https://api.mujrozhlas.cz/rss/podcast/b2b82381-216d-310e-aeef-d46cd919d15d.rss",
-    "ruz_vor.xml":         "https://anchor.fm/s/f5e22098/podcast/rss",
+    "pro-a-proti.xml": "https://api.mujrozhlas.cz/rss/podcast/0bc5da25-f081-33b6-94a3-3181435cc0a0.rss",
+    "nazory-argumenty.xml": "https://api.mujrozhlas.cz/rss/podcast/f4133d64-ccb2-30e7-a70f-23e9c54d8e76.rss",
+    "vinohradska12.xml": "https://api.mujrozhlas.cz/rss/podcast/ee6095c0-33ac-3526-b8bf-df233af38211.rss",
+    "Interview-plus.xml": "https://api.mujrozhlas.cz/rss/podcast/1235fcbc-baa9-3656-9488-857fca2eb987.rss",
+    "Osobnost-plus.xml": "https://api.mujrozhlas.cz/rss/podcast/ad21758a-b517-328e-9bb0-2a2e2819f0b5.rss",
+    "Podcasty-HN.xml": "https://www.spreaker.com/show/4194705/episodes/feed",
+    "Kecy-politika.xml": "https://anchor.fm/s/99c6e0b4/podcast/rss",
+    "Chyba-systemu.xml": "https://api.mujrozhlas.cz/rss/podcast/47833fff-1845-3b97-b263-54fe2c4026b7.rss",
+    "Ceska-satira.xml": "https://api.mujrozhlas.cz/rss/podcast/4c2d5141-ad8d-3e73-b041-45170e6e1255.rss",
+    "Vojta-zizka.xml": "https://anchor.fm/s/763bc3a8/podcast/rss",
+    "Mezi-rentiery.xml": "https://audioboom.com/channels/5096524.rss",
+    "Brain-we-are.xml": "https://anchor.fm/s/7330de0/podcast/rss",
+    "Fantastic-future.xml": "https://anchor.fm/s/102799d7c/podcast/rss",
+    "5-59.xml": "https://feeds.transistor.fm/5-59",
+    "xtb.xml": "https://anchor.fm/s/3de2cbdc/podcast/rss",
+    "kilometry.xml": "https://api.mujrozhlas.cz/rss/podcast/b2b82381-216d-310e-aeef-d46cd919d15d.rss",
+    "ruz_vor.xml": "https://anchor.fm/s/f5e22098/podcast/rss",
 }
 
-# ---------- Pomocné funkce ----------
+# ===== Pomocné funkce =====
+def remove_podtrac(url: str) -> str:
+    return (url
+            .replace("https://dts.podtrac.com/redirect.mp3/", "")
+            .replace("http://dts.podtrac.com/redirect.mp3/", ""))
 
-def normalize_enclosure_url(raw: str) -> str:
-    """Rozbalí přesměrování/encoding, dekóduje mujRozhlas a nutně přepíše na http:// (kvůli LMS)."""
-    if not raw:
-        return raw
-    url = raw.strip()
-
-    # Podtrac pryč
-    url = url.replace("https://dts.podtrac.com/redirect.mp3/", "")
-    url = url.replace("http://dts.podtrac.com/redirect.mp3/", "")
-
-    # Rozbal percent-encoding (…https%3A%2F%2F…)
-    if "%2F" in url or "%3A%2F%2F" in url:
-        try:
-            url = unquote(url)
-        except Exception:
-            pass
-
-    # Anchor/Spotify styl: “…/http(s)://…mp3” – vezmi poslední http(s)://
-    last_http = max(url.rfind("https://"), url.rfind("http://"))
-    if last_http > 0:
-        tail = url[last_http:]
-        if ".mp3" in tail:
-            url = tail
-
-    # mujRozhlas aod/<base64>.mp3 → dekódovat
+def decode_mujrozhlas_aod(url: str) -> str:
+    """
+    Pokud je to mujRozhlas AOD tvar (.../aod/<base64>.mp3),
+    vrátí dekódovanou URL, jinak vrátí původní.
+    """
     try:
         p = urlparse(url)
-        if "aod" in (p.path or "") and p.path.endswith(".mp3"):
-            b64 = p.path.rsplit("/", 1)[-1].replace(".mp3", "")
-            url = base64.urlsafe_b64decode(b64 + "==").decode("utf-8")
+        if "aod" in p.path and p.path.endswith(".mp3"):
+            b64name = p.path.rsplit("/", 1)[-1].replace(".mp3", "")
+            dec = base64.urlsafe_b64decode(b64name + "==").decode("utf-8")
+            return dec
     except Exception:
         pass
-
-    # Doplnit schéma a přepsat na http
-    if url.startswith("https://"):
-        url = "http://" + url[len("https://"):]
-    elif not url.startswith("http://"):
-        url = "http://" + url.lstrip("/")
-
     return url
 
-def channel_image_url(channel) -> str | None:
+def extract_last_http_segment(url: str) -> str:
+    """
+    Anchor/Spotify často dávají do enclosure něco jako:
+    http://anchor.fm/.../https%3A%2F%2Fcloudfront...mp3
+    → vezmeme POSLEDNÍ výskyt http(s):// a zbytek.
+    """
+    u = unquote(url)
+    idx_https = u.rfind("https://")
+    idx_http  = u.rfind("http://")
+    idx = max(idx_https, idx_http)
+    if idx > 0:
+        candidate = u[idx:]
+        if ".mp3" in candidate:
+            return candidate
+    return u
+
+def normalize_enclosure(url: str) -> str:
+    """
+    1) rozbal percent-encoding
+    2) sundej podtrac
+    3) vytáhni skutečný http(s) segment (Anchor apod.)
+    4) mujRozhlas aod decode
+    5) routing: Rozhlas → http (bez relaye), ostatní → přes https + relay
+    """
+    if not url:
+        return url
+
+    # 1+2
+    url = remove_podtrac(unquote(url))
+
+    # 3
+    url = extract_last_http_segment(url)
+
+    # 4
+    url = decode_mujrozhlas_aod(url)
+
+    # 5 rozhodnutí podle hosta
+    if not url.startswith(("http://", "https://")):
+        url = "http://" + url.lstrip("/")
+
+    host = (urlparse(url).hostname or "").lower()
+
+    # Rozhlas (croaod/rozhlas) jede po staru na HTTP (LMS)
+    if ("croaod.cz" in host) or ("rozhlas.cz" in host):
+        # vynutit http
+        if url.startswith("https://"):
+            url = "http://" + url[len("https://"):]
+        return url
+
+    # Všechno ostatní → přepnout na https (kvůli originům) a poslat přes relay
+    if url.startswith("http://"):
+        url = "https://" + url[len("http://"):]
+    return RELAY_BASE + quote(url, safe="")
+
+def get_channel_image(channel) -> str | None:
     it = channel.find(f"{{{ITUNES_NS}}}image")
     if it is not None and it.get("href"):
         return it.get("href").strip()
-    img = channel.find("image")
-    if img is not None:
-        u = img.find("url")
+    ch_img = channel.find("image")
+    if ch_img is not None:
+        u = ch_img.find("url")
         if u is not None and (u.text or "").strip():
             return u.text.strip()
     return None
 
+def get_item_image(item) -> str | None:
+    it = item.find(f"{{{ITUNES_NS}}}image")
+    if it is not None and it.get("href"):
+        return it.get("href").strip()
+    mt = item.find(f"{{{MEDIA_NS}}}thumbnail")
+    if mt is not None and mt.get("url"):
+        return mt.get("url").strip()
+    for mc in item.findall(f"{{{MEDIA_NS}}}content"):
+        if mc.get("medium") == "image" and mc.get("url"):
+            return mc.get("url").strip()
+    return None
+
 def ensure_item_artwork(item, fallback_url: str | None):
-    """Doplní artwork (itunes:image + media:thumbnail), když chybí."""
-    has_itunes = item.find(f"{{{ITUNES_NS}}}image")
-    has_media  = item.find(f"{{{MEDIA_NS}}}thumbnail")
-    if (has_itunes is None or not has_itunes.get("href")) and (has_media is None or not has_media.get("url")):
-        if not fallback_url:
-            return
-        if has_itunes is None:
-            has_itunes = ET.SubElement(item, f"{{{ITUNES_NS}}}image")
-        has_itunes.set("href", fallback_url)
-        if has_media is None:
-            has_media = ET.SubElement(item, f"{{{MEDIA_NS}}}thumbnail")
-        has_media.set("url", fallback_url)
-
-def ensure_itunes_title(item):
-    """Pro některé klienty doplníme itunes:title = <title>, pokud chybí."""
-    el = item.find(f"{{{ITUNES_NS}}}title")
-    if el is None:
-        title_text = (item.findtext("title") or "").strip()
-        ET.SubElement(item, f"{{{ITUNES_NS}}}title").text = title_text
-
-# ---------- Hlavní zpracování jednoho feedu ----------
+    img = get_item_image(item) or fallback_url
+    if not img:
+        return
+    it = item.find(f"{{{ITUNES_NS}}}image")
+    if it is None:
+        it = ET.SubElement(item, f"{{{ITUNES_NS}}}image")
+    it.set("href", img)
+    mt = item.find(f"{{{MEDIA_NS}}}thumbnail")
+    if mt is None:
+        mt = ET.SubElement(item, f"{{{MEDIA_NS}}}thumbnail")
+    mt.set("url", img)
 
 def process_feed(filename: str, url: str):
     print(f"→ Zpracovávám {filename}")
@@ -125,8 +160,9 @@ def process_feed(filename: str, url: str):
 
     try:
         root = ET.fromstring(r.content)
-        for s in root.findall("script"):
-            root.remove(s)
+        # kdyby náhodou přišlo <script/>, vyhodíme
+        for script_tag in root.findall("script"):
+            root.remove(script_tag)
     except ET.ParseError as e:
         print(f"❌ Chyba parsování XML z {url}: {e}")
         return
@@ -140,43 +176,50 @@ def process_feed(filename: str, url: str):
         print(f"❌ Nenalezen <channel> v {filename}")
         return
 
-    # Omez počet položek
+    # Omez počet epizod
     items = channel.findall("item")
     if len(items) > MAX_ITEMS:
-        for it in items[MAX_ITEMS:]:
-            channel.remove(it)
+        for item in items[MAX_ITEMS:]:
+            channel.remove(item)
         items = channel.findall("item")
 
-    # Uprav link kanálu na GitHub Pages
+    # Uprav <link> kanálu na GitHub Pages
     gh_url = f"https://novtom.github.io/rss/feeds/{filename}"
-    link_el = channel.find("link")
-    if link_el is not None:
-        link_el.text = gh_url
+    link = channel.find("link")
+    if link is not None:
+        link.text = gh_url
     else:
         ET.SubElement(channel, "link").text = gh_url
 
-    # Popis, pokud chybí
+    # Přidej <description> pokud chybí
     if channel.find("description") is None:
         ET.SubElement(channel, "description").text = "RSS feed agregovaný a normalizovaný pro LMS."
 
-    # Obrázek kanálu jako fallback pro epizody
-    ch_img = channel_image_url(channel)
+    # Fallback obrázek kanálu
+    channel_img_url = get_channel_image(channel)
 
-    # Projdi epizody
+    # Enclosure + artwork pro každou epizodu
     for item in channel.findall("item"):
         enc = item.find("enclosure")
         if enc is not None and "url" in enc.attrib:
-            enc.attrib["url"] = normalize_enclosure_url(enc.attrib["url"])
-        ensure_itunes_title(item)
-        ensure_item_artwork(item, ch_img)
+            raw_url = enc.attrib["url"]
+            final_url = normalize_enclosure(raw_url)
+            enc.set("url", final_url)
+
+        # itunes:title (některé klienty ho berou)
+        if item.find(f"{{{ITUNES_NS}}}title") is None:
+            t = (item.findtext("title") or "").strip()
+            if t:
+                ET.SubElement(item, f"{{{ITUNES_NS}}}title").text = t
+
+        # obrázek epizody (dlaždice)
+        ensure_item_artwork(item, channel_img_url)
 
     # Ulož
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     out = os.path.join(OUTPUT_DIR, filename)
     ET.ElementTree(root).write(out, encoding="utf-8", xml_declaration=True)
     print(f"✅ Uloženo: {out}")
-
-# ---------- Entrypoint ----------
 
 def main():
     for filename, url in podcasts.items():
