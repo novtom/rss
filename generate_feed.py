@@ -92,6 +92,49 @@ for filename, url in podcasts.items():
         if it_img is not None and ("href" in it_img.attrib) and not has_thumb:
             thumb = ET.SubElement(item, f"{{{MRSS_NS}}}thumbnail")
             thumb.set("url", it_img.attrib["href"])
+    # 🖼️ Per-item title & image fallbacky (pro LMS)
+    ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
+    MRSS_NS = "http://search.yahoo.com/mrss/"
+
+    # Zjisti URL obrázku na úrovni kanálu (použijeme jako fallback)
+    channel_img_url = None
+    ch_img_el = channel.find("image")
+    if ch_img_el is not None:
+        channel_img_url = (ch_img_el.findtext("url") or "").strip() or None
+    if not channel_img_url:
+        ch_it_img = channel.find(f"{{{ITUNES_NS}}}image")
+        if ch_it_img is not None:
+            channel_img_url = ch_it_img.attrib.get("href")
+
+    # Pro každé <item>:
+    for item in channel.findall("item"):
+        # 1) TITLE: pokud chybí <title>, vezmi itunes:title nebo description
+        title_el = item.find("title")
+        if title_el is None or (title_el.text or "").strip() == "":
+            it_title = item.find(f"{{{ITUNES_NS}}}title")
+            new_title = None
+            if it_title is not None and (it_title.text or "").strip():
+                new_title = it_title.text.strip()
+            else:
+                desc = item.findtext("description", "").strip()
+                if desc:
+                    # usekni na rozumnou délku
+                    new_title = (desc.replace("\n", " ").strip())[:140]
+            if new_title:
+                ET.SubElement(item, "title").text = new_title
+
+        # 2) IMAGE: pokud nemá epizoda svůj obrázek, doplň z kanálu
+        has_it_img = item.find(f"{{{ITUNES_NS}}}image") is not None
+        has_mrss_thumb = item.find(f"{{{MRSS_NS}}}thumbnail") is not None
+        if channel_img_url and not (has_it_img or has_mrss_thumb):
+            # a) itunes:image
+            it_img = ET.SubElement(item, f"{{{ITUNES_NS}}}image")
+            it_img.set("href", channel_img_url)
+            # b) media:thumbnail
+            thumb = ET.SubElement(item, f"{{{MRSS_NS}}}thumbnail")
+            thumb.set("url", channel_img_url)
+
+    
     # 🔧 Úprava <enclosure> URL
     for item in channel.findall("item"):
         enclosure = item.find("enclosure")
