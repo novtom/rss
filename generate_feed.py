@@ -4,6 +4,28 @@ import xml.etree.ElementTree as ET
 import base64
 from urllib.parse import urlparse
 
+# --- performance knobs ---
+REDIRECT_HOSTS = (
+    "podtrac.com", "anchor.fm", "spotify.com", "megaphone.fm",
+    "transistor.fm", "buzzsprout.com", "simplecast.com", "omny.fm",
+    "blubrry.com", "cloudfront.net"
+)
+DO_HEAD_RESOLVE = True       # přepni na False = nejrychlejší
+HEAD_TIMEOUT = 4             # sekundy
+TRY_HTTP_PROBE = False       # True = zkoušet i http, pomalejší
+
+# registrace namespaces jen jednou (ne uvnitř smyčky)
+ET.register_namespace('media', "http://search.yahoo.com/mrss/")
+ET.register_namespace('itunes', "http://www.itunes.com/dtds/podcast-1.0.dtd")
+
+def should_head(url: str) -> bool:
+    try:
+        host = urlparse(url).netloc.lower()
+    except Exception:
+        return False
+    return any(h in host for h in REDIRECT_HOSTS)
+
+
 ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 MRSS_NS   = "http://search.yahoo.com/mrss/"
 
@@ -178,23 +200,26 @@ for filename, url in podcasts.items():
             url_attr = enclosure.attrib["url"]
             final_url = url_attr
 
-            # 0️⃣ Rozbal přesměrování (Transistor, apod.)
-            try:
-                h = requests.head(url_attr, allow_redirects=True, timeout=12)
-                if h.url:
-                    final_url = h.url
-            except requests.exceptions.RequestException:
-                pass
+         # 0️⃣ Rozbal přesměrování (jen pro známé hosty)
+if DO_HEAD_RESOLVE and should_head(url_attr):
+    try:
+        h = requests.head(url_attr, allow_redirects=True, timeout=HEAD_TIMEOUT)
+        if h.url:
+            final_url = h.url
+    except requests.exceptions.RequestException:
+        final_url = url_attr
+else:
+    final_url = url_attr
 
-            # 0b) Preferuj HTTP, kde to jde (kvůli LMS)
-            if final_url.startswith("https://"):
-                http_try = "http://" + final_url[len("https://"):]
-                try:
-                    h2 = requests.head(http_try, allow_redirects=False, timeout=8)
-                    if 200 <= h2.status_code < 400 and "https://" not in http_try:
-                        final_url = http_try
-                except requests.exceptions.RequestException:
-                    pass
+  # 0b) Volitelný http pokus (většinou vypnuto kvůli rychlosti)
+if TRY_HTTP_PROBE and final_url.startswith("https://"):
+    http_try = "http://" + final_url[len("https://"):]
+    try:
+        h2 = requests.head(http_try, allow_redirects=False, timeout=HEAD_TIMEOUT)
+        if 200 <= h2.status_code < 400:
+            final_url = http_try
+    except requests.exceptions.RequestException:
+        pass
 
             # 1️⃣ Podtrac pryč
             if "dts.podtrac.com/redirect.mp3/" in final_url:
