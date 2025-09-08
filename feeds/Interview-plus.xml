@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Interview Plus</title>
     <language>cs</language>
@@ -31,7 +31,7 @@
       <enclosure url="http://croaod.cz/download/a2ff2073-63a7-4dde-9cfe-57d604f0702b.mp3" type="audio/mpeg" length="37611693" />
       <guid isPermaLink="false">0aaec761-ed4d-3c8f-8150-4f44b88285a7</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/0aaec761-ed4d-3c8f-8150-4f44b88285a7</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Sociolog: Nevoliči od politiků chtějí pozitivní vizi</title>
       <description>Necelé tři miliony lidí v Česku k volbám nechodí vůbec nebo jen příležitostně. Podle průzkumu agentury STEM/Mark jim v politice chybí například dodržování předvolebních slibů nebo vzájemná úcta. „Napříč voličským spektrem nenajdeme žádnou politickou stranu, u které by pozitivní vnímání převažovali nad tím negativním. A totéž vidíme u jejich lídrů. Od dob opoziční smlouvy je zde velké zklamání z politiky a nedůvěra v ni,“ vysvětluje sociolog Jan Burianec z agentury STEM/Mark.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=e55ee1be-2e9f-3047-bd80-61ec4a997958"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -42,7 +42,7 @@
       <enclosure url="http://croaod.cz/download/0c9aa20c-f82b-4d60-bf61-13fa4e352a49.mp3" type="audio/mpeg" length="35342253" />
       <guid isPermaLink="false">e55ee1be-2e9f-3047-bd80-61ec4a997958</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/e55ee1be-2e9f-3047-bd80-61ec4a997958</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Sinolog Gardáš: Čína usiluje o multipolární světový řád</title>
       <description>Čínský prezident Si Ťin-pching pozval na okázalou oslavu konce druhé světové války politiky z 26 zemí světa. Svět obletěly jeho společné fotografie s ruskou hlavou státu Vladimirem Putinem a severokorejským diktátorem Kim Čong-unem z okázalé vojenské přehlídky. „Je to demonstrace síly a poměrně úspěšná, zvlášť v kontrastu s přehlídkou 14. června v USA, která se konala k 250. výročí americké armády a zároveň na narozeniny Donalda Trumpa,“ srovnává sinolog David Gardáš.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=ba8b0b82-70bc-3a16-977f-f4a1b310b76b"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -53,7 +53,7 @@
       <enclosure url="http://croaod.cz/download/28f22687-c366-4972-9e0e-682db1a8ffd3.mp3" type="audio/mpeg" length="36366957" />
       <guid isPermaLink="false">ba8b0b82-70bc-3a16-977f-f4a1b310b76b</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/ba8b0b82-70bc-3a16-977f-f4a1b310b76b</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Ekonom Skořepa: Deficit není špatně, když je to na investice</title>
       <description>Ministerstvo financí Zbyňka Stanjury (ODS, Spolu) předložilo návrh rozpočtu na příští rok se schodkem 286 miliard korun. Zahrnuje totiž vedle zvýšených výdajů na obranu i vratnou půjčku na stavbu jaderných reaktorů v Dukovanech. „Je to součást veřejných investic a z mého pohledu je dobře, když jsou investice na dluh. V české populaci je hluboce zakořeněný omyl, že deficity veřejných rozpočtů jsou vždycky špatně. Ale to není pravda,“ zdůrazňuje ekonom Michal Skořepa.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=1518f663-5f32-309c-9513-bfac469736f1"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -64,7 +64,7 @@
       <enclosure url="http://croaod.cz/download/50920895-0774-48fa-a8b7-a741a0b76215.mp3" type="audio/mpeg" length="37382445" />
       <guid isPermaLink="false">1518f663-5f32-309c-9513-bfac469736f1</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/1518f663-5f32-309c-9513-bfac469736f1</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Neumann: „Wir schaffen das?“ Ano, i když má Německo problémy</title>
       <description>My Němci to zvládneme. Wir schaffen das, ujistila přesně před deseti lety tehdejší německá kancléřka Angela Merkelová své krajany a nechala otevřít německé hranice prchajícím hlavně ze Sýrie, Iráku nebo Afghánistánu. „Převážně jsme to zvládli, i když je zde hodně minusů. Ta věta byla možná příliš optimistická. Ale většina uprchlíků, kteří tenkrát přišli, se integrovala,“ hodnotí pro Český rozhlas Plus německý novinář Steffen Neumann.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=c7594512-ded0-3917-828c-6b543dcfb000"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -75,7 +75,7 @@
       <enclosure url="http://croaod.cz/download/e990c66f-f5b2-4ed3-a985-69f0e2852846.mp3" type="audio/mpeg" length="38308653" />
       <guid isPermaLink="false">c7594512-ded0-3917-828c-6b543dcfb000</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/c7594512-ded0-3917-828c-6b543dcfb000</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Procházková z Narvy: Rusové se cítí jako občané druhé třídy</title>
       <description>Estonsko stejně jako další pobaltské země sleduje válku na Ukrajině s obavami o svou vlastní suverenitu a bezpečnost, a to i s ohledem na početnou ruskojazyčnou menšinu. „Chtěla jsem zjistit, jak moc je to ruské obyvatelstvo pátou kolonou – jak moc se těší, anebo naopak bojí případného ruského útoku,“ vysvětluje pro Český rozhlas Plus novinářka Deníku N Petra Procházková, proč se po letech vrátila do Narvy, rozděleného města na hranicích s Ruskem.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=c4503afe-0a58-3c61-af4c-2a29cacfa3ef"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -86,7 +86,7 @@
       <enclosure url="http://croaod.cz/download/2b1e05e0-d114-4219-91f6-fbd7e40e7bde.mp3" type="audio/mpeg" length="37590957" />
       <guid isPermaLink="false">c4503afe-0a58-3c61-af4c-2a29cacfa3ef</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/c4503afe-0a58-3c61-af4c-2a29cacfa3ef</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Baková: Mladé Slováky vyhání za hranice negativní atmosféra</title>
       <description>Slovenská vláda po svém nástupu slibovala orientaci na všechny světové strany, její zahraniční politika ale zatím směřuje hlavně na východ. „Je to rétorika převzatá od Vladimíra Mečiara. Premiér Robert Fico už příliš nejezdí na návštěvy evropských zemí, takže ani nevíme, kde je ten největší spojenec,“ přibližuje slovenská novinářka a nová vedoucí Zahraniční redakce Českého rozhlasu Oľga Baková.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=c995b11a-7080-3eaa-a00e-5a982a81395d"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -97,7 +97,7 @@
       <enclosure url="http://croaod.cz/download/998c83eb-7eb9-4b60-997f-8330de07ad4b.mp3" type="audio/mpeg" length="37872621" />
       <guid isPermaLink="false">c995b11a-7080-3eaa-a00e-5a982a81395d</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/c995b11a-7080-3eaa-a00e-5a982a81395d</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Analytik: Emisní povolenky pro domácnosti neodvrátíme</title>
       <description>Ekonomové se předhánějí v odhadech, o kolik nové emisní povolenky prodraží náš život. Podle analytika Ondřeje Sklenáře z Asociace pro mezinárodní otázky se nepřímo promítnou do ceny většiny zboží a služeb, přímé dopady se ale budou lišit podle toho, jaký typ vytápění a dopravy domácnosti využívají. „Těch s centrálním vytápěním, jejichž členové jezdí tramvají, se prakticky nedotknou, největší naopak budou u těch, kteří topí uhlím a do práce jezdí osobním autem,“ shrnuje.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=204404c9-f428-3854-9440-42381238ac46"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -108,7 +108,7 @@
       <enclosure url="http://croaod.cz/download/73a5f9cf-c21e-4283-9366-b03cb6295d31.mp3" type="audio/mpeg" length="37434285" />
       <guid isPermaLink="false">204404c9-f428-3854-9440-42381238ac46</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/204404c9-f428-3854-9440-42381238ac46</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Velvyslankyně Šmigolová: Hamásu na Palestincích nezáleží</title>
       <description>Izrael vyšetřuje pondělní tragický útok na nemocnici v Chán Júnisu, při kterém na jihu Pásma Gazy zemřelo 20 lidí včetně 5 novinářů. Podle české velvyslankyně v Izraeli Veroniky Kuchyňové Šmigolové je nyní útok předmětem vyšetřování, premiér Benjamin Netanjahu se za něj ale již omluvil. „Dosud vždy, když izraelská armáda omylem zasáhla civilní cíl, tak to přiznala, vyšetřila a vyvodila důsledky,“ tvrdí.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=c0a4f905-a731-3294-883b-481ac200d35b"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -119,7 +119,7 @@
       <enclosure url="http://croaod.cz/download/aed9e0fa-4bf7-4f32-abba-4900bebef5a3.mp3" type="audio/mpeg" length="36570285" />
       <guid isPermaLink="false">c0a4f905-a731-3294-883b-481ac200d35b</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/c0a4f905-a731-3294-883b-481ac200d35b</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Reportér Novák: Putin je posedlý Ukrajinou. Věří, že ji zlomí</title>
       <description>Pro případná jednání ukrajinského prezidenta Volodymyra Zelenského a ruského vůdce Vladimira Putina je podle řady komentátorů klíčová otázka bezpečnostních záruk – ty dosavadní totiž Ukrajině bezpečí nezajistily. „Ukrajina potřebuje, aby bylo jasně garantováno, že pokud se Rusko potřetí pokusí ji napadnout a měnit její hranice, tak to musí znamenat jasné následky,“ říká pro Český rozhlas Plus reportér Seznam Zpráv Martin Novák.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=ebdcea68-5b1e-35f1-84d0-4e6e7ccfecc3"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -130,7 +130,7 @@
       <enclosure url="http://croaod.cz/download/4d2bbf8d-c3d4-4143-8eae-4607dd4a0538.mp3" type="audio/mpeg" length="36516141" />
       <guid isPermaLink="false">ebdcea68-5b1e-35f1-84d0-4e6e7ccfecc3</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/ebdcea68-5b1e-35f1-84d0-4e6e7ccfecc3</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Věchet: Už Václav Havel věděl, za čím se jezdí na TrutnOFF</title>
       <description>V Trutnově se do neděle koná TrutnOFF, nejstarší rockový festival u nás. Takzvaný východočeský Woodstock má 41letou tradici a počátky spojené s komunistickou perzekucí i Václavem Havlem, který má dodnes oficiální titul Náčelník. „Jak říkal, lidé sem jezdí za atmosférou spiklenecké pospolitosti. Ten festival není jen o hudbě, ale také o setkávání,“ popisuje jeho zakladatel Martin Věchet, přezdívaný Geronimo.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=28e50242-991d-38f1-9d1a-5a5dccd73d5d"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -141,7 +141,7 @@
       <enclosure url="http://croaod.cz/download/9ee896fa-937b-41df-893f-7857e22cb0e9.mp3" type="audio/mpeg" length="38081709" />
       <guid isPermaLink="false">28e50242-991d-38f1-9d1a-5a5dccd73d5d</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/28e50242-991d-38f1-9d1a-5a5dccd73d5d</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Nový syrský prezident vládne pragmaticky, popisuje zpravodaj</title>
       <description>Sýrie si zvyká na novou politickou situaci po pádu režimu Bašára Asada a 30 letech vlády jedné strany. Země se postupně dostává z mezinárodní izolace, nad novou vládu se ale vznáší stín džihádistické minulosti prozatímního prezidenta Ahmada Šary. „Zatím vládne absolutně pragmaticky, zatím se neprojevily možné islamistické sklony. A drží se hodně v pozadí, neviděl jsem jediný jeho portrét,“ popisuje v Interview Plus blízkovýchodní zpravodaj Českého rozhlasu Štěpán Macháček.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=4ec4ab31-b4f1-3cac-bd8f-a9cd9478f14a"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -152,7 +152,7 @@
       <enclosure url="http://croaod.cz/download/9b63a947-a1c7-43fc-8978-0601a861c9b1.mp3" type="audio/mpeg" length="37786221" />
       <guid isPermaLink="false">4ec4ab31-b4f1-3cac-bd8f-a9cd9478f14a</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/4ec4ab31-b4f1-3cac-bd8f-a9cd9478f14a</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Eurokomisař Hansen: S prázdným žaludkem nelze vyhrát válku</title>
       <description>Černá středa pro evropské zemědělství – tak farmářské organizace ve státech sedmadvacítky nazvaly 16. červenec, kdy Evropská komise představila návrh nového víceletého rozpočtu. V něm je totiž pro zemědělství vyhrazeno 300 miliard eur, tedy o 86 miliard méně než v tom stávajícím. „Jde o absolutní minimum. Vedle toho bude na členských státech, aby si řekly, kolik peněz chtějí do zemědělství investovat,“ podotýká v Interview Plus eurokomisař pro zemědělství Christophe Hansen.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=a6f0463e-7d58-3981-bf4c-40926fd02d7f"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -163,7 +163,7 @@
       <enclosure url="http://croaod.cz/download/ca47707f-fbce-4c02-9971-5b92e6deb9b8.mp3" type="audio/mpeg" length="33633837" />
       <guid isPermaLink="false">a6f0463e-7d58-3981-bf4c-40926fd02d7f</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/a6f0463e-7d58-3981-bf4c-40926fd02d7f</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Šídlo: Volební úspěch nekoalice SPD změní českou politiku</title>
       <description>Do českých parlamentních voleb zbývá sedm týdnů a většinu politických uskupení spojuje především to, že doposud nepředstavili své volební programy. Vládní koalice Spolu (ODS, TOP 09, KDU-ČSL) ho představí ve středu, v předvečer výročí invaze vojsk Varšavské smlouvy. „Je to symbolické, předpokládám tam silný důraz na bezpečnost, zahraniční politiku a hodnoty. Otázkou je, co dalšího ještě nabídne,“ poznamenává komentátor serveru Seznam Zprávy Jindřich Šídlo.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=d8ea0c81-d0f9-3c88-826f-bae49e7c0623"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -174,7 +174,7 @@
       <enclosure url="http://croaod.cz/download/2b5cc2e4-4337-4555-a219-9a224a7f8262.mp3" type="audio/mpeg" length="36749997" />
       <guid isPermaLink="false">d8ea0c81-d0f9-3c88-826f-bae49e7c0623</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/d8ea0c81-d0f9-3c88-826f-bae49e7c0623</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Bžoch: Při jednání s Putinem se musí síla ukazovat s rozumem</title>
       <description>Summit amerického prezidenta Donalda Trumpa s ruskou hlavou státu Vladimirem Putinem nepřinesl žádné konkrétní závěry. „I přesto, že ta limuzína, červený koberec, i to Trumpovo vřelé přivítání Putina byly pro hodně lidí, kteří to sledovali, poněkud silnou kávou. Já si ale myslím, že jediný, kdo dokázal Putina ke stolu dostat, byl Donald Trump. Musíme se v tom nějak zorientovat a dělat i takovéhle kroky,“ říká v Interview Plus europoslanec Jaroslav Bžoch (ANO).&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=a23d7524-2018-34b5-8706-89b00982d454"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -185,7 +185,7 @@
       <enclosure url="http://croaod.cz/download/56b4542f-5dfe-4a31-ad88-6e711b99c5fc.mp3" type="audio/mpeg" length="37892781" />
       <guid isPermaLink="false">a23d7524-2018-34b5-8706-89b00982d454</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/a23d7524-2018-34b5-8706-89b00982d454</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Klvaňa: Jednání může začít až po tvrdých sankcích na Rusko</title>
       <description>Americký prezident Donald Trump na Aljašce hostí Vladimira Putina. Evropští lídři před summitem vyjádřili podporu Ukrajině a podle BBC hledí do budoucna s opatrným optimismem. Ten ovšem nesdílí ředitel středoevropské pobočky Aspen Institute Tomáš Klvaňa. „Cílem těchto prohlášení možná je manipulovat Trumpovou myslí,“ uvádí s tím, že někteří komentátoři možná doufají, že Trumpa svými titulky ovlivní.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=70e9e635-cb1f-3b71-aea6-537c6e25c89c"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -196,7 +196,7 @@
       <enclosure url="http://croaod.cz/download/1b929886-a643-4f51-aebf-e523445685d4.mp3" type="audio/mpeg" length="37751661" />
       <guid isPermaLink="false">70e9e635-cb1f-3b71-aea6-537c6e25c89c</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/70e9e635-cb1f-3b71-aea6-537c6e25c89c</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Dorazín: Unesené děti si Rusové vybírají podle barvy očí</title>
       <description>Americký prezident Donald Trump ujistil evropské lídry, že cílem páteční schůzky s Vladimirem Putinem je příměří a nemá v plánu diskutovat o dělení území. Na Ukrajině na to ale podle zpravodaje Českého rozhlasu Martina Dorazína pohlížejí s nedůvěrou. „Obsah a výsledky spoustu lidí i politiků tady spíš děsí, než že by se těšili na opravdu mírové řešení v dohledné době,“ uvádí.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=0b169a1c-e389-3766-a9ac-ea0cda3f3874"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -207,7 +207,7 @@
       <enclosure url="http://croaod.cz/download/2964edbe-4212-46b2-a9dd-f9584e824627.mp3" type="audio/mpeg" length="37206189" />
       <guid isPermaLink="false">0b169a1c-e389-3766-a9ac-ea0cda3f3874</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/0b169a1c-e389-3766-a9ac-ea0cda3f3874</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Analytik Nerad: Trumpův aljašský Mnichov? Ukrajinu neprodá</title>
       <description>Německý kancléř Friedrich Merz ve středu pořádá virtuální schůzku evropských lídrů s americkým prezidentem Donaldem Trumpem. Podle Filipa Nerada, bývalého analytika Českého rozhlasu, se ho budou snažit přesvědčit, aby na pátečním summitu se svým ruským protějškem Vladimirem Putinem hájil zájmy Evropy a Ukrajiny. „Scénář by podle nich měl být takový, že nejprve dojde k zastavení bojů a příměří,“ přibližuje pro Český rozhlas Plus ředitel komunikace think-tanku Globsec.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=eef2395e-bc57-3040-86b1-ebe8e2d11f3a"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -218,7 +218,7 @@
       <enclosure url="http://croaod.cz/download/8f3062b5-e7f6-4209-952c-c6803ebb0531.mp3" type="audio/mpeg" length="37221741" />
       <guid isPermaLink="false">eef2395e-bc57-3040-86b1-ebe8e2d11f3a</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/eef2395e-bc57-3040-86b1-ebe8e2d11f3a</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Expertka: Letos jsou mobilizovaní voliči antisystému</title>
       <description>Volby by v srpnu vyhrálo hnutí ANO, s odstupem druhá koalice Spolu (ODS, KDU-ČSL a TOP 09) už jeho náskok zřejmě do začátku října nesmaže. „Zaostává přibližně o 9 procentních bodů, v našem měření dostala 18,7 procenta, což je o něco méně než minulý měsíc. Její volební kampaň není moc viditelná a dojíždí kauza exministra Pavla Blažka,“ komentuje Tereza Friedrichová, výzkumnice agentury NMS Market Research.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=d5f8443f-46c9-3611-8773-d478be711fbd"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -229,7 +229,7 @@
       <enclosure url="http://croaod.cz/download/271f6de5-8d2b-4fb0-9ac5-e466cf51a632.mp3" type="audio/mpeg" length="37472877" />
       <guid isPermaLink="false">d5f8443f-46c9-3611-8773-d478be711fbd</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/d5f8443f-46c9-3611-8773-d478be711fbd</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Geograf Jelen: Trump si nedokáže připustit, že v přístupu k Rusku udělal chybu. Točíme se v kruhu</title>
       <description>Prezident Donald Trump a Vladimir Putin se koncem týdne setkají na Aljašce. Přizván (zatím) nebyl lídr napadené Ukrajiny Volodymyr Zelenskyj. „Putin bude prodávat veškeré důsledky setkání. Zároveň si myslím, že se trochu bojí, jestli tam nakonec Zelenskyj opravdu nepřijede a jestli se s ním nebude muset setkat,“ říká pro Český rozhlas Plus Libor Jelen, politický geograf z Přírodovědecké fakulty Univerzity Karlovy. &lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=7b2a256e-5ab4-3819-b608-279000c93112"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -240,7 +240,7 @@
       <enclosure url="http://croaod.cz/download/332174d8-9562-4fbd-8722-b216ff685178.mp3" type="audio/mpeg" length="38060397" />
       <guid isPermaLink="false">7b2a256e-5ab4-3819-b608-279000c93112</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/7b2a256e-5ab4-3819-b608-279000c93112</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Taterová: Izrael obsadí město Gaza? Efekt to mít nemusí</title>
       <description>Izraelský bezpečnostní kabinet odmítl plán premiéra Benjamina Netanjahua na okupaci celého Pásma Gazy, ale přistoupil na obsazení města Gaza. „Objevuje se i interpretace, že to není kompromis, ale první fáze a podle reakce následně politické a vojenské vedení Izraele rozhodne jak dál,“ doplňuje pro Český rozhlas Plus historička z Ústavu pro soudobé dějiny Akademie věd Eva Taterová.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=dd6ebdf2-8d1e-399a-8d40-e120dcad301b"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -251,7 +251,7 @@
       <enclosure url="http://croaod.cz/download/47952731-a37f-47d8-b20e-a30cea944a73.mp3" type="audio/mpeg" length="37987245" />
       <guid isPermaLink="false">dd6ebdf2-8d1e-399a-8d40-e120dcad301b</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/dd6ebdf2-8d1e-399a-8d40-e120dcad301b</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Bankéř: Trh si na cla zvykl, důsledky ale uvidíme až zpětně</title>
       <description>Ve Spojených státech začala platit nová cla na dovoz zboží z desítek zemí světa. Na většinu výrobků z EU platí patnáctiprocentní clo. Ekonomové ale ujišťují, že důležitá jednání teprve začínají a mnoho zboží může dostat výjimku. „Uvidíme, jak budou reagovat trhy, ale je vidět, že zásadní přeměna světového obchodu zůstává pro Donalda Trumpa veliké téma,“ říká pro Český rozhlas Plus investiční bankéř Ondřej Jonáš.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=44992c23-c0a0-3aee-ac1d-d2ef8a42dedf"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -262,7 +262,7 @@
       <enclosure url="http://croaod.cz/download/5e1ef33a-9267-44e2-a39e-783534e79647.mp3" type="audio/mpeg" length="37621485" />
       <guid isPermaLink="false">44992c23-c0a0-3aee-ac1d-d2ef8a42dedf</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/44992c23-c0a0-3aee-ac1d-d2ef8a42dedf</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Krupař: Rusové soudí, že jsou vyvolení a mají právo na vše</title>
       <description>Na Ukrajinu dál dopadají ruské rakety a drony, ve zprávách o civilních obětech se ale ztrácejí informace o dění na frontě. Za ukrajinskými vojáky pravidelně jezdí fotograf Stanislav Krupař, podle kterého se situace postupně zhoršuje. „Není kritická v tom smyslu, že by fronta zkolabovala, ale každý den Rusové postupují o stovky metrů a lidí je čím dal větší nedostatek,“ popisuje pro Český rozhlas Plus.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=b8c2015b-0614-3b8b-b59d-6089f62bc579"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -273,7 +273,7 @@
       <enclosure url="http://croaod.cz/download/1b1c7ef7-2243-4253-a2b9-2f4f104c26fb.mp3" type="audio/mpeg" length="36894573" />
       <guid isPermaLink="false">b8c2015b-0614-3b8b-b59d-6089f62bc579</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/b8c2015b-0614-3b8b-b59d-6089f62bc579</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Kováč: Fico po útoku vystupuje bez omezení, ruší ale program</title>
       <description>V Banské Bystrici pokračuje soud s Jurajem Cintulou, mužem obžalovaným z toho, že v roce 2024 zaútočil na premiéra Roberta Fica. V rámci projednávání se slovenská veřejnost poprvé blíže seznámila s detaily o zdravotním stavu předsedy vlády po útoku v Handlové. „To, jaký má zdravotní stav, je částečně vidět z jeho veřejných vystoupení. Ale veřejnost by měla vědět, jestli je schopný vykonávat příslušnou ústavní funkci,“ říká slovenský soudní lékař a advokát Peter Kováč.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=89060705-6d3f-3f04-9e65-4cf37e3036e6"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -284,7 +284,7 @@
       <enclosure url="http://croaod.cz/download/e3ede6ca-f3c1-4d41-9590-7f7c51cd3be0.mp3" type="audio/mpeg" length="37172781" />
       <guid isPermaLink="false">89060705-6d3f-3f04-9e65-4cf37e3036e6</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/89060705-6d3f-3f04-9e65-4cf37e3036e6</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Matesová: Celní dohoda byla nejméně škodlivá varianta</title>
       <description>Ve čtvrtek 7. srpna začnou platit americká cla, která Donald Trump uvalil na desítky států. Poslední dohoda dojednaná s předsedkyní Evropské komise Ursulou von der Leyenovou stanovuje jejich výši pro evropské zboží na 15 procent. „Přes tento strop se nepůjde. Ale o tom, které výrobky budou mít tuto sazbu a které budou mít méně, se teprve bude jednat,“ upozorňuje pro Český rozhlas Plus ekonomka a bývalá česká zástupkyně u Světové banky Jana Matesová.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=7269a740-ffe1-33a2-90f9-2cee334417fe"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -295,7 +295,7 @@
       <enclosure url="http://croaod.cz/download/0090651d-18b4-4da4-b6ef-eb3c81ca357d.mp3" type="audio/mpeg" length="37683117" />
       <guid isPermaLink="false">7269a740-ffe1-33a2-90f9-2cee334417fe</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/7269a740-ffe1-33a2-90f9-2cee334417fe</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Prouza: Evropa bude od USA nakupovat energie a zbraně. Jak?</title>
       <description>Americký prezident Donald Trump podepsal příkaz, který zavádí nová cla. Od 7. srpna tak začne pro státy Evropské unie platit clo 15 procent na většinu zboží, které vyváží do Spojených států. „Všechny zkušenosti s Donaldem Trumpem ukazují, že reaguje jenom na jednu jedinou věc, a to je síla. Ve chvíli, kdy se mu někdo vzdává, jenom stupňuje své požadavky,“ říká v Interview Plus prezident Svazu obchodu a cestovního ruchu České republiky Tomáš Prouza.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=64b11f97-fa0e-3a22-ae4b-bf8bcfcba0fb"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -306,7 +306,7 @@
       <enclosure url="http://croaod.cz/download/96ecc295-0737-420d-a645-40cfa2aa1a0d.mp3" type="audio/mpeg" length="36956781" />
       <guid isPermaLink="false">64b11f97-fa0e-3a22-ae4b-bf8bcfcba0fb</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/64b11f97-fa0e-3a22-ae4b-bf8bcfcba0fb</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Tureček: Izraeli nejde jen o bezpečí, ale i o svou expanzi</title>
       <description>Katastrofální humanitární situace v Pásmu Gazy vede další země k myšlence uznat samostatnost palestinského státu. Po Francii a Británii oznámila svůj záměr také Kanada a Malta. „Posiluje to palestinské pozice a oslabuje to izraelské pozice, takže není divu, že se Izraelci rozčilují. Určitě budou zase mluvit o antisemitismu jako mnohokrát v minulosti,“ říká v pořadu Interview Plus vedoucí Centra pro studium Blízkého východu na Metropolitní univerzitě v Praze Břetislav Tureček.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=61f40206-0829-3d27-94e9-9b1d3ada0673"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -317,7 +317,7 @@
       <enclosure url="http://croaod.cz/download/4143bb12-15d4-432e-af34-1125fa476887.mp3" type="audio/mpeg" length="36884781" />
       <guid isPermaLink="false">61f40206-0829-3d27-94e9-9b1d3ada0673</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/61f40206-0829-3d27-94e9-9b1d3ada0673</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Michal: Okamuru a SPD bych za „doktory z dovozu“ obžaloval</title>
       <description>Policie navrhuje obžalovat Tomia Okamuru a jeho hnutí SPD z podněcování k nenávisti kvůli plakátům, na kterých byl například muž tmavé pleti s krvavým nožem v ruce a text „Nedostatky ve zdravotnictví nevyřeší chirurgové z dovozu“. „Ačkoliv jde o svobodu slova, tak si myslím, že státní zástupce by měl podat obžalobu na hnutí SPD a na Tomia Okamuru,“ soudí v pořadu Interview Plus Aleš Michal z Institutu politologických studií Fakulty sociálních věd Univerzity Karlovy.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=98712ba6-1fa8-3fa8-8f23-8625e54f51a8"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -328,7 +328,7 @@
       <enclosure url="http://croaod.cz/download/99c8067e-7090-4564-b617-d35e5544e245.mp3" type="audio/mpeg" length="37644525" />
       <guid isPermaLink="false">98712ba6-1fa8-3fa8-8f23-8625e54f51a8</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/98712ba6-1fa8-3fa8-8f23-8625e54f51a8</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Ovčáček: Na straně Ukrajiny budu až do konce. Své svědectví chci sdělit těm, kteří mají jiný názor</title>
       <description>Když se na počátku roku 2022 ruský prezident Vladimir Putin chystal napadnout Ukrajinu, vysmíval se tehdejší český prezident Miloš Zeman varovným zprávám tajných služeb a tvrdil, že Rusové žádný útok nepodniknou. Jeho tiskový mluvčí Jiří Ovčáček ale podle svých slov už tehdy tušil, že se konflikt blíží: „Pro mě to bylo období, které přineslo velké změny do mého života. A hodně mě to Ukrajině přiblížilo,“ popisuje v Interview Plus.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=66444af3-d5eb-3325-be5a-b4ec72b96405"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -339,7 +339,7 @@
       <enclosure url="http://croaod.cz/download/455acf6c-a9b1-43dd-ab6b-4c1977adcc34.mp3" type="audio/mpeg" length="37310445" />
       <guid isPermaLink="false">66444af3-d5eb-3325-be5a-b4ec72b96405</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/66444af3-d5eb-3325-be5a-b4ec72b96405</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Vrecionová: Krácení dotací zasáhne hlavně velké zemědělce</title>
       <description>Evropská komise chce v příštím rozpočtovém období dále škrtat ve společné zemědělské politice, na niž v minulosti vynakládala až polovinu svého rozpočtu. „Nyní je to třetina a má se to postupně snižovat. Já se často pohybuji mezi zemědělci, mluvím s malými, středními i velkými a každý vám řekne, že by byl nejraději, aby dotace nebyly. Ale muselo by to být spravedlivé,“ zdůrazňuje europoslankyně Veronika Vrecionová (ODS).&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f6bff1a9-4fff-3192-937b-2ab4f0c8677e"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -350,7 +350,7 @@
       <enclosure url="http://croaod.cz/download/ab44f453-dbbd-47d1-b445-47a6d7407382.mp3" type="audio/mpeg" length="35463789" />
       <guid isPermaLink="false">f6bff1a9-4fff-3192-937b-2ab4f0c8677e</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/f6bff1a9-4fff-3192-937b-2ab4f0c8677e</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Ciglerová: Že Trump znal Epsteina má doložit i kresba</title>
       <description>Bílý dům popírá, že se prezidentovo jméno objevilo při vyšetřování Jeffreyho Epsteina, kontroverzního finančníka, který v roce 2019 údajně  spáchal sebevraždu ve vězení, kde čekal na soud kvůli zneužívání nezletilých dívek. „Bezpečně víme, že se znali velmi dobře. Jestli se znali až tak dobře, jak si někteří myslí, to se zatím nepotvrdilo, na to k tomu nejsou důkazy,“ shrnuje pro Český rozhlas Plus novinářka Jana Ciglerová z Deníku N . &lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=8d96bd42-ad7c-3232-992a-acb77d1f6a65"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -361,7 +361,7 @@
       <enclosure url="http://croaod.cz/download/610cb6cf-bea3-43e0-8791-38a9cfb83461.mp3" type="audio/mpeg" length="37532781" />
       <guid isPermaLink="false">8d96bd42-ad7c-3232-992a-acb77d1f6a65</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/8d96bd42-ad7c-3232-992a-acb77d1f6a65</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Pýcha: Zemědělci jsou závislí na dotacích a ty se krátí</title>
       <description>Ministerstvo zemědělství chce podporovat chov zvířat na maso, pěstování ovoce, zeleniny, brambor a chmele. Počítá s tím strategie českého zemědělství do roku 2033, kterou ve středu schválila vláda. Šéf Zemědělského svazu Martin Pýcha dokument zprvu uvítal, pak prý ale přišlo zklamání. „Nezohledňuje klíčové výzvy, podle našeho názoru to vlastně není strategie. Na jednání Sněmovny zaznělo, že stejně skončí v šuplíku. A já se obávám, že to tak bude,“ říká pro Český rozhlas Plus.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=f89f6899-5199-3479-b32a-00ab0a014bdf"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -372,7 +372,7 @@
       <enclosure url="http://croaod.cz/download/a522a913-59f7-4c7e-a648-29ac2c558579.mp3" type="audio/mpeg" length="37278765" />
       <guid isPermaLink="false">f89f6899-5199-3479-b32a-00ab0a014bdf</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/f89f6899-5199-3479-b32a-00ab0a014bdf</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Schneider: Izraelci se v Gaze dostávají do pozice viníků</title>
       <description>Na tři desítky zemí v čele s Británií vyzvaly Stát Izrael, aby okamžitě zastavil válku v Pásmu Gazy. Česko svůj podpis nepřidalo. Podle ministerstva zahraničí ho nikdo k prohlášení nepřizval. „Iniciátoři, což byli patrně Britové, oslovovali ty země, u kterých odhadovali, že by mohli uspět. Nemyslím si, že se musíme stydět za to, že se každý hned neptá Česka,“ hodnotí pro Český rozhlas Plus bývalý diplomat Jiří Schneider.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=11d2a12d-6c50-3c54-8b3f-773d5070332a"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -383,7 +383,7 @@
       <enclosure url="http://croaod.cz/download/a570887a-aeee-4758-bc33-f72d0c12ee0b.mp3" type="audio/mpeg" length="37579437" />
       <guid isPermaLink="false">11d2a12d-6c50-3c54-8b3f-773d5070332a</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/11d2a12d-6c50-3c54-8b3f-773d5070332a</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Novinář z Kyjeva: Zvuk dronu drtí nervy víc než rakety</title>
       <description>Ve středu se má v Turecku konat třetí kolo přímých rusko-ukrajinských mírových rozhovorů. Mezitím Rusko pokračuje v útocích na ukrajinská města. V noci z neděle na pondělí zasáhly rakety v Kyjevě i část krytu v metru. „Dnešní noc (na středu) byla klidná, ale ta předchozí byla hlasitá od tří do pěti ráno. Město bylo pod rozsáhlým dronovým útokem, myslím, že tam byly i balistické rakety,“ popisuje novinář Adam Sybera, který poplach podle pravidla dvou stěn strávil na chodbě.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=ecdaf89b-b8fa-3a6c-bd51-77b56d245ef1"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -394,7 +394,7 @@
       <enclosure url="http://croaod.cz/download/5c687c9a-058d-4f3a-a047-001edf295aa4.mp3" type="audio/mpeg" length="35524845" />
       <guid isPermaLink="false">ecdaf89b-b8fa-3a6c-bd51-77b56d245ef1</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/ecdaf89b-b8fa-3a6c-bd51-77b56d245ef1</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Šmarda: Maláčová podlehla malověrným ve svém okolí</title>
       <description>Sociální demokracie půjde do voleb pod hlavičkou hnutí Stačilo!, jehož součástí je i KSČM. Podle předsedkyně SOCDEM Jany Maláčové to je jediný způsob, jak zajistit, že ve volbách nepropadnou hlasy levicových voličů. Pro jejího předchůdce Michala Šmardu je to ale stejně jako pro další sociálně demokratické politiky důvod, proč po 32 letech stranu opustit. „Sociální demokracie byla vždy ohleduplná k lidem, kteří jsou slabší. To teď bude chybět,“ říká  pro Český rozhlas Plus.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=fe32d8ef-8ace-39f5-970d-633b677ee5b7"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -405,7 +405,7 @@
       <enclosure url="http://croaod.cz/download/884cd6a9-cace-4a47-a129-176b86b8eac0.mp3" type="audio/mpeg" length="37442925" />
       <guid isPermaLink="false">fe32d8ef-8ace-39f5-970d-633b677ee5b7</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/fe32d8ef-8ace-39f5-970d-633b677ee5b7</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Varga: Orbánova protiukrajinská karta na Magyara nestačí</title>
       <description>Maďarsko čekají za necelý rok parlamentní volby, ve kterých se maďarský premiér Viktor Orbán pokusí o páté vítězství v řadě. Poprvé po 15 letech mu ale roste konkurence v osobě lídra nové opoziční strany TISZA Pétera Magyara. „Je dost podobný mladému Orbánovi. Má charisma, podobně jako Orbán má sebejisté vystupování, dobře mluví a ví, jak funguje mocenská mašinerie Fideszu. Komunikuje přesně tak, aby to druhou stranu bolelo,“ popisuje bohemista a diplomat György Varga.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=ae943e4f-d202-3ca1-9e94-60dce923756a"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -416,7 +416,7 @@
       <enclosure url="http://croaod.cz/download/062072a2-abee-446e-9e3d-84f8372202e8.mp3" type="audio/mpeg" length="35936685" />
       <guid isPermaLink="false">ae943e4f-d202-3ca1-9e94-60dce923756a</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/ae943e4f-d202-3ca1-9e94-60dce923756a</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Novinář Sobota: Newyorčany trápí vysoké životní náklady</title>
       <description>Starostou desetimilionového New Yorku bude podle papírových předpokladů Zohran Mamdani, který zvítězil v demokratických primárkách – mladý socialista, imigrant a muslim, který slibuje zmrazení nájmů, autobusy zdarma a samoobsluhy pro chudé. „V New Yorku téměř vždy vyhraje demokratických kandidát, registrovaných republikánů je zde šestkrát méně než demokratů. Jenže letos je to trochu jinak,“ upozorňuje pro Český rozhlas Plus novinář týdeníku Respekt Jiří Sobota.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=9c8a961e-a35b-3293-9709-f37eadf3494b"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -427,7 +427,7 @@
       <enclosure url="http://croaod.cz/download/b12aba67-b95d-4824-bbb8-aa1c325c7829.mp3" type="audio/mpeg" length="35737965" />
       <guid isPermaLink="false">9c8a961e-a35b-3293-9709-f37eadf3494b</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/9c8a961e-a35b-3293-9709-f37eadf3494b</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Exekutor: Lidé se exekuce nebojí, potřebujeme nové nástroje</title>
       <description>Senátem prošla novela občanského zákoníku, která umožní prodej dlužného výživného exekutorům. Jak ale upozorňuje pro Český rozhlas Plus soudní exekutor Martin Štika, obecná vymahatelnost se dnes pohybuje jen okolo 30 procent, ať jde o výživné nebo třeba o spotřebitelský úvěr: „Zákoník říká, že ten, kdo si to koupí, tak to musí koupit za 100 procent dlužné částky. To znamená, že na tom pravděpodobně bude tratit peníze.“&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=1a3fc1be-58c6-38b1-b3e0-14cc54cd5505"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -438,7 +438,7 @@
       <enclosure url="http://croaod.cz/download/61244420-a47e-4459-9c19-407cf0a8f0fa.mp3" type="audio/mpeg" length="37650861" />
       <guid isPermaLink="false">1a3fc1be-58c6-38b1-b3e0-14cc54cd5505</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/1a3fc1be-58c6-38b1-b3e0-14cc54cd5505</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Ekonom: Rusové i trhy si zvykli nebrat Trumpa doslova</title>
       <description>Americký prezident Donald Trump dává Rusku 50 dní na uzavření mírové dohody s Ukrajinou, jinak proti němu a jeho obchodním partnerům zavede dovozní cla ve výši 100 procent. „Pokud by byla hrozba takto vysokých cel naplněna, bylo by to pro země jako například Indie závažné. Ale lhůta končí až na začátku září a nevíme, co se do té doby stane,“ upozorňuje pro Český rozhlas Plus ekonom Jaroslav Borovička z New York University ve Spojených státech.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=4f09a56a-cb98-3ba3-bfda-9fc5f75004f8"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -449,7 +449,7 @@
       <enclosure url="http://croaod.cz/download/e7ea027c-bc52-4653-9fae-5c9def42ad08.mp3" type="audio/mpeg" length="35577837" />
       <guid isPermaLink="false">4f09a56a-cb98-3ba3-bfda-9fc5f75004f8</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/4f09a56a-cb98-3ba3-bfda-9fc5f75004f8</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Máca: Rusko rozkládá českou společnost jako kdysi nacisté</title>
       <description>Bezpečnostní informační služba (BIS) ve své výroční zprávě varuje před pokračujícími aktivitami ruských zpravodajských služeb na českém území. Snaží se prý obnovit špionážní struktury pod diplomatickým krytím a verbovat agenty k sabotážním akcím. „Primární cíl je vyloženě rozkládat českou společnost, podobně jako to dělalo třeba nacistické Německo proti Československu. Je to v podstatě předvoj raket,“ míní pro Český rozhlas Plus bezpečnostní analytik Roman Máca.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=07aa037b-90a8-3cd6-a176-1e5c6c28e134"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -460,7 +460,7 @@
       <enclosure url="http://croaod.cz/download/4f12696a-39ab-45ae-b96f-8d7710025ad9.mp3" type="audio/mpeg" length="37269549" />
       <guid isPermaLink="false">07aa037b-90a8-3cd6-a176-1e5c6c28e134</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/07aa037b-90a8-3cd6-a176-1e5c6c28e134</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Stulík: Rusko na frontě víc nezmůže, proto útočí na města</title>
       <description>Účastníci dárcovské konference v Římě slíbili Ukrajině 12 miliard dolarů, peníze by měly jít na obnovu země po válce. Škody, které Rusové Ukrajincům způsobují, se ale den ode dne zvyšují. „Je důležité vytvořit lidem příslib budoucnosti, že nejsou sami a budou se moci vracet do své země,“ říká zvláštní zmocněnec ministerstva zahraničí pro východní partnerství David Stulík.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=ec0f7448-9b4d-3b66-95e7-e3ec3b53a91f"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -471,7 +471,7 @@
       <enclosure url="http://croaod.cz/download/4d905f70-b1e3-4a81-b555-8f5e442e2ba0.mp3" type="audio/mpeg" length="37945773" />
       <guid isPermaLink="false">ec0f7448-9b4d-3b66-95e7-e3ec3b53a91f</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/ec0f7448-9b4d-3b66-95e7-e3ec3b53a91f</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Nerudová: Evropská komise nedělá dost pro zlevnění energií</title>
       <description>Předsedkyně Evropské komise Ursula von der Leyenová ve čtvrtek ustála hlasování o nedůvěře v Evropském parlamentu. Vyvolaly ho krajně pravicové frakce kvůli pochybnostem o jejím postupu při zajišťování vakcín během pandemie. Šéfku Komise ale kritizují i frakce, které ji dříve zvolili. „Je svátek demokracie, že hlasování máme. Ale vzhledem ke geopolitické situaci jsem ani na chvíli nepochybovala, že ten návrh nepodpořím,“ řekla dopoledne europoslankyně Danuše Nerudová (STAN).&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=9e943ec7-8c81-3fec-b30c-011fbacd61dc"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -482,7 +482,7 @@
       <enclosure url="http://croaod.cz/download/3a0e48e4-0bd6-432c-b2b5-3aa90d5bd2b3.mp3" type="audio/mpeg" length="36080685" />
       <guid isPermaLink="false">9e943ec7-8c81-3fec-b30c-011fbacd61dc</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/9e943ec7-8c81-3fec-b30c-011fbacd61dc</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Raši hájí novelu ústavy: Nespekulujme o počtu pohlaví</title>
       <description>Slovenský premiér Robert Fico (Směr) varoval, že bezbřehý a zvrácený liberalismus a progresivismus můžou zničit Slovensko. Obranou proti tomu má být novela ústavy, kterou by měl podle premiéra přijmout parlament v září. „Probíhá tu hodnotový boj, ale vyjádření, že by bylo celé Slovensko ohrožené, bych nepoužil,“ mírní Ficova slova pro Český rozhlas Plus předseda Národní rady Slovenské republiky Richard Raši (Hlas).&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=1dac51a1-a86f-33dd-bc3c-011bb937a5dc"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -493,7 +493,7 @@
       <enclosure url="http://croaod.cz/download/03f224ad-a7f5-4f24-9712-14e9fb251e26.mp3" type="audio/mpeg" length="37386477" />
       <guid isPermaLink="false">1dac51a1-a86f-33dd-bc3c-011bb937a5dc</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/1dac51a1-a86f-33dd-bc3c-011bb937a5dc</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Diplomat: Česko je pro Japonce stabilní, perspektivní země</title>
       <description>Japonská Ósaka hostí po 55 letech znovu světovou výstavu EXPO. Svou kulturu a průmysl na ní prezentují desítky zemí včetně Česka. „Máme velmi hezký pavilon, který je na prestižním místě, takže ho nikdo nepřehlédne,“ vyzdvihuje v Interview Plus český velvyslanec v Japonsku Martin Klučar. „Je to architektonicky, ale taky konstrukčně velmi zdařilá budova. Poprvé je v Japonsku představována dřevostavba.“&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=1823209e-f302-3455-a009-fcabea439260"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -504,7 +504,7 @@
       <enclosure url="http://croaod.cz/download/f6bfc1ba-b380-427b-835e-489821bacec7.mp3" type="audio/mpeg" length="37558701" />
       <guid isPermaLink="false">1823209e-f302-3455-a009-fcabea439260</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/1823209e-f302-3455-a009-fcabea439260</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Miko: Cesta k uhlíkové neutralitě není lineární</title>
       <description>Návrh Evropské komise na omezení emisí oxidu uhličitého o 90 procent do roku 2040 se okamžitě setkal s ostrou kritikou, vymezil se vůči němu i český eurokomisař Jozef Síkela (za STAN). Podobně jako mnozí další se obává dopadů na ekonomiku. „Alternativou je neomezovat se. Ale to je ve všech aspektech i v dopadech na každého člověka horší,“ varuje poradce prezidenta pro otázky životního prostředí Ladislav Miko.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=de04d330-9d35-37b0-9754-514044633d93"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -515,7 +515,7 @@
       <enclosure url="http://croaod.cz/download/f04e1fc6-dbc0-4cba-a227-edf8cce78eec.mp3" type="audio/mpeg" length="37959597" />
       <guid isPermaLink="false">de04d330-9d35-37b0-9754-514044633d93</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/de04d330-9d35-37b0-9754-514044633d93</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Dětský ombudsman bude mít velký tým, říká Křižanová</title>
       <description>Česko má nově úřad dětského ochránce práv, ovšem zatím bez oficiálně zvoleného ombudsmana. Prezident příslušný zákon podepsal 10. března a účinnosti nabyl 1. července. „Mohlo se začít hned 1. července vytvářet celý proces, vybírat kandidáty, sestavovat hodnotící komisi. A ombudsman mohl být zvolen v následujících dvou třech měsících,“ kritizuje provizorium Barbora Křižanová z iniciativy 8000 důvodů, která je projektem Nadace J&amp;amp;amp;T.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=effa41c9-cfb3-3cdb-a973-9cac9f172aa2"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -526,7 +526,7 @@
       <enclosure url="http://croaod.cz/download/46363034-a66e-49aa-9d29-62ed4fc6df31.mp3" type="audio/mpeg" length="37851309" />
       <guid isPermaLink="false">effa41c9-cfb3-3cdb-a973-9cac9f172aa2</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/effa41c9-cfb3-3cdb-a973-9cac9f172aa2</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Švejnar: Chudší Američané ztratí sociální a zdravotní podpor</title>
       <description>Poslanci a senátoři věrní prezidentu Donaldu Trumpovi se usilovně snaží protlačit Kongresem klíčový ekonomický zákon. Takzvaný One Big Beautiful Bill by snížil některé daně, ale také by znamenal škrty v sociální oblasti a citelné zvýšení rozpočtového schodku USA. Proti jsou i někteří republikáni. „Je to nejzásadnější změna za poslední tři dekády. Pozitivní bude pro vyšší vrstvy a negativní pro ty, kteří potřebují sociální a zdravotní podporu,“ říká ekonom Jan Švejnar.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=4f922dcd-6872-3e32-88c1-7ac6cb14f48d"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -537,7 +537,7 @@
       <enclosure url="http://croaod.cz/download/fab08060-242d-43a7-85f2-8fdef680108a.mp3" type="audio/mpeg" length="35583021" />
       <guid isPermaLink="false">4f922dcd-6872-3e32-88c1-7ac6cb14f48d</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/4f922dcd-6872-3e32-88c1-7ac6cb14f48d</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Rozumek: Migranty potřebujeme, jsme na tom demograficky zle</title>
       <description>Polsko zavádí kontroly na hranicích s Německem a Litvou. Podle premiéra Donalda Tuska totiž Německo do Polska vracelo i ty osoby, které měly na jeho území zůstat. „Německo v podstatě dělá to, co velká část zemí Evropské unie, tedy posílá uprchlíky a migranty do zemí, ze kterých přišli. A to i žadatele o azyl, což je sice v souladu s německým právem, ale v rozporu s mezinárodním, které má přednost,“ upozorňuje Martin Rozumek, ředitel Organizace pro pomoc uprchlíkům.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=74dbaf57-d12d-395b-80f8-ad591d0bcbee"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -548,7 +548,7 @@
       <enclosure url="http://croaod.cz/download/0238bd79-8be4-48d8-b284-04ad050e13bd.mp3" type="audio/mpeg" length="37281645" />
       <guid isPermaLink="false">74dbaf57-d12d-395b-80f8-ad591d0bcbee</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/74dbaf57-d12d-395b-80f8-ad591d0bcbee</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Novinář Schuster: Německé armádě chybí vybavení i lidé</title>
       <description>Německo chce, aby Evropská unie přijala další balík sankcí proti Rusku. Ministr zahraničí Johann Wadephul v Kyjevě ujistil Ukrajince o pokračující podpoře, ať už jde o dodávky zbraní nebo ekonomickou a humanitární pomoc. „Německo se snaží být konzistentní, protože se od první chvíle postavilo na stranu Ukrajiny a tehdejší kancléř Olaf Scholz ve slavném projevu prohlásil, že poklidné období skončilo a země bude muset výrazně sáhnout do rezerv,“ říká novinář Robert Schuster.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=fe9c8f2f-b0f2-39cf-b40b-e4aa7465b1b3"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -559,7 +559,7 @@
       <enclosure url="http://portal.rozhlas.cz/sites/default/files/audios/a37a4d34d7be42151313c9c198a0e49c.mp3" type="audio/mpeg" length="37652032" />
       <guid isPermaLink="false">9506548</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/fe9c8f2f-b0f2-39cf-b40b-e4aa7465b1b3</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
     <item>
       <title>Sociální demokraty ve Stačilo! semelou, předpokládá Jelínek</title>
       <description>Na protest proti volební spolupráci s hnutím Stačilo! opustila SOCDEM řada známých osobností. Předsedkyně strany Jana Maláčová ale rozhodnutí hájí jako racionální volbu, aby ve volbých nepropadly levicové hlasy. Politolog Lukáš Jelínek pochybuje, že pro svůj krok získá podporu veřejnosti. „V situaci, kdy sociální demokraté nehrají prim, ale jsou slabším partnerem, si dokonce myslím, že to může ohrozit jejich budoucnost jako politické strany,“ míní pro Český rozhlas Plus.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Interview Plus můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/1235fcbc-baa9-3656-9488-857fca2eb987?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=c1dbaa83-0d32-3fb9-b074-8575713170d0"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -570,6 +570,6 @@
       <enclosure url="http://croaod.cz/download/a73db9db-2a67-4d86-9b94-f09d9bb83484.mp3" type="audio/mpeg" length="37271277" />
       <guid isPermaLink="false">c1dbaa83-0d32-3fb9-b074-8575713170d0</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/c1dbaa83-0d32-3fb9-b074-8575713170d0</link>
-    </item>
+    <ns0:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /><ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/7d66705925cabc03e252768165221fa0_0.jpg?itok=p9GcUGPJ&amp;v=d28f9146" /></item>
   </channel>
 </rss>
