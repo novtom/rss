@@ -4,7 +4,12 @@ import xml.etree.ElementTree as ET
 import base64
 from urllib.parse import urlparse
 
+ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
+MRSS_NS   = "http://search.yahoo.com/mrss/"
 
+# Vynutíme prefixy 'itunes' a 'media' v XML výstupu
+ET.register_namespace('itunes', ITUNES_NS)
+ET.register_namespace('media',  MRSS_NS)
 
 OUTPUT_DIR = "feeds"
 
