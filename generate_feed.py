@@ -176,7 +176,49 @@ for filename, url in podcasts.items():
         enclosure = item.find("enclosure")
         if enclosure is not None and "url" in enclosure.attrib:
             url_attr = enclosure.attrib["url"]
+            # 0️⃣ Rozbal přesměrování (Transistor, aj.)
+            final_url = url_attr
+            try:
+                # HEAD s following redirects – dostaneme finální URL (CloudFront apod.)
+                h = requests.head(url_attr, allow_redirects=True, timeout=12)
+                if h.url:
+                    final_url = h.url
+            except requests.exceptions.RequestException:
+                pass  # když selže, necháme původní
 
+            # 0b) Preferuj HTTP, kde to jde (kvůli LMS)
+            if final_url.startswith("https://"):
+                http_try = "http://" + final_url[len("https://"):]
+                try:
+                    h2 = requests.head(http_try, allow_redirects=False, timeout=8)
+                    # stačí, že server vrátí 200–399 bez dalšího https redirectu
+                    if 200 <= h2.status_code < 400 and "https://" not in http_try:
+                        final_url = http_try
+                except requests.exceptions.RequestException:
+                    # nic, necháme https (některé CDN http vůbec nepovolí)
+                    pass
+
+            # 1️⃣ Podtrac pryč (když se objeví)
+            if "dts.podtrac.com/redirect.mp3/" in final_url:
+                final_url = final_url.replace("https://dts.podtrac.com/redirect.mp3/", "")
+                final_url = final_url.replace("http://dts.podtrac.com/redirect.mp3/", "")
+
+            # 2️⃣ Pokud je to anchor/spotify s https%3A… v cestě, už to máš ošetřené base64 větví; tady jen pojistka:
+            if "%3A%2F%2F" in final_url:  # percent-encoded "://"
+                try:
+                    from urllib.parse import unquote
+                    final_url = unquote(final_url)
+                except Exception:
+                    pass
+
+            # 3️⃣ Poslední kosmetika: preferuj http, kde to jde
+            if final_url.startswith("https://"):
+                # jen když to není host, co http nepovolí (někdy poznáš podle 'cloudfront.net' to obvykle povolí)
+                if "cloudfront.net" in final_url:
+                    final_url = "http://" + final_url[len("https://"):]
+                # jinak necháme https (když http nefunguje)
+
+            enclosure.set("url", final_url)
             # 1️⃣ Podtrac redirect
             if "dts.podtrac.com/redirect.mp3/" in url_attr:
                 url_attr = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
