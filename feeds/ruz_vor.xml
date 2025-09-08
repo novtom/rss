@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 	<channel>
 		<title>Růžička &amp; Vořechovský</title>
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br&gt;&lt;br&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
 		<lastBuildDate>Sun, 07 Sep 2025 15:05:05 GMT</lastBuildDate>
-		<ns0:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
+		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
 		<language>en-us</language>
-		<ns0:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
 		<itunes:author>Jan Růžička</itunes:author>
 		<itunes:summary>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br&gt;&lt;br&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</itunes:summary>
 		<itunes:type>episodic</itunes:type>
@@ -31,14 +31,14 @@
 			<guid isPermaLink="false">50896968-423f-4be6-a013-04eba4d7b559</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Sun, 07 Sep 2025 15:00:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-4/406860736-44100-2-0fc9ac0df202a.mp3" length="46120541" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/107799455/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-4/406860736-44100-2-0fc9ac0df202a.mp3" length="46120541" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Volby se blíží a my jdeme přímo za těmi, kdo se vás snaží přesvědčit. Čekají vás čtyři debaty se čtyřmi top politiky, dva z vlády a dva z opozice. Bez laciných přestřelek, zato s otázkami na ekonomiku, bydlení, školství, byznys i místo Česka ve světě. Jako první dorazil premiér Petr Fiala. Jak obhajuje svou práci? A co vlastně nabízí do dalšího kola? Podívejte se sami.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:48:02</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Premiér Fiala: Bez USA se Ukrajina nevyřeší</itunes:title></item>
+		<itunes:title>Premiér Fiala: Bez USA se Ukrajina nevyřeší</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Nevyžádané rady pro příští vládu</title>
 			<description>&lt;p&gt;Česko čekají volby – a my máme nevyžádané rady pro budoucí vládu. Řešíme ekonomiku, Green Deal, závislost na Německu i to, proč je Izrael náš nejlepší kamarád. Přidáme i pár varování o Rusku a tipy, jak nebýt v Evropě jen pasažérem. Je to krátké, úderné a možná trochu drzejší, než by politici chtěli slyšet.&lt;/p&gt;
@@ -47,14 +47,14 @@
 			<guid isPermaLink="false">f2433426-6e81-466d-b7ba-f1c6c650cf0f</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 27 Aug 2025 04:30:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-26/406335837-44100-2-cf4f62fe21818.mp3" length="46797217" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/107389562/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-26/406335837-44100-2-cf4f62fe21818.mp3" length="46797217" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Česko čekají volby – a my máme nevyžádané rady pro budoucí vládu. Řešíme ekonomiku, Green Deal, závislost na Německu i to, proč je Izrael náš nejlepší kamarád. Přidáme i pár varování o Rusku a tipy, jak nebýt v Evropě jen pasažérem. Je to krátké, úderné a možná trochu drzejší, než by politici chtěli slyšet.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:48:44</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Nevyžádané rady pro příští vládu</itunes:title></item>
+		<itunes:title>Nevyžádané rady pro příští vládu</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Česko je úžasné místo k životu</title>
 			<description>&lt;p&gt;Ceny rostou, produktivita stojí. Politika diktuje, globalizace mizí a Green Deal přitápí pod kotlem. Česko řeší zdravotnictví, školství i energii, ale změny nepřichází. Jsme montovna, nebo budoucí Švýcarsko? A proč i v době prosperity trpíme českou ekodepresí?Pozvali jsme tři špičkové ekonomy a zeptali se, jak jsme na tom: Dominik Stroukal z MUP, Jan Berka z Portu a Štěpán Drábek, wunderkind české ekonomie.&lt;/p&gt;
@@ -63,14 +63,14 @@
 			<guid isPermaLink="false">811cdcba-c446-4ac6-82ae-10d5372621f8</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 20 Aug 2025 04:30:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405938242-44100-2-e882586e303ee.mp3" length="66023339" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/107077692/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-19/405938242-44100-2-e882586e303ee.mp3" length="66023339" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Ceny rostou, produktivita stojí. Politika diktuje, globalizace mizí a Green Deal přitápí pod kotlem. Česko řeší zdravotnictví, školství i energii, ale změny nepřichází. Jsme montovna, nebo budoucí Švýcarsko? A proč i v době prosperity trpíme českou ekodepresí?Pozvali jsme tři špičkové ekonomy a zeptali se, jak jsme na tom: Dominik Stroukal z MUP, Jan Berka z Portu a Štěpán Drábek, wunderkind české ekonomie.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>01:08:46</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Česko je úžasné místo k životu</itunes:title></item>
+		<itunes:title>Česko je úžasné místo k životu</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Peníze, chléb a hry: Pohádka o české ekonomice</title>
 			<description>&lt;p&gt;Česká ekonomika je jako stroj, který jede, ale občas škytne. Ovlivňuje ji politika, světové trendy i naše vlastní zvyky. Inflace se mění v tichého zloděje, průmysl hledá nový dech a pracovní trh se přetváří před očima. Dokážeme se přizpůsobit, nebo nám ujede vlak? A kde jsou příležitosti, které jinde nevidí? Do druhého dílu jsme znovu pozvali tři špičkové ekonomy – Dominika Stroukala z MUP, Jana Berku, hlavního ekonoma Portu, a Štěpána Drábka, wunderkind české ekonomie – a společně jsme rozebrali české hospodářství na šroubky. Druhý díl nese název: Peníze, chléb a hry: Pohádka o české ekonomice&lt;/p&gt;
@@ -79,14 +79,14 @@
 			<guid isPermaLink="false">49be9355-d3ca-490f-abc0-96632982af68</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 13 Aug 2025 04:30:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-12/405563789-44100-2-8585ab80bb3ac.mp3" length="34545579" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/106788187/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-12/405563789-44100-2-8585ab80bb3ac.mp3" length="34545579" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Česká ekonomika je jako stroj, který jede, ale občas škytne. Ovlivňuje ji politika, světové trendy i naše vlastní zvyky. Inflace se mění v tichého zloděje, průmysl hledá nový dech a pracovní trh se přetváří před očima. Dokážeme se přizpůsobit, nebo nám ujede vlak? A kde jsou příležitosti, které jinde nevidí? Do druhého dílu jsme znovu pozvali tři špičkové ekonomy – Dominika Stroukala z MUP, Jana Berku, hlavního ekonoma Portu, a Štěpána Drábka, wunderkind české ekonomie – a společně jsme rozebrali české hospodářství na šroubky. Druhý díl nese název: Peníze, chléb a hry: Pohádka o české ekonomice&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:35:59</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Peníze, chléb a hry: Pohádka o české ekonomice</itunes:title></item>
+		<itunes:title>Peníze, chléb a hry: Pohádka o české ekonomice</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Evropa vs. USA: Dolar není mrtvý, Trump je zrcadlo</title>
 			<description>&lt;p&gt;Kola ekonomiky se točí stále rychleji.Mění je politika, technologie, zákazníci i černé labutě. Umělá inteligence přinese větší změny než nástup internetu. Staré jistoty přestávají fungovat. Co s tím můžeme jako Češi dělat? A jak na to reagovat? Pozvali jsme tři špičkové ekonomy a s nimi roztočili proud dat a grafů. Dorazili Dominik Stroukal z MUP, Jan Berka z Roklenu a Štěpán Drábek, wunderkind české ekonomie. První díl nese název: Politika vítězí nad penězi.&lt;/p&gt;
@@ -95,14 +95,14 @@
 			<guid isPermaLink="false">f634a6bc-50b1-4c7b-b95d-2eda12a5a409</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 06 Aug 2025 04:30:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-5/405170052-44100-2-e349fe0c49349.mp3" length="45669981" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/106479086/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-5/405170052-44100-2-e349fe0c49349.mp3" length="45669981" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Kola ekonomiky se točí stále rychleji.Mění je politika, technologie, zákazníci i černé labutě. Umělá inteligence přinese větší změny než nástup internetu. Staré jistoty přestávají fungovat. Co s tím můžeme jako Češi dělat? A jak na to reagovat? Pozvali jsme tři špičkové ekonomy a s nimi roztočili proud dat a grafů. Dorazili Dominik Stroukal z MUP, Jan Berka z Roklenu a Štěpán Drábek, wunderkind české ekonomie. První díl nese název: Politika vítězí nad penězi.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:47:34</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Evropa vs. USA: Dolar není mrtvý, Trump je zrcadlo</itunes:title></item>
+		<itunes:title>Evropa vs. USA: Dolar není mrtvý, Trump je zrcadlo</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Česko může být světový hráč. Co je k tomu potřeba?</title>
 			<description>&lt;p&gt;Svět není jen hezké místo. Je to prostor tvrdých střetů, kde často vítězí síla nad spravedlností. Státní zájem má přednost před hodnotami. Je to drsný svět — a demokracii, právo i bezpečí je proto nutné hájit klackem v ruce. Olivová ratolest v krizi nepomůže. Třetí a závěrečný díl naší série o české zahraniční politice je tady. Opět s top experty: Tomášem Pojarem (národní bezpečnostní poradce), Rudolfem Jindrákem (velvyslanec na Slovensku), Jaroslavem Kurfürstem (velvyslanec ve Francii) a Hynkem Kmoníčkem (velvyslanec ve Vietnamu). V podcastu řešíme, jak bude svět vypadat za pět nebo deset let — a jak by se k němu měla postavit česká zahraniční politika. Jaké nástroje má použít, s kým se spojit a jakou hru hrát.&lt;/p&gt;
@@ -111,14 +111,14 @@
 			<guid isPermaLink="false">136d6161-6cb9-4419-ae36-4a06c35eec53</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 30 Jul 2025 04:30:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-29/404764656-44100-2-f46ae6582e2c3.mp3" length="37146539" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/106166021/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-29/404764656-44100-2-f46ae6582e2c3.mp3" length="37146539" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Svět není jen hezké místo. Je to prostor tvrdých střetů, kde často vítězí síla nad spravedlností. Státní zájem má přednost před hodnotami. Je to drsný svět — a demokracii, právo i bezpečí je proto nutné hájit klackem v ruce. Olivová ratolest v krizi nepomůže. Třetí a závěrečný díl naší série o české zahraniční politice je tady. Opět s top experty: Tomášem Pojarem (národní bezpečnostní poradce), Rudolfem Jindrákem (velvyslanec na Slovensku), Jaroslavem Kurfürstem (velvyslanec ve Francii) a Hynkem Kmoníčkem (velvyslanec ve Vietnamu). V podcastu řešíme, jak bude svět vypadat za pět nebo deset let — a jak by se k němu měla postavit česká zahraniční politika. Jaké nástroje má použít, s kým se spojit a jakou hru hrát.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:38:41</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Česko může být světový hráč. Co je k tomu potřeba?</itunes:title></item>
+		<itunes:title>Česko může být světový hráč. Co je k tomu potřeba?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Kde domov můj: Jaká je pozice Česka ve světě?</title>
 			<description>&lt;p&gt; Česká republika. Česko. Czechia. Bohemia. Kdo vlastně jsme? Jaké máme zájmy? Co světu nabízíme — a co si o nás svět myslí? A co si o sobě myslíme my sami? Druhý díl naší série debat o české zahraniční politice s top experty: Tomášem Pojarem (národní bezpečnostní poradce), Rudolfem Jindrákem (velvyslanec na Slovensku), Jaroslavem Kurfürstem (velvyslanec ve Francii) a Hynkem Kmoníčkem (velvyslanec ve Vietnamu). První díl byl o tom, jaký je dnešní svět. Tenhle je o nás — o tom, jaké karty máme v ruce a jakou pokerovou partii s nimi můžeme rozehrát.&lt;/p&gt;
@@ -127,14 +127,14 @@
 			<guid isPermaLink="false">d072b9cd-cf22-4915-be6d-46f28725620a</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 23 Jul 2025 04:30:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-22/404355931-44100-2-57ee0ec16ce2b.mp3" length="54219754" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/105845641/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-22/404355931-44100-2-57ee0ec16ce2b.mp3" length="54219754" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt; Česká republika. Česko. Czechia. Bohemia. Kdo vlastně jsme? Jaké máme zájmy? Co světu nabízíme — a co si o nás svět myslí? A co si o sobě myslíme my sami? Druhý díl naší série debat o české zahraniční politice s top experty: Tomášem Pojarem (národní bezpečnostní poradce), Rudolfem Jindrákem (velvyslanec na Slovensku), Jaroslavem Kurfürstem (velvyslanec ve Francii) a Hynkem Kmoníčkem (velvyslanec ve Vietnamu). První díl byl o tom, jaký je dnešní svět. Tenhle je o nás — o tom, jaké karty máme v ruce a jakou pokerovou partii s nimi můžeme rozehrát.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:56:28</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Kde domov můj: Jaká je pozice Česka ve světě?</itunes:title></item>
+		<itunes:title>Kde domov můj: Jaká je pozice Česka ve světě?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Trump, Putin &amp; Čína: Svět predátorů</title>
 			<description>&lt;p&gt;Jak vypadá svět v létě 2025? Co se děje na Blízkém východě? Jaké šance má Ukrajina a co má v hlavě Donald Trump? Přinášíme vám první ze tří debat o české zahraniční politice s předními experty: Tomášem Pojarem (národní bezpečnostní poradce), Rudolfem Jindrákem (velvyslanec na Slovensku), Jaroslavem Kurfürstem (velvyslanec ve Francii) a Hynkem Kmoníčkem (velvyslanec ve Vietnamu). Řešíme svět, změny v něm i to odkud a kam pluje česká lodička!&lt;/p&gt;
@@ -143,14 +143,14 @@
 			<guid isPermaLink="false">2265b5fb-881c-4f91-9566-0a9db56ee1b1</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 16 Jul 2025 04:30:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-15/403969663-44100-2-cdcc0f5f81391.mp3" length="56452910" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/105543939/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-15/403969663-44100-2-cdcc0f5f81391.mp3" length="56452910" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Jak vypadá svět v létě 2025? Co se děje na Blízkém východě? Jaké šance má Ukrajina a co má v hlavě Donald Trump? Přinášíme vám první ze tří debat o české zahraniční politice s předními experty: Tomášem Pojarem (národní bezpečnostní poradce), Rudolfem Jindrákem (velvyslanec na Slovensku), Jaroslavem Kurfürstem (velvyslanec ve Francii) a Hynkem Kmoníčkem (velvyslanec ve Vietnamu). Řešíme svět, změny v něm i to odkud a kam pluje česká lodička!&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:58:48</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Trump, Putin &amp; Čína: Svět predátorů</itunes:title></item>
+		<itunes:title>Trump, Putin &amp; Čína: Svět predátorů</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Kdo zaplatí budoucnost české ekonomiky? O tom jsme mluvili s finančníkem a investorem Rosťou Plívou</title>
 			<description>&lt;p&gt;V novém díle podcastu rozebíráme stav a vývoj českého kapitálového trhu — od kuponové privatizace po dnešní investiční fondy. Ptáme se, proč čeští investoři míří do zahraničí, zda fondy zvyšují ceny bytů a co by české ekonomice přineslo euro. Nechybí ani debata o tom, zda má Česko šanci stát se technologickým king-kongem. To vše jsme řešili s šéfem Winstor Capital Rostislavem Plívou.&lt;/p&gt;
@@ -159,14 +159,14 @@
 			<guid isPermaLink="false">23d15096-2658-4f03-9997-5becb88a2d34</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 25 Jun 2025 07:00:31 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-25/402773168-44100-2-7b37d2ef5e31d.mp3" length="38199378" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/104610508/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-25/402773168-44100-2-7b37d2ef5e31d.mp3" length="38199378" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;V novém díle podcastu rozebíráme stav a vývoj českého kapitálového trhu — od kuponové privatizace po dnešní investiční fondy. Ptáme se, proč čeští investoři míří do zahraničí, zda fondy zvyšují ceny bytů a co by české ekonomice přineslo euro. Nechybí ani debata o tom, zda má Česko šanci stát se technologickým king-kongem. To vše jsme řešili s šéfem Winstor Capital Rostislavem Plívou.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:39:47</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Kdo zaplatí budoucnost české ekonomiky? O tom jsme mluvili s finančníkem a investorem Rosťou Plívou</itunes:title></item>
+		<itunes:title>Kdo zaplatí budoucnost české ekonomiky? O tom jsme mluvili s finančníkem a investorem Rosťou Plívou</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Debata o českém zdravotnictví s Jakubem Hlávkou, poradcem prezidenta Pavla</title>
 			<description>&lt;p&gt;České zdravotnictví je super. No irony here. Poměr cena/výkon máme unikátní. Náš systém ale už nějaký ten rok kulhá tím, jak stárne naše populace i naši zdravotníci. První potřebují stále více drahé péče, těch druhých je méně a méně. Co s tím? To jsme řešili s Jakubem Hlávkou, poradcem Petra Pavla.&lt;/p&gt;
@@ -175,14 +175,14 @@
 			<guid isPermaLink="false">b50e6e3c-f3b6-43ac-9cdd-c104d090e7b0</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 18 Jun 2025 11:00:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-18/402381185-44100-2-6fdf09cfcd067.mp3" length="29354526" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/104303473/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-18/402381185-44100-2-6fdf09cfcd067.mp3" length="29354526" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;České zdravotnictví je super. No irony here. Poměr cena/výkon máme unikátní. Náš systém ale už nějaký ten rok kulhá tím, jak stárne naše populace i naši zdravotníci. První potřebují stále více drahé péče, těch druhých je méně a méně. Co s tím? To jsme řešili s Jakubem Hlávkou, poradcem Petra Pavla.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:30:34</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Debata o českém zdravotnictví s Jakubem Hlávkou, poradcem prezidenta Pavla</itunes:title></item>
+		<itunes:title>Debata o českém zdravotnictví s Jakubem Hlávkou, poradcem prezidenta Pavla</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>O techu, vědě a školství s Jakubem Jurových</title>
 			<description>&lt;p&gt;Česko nikdy nebyla montovna. Naopak; od půlky 19. století jsme udávali směr v technice, výrobě. Němci to věděli, Rusové to věděli. Bohužel svět se proměnil a nám ujíždí vlak. Jednoduše proto, že strojírenství už není pupek světa. Problémem je i naše závislost na Německu. Prim dnes udává tech, IT, data, AI a start-upy. Co s tím a jak být znova na špici jsme řešili s VC investorem, founderem a byznysmenem Kubou Jurových.&lt;/p&gt;
@@ -191,14 +191,14 @@
 			<guid isPermaLink="false">fb6ccaad-bb6e-4f74-8d4e-f8f91d3014a0</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 11 Jun 2025 10:00:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-11/401967843-44100-2-afcc79f1f1ccc.mp3" length="44356753" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/103972971/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-11/401967843-44100-2-afcc79f1f1ccc.mp3" length="44356753" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Česko nikdy nebyla montovna. Naopak; od půlky 19. století jsme udávali směr v technice, výrobě. Němci to věděli, Rusové to věděli. Bohužel svět se proměnil a nám ujíždí vlak. Jednoduše proto, že strojírenství už není pupek světa. Problémem je i naše závislost na Německu. Prim dnes udává tech, IT, data, AI a start-upy. Co s tím a jak být znova na špici jsme řešili s VC investorem, founderem a byznysmenem Kubou Jurových.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:46:12</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>O techu, vědě a školství s Jakubem Jurových</itunes:title></item>
+		<itunes:title>O techu, vědě a školství s Jakubem Jurových</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>České makro očima Mirka Zámečníka</title>
 			<description>&lt;p&gt;Červen bude v našem podcastu patřit Česku. Přineseme vám čtyři rozhovory o české ekonomice, jak ta vypadá a co s ní dělat. Úvodní povídání patří českému makru a reformám. Zde není nikdo povolanější než Mirek Zámečník. Dejte si!&lt;/p&gt;
@@ -207,14 +207,14 @@
 			<guid isPermaLink="false">a1c67fd6-f7bf-42ba-a36d-0997adad79c2</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 04 Jun 2025 05:18:27 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-4/401544558-44100-2-c966d469462d1.mp3" length="25694039" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/103637414/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-4/401544558-44100-2-c966d469462d1.mp3" length="25694039" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Červen bude v našem podcastu patřit Česku. Přineseme vám čtyři rozhovory o české ekonomice, jak ta vypadá a co s ní dělat. Úvodní povídání patří českému makru a reformám. Zde není nikdo povolanější než Mirek Zámečník. Dejte si!&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:26:45</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>České makro očima Mirka Zámečníka</itunes:title></item>
+		<itunes:title>České makro očima Mirka Zámečníka</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Poland: An Economic Miracle in a Divided Country</title>
 			<description>&lt;p&gt;Poland has been remarkably successful. At the same time, the country remains internally divided—between liberals and conservatives, between cities and the countryside. We discussed all of this with Jadwiga Emilewicz, who, as Deputy Prime Minister for Economic Affairs, played a key role in driving these reforms.&lt;/p&gt;
@@ -223,14 +223,14 @@
 			<guid isPermaLink="false">6ed7d643-ab60-4ede-9ce2-9810e166d0e6</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Tue, 03 Jun 2025 11:54:30 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-3/401491731-44100-2-abad28b2205c5.mp3" length="43755728" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/103596298/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-3/401491731-44100-2-abad28b2205c5.mp3" length="43755728" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Poland has been remarkably successful. At the same time, the country remains internally divided—between liberals and conservatives, between cities and the countryside. We discussed all of this with Jadwiga Emilewicz, who, as Deputy Prime Minister for Economic Affairs, played a key role in driving these reforms.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:45:34</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Poland: An Economic Miracle in a Divided Country</itunes:title></item>
+		<itunes:title>Poland: An Economic Miracle in a Divided Country</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>American Leadership in Fractured World – Interview with James C. O’Brien</title>
 			<description>&lt;p&gt;America is unsure whether it wants to retreat into isolation or lead the world. It doesn’t know if it believes in free trade or in tariffs. It wavers between standing by its allies and courting its adversaries. We discussed all of this with James O’Brien, a top diplomat and veteran of the Clinton, Obama, and Biden administrations.&lt;/p&gt;
@@ -239,14 +239,14 @@
 			<guid isPermaLink="false">3ed8ac83-40bf-4c22-aa86-27e3475e2c08</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 28 May 2025 08:47:09 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-28/401139251-44100-2-7a33f6c3746af.mp3" length="52191398" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/103314480/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-28/401139251-44100-2-7a33f6c3746af.mp3" length="52191398" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;America is unsure whether it wants to retreat into isolation or lead the world. It doesn’t know if it believes in free trade or in tariffs. It wavers between standing by its allies and courting its adversaries. We discussed all of this with James O’Brien, a top diplomat and veteran of the Clinton, Obama, and Biden administrations.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:54:21</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>American Leadership in Fractured World – Interview with James C. O’Brien</itunes:title></item>
+		<itunes:title>American Leadership in Fractured World – Interview with James C. O’Brien</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>World Economic Outlook 2Q2025</title>
 			<description>&lt;p&gt;Jacob Funk Kirkegaard of the Peterson Institute in Washington, DC joins us to unpack the Q2 2025 World Economic Outlook. One key variable: Trump. Plus China’s reforms, oil markets, and Russia’s crumbling budget.&lt;/p&gt;
@@ -255,14 +255,14 @@
 			<guid isPermaLink="false">6403a2de-3a29-4e97-a049-dceb2a9f90e8</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 07 May 2025 12:32:31 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-7/399782490-44100-2-498d8e5899d94.mp3" length="52424201" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/102311003/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-7/399782490-44100-2-498d8e5899d94.mp3" length="52424201" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Jacob Funk Kirkegaard of the Peterson Institute in Washington, DC joins us to unpack the Q2 2025 World Economic Outlook. One key variable: Trump. Plus China’s reforms, oil markets, and Russia’s crumbling budget.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:54:36</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>World Economic Outlook 2Q2025</itunes:title></item>
+		<itunes:title>World Economic Outlook 2Q2025</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Trump tančí, trhy pláčou, Číňan mlčí</title>
 			<description>&lt;p&gt;Správný scénárista nekonečného seriálu ví, že na konci každého dílu má být šok a tajemství. No a přesně takhle řídí Trump světovou ekonomiku. Dnes je už evidentní, že není plán, strategie ani 5D šachy. Je pouze nekonečná reality show. Vzhledem k tomu, že minulý týden zasedala Světová banka i IMF, zavolali jsme pro názor rovnou do Washingtonu.&lt;/p&gt;
@@ -271,14 +271,14 @@
 			<guid isPermaLink="false">54b4e90a-15a9-4775-b041-edf79926a284</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 30 Apr 2025 08:36:57 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-30/399332869-44100-2-a90bcb710f028.mp3" length="36518764" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/101975447/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-30/399332869-44100-2-a90bcb710f028.mp3" length="36518764" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Správný scénárista nekonečného seriálu ví, že na konci každého dílu má být šok a tajemství. No a přesně takhle řídí Trump světovou ekonomiku. Dnes je už evidentní, že není plán, strategie ani 5D šachy. Je pouze nekonečná reality show. Vzhledem k tomu, že minulý týden zasedala Světová banka i IMF, zavolali jsme pro názor rovnou do Washingtonu.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:38:02</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Trump tančí, trhy pláčou, Číňan mlčí</itunes:title></item>
+		<itunes:title>Trump tančí, trhy pláčou, Číňan mlčí</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>V obchodní válce má Čína lepší karty</title>
 			<description>&lt;p&gt;Trump je mistr pokeru. Umí ho hrát i když nemá žádné karty. Je impulzivní, agresivní. Snaží se protihráče přetlačit. Oproti tomu Číňané sice nehrají poker, ale mají poker face. Jsou pomalí, metodičtí. Umí čekat. A nerozhádali se s celým světem. Na to jak mají v ruce karty se podíváme v dnešním dílu.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
@@ -287,14 +287,14 @@
 			<guid isPermaLink="false">21688345-6cea-4d1f-9839-db313429fcff</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 23 Apr 2025 04:00:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-22/398844461-44100-2-63d2254d03af9.mp3" length="33392848" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/101640956/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-22/398844461-44100-2-63d2254d03af9.mp3" length="33392848" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Trump je mistr pokeru. Umí ho hrát i když nemá žádné karty. Je impulzivní, agresivní. Snaží se protihráče přetlačit. Oproti tomu Číňané sice nehrají poker, ale mají poker face. Jsou pomalí, metodičtí. Umí čekat. A nerozhádali se s celým světem. Na to jak mají v ruce karty se podíváme v dnešním dílu.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:34:47</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>V obchodní válce má Čína lepší karty</itunes:title></item>
+		<itunes:title>V obchodní válce má Čína lepší karty</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Trumpova obchodní válka. Viděno ze zahraničí</title>
 			<description>&lt;p&gt;V našem novém díle mluvíme málo o Trumpovi, o to více o zemích zasažených jeho bláznivou obchodní válkou. Jak reagují, na co se připravují, jak chtějí bojovat. V rychlém sledu řešíme EU, Izrael, Brazílii, Japonsko a Austrálie. Podívali jsme se na to, jak mluví ke svým vlastním občanům. Mnohdy je to velmi překvapivé!&lt;/p&gt;
@@ -303,14 +303,14 @@
 			<guid isPermaLink="false">0ddb603a-fd4e-4288-8d94-bcc7d79e5e3f</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 16 Apr 2025 04:45:49 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-16/398481314-44100-2-c90d4f3987a93.mp3" length="34010591" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/101355040/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-16/398481314-44100-2-c90d4f3987a93.mp3" length="34010591" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;V našem novém díle mluvíme málo o Trumpovi, o to více o zemích zasažených jeho bláznivou obchodní válkou. Jak reagují, na co se připravují, jak chtějí bojovat. V rychlém sledu řešíme EU, Izrael, Brazílii, Japonsko a Austrálie. Podívali jsme se na to, jak mluví ke svým vlastním občanům. Mnohdy je to velmi překvapivé!&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:35:25</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Trumpova obchodní válka. Viděno ze zahraničí</itunes:title></item>
+		<itunes:title>Trumpova obchodní válka. Viděno ze zahraničí</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Armageddon Donalda Trumpa aneb Císařovy nové šaty - Růžička &amp; Vořechovský</title>
 			<description>&lt;p&gt;Náš Podcast má představivost v podstatě nekonečnou. I tak jsme si nedovedli představit absurditu posledních sedmi dní. Ukázalo se totiž, že ekonomické myšlení Donalda Trumpa je na úrovni „země je placatá,“ a „ve vakcínách jsou nanočástice.“ Už teď je tak jasné, že jednou bude Donald Trump v učebnicích hned vedle Velké hospodářské krize a ropných šoků. Gratulujeme!&lt;/p&gt;
@@ -319,14 +319,14 @@
 			<guid isPermaLink="false">290cc23f-f806-445b-876c-9f2268a78662</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Thu, 10 Apr 2025 04:00:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-8/398069674-44100-2-07d1d8ae7958.mp3" length="45460165" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/101032576/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-8/398069674-44100-2-07d1d8ae7958.mp3" length="45460165" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Náš Podcast má představivost v podstatě nekonečnou. I tak jsme si nedovedli představit absurditu posledních sedmi dní. Ukázalo se totiž, že ekonomické myšlení Donalda Trumpa je na úrovni „země je placatá,“ a „ve vakcínách jsou nanočástice.“ Už teď je tak jasné, že jednou bude Donald Trump v učebnicích hned vedle Velké hospodářské krize a ropných šoků. Gratulujeme!&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:47:21</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Armageddon Donalda Trumpa aneb Císařovy nové šaty - Růžička &amp; Vořechovský</itunes:title></item>
+		<itunes:title>Armageddon Donalda Trumpa aneb Císařovy nové šaty - Růžička &amp; Vořechovský</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Lets Make Europe Great Again!</title>
 			<description>&lt;p&gt;Trump se na Evropu mračí, JD Vance o ní mluví přímo s odporem. Společně pak oba říkají: Evropa se musí osamostatnit a postavit na vlastní nohy. Oukej, pojďme tedy na to! Poláci zbrojí, Švédové zbrojí, Francouz &amp;amp; Brit připravuje vojáky pro Ukrajinu. A hlavně, Německo je zpátky!&lt;/p&gt;
@@ -335,14 +335,14 @@
 			<guid isPermaLink="false">476606c6-a40b-4b19-beb0-ee6855140c6c</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 02 Apr 2025 08:24:07 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-2/397674774-44100-2-44eb67241b7c.mp3" length="25251421" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/100723176/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-2/397674774-44100-2-44eb67241b7c.mp3" length="25251421" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Trump se na Evropu mračí, JD Vance o ní mluví přímo s odporem. Společně pak oba říkají: Evropa se musí osamostatnit a postavit na vlastní nohy. Oukej, pojďme tedy na to! Poláci zbrojí, Švédové zbrojí, Francouz &amp;amp; Brit připravuje vojáky pro Ukrajinu. A hlavně, Německo je zpátky!&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:26:18</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Lets Make Europe Great Again!</itunes:title></item>
+		<itunes:title>Lets Make Europe Great Again!</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>USA x Čína: Válka o technologie</title>
 			<description>&lt;p&gt;Předevčírem bouchal šampus ChatGPT, včera čínský DeepSeek, dneska Perplexity. Nejen v AI, ale i v ostatních top technologiích totiž zuří lítý boj mezi USA a Čínou. V něm každý chvilku tahá pilku a kdo byl vítěz včera, nemusí být dnes. No a my jsme na tohle vzájemné kočkování podívali v detailu!&lt;/p&gt;
@@ -351,14 +351,14 @@
 			<guid isPermaLink="false">00734d9f-1815-4555-9e86-7c41757fb94c</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Thu, 27 Mar 2025 11:42:06 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-27/397328834-44100-2-c5c48262d57f6.mp3" length="44314957" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/100449944/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-27/397328834-44100-2-c5c48262d57f6.mp3" length="44314957" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Předevčírem bouchal šampus ChatGPT, včera čínský DeepSeek, dneska Perplexity. Nejen v AI, ale i v ostatních top technologiích totiž zuří lítý boj mezi USA a Čínou. V něm každý chvilku tahá pilku a kdo byl vítěz včera, nemusí být dnes. No a my jsme na tohle vzájemné kočkování podívali v detailu!&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:46:09</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>USA x Čína: Válka o technologie</itunes:title></item>
+		<itunes:title>USA x Čína: Válka o technologie</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Americké celní šílenství </title>
 			<description>&lt;p&gt;Cla byla sexy v 17. století, pak znovu v 19. století, a nakonec i po první světové válce. Většinou však znamenala velký průšvih. Obchodní války totiž zasáhnou jak vaše firmy, ale i spotřebitele. Oproti tomu svobodný globální obchod byl vždy požehnáním. Jenže zkuste tohle vysvětlit Donaldovi…&lt;/p&gt;
@@ -367,14 +367,14 @@
 			<guid isPermaLink="false">9e2e80b0-5590-4f67-ad2e-f784014ebab9</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 19 Mar 2025 05:00:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-18/396825151-44100-2-07ee5d86d162c.mp3" length="31990594" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/100054549/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-18/396825151-44100-2-07ee5d86d162c.mp3" length="31990594" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Cla byla sexy v 17. století, pak znovu v 19. století, a nakonec i po první světové válce. Většinou však znamenala velký průšvih. Obchodní války totiž zasáhnou jak vaše firmy, ale i spotřebitele. Oproti tomu svobodný globální obchod byl vždy požehnáním. Jenže zkuste tohle vysvětlit Donaldovi…&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:33:19</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Americké celní šílenství</itunes:title></item>
+		<itunes:title>Americké celní šílenství</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Prodají Amerikánci Evropu Rusum? Aneb Kissinger 1, Kissinger 2</title>
 			<description>&lt;p&gt;Po celé 70.roky se USA snažily rozdělit komunistickou osu zla a oddělit Čínu od Sovětského svazu.  A úspěšně. Klíčovou roli tehdy sehrál Henry Kissinger. Nyní by JD Vance rád pokusil o něco podobného, akorát obráceně. Tedy spojit se Ruskem proti Číně. Nic dobrého pro Evropu…&lt;br&gt;&lt;/p&gt;
@@ -383,14 +383,14 @@
 			<guid isPermaLink="false">cb194576-32b0-45bb-9326-292cb81e9cfc</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 12 Mar 2025 05:00:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-11/396388689-44100-2-2fd3bf134049a.mp3" length="38922866" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/99707827/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-11/396388689-44100-2-2fd3bf134049a.mp3" length="38922866" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Po celé 70.roky se USA snažily rozdělit komunistickou osu zla a oddělit Čínu od Sovětského svazu.  A úspěšně. Klíčovou roli tehdy sehrál Henry Kissinger. Nyní by JD Vance rád pokusil o něco podobného, akorát obráceně. Tedy spojit se Ruskem proti Číně. Nic dobrého pro Evropu…&lt;br&gt;&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:40:32</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Prodají Amerikánci Evropu Rusum? Aneb Kissinger 1, Kissinger 2</itunes:title></item>
+		<itunes:title>Prodají Amerikánci Evropu Rusum? Aneb Kissinger 1, Kissinger 2</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Vietnam, Rusko a Kissinger</title>
 			<description>&lt;p&gt;Svět je větší než Evropa a nežije jen našimi problémy. &lt;strong&gt;Vypravili jsme se proto do Vietnamu, abychom se zeptali na ruskou válečnou mašinérii. Vedle toho jsme take zkoumali stav ekonomiky a plány Vietnamu do budoucna. &lt;/strong&gt;Řešili jsme také Kissingera – protože &lt;strong&gt;jeho duch se znovu vznáší nad Asií.&lt;/strong&gt;&lt;/p&gt;
@@ -399,14 +399,14 @@
 			<guid isPermaLink="false">78d71c64-40d8-4722-82aa-e920575dd8e1</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 05 Mar 2025 08:01:20 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-5/395993044-44100-2-a5c2c65193c83.mp3" length="47311724" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/99392073/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-5/395993044-44100-2-a5c2c65193c83.mp3" length="47311724" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Svět je větší než Evropa a nežije jen našimi problémy. &lt;strong&gt;Vypravili jsme se proto do Vietnamu, abychom se zeptali na ruskou válečnou mašinérii. Vedle toho jsme take zkoumali stav ekonomiky a plány Vietnamu do budoucna. &lt;/strong&gt;Řešili jsme také Kissingera – protože &lt;strong&gt;jeho duch se znovu vznáší nad Asií.&lt;/strong&gt;&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:49:16</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Vietnam, Rusko a Kissinger</itunes:title></item>
+		<itunes:title>Vietnam, Rusko a Kissinger</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>German Elections &amp; the Future Government – A Debate with Marketing Expert Volker Hoff</title>
 			<description>&lt;p&gt;The German elections are over. &lt;strong&gt;CDU won, and Friedrich Merz will be Chancellor.&lt;/strong&gt; But will he and the future coalition with &lt;strong&gt;SPD&lt;/strong&gt; have the strength to push through the necessary &lt;strong&gt;reforms&lt;/strong&gt;? &lt;strong&gt;Energy, labor market, and migration&lt;/strong&gt; are just a few of the many challenges ahead. We discussed all this with &lt;strong&gt;Volker Hoff&lt;/strong&gt;—who served as MP, minister and Opel executive, and above all, a man who has been in &lt;strong&gt;political marketing for 30 years.&lt;/strong&gt;&lt;/p&gt;
@@ -415,14 +415,14 @@
 			<guid isPermaLink="false">05da1dc4-2de5-48d8-952d-cc3452f21481</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 26 Feb 2025 05:00:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-1-26/395549507-44100-2-73503e9396a61.mp3" length="45884394" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/99036987/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-1-26/395549507-44100-2-73503e9396a61.mp3" length="45884394" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;The German elections are over. &lt;strong&gt;CDU won, and Friedrich Merz will be Chancellor.&lt;/strong&gt; But will he and the future coalition with &lt;strong&gt;SPD&lt;/strong&gt; have the strength to push through the necessary &lt;strong&gt;reforms&lt;/strong&gt;? &lt;strong&gt;Energy, labor market, and migration&lt;/strong&gt; are just a few of the many challenges ahead. We discussed all this with &lt;strong&gt;Volker Hoff&lt;/strong&gt;—who served as MP, minister and Opel executive, and above all, a man who has been in &lt;strong&gt;political marketing for 30 years.&lt;/strong&gt;&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:47:47</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>German Elections &amp; the Future Government – A Debate with Marketing Expert Volker Hoff</itunes:title></item>
+		<itunes:title>German Elections &amp; the Future Government – A Debate with Marketing Expert Volker Hoff</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>What is the future of german society? interview with Andreas Kunne</title>
 			<description>&lt;p&gt;Not only is the German economy struggling, but there are also deep divisions within society—West vs. East, mainstream vs. extremism, locals vs. immigrants, conservatives vs. progressives. What happened, and how can cohesion be restored? We discussed this with Andreas Künne, a veteran German diplomat and the current ambassador to the Czech Republic&lt;/p&gt;
@@ -431,14 +431,14 @@
 			<guid isPermaLink="false">94003486-78f0-468a-b827-b0b9e18b67ef</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 19 Feb 2025 14:35:11 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-1-19/395160633-44100-2-67057d1ab3b21.mp3" length="40002454" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/98724598/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-1-19/395160633-44100-2-67057d1ab3b21.mp3" length="40002454" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Not only is the German economy struggling, but there are also deep divisions within society—West vs. East, mainstream vs. extremism, locals vs. immigrants, conservatives vs. progressives. What happened, and how can cohesion be restored? We discussed this with Andreas Künne, a veteran German diplomat and the current ambassador to the Czech Republic&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:41:40</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>What is the future of german society? interview with Andreas Kunne</itunes:title></item>
+		<itunes:title>What is the future of german society? interview with Andreas Kunne</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>What is the future of german economy? interview with Klaus-Peter Willsch</title>
 			<description>&lt;p&gt;The German economy is struggling. Energy is über expensive, factories are uncompetitive, and exports are in decline. We discussed what can be done about it and how quickly Germany can reclaim its position as the EU’s economic powerhouse with Bundestag and Bundeswehr veteran Klaus-Peter Willsch from CDU/CSU.&lt;/p&gt;
@@ -447,14 +447,14 @@
 			<guid isPermaLink="false">a4c15451-34fd-4746-a313-d6a3c7bc74f0</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 12 Feb 2025 05:00:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-1-11/394709779-44100-2-0a62f25f035c4.mp3" length="32370519" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/98363663/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-1-11/394709779-44100-2-0a62f25f035c4.mp3" length="32370519" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;The German economy is struggling. Energy is über expensive, factories are uncompetitive, and exports are in decline. We discussed what can be done about it and how quickly Germany can reclaim its position as the EU’s economic powerhouse with Bundestag and Bundeswehr veteran Klaus-Peter Willsch from CDU/CSU.&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:33:43</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>What is the future of german economy? interview with Klaus-Peter Willsch</itunes:title></item>
+		<itunes:title>What is the future of german economy? interview with Klaus-Peter Willsch</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Německo před volbami: CDU x AfD</title>
 			<description>&lt;p&gt;Top evropská ekonomika je v křeči. A spolu s ní jsme v křeči my všichni. Jak vypadá Německo tři týdny před volbami a jaké úkoly čekají na budoucí vládu? Tímhle debatním ping-pongem zahajujeme náš německý měsíc. Pojďme na to!&lt;/p&gt;
@@ -464,7 +464,7 @@
 			<guid isPermaLink="false">931a5cfe-6679-4461-9e08-d8b0a6db536e</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 05 Feb 2025 05:00:00 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-1-4/394303000-44100-2-c947afc87ce45.mp3" length="43444766" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/98035686/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-1-4/394303000-44100-2-c947afc87ce45.mp3" length="43444766" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Top evropská ekonomika je v křeči. A spolu s ní jsme v křeči my všichni. Jak vypadá Německo tři týdny před volbami a jaké úkoly čekají na budoucí vládu? Tímhle debatním ping-pongem zahajujeme náš německý měsíc. Pojďme na to!&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 </itunes:summary>
@@ -472,7 +472,7 @@
 			<itunes:duration>00:45:15</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Německo před volbami: CDU x AfD</itunes:title></item>
+		<itunes:title>Německo před volbami: CDU x AfD</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title> Ekonomika Indie v roce 2025</title>
 			<description>&lt;p&gt;Je Indie nová Čína? Je schopná replikovat čínský ekonomický zázrak posledních 40 let. Snaží se, roste…ale svět se mezitím změnil. Globalizace je na ústupu. Jaká je tedy budoucnost indické ekonomiky? Pojďme na to!&lt;/p&gt;
@@ -482,7 +482,7 @@
 			<guid isPermaLink="false">92c5802c-e4c9-43a0-9a1f-95e43b3a56be</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Wed, 29 Jan 2025 06:53:11 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-0-29/393907489-44100-2-dbdd5f31d4efe.mp3" length="32955662" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/97719496/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-0-29/393907489-44100-2-dbdd5f31d4efe.mp3" length="32955662" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt;Je Indie nová Čína? Je schopná replikovat čínský ekonomický zázrak posledních 40 let. Snaží se, roste…ale svět se mezitím změnil. Globalizace je na ústupu. Jaká je tedy budoucnost indické ekonomiky? Pojďme na to!&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 </itunes:summary>
@@ -490,7 +490,7 @@
 			<itunes:duration>00:34:19</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Ekonomika Indie v roce 2025</itunes:title></item>
+		<itunes:title>Ekonomika Indie v roce 2025</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Davos – Třeboň – Washington</title>
 			<description>&lt;p&gt; V Davosu všichni mluvili o USA, ale mnoho Američanů tu nebylo. Proto jsme s Danem povolali svého osobního Američana, aby nám řekl, co si Trump myslí o globalismu, trzích a clech. No a já k tomu přidal, postřehy ze Švýcarska. Pojďme na to!&lt;br&gt;&lt;/p&gt;
@@ -499,13 +499,13 @@
 			<guid isPermaLink="false">fb1e0f66-1507-47dd-8f91-4a284d4e8676</guid>
 			<dc:creator>Jan Růžička</dc:creator>
 			<pubDate>Fri, 24 Jan 2025 06:12:26 GMT</pubDate>
-			<enclosure url="http://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-0-24/393625981-44100-2-2783c0186c24a.mp3" length="36301843" type="audio/mpeg" />
+			<enclosure url="https://anchor.fm/s/f5e22098/podcast/play/97493368/https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-0-24/393625981-44100-2-2783c0186c24a.mp3" length="36301843" type="audio/mpeg" />
 			<itunes:summary>&lt;p&gt; V Davosu všichni mluvili o USA, ale mnoho Američanů tu nebylo. Proto jsme s Danem povolali svého osobního Američana, aby nám řekl, co si Trump myslí o globalismu, trzích a clech. No a já k tomu přidal, postřehy ze Švýcarska. Pojďme na to!&lt;br&gt;&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>false</itunes:explicit>
 			<itunes:duration>00:37:48</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
-		<media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /><itunes:title>Davos – Třeboň – Washington</itunes:title></item>
-		<image><url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg</url><title>Růžička &amp; Vořechovský</title><link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link></image></channel>
+		<itunes:title>Davos – Třeboň – Washington</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
+		</channel>
 </rss>
