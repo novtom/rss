@@ -58,6 +58,20 @@ for filename, url in podcasts.items():
     if channel is None:
         print(f"❌ Nenalezen <channel> v {filename}")
         continue
+# Obrázek kanálu – použijeme ho jako fallback pro epizody
+channel_img_url = None
+ch_itunes_img = channel.find(f"{{{ITUNES_NS}}}image")
+if ch_itunes_img is not None and ch_itunes_img.get("href"):
+    channel_img_url = ch_itunes_img.get("href")
+else:
+    ch_img = channel.find("image")
+    if ch_img is not None:
+        ch_url = ch_img.find("url")
+        if ch_url is not None and ch_url.text:
+            channel_img_url = ch_url.text.strip()
+
+
+
 # --- zjisti URL obrázku kanálu jako fallback pro epizody ---
 channel_img_url = None
 
@@ -184,43 +198,77 @@ if not channel_img_url:
             it_img.set("href", channel_img_url)
             thumb = ET.SubElement(item, f"{{{MRSS_NS}}}thumbnail")
             thumb.set("url", channel_img_url)
-    # 🔧 Úprava <enclosure> URL
-    for item in channel.findall("item"):
-        enclosure = item.find("enclosure")
-        if enclosure is not None and "url" in enclosure.attrib:
-            url_attr = enclosure.attrib["url"]
+   # 🔧 Doplň metadata a uprav <enclosure> URL
+for item in channel.findall("item"):
+    # ——— a) itunes:title (kvůli zobrazení názvu při přehrávání) ———
+    if item.find(f"{{{ITUNES_NS}}}title") is None:
+        t = item.find("title")
+        if t is not None and t.text:
+            ET.SubElement(item, f"{{{ITUNES_NS}}}title").text = t.text
 
-            # 1️⃣ Podtrac redirect
-            if "dts.podtrac.com/redirect.mp3/" in url_attr:
-                url_attr = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
+    # ——— b) Obrázky epizody (dlaždice + přehrávač) ———
+    has_itunes_img = item.find(f"{{{ITUNES_NS}}}image") is not None
+    has_media_thumb = item.find(f"{{{MRSS_NS}}}thumbnail") is not None
+    if channel_img_url:
+        if not has_itunes_img:
+            ET.SubElement(item, f"{{{ITUNES_NS}}}image", {"href": channel_img_url})
+        if not has_media_thumb:
+            ET.SubElement(item, f"{{{MRSS_NS}}}thumbnail", {"url": channel_img_url})
 
-            # 2️⃣ Base64 zakódovaný mujRozhlas
-            parsed = urlparse(url_attr)
-            if "aod" in parsed.path and parsed.path.endswith(".mp3"):
-                try:
-                    b64name = parsed.path.split("/")[-1].replace(".mp3", "")
-                    decoded_url = base64.urlsafe_b64decode(b64name + "==").decode("utf-8")
-                    if decoded_url.startswith("https://"):
-                        decoded_url = decoded_url.replace("https://", "http://", 1)
-                    if not decoded_url.startswith(("http://", "https://")):
-                        decoded_url = "http://" + decoded_url
-                    enclosure.attrib["url"] = decoded_url
-                except Exception as e:
-                    print(f"❌ Base64 decode fail: {e} (u {url_attr})")
-                    if url_attr.startswith("https://"):
-                        enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
-                    elif not url_attr.startswith("http://"):
-                        enclosure.attrib["url"] = "http://" + url_attr
-                    else:
-                        enclosure.attrib["url"] = url_attr
-            else:
-                # 3️⃣ fallback: jen přidej http, pokud chybí
-                if url_attr.startswith("https://"):
-                    enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
-                elif not url_attr.startswith("http://"):
-                    enclosure.attrib["url"] = "http://" + url_attr
-                else:
-                    enclosure.attrib["url"] = url_attr
+    # ——— c) Úprava <enclosure> URL (odstranění redirectů, http prefer.) ———
+    enclosure = item.find("enclosure")
+    if enclosure is None or "url" not in enclosure.attrib:
+        continue
+
+    url_attr = enclosure.attrib["url"]
+    final_url = url_attr
+
+    # 1) Rozbal přesměrování (někdy je v URL Anchor/Transistor meziskok)
+    try:
+        h = requests.head(url_attr, allow_redirects=True, timeout=12)
+        if h.url:
+            final_url = h.url
+    except requests.exceptions.RequestException:
+        pass
+
+    # 2) Zahoď Podtrac redirect
+    if "dts.podtrac.com/redirect.mp3/" in final_url:
+        final_url = final_url.replace("https://dts.podtrac.com/redirect.mp3/", "")
+        final_url = final_url.replace("http://dts.podtrac.com/redirect.mp3/", "")
+
+    # 3) mujRozhlas base64 varianta „…/aod/<base64>.mp3“
+    parsed = urlparse(final_url)
+    if "aod" in parsed.path and parsed.path.endswith(".mp3"):
+        try:
+            b64name = parsed.path.rsplit("/", 1)[-1].replace(".mp3", "")
+            decoded = base64.urlsafe_b64decode(b64name + "==").decode("utf-8")
+            final_url = decoded
+        except Exception:
+            pass
+
+    # 4) Preferuj http (pokud to server dovolí), jinak nech https
+    if final_url.startswith("https://"):
+        http_try = "http://" + final_url[len("https://"):]
+        try:
+            h2 = requests.head(http_try, allow_redirects=False, timeout=8)
+            if 200 <= h2.status_code < 400:
+                final_url = http_try
+        except requests.exceptions.RequestException:
+            pass
+
+    # 5) Odstranění procent-kódování „https%3A%2F%2F…“ (pojistka)
+    if "%3A%2F%2F" in final_url:
+        try:
+            from urllib.parse import unquote
+            final_url = unquote(final_url)
+        except Exception:
+            pass
+
+    # 6) Poslední pojistka: pokud nezačíná http/https, přidej http://
+    if not (final_url.startswith("http://") or final_url.startswith("https://")):
+        final_url = "http://" + final_url.lstrip("/")
+
+    enclosure.set("url", final_url)
 # --- doplň metadata epizody: itunes:title a obrázek pro epizodu ---
 # itunes:title = stejné jako <title> (některé klienty to chtějí kvůli zobrazení)
 title_tag = item.find("title")
