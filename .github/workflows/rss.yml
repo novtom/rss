@@ -1,37 +1,30 @@
 name: Update podcast RSS
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 * * * *'   # volitelné – hodina; klidně si uprav
+  workflow_dispatch: {}
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - run: python -V
-      - run: pip install --upgrade pip
-      - run: pip install requests
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: Generate feeds
+      - name: Run generator
         run: python generate_feed.py
 
-      - name: Commit & push changes
-        run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add feeds/*.xml
-            git commit -m "Update feeds"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+      - name: Commit XML changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update feeds"
+          file_pattern: feeds/*.xml
