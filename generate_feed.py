@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import os
 import base64
 import requests
@@ -14,9 +17,23 @@ ET.register_namespace("media", MEDIA_NS)
 ET.register_namespace("atom", ATOM_NS)
 
 # ===== Nastavení =====
-OUTPUT_DIR = "feeds"
-MAX_ITEMS  = 30
-WORKER_RELAY = "https://podcast-relay.novtom.workers.dev/?u="  # necháme HTTPS, Worker to zvládne
+OUTPUT_DIR   = "feeds"
+MAX_ITEMS    = 30
+# Worker jede přes HTTP (LMS má problém s HTTPS přímo k CDN)
+WORKER_RELAY = "http://podcast-relay.novtom.workers.dev/?u="
+
+# Hosty, které typicky vyžadují HTTPS a/nebo dělají problémy s LMS
+BLOCKED_HOST_PARTS = (
+    "cloudfront.net",
+    "media.transistor.fm",
+    "transistor.fm",
+    "megaphone.fm",
+    "audioboom.com",
+    "spotify.com",
+    "spotifycdn",
+    "anchor.fm",
+    "spreaker.com",
+)
 
 podcasts = {
     "pro-a-proti.xml": "https://api.mujrozhlas.cz/rss/podcast/0bc5da25-f081-33b6-94a3-3181435cc0a0.rss",
@@ -41,30 +58,35 @@ podcasts = {
 # ===== Pomocné funkce =====
 
 def clean_enclosure_url(raw: str) -> str | None:
-    """Vrátí čistý přehratelný URL (bez podtrac, bez dvojitého URL).
-       Neřeší http/https – to obstará Worker relay."""
+    """Vrátí čisté přehratelné URL:
+       - odstraní Podtrac,
+       - rozbalí percent-encoding,
+       - vytáhne „URL v URL“ (Anchor/Spotify),
+       - dekóduje mujRozhlas AOD base64,
+       - doplní schéma.
+    """
     if not raw:
         return None
     url = raw.strip()
 
-    # 1) Podtrac pryč
+    # Podtrac pryč
     url = url.replace("https://dts.podtrac.com/redirect.mp3/", "")
     url = url.replace("http://dts.podtrac.com/redirect.mp3/", "")
 
-    # 2) Rozbal percent-encoding
+    # Rozbal %xx
     try:
         url = unquote(url)
     except Exception:
         pass
 
-    # 3) Anchor/Spotify „URL v URL“ – vem poslední http(s)://
+    # „URL v URL“ – vezmi poslední http(s)://
     last_http = max(url.rfind("https://"), url.rfind("http://"))
     if last_http > 0:
         candidate = url[last_http:]
         if ".mp3" in candidate:
             url = candidate
 
-    # 4) mujRozhlas aod – base64 v názvu souboru
+    # mujRozhlas AOD base64 → skutečné URL
     try:
         p = urlparse(url)
         if "aod" in p.path and p.path.endswith(".mp3"):
@@ -74,15 +96,23 @@ def clean_enclosure_url(raw: str) -> str | None:
     except Exception:
         pass
 
-    # 5) Doplň schéma, kdyby chybělo
+    # Doplň schéma
     if not url.startswith(("http://", "https://")):
         url = "http://" + url.lstrip("/")
 
     return url
 
 def wrap_with_worker(url: str) -> str:
-    """Obalí výslednou URL přes Cloudflare Worker relay."""
-    return f"{WORKER_RELAY}{quote(url, safe=':/?&=%')}"  # percent-encode, ale ponech běžné delim.
+    """Obalí zdrojovou URL přes Cloudflare Worker (HTTP), LMS pak hraje spolehlivě."""
+    # Encode param, ale ponech běžné delimiter znaky
+    return f"{WORKER_RELAY}{quote(url, safe=':/?&=%')}"
+
+def needs_worker(url: str) -> bool:
+    """Rozhodni, zda enclosure obalit přes Worker (HTTPS nebo „problem host“)."""
+    if url.startswith("https://"):
+        return True
+    host = (urlparse(url).hostname or "").lower()
+    return any(part in host for part in BLOCKED_HOST_PARTS)
 
 def get_channel_image(channel) -> str | None:
     it = channel.find(f"{{{ITUNES_NS}}}image")
@@ -108,12 +138,12 @@ def get_item_image(item) -> str | None:
     return None
 
 def ensure_item_artwork_and_title(item, channel_img_url: str | None):
-    # itunes:title
+    # itunes:title – některé klienty to potřebují pro zobrazení názvu při přehrávání
     if item.find(f"{{{ITUNES_NS}}}title") is None:
         it_t = ET.SubElement(item, f"{{{ITUNES_NS}}}title")
         it_t.text = (item.findtext("title") or "").strip()
 
-    # artwork
+    # Dlaždice (itunes:image + media:thumbnail)
     img = get_item_image(item) or channel_img_url
     if not img:
         return
@@ -164,7 +194,7 @@ def process_feed(filename: str, src_url: str):
             channel.remove(it)
         items = channel.findall("item")
 
-    # Link kanálu na GitHub Pages (chceš-li HTTP, změň na http://)
+    # Link kanálu na GitHub Pages (informativní)
     gh_link = f"https://novtom.github.io/rss/feeds/{filename}"
     ch_link = channel.find("link")
     if ch_link is not None:
@@ -185,7 +215,7 @@ def process_feed(filename: str, src_url: str):
         if enc is not None and enc.get("url"):
             cleaned = clean_enclosure_url(enc.get("url"))
             if cleaned:
-                enc.set("url", wrap_with_worker(cleaned))
+                enc.set("url", wrap_with_worker(cleaned) if needs_worker(cleaned) else cleaned)
 
         ensure_item_artwork_and_title(item, channel_img)
 
