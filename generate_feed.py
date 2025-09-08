@@ -199,6 +199,31 @@ if not channel_img_url:
             thumb = ET.SubElement(item, f"{{{MRSS_NS}}}thumbnail")
             thumb.set("url", channel_img_url)
    # 🔧 Doplň metadata a uprav <enclosure> URL
+        # 🔴 Speciální fix jen pro feed 5-59: rozbal/odkóduj URL a převeď na HTTP
+        if filename == "5-59.xml":
+            from urllib.parse import unquote
+
+            u = enclosure.get("url", "")
+
+            # 1) odkoduj percent-encoding (…https%3A%2F%2F…)
+            u = unquote(u)
+
+            # 2) zahoď podtrac přesměrování, kdyby se objevilo
+            u = u.replace("https://dts.podtrac.com/redirect.mp3/", "")
+            u = u.replace("http://dts.podtrac.com/redirect.mp3/", "")
+
+            # 3) preferuj HTTP (LMS pak přehrává spolehlivěji)
+            if u.startswith("https://"):
+                u = "http://" + u[len("https://"):]
+            elif not u.startswith("http://"):
+                u = "http://" + u
+
+            enclosure.set("url", u)
+
+            # máme hotovo pro tuhle položku – přeskoč obecné zpracování
+            continue
+
+
 for item in channel.findall("item"):
     # ——— a) itunes:title (kvůli zobrazení názvu při přehrávání) ———
     if item.find(f"{{{ITUNES_NS}}}title") is None:
