@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Chyba systému</title>
     <language>cs</language>
@@ -240,7 +240,7 @@
       <enclosure url="http://portal.rozhlas.cz/sites/default/files/audios/4948c2904ea34d31186d5959446dd873.mp3" type="audio/mpeg" length="73134144" />
       <guid isPermaLink="false">9381701</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/2b23f3eb-8204-34a5-9ec5-ecd38f19dae9</link>
-    </item>
+    <ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/d2f49e80af8a261b5d7cd8c0db52dc5c.jpg?itok=nV5ByjHC" /></item>
     <item>
       <title>Klvaňa: Volby v USA jsou pro naši bezpečnost víc než ty naše</title>
       <description>Už za necelý měsíc se do Bílého domu vrátí Donald Trump. Jak se Spojené státy proměnily nejen od jeho prvního funkčního období, ale i od začátku milénia? „Americké sebevědomí dostalo velkou ránu. Nikdy si nepřipouštěli, že by neměli být lídrem západního svobodného světa. Několik ran, jako bylo 11. září, hospodářská krize nebo epidemie covidu-19, ale odhalily zranitelnost Spojených států. Zvenčí i vnitřně,“ míní politolog Tomáš Klvaňa z New York University v Praze.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Chyba systému můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/47833fff-1845-3b97-b263-54fe2c4026b7?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=7364def4-0b62-3a1c-8e58-364cc90b634a"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -263,7 +263,7 @@
       <enclosure url="http://portal.rozhlas.cz/sites/default/files/audios/a75bda98e14e63edec5bb12eaad50ade.mp3" type="audio/mpeg" length="64081152" />
       <guid isPermaLink="false">9375383</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/42618676-1152-31f4-aa60-674123cdfafb</link>
-    </item>
+    <ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/d2f49e80af8a261b5d7cd8c0db52dc5c.jpg?itok=nV5ByjHC" /></item>
     <item>
       <title>Analytik: Trh práce je zamrzlý, firmy čeká náraz do zdi</title>
       <description>Premiér Petr Fiala (ODS) slibuje, že pokud dostane další mandát, budou v Česku platy jako v Německu. Co je třeba udělat pro to, aby zaměstnanci dosáhli na důstojnou mzdu a zároveň i firmy prosperovaly? A jak ve skutečnosti vypadá náš trh práce? „Je zamrzlý. Lidé nejsou příliš ochotní změnit práci a zůstávají v zaměstnání i za ne zcela adekvátních podmínek,“ míní Tomáš Ervín Dombrovský, který působí jako analytik ve společnosti Alma Career.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Chyba systému můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/47833fff-1845-3b97-b263-54fe2c4026b7?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=49d10c14-2e4d-3419-b61f-4636cb69964b"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -286,7 +286,7 @@
       <enclosure url="http://portal.rozhlas.cz/sites/default/files/audios/4a8c8bc8d8fb3de9aaad3f8aa96517fb.mp3" type="audio/mpeg" length="65342080" />
       <guid isPermaLink="false">9365286</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/4a4601d8-5e83-3664-8f78-3334eef98c25</link>
-    </item>
+    <ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/d2f49e80af8a261b5d7cd8c0db52dc5c.jpg?itok=nV5ByjHC" /></item>
     <item>
       <title>Pojar: Svobodný svět je na ústupu, moralizování nefunguje</title>
       <description>S nástupem Václava Havla do prezidentského úřadu se jedním z ústředních témat české zahraniční politiky stala lidská práva. Jak je tomu dnes – 35 let po sametové revoluci? „Ze strany Václava Havla to bylo osobní. Myslím, že lidskoprávní agenda stále úplně neodešla. Ale svobodný svět, který byl v 90. letech na vzestupu, je na ústupu a my se musíme bránit,“ zdůrazňuje poradce premiéra Petra Fialy (ODS) pro národní bezpečnost Tomáš Pojar.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Chyba systému můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/47833fff-1845-3b97-b263-54fe2c4026b7?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=1b73c911-ea2f-371b-90c7-720434a72aec"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -309,7 +309,7 @@
       <enclosure url="http://portal.rozhlas.cz/sites/default/files/audios/2c7cc8a11b0604cd9833254c494f6987.mp3" type="audio/mpeg" length="22312576" />
       <guid isPermaLink="false">9356139</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/b929eb63-16dc-396f-9227-d5dbb6abfe29</link>
-    </item>
+    <ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/d2f49e80af8a261b5d7cd8c0db52dc5c.jpg?itok=nV5ByjHC" /></item>
     <item>
       <title>Pečinka: ANO je strana seniorů. Fiala dělá z vlády konkláve</title>
       <description>Sněmovní volby by v říjnu vyhrálo hnutí ANO s více než 33 procenty, druhá ODS by dostala 12 procent a hnutí STAN 11 procent. Další strany, které se minule dostaly do Sněmovny, se dnes pohybují okolo pětiprocentní hranice a možná neuspějí. Naopak by se do Parlamentu podle modelu agentury Median vrátila KSČM. „Bašty sociální demokracie a komunistů dnes patří hnutí ANO. Voliči levice si vybrali jiného reprezentanta svých zájmů,“ míní v Chybě systému novinář Bohumil Pečinka.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Chyba systému můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/47833fff-1845-3b97-b263-54fe2c4026b7?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=5c53782f-a8b8-34aa-a89c-efb43915fe6a"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -332,7 +332,7 @@
       <enclosure url="http://portal.rozhlas.cz/sites/default/files/audios/cc1cb7e2e208782b90d4781627398b06.mp3" type="audio/mpeg" length="72122112" />
       <guid isPermaLink="false">9347274</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/1a8b9357-02f4-3c48-a564-f455890b2e89</link>
-    </item>
+    <ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/d2f49e80af8a261b5d7cd8c0db52dc5c.jpg?itok=nV5ByjHC" /></item>
     <item>
       <title>Historička: Mlčeli jsme o negativech transformace</title>
       <description>Devadesátá léta – éra transformace, nekonečných možností, ale i výzev, které zásadně formovaly českou společnost. Jak na tuto dobu vzpomínáme a co z ní přetrvalo dodnes? Podle historičky Adély Gjuričové je dědictví devadesátek stále relevantní i pro dnešní politiku: „Instituce si od té doby velmi personalizujeme. A to je špatně, protože nám to zakrývá pohled na to, co nám přináší a jaká je mezi nimi rovnováha v celém systému,“ uvádí v podcastu Chyba systému.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Chyba systému můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/47833fff-1845-3b97-b263-54fe2c4026b7?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=43eb4d1c-96b1-339e-9764-e764cf1775df"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
@@ -355,7 +355,7 @@
       <enclosure url="http://portal.rozhlas.cz/sites/default/files/audios/272c4e8a7561f4b72cde2661c4760116.mp3" type="audio/mpeg" length="51097536" />
       <guid isPermaLink="false">9338045</guid>
       <link>https://www.mujrozhlas.cz/rapi/view/episode/ea7b3de6-c8f5-332c-a559-cc6080e9ba81</link>
-    </item>
+    <ns1:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/d2f49e80af8a261b5d7cd8c0db52dc5c.jpg?itok=nV5ByjHC" /></item>
     <item>
       <title>Bérová: Tlak na úspory v digitalizaci vede do slepých uliček</title>
       <description>Vláda rozhodla nepokračovat ve vývoji digitalizovaných systémů stavebního řízení spuštěných v červenci. Tento krok opět poukazuje na dlouhodobé problémy s prosazováním digitalizace veřejné správy v Česku. V jakém je stavu? „To se úplně slušně říct nedá. Tak přesně tam si myslím, že je,“ konstatuje bývalá ministryně informatiky a podnikatelka Dana Bérová.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Chyba systému můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/47833fff-1845-3b97-b263-54fe2c4026b7?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=7fd40c86-a75e-3721-b90c-a13d830f9c4e"&gt;mujRozhlas.cz&lt;/a&gt;.</description>

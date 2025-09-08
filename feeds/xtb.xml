@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns3="http://search.yahoo.com/mrss/" version="2.0">
 	<channel>
 		<title>XTB – INVESTICE &amp;amp; TRADING</title>
 		<description>XTB je investiční aplikace, která poskytuje profesionální podmínky pro obchodování Forexu, komodit, indexů, kryptoměn, akcií a ETF. Na tomto kanálu naleznete zvukové záznamy našich pravidelných i speciálních webinářů, mezi které patří např. Ranní komentář nebo Povídání o trzích. 
@@ -12,7 +12,7 @@ SK - https://www.xtb.com/sk/demo-ucet
 U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</description>
 		<link>https://novtom.github.io/rss/feeds/xtb.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Fri, 05 Sep 2025 05:09:09 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Sep 2025 05:15:08 GMT</lastBuildDate>
 		<ns0:link href="https://anchor.fm/s/3de2cbdc/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>XTB Online Trading</author>
 		<copyright>XTB Online Trading</copyright>
@@ -38,6 +38,22 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 		</ns1:category>
 		<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 		<item>
+			<title>Ranní komentář: Slabší americké makro, Elonův balíček a halucinace LLM</title>
+			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Broadcom, Lululemon, American Eagle, Salesforce, Čína &lt;/p&gt;&lt;p&gt;(16:40) Opera &lt;/p&gt;&lt;p&gt;(18:38) Podlehnutí FOMO &lt;/p&gt;&lt;p&gt;(22:01) Pár dalších dotazů&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/xtb/episodes/Rann-koment-Slab-americk-makro--Elonv-balek-a-halucinace-LLM-e37u8p2</link>
+			<guid isPermaLink="false">2d733637-ab19-4801-ae84-3aa595a4564e</guid>
+			<dc:creator>XTB Online Trading</dc:creator>
+			<pubDate>Mon, 08 Sep 2025 05:12:22 GMT</pubDate>
+			<enclosure url="http://anchor.fm/s/3de2cbdc/podcast/play/107995362/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-8%2F8ac2feef-3659-c235-2893-52180372f23e.mp3" length="28707769" type="audio/mpeg" />
+			<ns1:summary>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Broadcom, Lululemon, American Eagle, Salesforce, Čína &lt;/p&gt;&lt;p&gt;(16:40) Opera &lt;/p&gt;&lt;p&gt;(18:38) Podlehnutí FOMO &lt;/p&gt;&lt;p&gt;(22:01) Pár dalších dotazů&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</ns1:summary>
+			<ns1:explicit>false</ns1:explicit>
+			<ns1:duration>00:29:53</ns1:duration>
+			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
+			<ns1:episodeType>full</ns1:episodeType>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
+		<item>
 			<title>Ranní komentář: Výsledky Broadcomu, růst American Eagle a Čína chce omezit růst akcí</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;br&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Broadcom, Lululemon, American Eagle, Salesforce, Čína &lt;/p&gt;&lt;p&gt;(16:40) Opera &lt;/p&gt;&lt;p&gt;(18:38) Podlehnutí FOMO &lt;/p&gt;&lt;p&gt;(22:01) Pár dalších dotazů&lt;/p&gt;
 </description>
@@ -52,7 +68,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:24:05</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Sazby v USA, růst Googlu, výsledky Macy’s a nový herní film</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) US sazby, Google, Paramount, Macy&amp;#39;s, Polestar &lt;/p&gt;&lt;p&gt;(17:25) Změny v portfoliu &lt;/p&gt;&lt;p&gt;(20:26) Ještě k POET &lt;/p&gt;&lt;p&gt;(23:22) Krach eura? &lt;/p&gt;&lt;p&gt;(26:37) Názor na Alphabet &lt;/p&gt;&lt;p&gt;(29:51) Pár dalších dotazů a komentů &lt;/p&gt;&lt;p&gt;(33:30) dLocal&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -68,7 +84,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:43:40</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Obrovské vítězství pro Google a Apple. Soud rozhodl, že Google nemusí prodávat Chrome!</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -84,7 +100,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:11:40</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Aktivisté v Pepsi, klesající prodeje piva, pád InPost a výsledky Nio</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Biogen, Pepsi, Constallation Brands, InPost, Nio &lt;/p&gt;&lt;p&gt;(16:34) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(19:38) Split a přehnaný focus na cenu akcie &lt;/p&gt;&lt;p&gt;(21:39) MAG7 a zbytek trhu &lt;/p&gt;&lt;p&gt;(22:49) Moje letadlo a garance pro rodinu &lt;/p&gt;&lt;p&gt;(24:45) Stravenkové poukázky &lt;/p&gt;&lt;p&gt;(26:15) Federer investor &lt;/p&gt;&lt;p&gt;(27:30) Rychlost vývoje v Číně a EU &lt;/p&gt;&lt;p&gt;(31:04) POET Technologies, protiargument &lt;/p&gt;&lt;p&gt;(35:00) Volkswagen&lt;/p&gt;
@@ -100,7 +116,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:44:17</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Drahé akcie, výsledky BYD, růst Orstedu</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Valuace akcií, BYD, Orsted, Revolut, Nestlé &lt;/p&gt;&lt;p&gt;(13:53) Shoals Technologies &lt;/p&gt;&lt;p&gt;(16:41) Nemovitost na dluh nebo z výnosu investic? &lt;/p&gt;&lt;p&gt;(19:32) Doplnění k POET &lt;/p&gt;&lt;p&gt;(23:18) BYD &lt;/p&gt;&lt;p&gt;(27:33) DCA vs Stockpicking &lt;/p&gt;&lt;p&gt;(33:31) Težaři železa, Champion Iron Ltd. &lt;/p&gt;&lt;p&gt;(37:48) Edenred &lt;/p&gt;&lt;p&gt;(42:33) Garance výnosu rodině &lt;/p&gt;&lt;p&gt;(44:34) On Holding&lt;/p&gt;
@@ -116,7 +132,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:48:26</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Silný srpen na trzích, americká cla jsou podle soudu nelegální, Alibaba a její nový čip</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Shrnutí, Alibaba a její nový čip, Trumpova cla &lt;/p&gt;&lt;p&gt;(14:05) POET Technologies &lt;/p&gt;&lt;p&gt;(18:57) Intellego &lt;/p&gt;&lt;p&gt;(22:41) Prodej akcií kvalitních firem &lt;/p&gt;&lt;p&gt;(27:43) Těžaři zlata&lt;/p&gt;
@@ -132,7 +148,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:32:55</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-08-29: Bayrou zřejmě vládu neudrží, Waller volá po snížení sazeb a dnes nás čeká PCE inflace</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacieTento materiál je marketingovou komunikací ve smyslu čl. 24 odst. 3 směrnice Evropského parlamentu a Rady 2014/65/EU ze dne 15. května 2014 o trzích finančních nástrojů, kterou se mění směrnice 2002/92/ES a směrnice 2011/61/EU (MiFID II). Marketingová komunikace není investiční doporučení ani informace doporučující či navrhující investiční strategii ve smyslu nařízení Evropského parlamentu a Rady (EU) č. 596/2014 ze dne 16. dubna 2014 o zneužívání trhu (nařízení o zneužívání trhu) a o zrušení směrnice Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu. V případě, že marketingová komunikace obsahuje jakékoli informace o jakýchkoli výsledcích týkajících se finančních nástrojů v nich uvedených, nepředstavují žádnou záruku ani předpověď ohledně budoucích výsledků. Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu.&lt;/p&gt;
@@ -148,7 +164,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:23:22</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-08-21: Povídání o Trzích: Využitie umelej inteligencie pri skladaní portfólia, akciách a ETF</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -164,7 +180,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>01:22:10</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Nvidia pokračuje v šialenom raste, tržby za AI čipy ale mierne nesplnili očakávania</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -180,7 +196,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:09:44</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Dominik Stroukal &amp; Pavel Peterka: Půl roku mluvíme o dopadech cel, ale jak se to počítá?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -196,7 +212,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:39:02</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Trump a jeho boj s Fedem, francouzské výnosy, růst EchoStar</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Trump, zbrojovky, francouzské bondy EchoStar, Nikon &lt;/p&gt;&lt;p&gt;(17:29) EVgo &lt;/p&gt;&lt;p&gt;(20:45) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(24:15) Baidu &lt;/p&gt;&lt;p&gt;(26:53) Evropské banky &lt;/p&gt;&lt;p&gt;(29:35) Různé ceny na burzách &lt;/p&gt;&lt;p&gt;(30:45) Walmart a životnost firem &lt;/p&gt;&lt;p&gt;(32:50) Well Health Technologies &lt;/p&gt;&lt;p&gt;(36:11) Grab &lt;/p&gt;&lt;p&gt;(39:31) Je SoFi jen banka? &lt;/p&gt;&lt;p&gt;(41:25) Doplnění k Bristow Group&lt;/p&gt;
@@ -212,7 +228,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:48:38</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Powell poslal Ethereum na nová maxima v okolí 5000 USD, věří mu i Peter Thiel</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -228,7 +244,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:09:16</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Krize ve Francii, korekce na Keuring Dr Pepper, další pád Orstedu a růstu akcií Puma</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Francie, státní kapitalismus, Keuring Dr Pepper, Orsted, Puma &lt;/p&gt;&lt;p&gt;(13:53) Ještě k doručování do boxů &lt;/p&gt;&lt;p&gt;(15:38) Výsledky Dino Polska &lt;/p&gt;&lt;p&gt;(17:09) GoPro &lt;/p&gt;&lt;p&gt;(23:10) Walmart &lt;/p&gt;&lt;p&gt;(26:50) Figma&lt;/p&gt;
@@ -244,7 +260,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:28:40</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Akcie na maximech! Trhy reagují prudce na Powellovy komentáře. Klesnou úrokové sazby již v září?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -260,7 +276,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:14:11</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Reakce na Powellův projev, spolupráce Mety a Googlu a podíl americké vlády v Intelu</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Projev Powella, sazby, Meta, Intel &lt;/p&gt;&lt;p&gt;(16:20) InPost &lt;/p&gt;&lt;p&gt;(24:04) Bristow Group &lt;/p&gt;&lt;p&gt;(31:10) Nvidia před dvěma lety a dnes&lt;/p&gt;
@@ -276,7 +292,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:33:49</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-08-22: Ropa se usmíva, ESPN má streaming, colná dohoda EU-USA, Boeing x Čína</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -292,7 +308,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:38:16</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Praská na akcích Palantiru největší akciová bublina všech dob?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -308,7 +324,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:17:25</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-08-21: FOMC minutes stojí za posílením dolaru, Target mění CEO</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacieTento materiál je marketingovou komunikací ve smyslu čl. 24 odst. 3 směrnice Evropského parlamentu a Rady 2014/65/EU ze dne 15. května 2014 o trzích finančních nástrojů, kterou se mění směrnice 2002/92/ES a směrnice 2011/61/EU (MiFID II). Marketingová komunikace není investiční doporučení ani informace doporučující či navrhující investiční strategii ve smyslu nařízení Evropského parlamentu a Rady (EU) č. 596/2014 ze dne 16. dubna 2014 o zneužívání trhu (nařízení o zneužívání trhu) a o zrušení směrnice Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu. V případě, že marketingová komunikace obsahuje jakékoli informace o jakýchkoli výsledcích týkajících se finančních nástrojů v nich uvedených, nepředstavují žádnou záruku ani předpověď ohledně budoucích výsledků. Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu.&lt;/p&gt;
@@ -324,7 +340,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:43:41</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-08-20: SoftBank vstupuje do Intelu, USA jsou spokojené se současným stavem obchodní politiky</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacieTento materiál je marketingovou komunikací ve smyslu čl. 24 odst. 3 směrnice Evropského parlamentu a Rady 2014/65/EU ze dne 15. května 2014 o trzích finančních nástrojů, kterou se mění směrnice 2002/92/ES a směrnice 2011/61/EU (MiFID II). Marketingová komunikace není investiční doporučení ani informace doporučující či navrhující investiční strategii ve smyslu nařízení Evropského parlamentu a Rady (EU) č. 596/2014 ze dne 16. dubna 2014 o zneužívání trhu (nařízení o zneužívání trhu) a o zrušení směrnice Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu. V případě, že marketingová komunikace obsahuje jakékoli informace o jakýchkoli výsledcích týkajících se finančních nástrojů v nich uvedených, nepředstavují žádnou záruku ani předpověď ohledně budoucích výsledků. Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu.&lt;/p&gt;
@@ -340,7 +356,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:22:41</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Jednání o Ukrajině, růst Novo Nordisk a renewables, IPO trh v Evropě a AI bublina</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Výsledková sezóna, Ukrajina, Novo Nordisk, renewables, IPO trh, Sam Altman &lt;/p&gt;&lt;p&gt;(17:26) Jamf Holding &lt;/p&gt;&lt;p&gt;(21:35) Upstart &lt;/p&gt;&lt;p&gt;(26:24) Wacker Chemie a cykličnost společností &lt;/p&gt;&lt;p&gt;(31:04) Akcie s nízkým floatem &lt;/p&gt;&lt;p&gt;(33:02) Minecraft vs Roblox &lt;/p&gt;&lt;p&gt;(34:48) Poet Technologies &lt;/p&gt;&lt;p&gt;(43:30) Zajištění akcií přes opce&lt;/p&gt;
@@ -356,7 +372,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:49:02</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Akciové portfólio Tomáša Vranku (11.8.2025) - Prečo sú akcie LVMH najnižšie za 5 rokov?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;[0:00] Úvod &lt;/p&gt;&lt;p&gt;[2:02] Ako sa dostať skôr k videu &lt;/p&gt;&lt;p&gt;[2:50] Berkshire Hathaway e-book  &lt;/p&gt;&lt;p&gt;[4:06] Povídání o Trzích k výsledkom Big Techu  &lt;/p&gt;&lt;p&gt;[4:42] Prečo sú severské firmy také úspešné?  &lt;/p&gt;&lt;p&gt;[22:43] Americké firmy prepúšťajú  &lt;/p&gt;&lt;p&gt;[36:34] Zaujímavé grafy, obrázky a infografiky  &lt;/p&gt;&lt;p&gt;[1:08:36] Nákup do portfólia - LVMH  &lt;/p&gt;&lt;p&gt;[1:35:20] LVMH v Bloomberg Termináli  &lt;/p&gt;&lt;p&gt;[1:40:45] xStation  &lt;/p&gt;&lt;p&gt;[1:41:53] Otázky do diskusie  &lt;/p&gt;&lt;p&gt;[1:42:42] Záver  &lt;/p&gt;
@@ -372,7 +388,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>01:43:18</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Výsledková sezóna, akcie na maximech a setkání Trumpa s Putinem</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Výsledková sezóna, Applied Materials, Trump a Putin, Jackson Hole 16:45 UnitedHealth Group &lt;/p&gt;&lt;p&gt;(21:55) WBD &lt;/p&gt;&lt;p&gt;(24:25) Složené úročení a akcie &lt;/p&gt;&lt;p&gt;(26:41) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(32:09) Hedžování akcií pomocí opcí &lt;/p&gt;&lt;p&gt;(33:59) Changee&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -388,7 +404,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:39:06</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Americké makro, růst Intelu, pád Tapestry a Deeru, výprodej a Embraceru</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) PPI, Buffett na nákupech, Intel, Tapestry, Deere, Embracer &lt;/p&gt;&lt;p&gt;(18:18) Korekce kdy? &lt;/p&gt;&lt;p&gt;(21:00) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(24:49) MillerKnoll &lt;/p&gt;&lt;p&gt;(32:58) Boston Omaha Corp. &lt;/p&gt;&lt;p&gt;(37:13) Sea&lt;/p&gt;
@@ -404,7 +420,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:43:21</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Paramount jen tak +36 %, TUI +8 % a nové silné IPO</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Paramount, Tencent, TUI, Bullish IPO &lt;/p&gt;&lt;p&gt;(17:59) CAVA Group &lt;/p&gt;&lt;p&gt;(20:20) Exodus Movement &lt;/p&gt;&lt;p&gt;(22:06) Pár dotazů a kmomentů &lt;/p&gt;&lt;p&gt;(26:34) Intellego, I-TECH&lt;/p&gt;
@@ -420,7 +436,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:29:32</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Dominik Stroukal &amp; Pavel Peterka: Proč je slabý dolar důležitý pro investory?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;[0:00] Úvod + upozornění na rizika &lt;/p&gt;&lt;p&gt;[0:41] Rocková hudba &lt;/p&gt;&lt;p&gt;[9:00] Levný dolar a důvody oslabení &lt;/p&gt;&lt;p&gt;[10:28] Vysoká srovnávací základna &lt;/p&gt;&lt;p&gt;[11:44] (Geo)politická nejistota &lt;/p&gt;&lt;p&gt;[13:10] Obchodní války &lt;/p&gt;&lt;p&gt;[16:17] Americký dluh  &lt;/p&gt;&lt;p&gt;[20:27] Vliv slabého USD na českého investora  &lt;/p&gt;&lt;p&gt;[23:58] Data z trhu práce a reakce Trumpa  &lt;/p&gt;&lt;p&gt;[26:40] Fed a možné snížení sazeb  &lt;/p&gt;&lt;p&gt;[27:22] Shrnutí  &lt;/p&gt;&lt;p&gt;[28:27] Dvě čísla  &lt;/p&gt;&lt;p&gt;[29:35] Závěr  &lt;/p&gt;
@@ -436,7 +452,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:29:54</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Ranní Komentář: Americká inflace, výsledky Circle, CoreWeave a další problémy Evolution</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Inflace, výsledky CRCL, CRWV, CAH, problémy EVO &lt;/p&gt;&lt;p&gt;(16:14) Crocs vs Nike &lt;/p&gt;&lt;p&gt;(17:44) Kauza Labubu &lt;/p&gt;&lt;p&gt;(23:45) Sarepta Therapeutics &lt;/p&gt;&lt;p&gt;(28:34) Align Technology &lt;/p&gt;&lt;p&gt;(41:30) Block &lt;/p&gt;&lt;p&gt;(44:00) Tip na dokument a knihu&lt;/p&gt;
@@ -452,7 +468,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:45:11</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Nvidia a AMD budou platit za vývoz čipů do Číny, růst TKO Group, výplach na Orstedu</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;br&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Bank of America průzkum, Nvidia a AMD, TKO Group, Intel, pád Orstedu &lt;/p&gt;&lt;p&gt;(16:50) Duolingo, riziko GPT &lt;/p&gt;&lt;p&gt;(19:27) Výsledky Trade Desku &lt;/p&gt;&lt;p&gt;(22:06) K neviditelným rovnátkům jako pacient &lt;/p&gt;&lt;p&gt;(23:01) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(24:37) Crocs &lt;/p&gt;&lt;p&gt;(28:32) Ještě k rovnátkům &lt;/p&gt;&lt;p&gt;(32:31) Pár dalších dotazů &lt;/p&gt;&lt;p&gt;(33:05) A ještě k rovnátkům &lt;/p&gt;&lt;p&gt;(35:38) Sandoz AG &lt;/p&gt;&lt;p&gt;(42:10) Firmy s nízkým floatem &lt;/p&gt;&lt;p&gt;(44:10) Pop Mart&lt;/p&gt;
@@ -468,7 +484,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:48:49</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ethereum od dubnových minim roste o více než 150 %. Bude jednou větší než Bitcoin?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -484,7 +500,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:12:20</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-8-1: Povídání o Trzích: Výsledky velkých technologických firem, Berkshire po Buffettovi a tabák</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;[00:00:00] Úvod&lt;/p&gt;&lt;p&gt;[00:03:15] Výsledky Alphabetu&lt;/p&gt;&lt;p&gt;[00:20:03] Výsledky Meta&lt;/p&gt;&lt;p&gt;[00:42:56] Výsledky Microsoft&lt;/p&gt;&lt;p&gt;[00:51:43] Výsledky Amazon&lt;/p&gt;&lt;p&gt;[01:06:14] Tipy na filmy a seriály&lt;/p&gt;&lt;p&gt;[01:09:36] Výsledky Apple&lt;/p&gt;&lt;p&gt;[01:26:26] Výsledky tabakových firiem&lt;/p&gt;&lt;p&gt;[01:41:00] Berkshire Hathaway po Buffettovi&lt;/p&gt;&lt;p&gt;[01:46:34] Výsledky Tesly&lt;/p&gt;
@@ -500,7 +516,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>01:56:26</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Investice Applu v USA, růst Arista Networks a Match Group, pád SuperMicro a Bayeru</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Trump a Apple, výsledky ANET, MTCH, SMCI, BAYN &lt;/p&gt;&lt;p&gt;(19:15) Vysoká škola, ekonomie &lt;/p&gt;&lt;p&gt;(21:16) Puig Brands &lt;/p&gt;&lt;p&gt;(28:48) Meta Ray-Ban, první dojmy &lt;/p&gt;&lt;p&gt;(32:30) Ortodoncie, praxe &lt;/p&gt;&lt;p&gt;(38:12) ASML &lt;/p&gt;&lt;p&gt;(41:14) Yalla Group &lt;/p&gt;&lt;p&gt;(47:13) Align Technologies &lt;/p&gt;&lt;p&gt;(57:14) Hilton, Marriott&lt;/p&gt;
@@ -516,7 +532,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>01:01:02</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Walt Disney hlási silné výsledky a dobrý výhľad, akcie sa však stále nevedia odraziť</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -532,7 +548,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:09:00</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Americké makro, Trump a nová cla, výsledky AMD, Pfizer, Gartner, Axon a další</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 71 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Makro, Trump, výsledky AMD, PF, IT, AXON, KD &lt;/p&gt;&lt;p&gt;(20:31) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(26:07) Unáhlené prodeje akcií &lt;/p&gt;&lt;p&gt;(28:11) Ondas Holding &lt;/p&gt;&lt;p&gt;(29:50) Figma &lt;/p&gt;&lt;p&gt;(36:05) Zeta Global Holdings &lt;/p&gt;&lt;p&gt;(44:01) Ondo Insuretech&lt;/p&gt;
@@ -548,7 +564,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:51:15</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Dominik Stroukal &amp; Pavel Peterka: Největší a báječná obchodní dohoda s EU, jakože ever.</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod + upozornění na rizika&lt;/p&gt;&lt;p&gt;(01:10) Pokec o muzice&lt;/p&gt;&lt;p&gt;(05:11) Co se (ne)domluvilo?&lt;/p&gt;&lt;p&gt;(11:55) Vítězové a poražení&lt;/p&gt;&lt;p&gt;(17:35) Dopad na jednotlivé země EU&lt;/p&gt;&lt;p&gt;(21:45) Evropsko-čínské vztahy, US prezidenti a cla&lt;/p&gt;&lt;p&gt;(23:52) Farmaceutický průmysl&lt;/p&gt;&lt;p&gt;(26:30) Přesun výroby do USA?&lt;/p&gt;&lt;p&gt;(28:05) Americký trh práce&lt;/p&gt;&lt;p&gt;(30:35) Donald Trump&lt;/p&gt;&lt;p&gt;(32:10) Kdo tedy vyhrál?&lt;/p&gt;&lt;p&gt;(33:40) Pohled trhů&lt;/p&gt;&lt;p&gt;(34:19) Dvě čísla&lt;/p&gt;&lt;p&gt;(35:30) Závěr&lt;/p&gt;
@@ -564,7 +580,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:35:56</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Palantir je nezastaviteľný, od miním rastie už o 2 500 % a tržby má prvýkrát nad 1 miliardou USD</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -579,7 +595,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:explicit>false</ns1:explicit>
 			<ns1:duration>00:08:30</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Výsledky Palantiru a Hims&amp;Hers, růst IDEXX Lab a pád On Semi</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Další korporátní výsledky, PLTR, HIMS, ON, IDXX 16:51 American Eagle kampaň &lt;/p&gt;&lt;p&gt;(17:42) Doplnění k Align Technology &lt;/p&gt;&lt;p&gt;(19:42) Roku &lt;/p&gt;&lt;p&gt;(21:05) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(21:53) ETF z evropských automobilek &lt;/p&gt;&lt;p&gt;(23:30) Archer Aviation &lt;/p&gt;&lt;p&gt;(26:37) Pár dalších dotazů a komentů &lt;/p&gt;&lt;p&gt;(28:56) Doplnění k Medmixu &lt;/p&gt;&lt;p&gt;(30:42) AGNC &lt;/p&gt;&lt;p&gt;(32:14) UnitedHealth Group a pojišťovny &lt;/p&gt;&lt;p&gt;(34:20) Pár dalších dotazů&lt;/p&gt;
@@ -594,7 +610,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:explicit>false</ns1:explicit>
 			<ns1:duration>00:37:19</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Berkshire Hathaway prináša dobré výsledky, ale odpisuje miliardy na investícii v Kraft Heinz</title>
 			<description>&lt;p&gt;Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -609,7 +625,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:explicit>false</ns1:explicit>
 			<ns1:duration>00:06:29</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Trump a výsledky z trhu práce, akcie pod tlakem ale stále vysoko</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;br&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Trumpova cla, NFP, Align Technology, Figma, OPEC &lt;/p&gt;&lt;p&gt;(23:51) Výsledky Roku &lt;/p&gt;&lt;p&gt;(24:34) Ferrari &lt;/p&gt;&lt;p&gt;(27:21) Revolut &lt;/p&gt;&lt;p&gt;(28:20) Medmix &lt;/p&gt;&lt;p&gt;(30:45) RCI Hospitality &lt;/p&gt;&lt;p&gt;(33:26) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(35:17) BYD &lt;/p&gt;&lt;p&gt;(36:25) CoreWeave &lt;/p&gt;&lt;p&gt;(38:05) BMW, Mazda a automobilky &lt;/p&gt;&lt;p&gt;(40:45) Doplnění ke Kinsale Capital &lt;/p&gt;&lt;p&gt;(42:45) Autonomní taxi &lt;/p&gt;&lt;p&gt;(46:27) Pár dalších dotazů a komentů &lt;/p&gt;&lt;p&gt;(47:40) Rolls-Royce&lt;/p&gt;
@@ -624,7 +640,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:explicit>false</ns1:explicit>
 			<ns1:duration>00:53:33</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Apple vďaka iPhonu a službám reportuje dobré čísla. Bude to ale stačiť?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -640,7 +656,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:09:23</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Amazon prináša solídne čísla, cloud AWS však rastie pomalšie, ako by si trh želal</title>
 			<description>&lt;p&gt;Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -656,7 +672,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:09:17</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Bude Microsoft po výborných výsledkoch druhá 4 biliónová firma na svete?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -672,7 +688,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:07:45</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Meta hlási fenomenálne výsledky, Zuck hovorí o superinteligencii a akcie sú na historických maximách</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;br&gt;&lt;/p&gt;
@@ -688,7 +704,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:09:58</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Zasedání Fedu, skvělá čísla Microsoftu i Mety a pokračující AI boom</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Fed, Trump vs Indie, výsledky MSFT, META, Porsche. Anthropic &lt;/p&gt;&lt;p&gt;(26:44) Kinsale Capital &lt;/p&gt;&lt;p&gt;(29:21) K reakci na deal Union Pacific a Norfolk Southern &lt;/p&gt;&lt;p&gt;(30:23) Lemonade &lt;/p&gt;&lt;p&gt;(33:27) Pár dalších dotazů a komentů &lt;/p&gt;&lt;p&gt;(34:57) Americké vodohospodářství, AECOM, Tetra Tech, Jacobs &lt;/p&gt;&lt;p&gt;(43:22) CAF &lt;/p&gt;&lt;p&gt;(47:10) Nestlé&lt;/p&gt;
@@ -704,7 +720,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:51:50</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Pád Novo Nordisk, další korporátní výslekdy a velká železniční akvizice</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Výsledky Novo Nordisk, PayPal, UPS, Carrier a další &lt;/p&gt;&lt;p&gt;(23:35) Amkor &lt;/p&gt;&lt;p&gt;(26:26) PayPal &lt;/p&gt;&lt;p&gt;(27:52) Adept na odprodej &lt;/p&gt;&lt;p&gt;(30:04) Evropské banky &lt;/p&gt;&lt;p&gt;(32:19) Pár dalších dotazů a komentů &lt;/p&gt;&lt;p&gt;(33:29) Doplnění k Wizz Air &lt;/p&gt;&lt;p&gt;(40:15) AMD &lt;/p&gt;&lt;p&gt;(43:41) Anduril&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -720,7 +736,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:48:08</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Akcie Novo Nordisk padají o 20 % a obchodování se pozastavuje. Jaké jsou důvody obrovského propadu?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -736,7 +752,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:07:57</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Pád cen lithia, Samsung má zakázku od Tesly, Heineken a prodeje piva</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) US-Eu dohoda, ceny lithia, Samsung, Heineken &lt;/p&gt;&lt;p&gt;(15:15) Moje nákupy &lt;/p&gt;&lt;p&gt;(16:44) Pepco &lt;/p&gt;&lt;p&gt;(21:18) Pár dotazů a komentů, BTI, ZYN, Firefish &lt;/p&gt;&lt;p&gt;(31:36) Wizz Air&lt;/p&gt;
@@ -752,7 +768,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:40:12</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Donald Trump se dohodl s EU na 15% clech. Pro koho je ale dohoda opravdu výhodná?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -768,7 +784,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:07:48</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Trump má dohodu s EU na clech, pád Intelu, Charteru a Pumy</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Dohoda USA s EU, Intel, Charter, Puma &lt;/p&gt;&lt;p&gt;(18:03) Stavební sektor &lt;/p&gt;&lt;p&gt;(19:51) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(23:32) iQIYI &lt;/p&gt;&lt;p&gt;(26:38) Nestlé &lt;/p&gt;&lt;p&gt;(29:05) Ještě k Alkoholu &lt;/p&gt;&lt;p&gt;(31:44) Doplnění k CoPart &lt;/p&gt;&lt;p&gt;(33:12) British American Tobacco&lt;/p&gt;
@@ -784,7 +800,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:42:17</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>LMVH hlási stále slabý dopyt pu luxuse, akcie v okolí 5 ročných miním</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -800,7 +816,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:07:52</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Elon Musk tvrdí, že má Tesla pred sebou pár ťažkých kvartálov</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -816,7 +832,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:10:20</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Google zatiaľ rozhodne nie je mŕtvy, akcie po výsledkoch rastú o 2,5 %</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -832,7 +848,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:09:49</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Akcie se drží, výsledky Alphabetu a Tesly, možná dohoda USA s EU</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Další výsledky, GOOG, TSLA, jednání USA a Evropy &lt;/p&gt;&lt;p&gt;(21:25) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(23:08) Equifax &lt;/p&gt;&lt;p&gt;(25:38) Nejvíce rizikový sektor &lt;/p&gt;&lt;p&gt;(26:43) Koupě akcií za vyšší ceny než v minulosti &lt;/p&gt;&lt;p&gt;(28:50) Copart &lt;/p&gt;&lt;p&gt;(34:01) Ještě k alkoholu a oprava i doplnění k Brown-Forman &lt;/p&gt;&lt;p&gt;(44:31) Gerresheimer&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -848,7 +864,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:48:43</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Nová dohoda USA s Japonskem, výsledky LMT, PM, GM, TXN a další meme stock</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Dohoda USA s Japonskem, korporátní výsledky, Palo Alto a Sentinel One &lt;/p&gt;&lt;p&gt;(23:24) Ještě k Solid Power &lt;/p&gt;&lt;p&gt;(26:30) Stride &lt;/p&gt;&lt;p&gt;(29:39) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(34:30) Brown-Forman a výrobci alkoholu &lt;/p&gt;&lt;p&gt;(50:52) UP Fintech Holding &lt;/p&gt;&lt;p&gt;(55:40) Pagaya Technologies&lt;/p&gt;
@@ -864,7 +880,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>01:01:26</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Lockheed Martin hlási masívny prepad zisku o 76 %, akcie reagujú výrazným poklesom</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -880,7 +896,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:09:24</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Výsledky Verizou, raketa Opendoor, trápení Stellantisu a hack Microsoftu</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;( 00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Verizon, Ryanair, Opendoor, Stellantis, hack Microsoftu &lt;/p&gt;&lt;p&gt;(19:56) Slabší dolar &lt;/p&gt;&lt;p&gt;(21:00) Solid Power &lt;/p&gt;&lt;p&gt;(26:36) Berkshire a cla &lt;/p&gt;&lt;p&gt;(28:27) Prodej a management drahých akcií &lt;/p&gt;&lt;p&gt;(32:27) Photronics &lt;/p&gt;&lt;p&gt;(38:04) Doplnění k Accenture&lt;/p&gt;
@@ -896,7 +912,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:42:05</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Akciové portfólio Tomáša Vranku (14.7.2025) - Stratila Berkshire po Buffettovom odchode svoje čaro?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -912,7 +928,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>02:03:42</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Pád zdravotních pojišťoven, růst Invesco, Chevron může koupit Hess</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;br&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) EU vs USA, zdravotní pojištovny, Invesco, Exxon vs. Chevron &lt;/p&gt;&lt;p&gt;(15:30) Palantir a jejich hotovost &lt;/p&gt;&lt;p&gt;(17:30) Ostatní příjmy Netflixu &lt;/p&gt;&lt;p&gt;(18:52) Pagaya Technologies &lt;/p&gt;&lt;p&gt;(20:55) Chat GPT &lt;/p&gt;&lt;p&gt;(22:54) Pár dalších dotazů a komentů &lt;/p&gt;&lt;p&gt;(26:42) Výhody a nevýhody splitu &lt;/p&gt;&lt;p&gt;(28:59) Pár dalších dotazů &lt;/p&gt;&lt;p&gt;(31:36) Accenture &lt;/p&gt;&lt;p&gt;(41:05) Zdravotní pojišťovny v USA&lt;/p&gt;
@@ -928,7 +944,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:45:49</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Netflix, Pepsi, TSM, Evolution, bankéři vs stablecoiny a pád Saudi Aramco</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Výsledky NFLX, PEP, TSM, EVO, stablecoiny, ropa a Saudi Aramco &lt;/p&gt;&lt;p&gt;(22:34) Opendoor &lt;/p&gt;&lt;p&gt;(23:51) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(25:42) Elevance Health a americké pojištovny &lt;/p&gt;&lt;p&gt;(28:39) Růst na všem &lt;/p&gt;&lt;p&gt;(31:36) Aspen Aerogels &lt;/p&gt;&lt;p&gt;(38:40) Fortinet&lt;/p&gt;
@@ -944,7 +960,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:40:53</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Zastaví něco neskutečně rozjetou TSMC?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -960,7 +976,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:08:55</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Trump vs Powell, růst J&amp;J, pád Renaultu a ASML</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Trump, J&amp;amp;J, Renault, ASML &lt;/p&gt;&lt;p&gt;(22:25) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(25:53) Fortinet &lt;/p&gt;&lt;p&gt;(28:27) International Seaways &lt;/p&gt;&lt;p&gt;(30:40) Tipy na telefonu &lt;/p&gt;&lt;p&gt;(32:14) Pár dalších dotazů a komentů &lt;/p&gt;&lt;p&gt;(34:06) Total Energies&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -976,7 +992,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:42:50</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Celní magie Donalda Trumpa. Kde jsou cla a jaký má plán?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -992,7 +1008,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:15:10</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>ASML prináša pekné čísla, avšak z dôvodu ciel nevie potvrdiť svoj výhľad a akcie padajú o 7 %</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -1008,7 +1024,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:08:18</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Americká inflace, Nvidia a AMD, další růst MP Materials</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) CPI, AMD a Nvidia, výsledky bank, MP Materials &lt;/p&gt;&lt;p&gt;(17:00) Superman, výsledky v ČR &lt;/p&gt;&lt;p&gt;(18:56) Četba z poslední doby &lt;/p&gt;&lt;p&gt;(21:06) Pár dalších dotazů a komentů &lt;/p&gt;&lt;p&gt;(22:18) Anti SoFi advokát &lt;/p&gt;&lt;p&gt;(24:38) Emcore &lt;/p&gt;&lt;p&gt;(26:20) Pár dalších dotazů &lt;/p&gt;&lt;p&gt;(28:28) Intellego - zajímavý business od Mirka &lt;/p&gt;&lt;p&gt;(34:45) Lockheed, Patriot a THAAD&lt;/p&gt;
@@ -1024,7 +1040,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:40:56</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Americké banky úspešne otvárajú výsledkovú sezónu, avšak varujú pred rizikami vo svete</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -1040,7 +1056,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:08:36</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Růst výnosů, korekce na Applu, Muskova xAI a masivní datacentra Mety</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Výnosy, MAG7, Ansys Synopsys akvizice, xAI, Meta a její datacentra &lt;/p&gt;&lt;p&gt;(20:40) Quantumscape &lt;/p&gt;&lt;p&gt;(22:46) Jak často sledovat dění na trzích &lt;/p&gt;&lt;p&gt;(26:08) Komentář k BYD a splitu &lt;/p&gt;&lt;p&gt;(29:47) Robinhood &lt;/p&gt;&lt;p&gt;(33:48) Oscar Health &lt;/p&gt;&lt;p&gt;(36:28) Ještě k BYD &lt;/p&gt;&lt;p&gt;(41:28) Dluhy, daně a inflace &lt;/p&gt;&lt;p&gt;(43:30) MHP &lt;/p&gt;&lt;p&gt;(47:29) Komentář k Supermanovi&lt;/p&gt;
@@ -1056,7 +1072,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:49:37</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Trumpova cla, růst bitcoinu a ETF flows, úspěch nového Supermana</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Trumpova cla, MP Materials, Drony, Bitcoin, Superman a F1 Movie &lt;/p&gt;&lt;p&gt;(16:45) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(20:30) Centene Corp.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -1072,7 +1088,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:23:47</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-07-11: Bitcoin na maximech a Nvidia s tržní kapitalizací 4 bilionů USD</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -1088,7 +1104,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:30:38</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-07-10: Trump přichází s dalšími cly, Monster čekají vyšší náklady na hliník</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacieTento materiál je marketingovou komunikací ve smyslu čl. 24 odst. 3 směrnice Evropského parlamentu a Rady 2014/65/EU ze dne 15. května 2014 o trzích finančních nástrojů, kterou se mění směrnice 2002/92/ES a směrnice 2011/61/EU (MiFID II). Marketingová komunikace není investiční doporučení ani informace doporučující či navrhující investiční strategii ve smyslu nařízení Evropského parlamentu a Rady (EU) č. 596/2014 ze dne 16. dubna 2014 o zneužívání trhu (nařízení o zneužívání trhu) a o zrušení směrnice Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu. V případě, že marketingová komunikace obsahuje jakékoli informace o jakýchkoli výsledcích týkajících se finančních nástrojů v nich uvedených, nepředstavují žádnou záruku ani předpověď ohledně budoucích výsledků. Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu.&lt;/p&gt;
@@ -1104,7 +1120,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:38:45</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Google je nejziskovější firma na světě. Bude to ale stačit, aby přežila antimonopolní procesy a AI?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -1120,7 +1136,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>01:40:34</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-07-09: Nová 200% cla na léky a pád Fair Isaac</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: &lt;a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbE9uaFNfZ1RsNmdnTWozOFNRbmpBZ1ZVM1hZZ3xBQ3Jtc0tseGpiOG9zYlR5ZC1hb0Q4N0J2VGNZdjF3VkFNUERPNHhnUFRsX2ZWbEtmeWM2ajhZNWtzWXAwd2U5LXJPVUE4WkhRTmc3V0tiNzctUF9hR3lrWTNKVjlIN0pJZzlZTDF1Yi1RUndORDQtTDl1RlAxdw&amp;q=https%3A%2F%2Fwww.xtb.com%2Fcz%2Fpravni-informace&amp;v=Tk6BqzC--kM" target="_blank" rel="nofollow"&gt;https://www.xtb.com/cz/pravni-informace&lt;/a&gt;LINK SK: &lt;a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqblgzR1Zma1ZoMklPVmdfWm9sMWw0ZjFYbGxsUXxBQ3Jtc0tsM2dkZS1vTmc5NGJkQkxneXpxOWhzUVRCX3JHaDlCamJlQmJCSlNiQzR5Nk9tZDFPOGRfY0hBNGZCUWI3clRnTXdsSWVRbGIzVXF2c0tEZjFxM0dLTDBXMm9PSGZoNW51MDNaMXFNTDV1aGZuLURtNA&amp;q=https%3A%2F%2Fwww.xtb.com%2Fsk%2Fpravne-informacie&amp;v=Tk6BqzC--kM" target="_blank" rel="nofollow"&gt;https://www.xtb.com/sk/pravne-informacie&lt;/a&gt;Tento materiál je marketingovou komunikací ve smyslu čl. 24 odst. 3 směrnice Evropského parlamentu a Rady 2014/65/EU ze dne 15. května 2014 o trzích finančních nástrojů, kterou se mění směrnice 2002/92/ES a směrnice 2011/61/EU (MiFID II). Marketingová komunikace není investiční doporučení ani informace doporučující či navrhující investiční strategii ve smyslu nařízení Evropského parlamentu a Rady (EU) č. 596/2014 ze dne 16. dubna 2014 o zneužívání trhu (nařízení o zneužívání trhu) a o zrušení směrnice Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu. V případě, že marketingová komunikace obsahuje jakékoli informace o jakýchkoli výsledcích týkajících se finančních nástrojů v nich uvedených, nepředstavují žádnou záruku ani předpověď ohledně budoucích výsledků. Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu.&lt;/p&gt;
@@ -1136,7 +1152,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:36:10</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Daně, dluhy, Tesla, zdravotnictví a dotace: 7 věcí, které potřebujete vědět o Trumpově novém zákoně</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -1152,7 +1168,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:12:58</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Trumpova cla, OPEC+ zvyšuje produkci a Musk zakládá novou stranu</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Trumpova cla, EU vs. Čína, OPEC, Musk &lt;/p&gt;&lt;p&gt;(14:29) IB01 vs. IBTE &lt;/p&gt;&lt;p&gt;(17:25) Eutelsat &lt;/p&gt;&lt;p&gt;(20:21) Ještě k Ambev a FX &lt;/p&gt;&lt;p&gt;(22:43) Stížnost na Garmin&lt;br&gt;&lt;/p&gt;
@@ -1168,7 +1184,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:24:56</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Dolar oslabuje o 11%. Co to pro vás a vaše portfolio znamená?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -1184,7 +1200,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:15:28</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Solidní výsledky z trhu práce, schválení Trumpova zákona a deadline pro obchodní dohody</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) NFP, Trumpův zákon, obchodní dohody, Apple, čínské stablecoiny &lt;/p&gt;&lt;p&gt;(16:38) Ještě něco ke stablecoinům &lt;/p&gt;&lt;p&gt;(17:28) Turbulence na solárech &lt;/p&gt;&lt;p&gt;(18:16) Wendy&amp;#39;s &lt;/p&gt;&lt;p&gt;(19:23) Bristol-Myers Squibb &lt;/p&gt;&lt;p&gt;(21:18) Ještě k Trumpově zákonu, Tesco&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -1200,7 +1216,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:26:07</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Pád zdravotních pojišťoven, nová strategie Intelu a Ripple chce být bankou</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Makro, dohoda s Vietnamem, pád Centene, Intel, Ripple &lt;/p&gt;&lt;p&gt;(17:21) Centene Corp. &lt;/p&gt;&lt;p&gt;(19:39) Ambev &lt;/p&gt;&lt;p&gt;(24:25) Vinci Group, evropské dividendy &lt;/p&gt;&lt;p&gt;(21:52) Oscar Health, UnitedHeralth &lt;/p&gt;&lt;p&gt;(32:36) Pár dalších dotazů a komentů &lt;/p&gt;&lt;p&gt;(34:55) FCF Divi payout ratio #1 &lt;/p&gt;&lt;p&gt;(35:18) Revenge tax &lt;/p&gt;&lt;p&gt;(37:10) FCF Divi payout ratio #2&lt;/p&gt;
@@ -1216,7 +1232,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:38:49</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Vyplatí se investovat, když jsou akciové trhy na maximech, nebo je lepší čekat na pokles?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -1232,7 +1248,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:16:32</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Trumpova politika rozkolísala trhy a způsobila chaos. Co čekat od druhého pololetí?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -1248,7 +1264,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:41:49</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Senát schválil Trumpův megazákon, Musk si bere pod sebe prodeje Tesly v USA a Evropě</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Trumpův zákon, Musk a Tesla, Zuck a superinteligence &lt;/p&gt;&lt;p&gt;(17:22) Koupit akcie v USD nebo EUR &lt;/p&gt;&lt;p&gt;(18:17) Proč nekupovat TLT &lt;/p&gt;&lt;p&gt;(20:55) Koupě krátkých US bondů &lt;/p&gt;&lt;p&gt;(23:09) Carnival Corp. a dividendy &lt;/p&gt;&lt;p&gt;(25:50) Ještě ke slábnoucímu dolaru &lt;/p&gt;&lt;p&gt;(28:38) Pár dalších dotazů a komentů&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -1264,7 +1280,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:34:23</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Německá inflace, růst Oracle a čekání na hlasování v Senátu</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Německá iinflace, Oracle, Trump vs. Kanada, US zbrojaři &lt;/p&gt;&lt;p&gt;(16:17) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(18:45) AEVA Technologies &lt;/p&gt;&lt;p&gt;(23:00) Pár dalších dotazů &lt;/p&gt;&lt;p&gt;(27:52) Spartan Delta &lt;/p&gt;&lt;p&gt;(30:30) Genius Act a stablecoiny&lt;/p&gt;
@@ -1280,7 +1296,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:40:38</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Americké indexy zpátky na maximech, růst Nike a Trumpův zákon Senátu</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Americké a evropské indexy, Nike, Trumpův zákon, digitální daň &lt;/p&gt;&lt;p&gt;(20:59) Pár dotazů a komentů&lt;/p&gt;
@@ -1296,7 +1312,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:51:42</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Alokace do akcií, růst Quantumscape, prodeje automobilů v Evropě</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Alokace do akcií, Quantumscape, prodeje automobilů, Worldline, Shell a BP &lt;/p&gt;&lt;p&gt;(13:20) Rodinné finance, pokračování &lt;/p&gt;&lt;p&gt;(28:50) Dolar, výhled &lt;/p&gt;&lt;p&gt;(30:16) Budeme platit stablecoiny? &lt;/p&gt;&lt;p&gt;(35:00) Pár dalších dotazů a komentů &lt;/p&gt;&lt;p&gt;(40:45) Robotaxi&lt;/p&gt;
@@ -1312,7 +1328,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:44:06</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Akcie a bondy rostou, slabší makro a další novinky ze světa stablecoinů</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Irán vs Izrael, Uber, AMD, stablecoiny &lt;/p&gt;&lt;p&gt;(15:41) Rodinné finance &lt;/p&gt;&lt;p&gt;(21:33) Pár dotazů a komentů&lt;/p&gt;
@@ -1328,7 +1344,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:32:38</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Trump oznámil příměří, Novo přerušilo spolupráci s Hims&amp;Hers a Fiserv stablecoin</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Trump oznámil příměří, Novo vs Hims, Fiserv stablecoin, Tesla robotaxi &lt;/p&gt;&lt;p&gt;(24:27) Fiserv &lt;/p&gt;&lt;p&gt;(27:08) Hims &amp;amp; Hers &lt;/p&gt;&lt;p&gt;(29:34) Pár dalších dotazů a komentů&lt;br&gt;&lt;/p&gt;
@@ -1344,7 +1360,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:33:17</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Americký útok na Íránský jaderný program, ropa i trhy se zatím drží</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Írán a reakce na trzích, Enphase Energy, Tesla robotaxíky &lt;/p&gt;&lt;p&gt;(17:57) Korekce na Berkshire&lt;/p&gt;&lt;p&gt;(19:08) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(28:23) Fairfax Financial Holdings&lt;/p&gt;
@@ -1360,7 +1376,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:36:04</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Trhy přešlapují na místě, LVMH je nejlevnější od roku 2020</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Zasedání BoE, korekce na LVMH &lt;/p&gt;&lt;p&gt;(13:21) Lululemon &lt;/p&gt;&lt;p&gt;(18:15) Heijmans, valuace &lt;/p&gt;&lt;p&gt;(20:38) Doplnění k Centrothermu &lt;/p&gt;&lt;p&gt;(22:38) Pár dalších dotazů &lt;/p&gt;&lt;p&gt;(28:59) Doplnění k DraftKings&lt;/p&gt;
@@ -1376,7 +1392,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:40:40</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Fed nepřekvapil, Coinbase a Circle rostou kvůli nové regulaci</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Zasedání Fedu, regulace stable coinů, Nintendo &lt;/p&gt;&lt;p&gt;(18:25) Corticeria Amorim &lt;/p&gt;&lt;p&gt;(24:44) DraftKings &lt;/p&gt;&lt;p&gt;(40:02) Kornit Digital update&lt;/p&gt;
@@ -1392,7 +1408,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:45:35</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-06-18: Výplach na akciích solárních firem, horší výsledky Lennar</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacieTento materiál je marketingovou komunikací ve smyslu čl. 24 odst. 3 směrnice Evropského parlamentu a Rady 2014/65/EU ze dne 15. května 2014 o trzích finančních nástrojů, kterou se mění směrnice 2002/92/ES a směrnice 2011/61/EU (MiFID II). Marketingová komunikace není investiční doporučení ani informace doporučující či navrhující investiční strategii ve smyslu nařízení Evropského parlamentu a Rady (EU) č. 596/2014 ze dne 16. dubna 2014 o zneužívání trhu (nařízení o zneužívání trhu) a o zrušení směrnice Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu. V případě, že marketingová komunikace obsahuje jakékoli informace o jakýchkoli výsledcích týkajících se finančních nástrojů v nich uvedených, nepředstavují žádnou záruku ani předpověď ohledně budoucích výsledků. Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu.&lt;/p&gt;
@@ -1408,7 +1424,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:39:03</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-06-17: Trump odešel ze zasedání G7, akcie se uklidňují</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: &lt;a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbnpLdTktT2dWQ3NrdjJzNHlaOVFvdi1HTHVYd3xBQ3Jtc0tuSDd0RXlpZnd6bWhSaHVKWDhtTElBOFZuX1A4cWZydHVlX243cGQ3YzFHLWJwUC1jTkxsbEVBTDE3VTg0YnZpRmRZVUFuOGdnOXdleUJqeWQwbzJrcHQweDdSYnpxQWNYVk5RRVpweEtQaEhKUTZpTQ&amp;q=https%3A%2F%2Fwww.xtb.com%2Fcz%2Fpravni-informace&amp;v=Ik5P9Cmr9MU" target="_blank" rel="nofollow"&gt;https://www.xtb.com/cz/pravni-informace&lt;/a&gt;LINK SK: &lt;a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbjdsb3p5YTlObTRWYy1GaS1ZZ3doQjRxX3V6QXxBQ3Jtc0tseGsxa3dvdE5LZHpwQzFERkVuWENmXzJoUVdvalFNNk1YWWpuM1dzYnhaSDBXZWd0M2V2dTZvdjJ4Tl85MkV4bzloaWsxTGNoREhxeVhjek5oN1RZbkQ0Tm1acVRxRW1PM1dfMm9SaE0zOGgzSzRIaw&amp;q=https%3A%2F%2Fwww.xtb.com%2Fsk%2Fpravne-informacie&amp;v=Ik5P9Cmr9MU" target="_blank" rel="nofollow"&gt;https://www.xtb.com/sk/pravne-informacie&lt;/a&gt;Tento materiál je marketingovou komunikací ve smyslu čl. 24 odst. 3 směrnice Evropského parlamentu a Rady 2014/65/EU ze dne 15. května 2014 o trzích finančních nástrojů, kterou se mění směrnice 2002/92/ES a směrnice 2011/61/EU (MiFID II). Marketingová komunikace není investiční doporučení ani informace doporučující či navrhující investiční strategii ve smyslu nařízení Evropského parlamentu a Rady (EU) č. 596/2014 ze dne 16. dubna 2014 o zneužívání trhu (nařízení o zneužívání trhu) a o zrušení směrnice Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu. V případě, že marketingová komunikace obsahuje jakékoli informace o jakýchkoli výsledcích týkajících se finančních nástrojů v nich uvedených, nepředstavují žádnou záruku ani předpověď ohledně budoucích výsledků. Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu.&lt;br&gt;&lt;/p&gt;
@@ -1424,7 +1440,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:25:19</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Akciové portfólio Tomáša Vranku (9.6.2025) - V čom bol výnimočný Warren Buffett?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 69 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -1440,7 +1456,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>02:05:20</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Izrael vs Irán, Meta kupuje Scale AI</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Ohlédnutí za minulým týdne, Meta a Scale AI &lt;/p&gt;&lt;p&gt;(16:41) Stem Inc. &lt;/p&gt;&lt;p&gt;(20:45) Umicore &lt;/p&gt;&lt;p&gt;(28:11) Centrotherm &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -1456,7 +1472,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:35:42</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-06-13: Izrael zaútočil na Írán, Boeing odepsal 4,5 %</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacieTento materiál je marketingovou komunikací ve smyslu čl. 24 odst. 3 směrnice Evropského parlamentu a Rady 2014/65/EU ze dne 15. května 2014 o trzích finančních nástrojů, kterou se mění směrnice 2002/92/ES a směrnice 2011/61/EU (MiFID II). Marketingová komunikace není investiční doporučení ani informace doporučující či navrhující investiční strategii ve smyslu nařízení Evropského parlamentu a Rady (EU) č. 596/2014 ze dne 16. dubna 2014 o zneužívání trhu (nařízení o zneužívání trhu) a o zrušení směrnice Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu. V případě, že marketingová komunikace obsahuje jakékoli informace o jakýchkoli výsledcích týkajících se finančních nástrojů v nich uvedených, nepředstavují žádnou záruku ani předpověď ohledně budoucích výsledků. Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu.&lt;/p&gt;
@@ -1472,7 +1488,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:50:34</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Akcie Boeingu po leteckej katastrofe klesajú o 8 %</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -1488,7 +1504,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:14:04</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-06-12: Čeká nás Liberation Day 2.0? Pentagon snižuje poptávané množství F-35</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: &lt;a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbW5iX3Vic2ZUWVdhODRlbW53LXlqbl94YktIQXxBQ3Jtc0ttbTVlelk5TTFOaGFmYTN6TE9uVUR6LVAwbEFNQ0dCb1ZjU091aDltOHpiUi1ud0R4cjNxSzhraVBIeUVES0QxcEdTU0x1OEE2VXo1SEhrQUlPbG83Sm5HbWVCWFpEbTRHV0Mtek5hOTB6Z1M3UXNWbw&amp;q=https%3A%2F%2Fwww.xtb.com%2Fcz%2Fpravni-informace&amp;v=FjdTYlWhSFw" target="_blank" rel="nofollow"&gt;https://www.xtb.com/cz/pravni-informace&lt;/a&gt;LINK SK: &lt;a href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqazJja3BmQUYtMGpMQmZtUUxYUGczRlBqX0ZVUXxBQ3Jtc0trSWw1N2xCNTJDSDdSVzFkb3dwdGt2eFk4cG14b3Y0clFyakJIbmtPNUVDNTZKa185QTNFM3p3Tk5VUW5od0dlQ0d2MFlmU3A4bThYQnRTMWpVT0lsS2toa1ZRUU1ULTY2bW5zRkJaeDVyLUxpLWNjMA&amp;q=https%3A%2F%2Fwww.xtb.com%2Fsk%2Fpravne-informacie&amp;v=FjdTYlWhSFw" target="_blank" rel="nofollow"&gt;https://www.xtb.com/sk/pravne-informacie&lt;/a&gt;Tento materiál je marketingovou komunikací ve smyslu čl. 24 odst. 3 směrnice Evropského parlamentu a Rady 2014/65/EU ze dne 15. května 2014 o trzích finančních nástrojů, kterou se mění směrnice 2002/92/ES a směrnice 2011/61/EU (MiFID II). Marketingová komunikace není investiční doporučení ani informace doporučující či navrhující investiční strategii ve smyslu nařízení Evropského parlamentu a Rady (EU) č. 596/2014 ze dne 16. dubna 2014 o zneužívání trhu (nařízení o zneužívání trhu) a o zrušení směrnice Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu. V případě, že marketingová komunikace obsahuje jakékoli informace o jakýchkoli výsledcích týkajících se finančních nástrojů v nich uvedených, nepředstavují žádnou záruku ani předpověď ohledně budoucích výsledků. Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu.&lt;/p&gt;
@@ -1504,7 +1520,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:49:27</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>2025-06-11: Čína a USA pracují na zmírnění obchodního napětí, Bessent možným nástupcem Powella</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacieTento materiál je marketingovou komunikací ve smyslu čl. 24 odst. 3 směrnice Evropského parlamentu a Rady 2014/65/EU ze dne 15. května 2014 o trzích finančních nástrojů, kterou se mění směrnice 2002/92/ES a směrnice 2011/61/EU (MiFID II). Marketingová komunikace není investiční doporučení ani informace doporučující či navrhující investiční strategii ve smyslu nařízení Evropského parlamentu a Rady (EU) č. 596/2014 ze dne 16. dubna 2014 o zneužívání trhu (nařízení o zneužívání trhu) a o zrušení směrnice Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu. V případě, že marketingová komunikace obsahuje jakékoli informace o jakýchkoli výsledcích týkajících se finančních nástrojů v nich uvedených, nepředstavují žádnou záruku ani předpověď ohledně budoucích výsledků. Evropského parlamentu a Rady 2003/6/ES a směrnic Komise 2003/124/ES, 2003/125/ES a 2004/72/ES a nařízení Komise v přenesené pravomoci (EU) 2016/958 ze dne 9. března 2016, kterým se doplňuje nařízení Evropského parlamentu a Rady (EU) č. 596/2014, pokud jde o regulační technické normy pro technická ujednání pro objektivní předkládání investičních doporučení nebo jiných informací doporučujících nebo navrhujících investiční strategie a pro zveřejnění konkrétních zájmů nebo náznaků střetu zájmů nebo jakékoli jiné rady, a to i v oblasti investičního poradenství, ve smyslu zákona č. 256/2004 Sb., o podnikání na kapitálovém trhu.&lt;/p&gt;
@@ -1520,7 +1536,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:21:49</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Zachráni včerajšia konferencia akcie Applu, ktoré od začiatku roka padajú o 20 %?</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -1536,7 +1552,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:14:43</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Musk jde z kola ven. Akcie Tesly klesají o 14 %.</title>
 			<description>&lt;p&gt;Poučení o rizicích spojených s investovánímRozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.Pro více informací o rizicích spojených s investováním navštivte naše webové stránky:LINK CZ: https://www.xtb.com/cz/pravni-informaceLINK SK: https://www.xtb.com/sk/pravne-informacie&lt;/p&gt;
@@ -1552,7 +1568,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:16:53</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Musk vs Trump, Tesla -14 %, americký obchodní deficit a pád likérek</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Trump Musk Bromance, ECB, obchodní deficit USA, Brown-Forman a další likérky &lt;/p&gt;&lt;p&gt;(18:30) Korekce na bitcoinu &lt;/p&gt;&lt;p&gt;(19:54) AENA &lt;/p&gt;&lt;p&gt;(22:47) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(25:23) Circle &lt;/p&gt;&lt;p&gt;(29:22) Ještě k Regeneronu &lt;/p&gt;&lt;p&gt;(31:02) Arista Networks &lt;/p&gt;&lt;p&gt;(35:19) Pár dalších dotazů a komentů &lt;/p&gt;&lt;p&gt;(44:08) Update ke Coltu od George&lt;/p&gt;
@@ -1568,7 +1584,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:50:56</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Americké makro, prodeje Tesly v Číně a Saúdové povolují ropné kohoutky </title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Americké makro, Trump, Tesla v Číně, WBD, OPEC &lt;/p&gt;&lt;p&gt;(21:45) CeoTronics &lt;/p&gt;&lt;p&gt;(27:14) Meituan &lt;/p&gt;&lt;p&gt;(33:34) Těžba uranu, Uranium Energy Corp &lt;/p&gt;&lt;p&gt;(36:35) Pár dalších dotazů a komentů &lt;/p&gt;&lt;p&gt;(39:31) Regeneron &lt;/p&gt;&lt;p&gt;(42:05) Noble Corp.&lt;/p&gt;
@@ -1584,7 +1600,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:49:20</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Musk vs Trumpův zákon, růst CD Projekt a Meta zachraňuje jádro</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;&lt;br&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Americké makro, Musk vs Trump, CD Projekt, Meta energy deal, Čína vs US &lt;/p&gt;&lt;p&gt;(18:01) Travelzoo &lt;/p&gt;&lt;p&gt;(21:21) Nákupy insiderů &lt;/p&gt;&lt;p&gt;(22:54) LVMH &lt;/p&gt;&lt;p&gt;(27:20) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(30:41) Antero Resources, zemní plyn&lt;/p&gt;
@@ -1600,7 +1616,7 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:37:13</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
 		<item>
 			<title>Ranní komentář: Čína se brání Trumpovu nařčení, růst BioNTech a pád Gerresheimer</title>
 			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) Čína VS Trump, BioNTech, Gerresheimer, BYD, čínské makro &lt;/p&gt;&lt;p&gt;(14:30) Diverzifikace &lt;/p&gt;&lt;p&gt;(17:24) Philip Morris &lt;/p&gt;&lt;p&gt;(19:38) Flowers Foods &lt;/p&gt;&lt;p&gt;(26:19) Pár dotazů a komentů &lt;/p&gt;&lt;p&gt;(35:10) Danone &lt;/p&gt;&lt;p&gt;(43:32) OKP Holdings&lt;/p&gt;
@@ -1616,22 +1632,6 @@ U 74 % účtů retailových investorů došlo ke vzniku finanční ztráty.</ns1
 			<ns1:duration>00:50:36</ns1:duration>
 			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
 			<ns1:episodeType>full</ns1:episodeType>
-		</item>
-		<item>
-			<title>Ranní komentář: Trumpova cla v centru dění a Evropské indexy válcují zbytek světa</title>
-			<description>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) K tématu cel a dalším výhružkám, Evropské indexy, Ulta Beauty, Regeneron &lt;/p&gt;&lt;p&gt;(15:13) Pepsi jako dluhopis? &lt;/p&gt;&lt;p&gt;(17:22) Pure Storage &lt;/p&gt;&lt;p&gt;(21:50) Investování na základě PE, AMD &lt;/p&gt;&lt;p&gt;(25:09) Cleveland Cliffs, cena oceli &lt;/p&gt;&lt;p&gt;(28:52) Pár dalších dotazů &lt;/p&gt;&lt;p&gt;(35:43) Kdy prodat akcie &lt;/p&gt;&lt;p&gt;(40:05) EDA společnosti, Cadence Design &lt;/p&gt;&lt;p&gt;(42:43) Pár dalších dotazů&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/xtb/episodes/Rann-koment-Trumpova-cla-v-centru-dn-a-Evropsk-indexy-vlcuj-zbytek-svta-e33m2ru</link>
-			<guid isPermaLink="false">c8a57e64-f3a0-41b2-a8a2-087167588564</guid>
-			<dc:creator>XTB Online Trading</dc:creator>
-			<pubDate>Mon, 02 Jun 2025 05:50:16 GMT</pubDate>
-			<enclosure url="http://anchor.fm/s/3de2cbdc/podcast/play/103532862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-2%2Ff265d703-28a7-4f79-6f6b-13bc908d3799.mp3" length="45416117" type="audio/mpeg" />
-			<ns1:summary>&lt;p&gt;Rozdílové smlouvy jsou komplexní nástroje a v důsledku použití finanční páky jsou spojeny s vysokým rizikem rychlého vzniku finanční ztráty. U 75 % účtů retailových investorů došlo při obchodování s rozdílovými smlouvami u tohoto poskytovatele ke vzniku ztráty. Měli byste zvážit, zda rozumíte tomu, jak rozdílové smlouvy fungují, a zda si můžete dovolit vysoké riziko ztráty svých finančních prostředků. Investování je rizikové. Investujte zodpovědně.&lt;/p&gt;&lt;p&gt;(00:00) Úvod &lt;/p&gt;&lt;p&gt;(00:25) K tématu cel a dalším výhružkám, Evropské indexy, Ulta Beauty, Regeneron &lt;/p&gt;&lt;p&gt;(15:13) Pepsi jako dluhopis? &lt;/p&gt;&lt;p&gt;(17:22) Pure Storage &lt;/p&gt;&lt;p&gt;(21:50) Investování na základě PE, AMD &lt;/p&gt;&lt;p&gt;(25:09) Cleveland Cliffs, cena oceli &lt;/p&gt;&lt;p&gt;(28:52) Pár dalších dotazů &lt;/p&gt;&lt;p&gt;(35:43) Kdy prodat akcie &lt;/p&gt;&lt;p&gt;(40:05) EDA společnosti, Cadence Design &lt;/p&gt;&lt;p&gt;(42:43) Pár dalších dotazů&lt;/p&gt;
-</ns1:summary>
-			<ns1:explicit>false</ns1:explicit>
-			<ns1:duration>00:47:17</ns1:duration>
-			<ns1:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" />
-			<ns1:episodeType>full</ns1:episodeType>
-		</item>
-		</channel>
+		<ns3:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg" /></item>
+		<image><url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10282735/10282735-1675962994852-f8afa3361a982.jpg</url><title>XTB – INVESTICE &amp;amp; TRADING</title><link>https://novtom.github.io/rss/feeds/xtb.xml</link></image></channel>
 </rss>

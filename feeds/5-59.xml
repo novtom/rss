@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="https://podcastindex.org/namespace/1.0" xmlns:ns2="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns3="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="https://podcastindex.org/namespace/1.0" xmlns:ns2="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns3="http://purl.org/rss/1.0/modules/content/" xmlns:ns4="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <ns0:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/5-59" title="MP3 Audio" />
     <ns0:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
@@ -60,7 +60,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/hkJpbjozsRlLY5pEqwB6QWB3X7deMxtWXp7s7Uyz_WU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mZDBh/NjJhMGI4ZmM3Yzg3/MjY1NzMyYzVmZWY3/NmY0OC5qcGc.jpg" /></item>
     <item>
       <title>Je to hladomor, nebo ne? Expert z ICG o Gaze</title>
       <ns2:episode>943</ns2:episode>
@@ -86,7 +86,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/87i0Aa12eVcqrwItNZjyZCxsa5-9iblSIlSyisnH_bQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82Zjkw/MDJlNDAyNzNmYWU2/MzY0ZDc4OWU1MWMy/YmVhOS5qcGc.jpg" /></item>
     <item>
       <title>Nový světový řád podle Číny</title>
       <ns2:episode>942</ns2:episode>
@@ -112,7 +112,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/OPoqIZljPly7XKRqnfRqp4Vu_m_Fmk4RfC2eIF2g9J8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMTlm/NDc1N2RhZDM0YjIw/NWYyZmE2Yjg2ZDc0/ZmIwZS5wbmc.jpg" /></item>
     <item>
       <title>Konspirační web a jeho majitel, který „léčil“ za statisíce</title>
       <ns2:episode>941</ns2:episode>
@@ -138,7 +138,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/vX7UGq_p6w6KT0s1-z9T9xe2f7SzoN2YeBA9oRehhYw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kYmVl/YjRiOWY2ZTkzZmY3/NzZiMDEzMzVhYzA0/NzZkZi5wbmc.jpg" /></item>
     <item>
       <title>Antibabiš vs. antifiala. Začíná ostrá fáze volební kampaně</title>
       <ns2:episode>940</ns2:episode>
@@ -164,7 +164,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/aT7QIsBsVwaqbry38YzZNsASs9A3PDb-xzXrwtsE3q8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iMTM0/YzZhYWEzZjNjZTc2/ZTA2ZWU0YWJkODhh/OWU5Zi5qcGc.jpg" /></item>
     <item>
       <title>Krajní pravice v čele. Jak Německo (ne)zvládlo migraci</title>
       <ns2:episode>939</ns2:episode>
@@ -190,7 +190,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/nB81ozWjL5UmJUB6jWNx4Fru21-i5LK9tH9I2aIiywU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNjc5/NGU3OGViYmZhYjc5/YmNkZDg5ODAwYWE4/M2UyNy5wbmc.jpg" /></item>
     <item>
       <title>Podpora Izraele: Proč za ním Česko neochvějně stojí?</title>
       <ns2:episode>938</ns2:episode>
@@ -216,7 +216,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/vrLNZW-zxp5-_V5yjINHMRVGeakSeEgst4yQlOkYmII/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYzI1/NzEwM2FlNzQ5ZDBi/NDU3N2QxNjI2NjE1/MjU0Yy5wbmc.jpg" /></item>
     <item>
       <title>Gardisté v ulicích a čachry s voliči. Trump plní sliby</title>
       <ns2:episode>937</ns2:episode>
@@ -242,7 +242,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/ekdJOWWCjMsWuIwcQteDz--AzDDV89jQN17sDrNURAY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80OTA3/Zjk4ODM4ZjZlNWQ2/ZjRjMjkxMmMwNTdh/MTc0Ny5wbmc.jpg" /></item>
     <item>
       <title>Z exilu dokázala bojovat. Hluboké stopy Zdeny Salivarové</title>
       <ns2:episode>936</ns2:episode>
@@ -268,7 +268,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/JbC0lk8Oc5RvaGQpmwRlCOJczduSn2vCpUd1B6T2RxI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iZjEx/ZTA0MzRhZmUwZTZi/ZDgwMjIyYTdlODRm/MjU1YS5wbmc.jpg" /></item>
     <item>
       <title>Utajená smrt novorozence: Jeho lékař teď chce do Sněmovny</title>
       <ns2:episode>935</ns2:episode>
@@ -294,7 +294,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/kXqwmuR92p_otrwJNr7ZHiVDVHzJPI0vOm8VwWaxsNg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kM2Qz/ZDYzOTNlOThjMTZj/MDhlNDU4MDZhMDZh/MGIxYS5wbmc.jpg" /></item>
     <item>
       <title>Lékaři ve střetu zájmů: kojení vs. mléčný byznys</title>
       <ns2:episode>934</ns2:episode>
@@ -320,7 +320,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/WScogW6WAz17oWzba7xpEerxy5scIe6V-Q6L326Yv9I/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNzA2/NWIwZjFiZTM0ZTkw/NGZhYjhjZGNlZjVl/ZjE1ZS5wbmc.jpg" /></item>
     <item>
       <title>Česko v éře výdejních boxů. Co s nimi, aby nehyzdily?</title>
       <ns2:episode>933</ns2:episode>
@@ -346,7 +346,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/nzDV7sBZJhtmGWt3p2asIwq_v87AHIMKUWLUa0e7sN8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81NDg0/MWQxZTI5NzY3Mzg1/ZGJkMmJhMzg1ZmI4/YWE4OS5qcGc.jpg" /></item>
     <item>
       <title>Z kempu pro mladíky na MMA: Když je tématem mužství</title>
       <ns2:episode>932</ns2:episode>
@@ -372,7 +372,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/qJqM0lsKwW-47u2-LtaaPjDQ2nQEjtEKxFhkGCmCIcU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYTI1/OGQ0YWRhNWZkYzQw/ZjM0NDI4YTYxNTVl/NmI4OC5qcGc.jpg" /></item>
     <item>
       <title>Zelenskyj-Putin-Trump. Ukrajinský pohled</title>
       <ns2:episode>931</ns2:episode>
@@ -398,7 +398,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/InGAYjGPIV6jPsNyhUENlaO-Py-tP61bkBqO51iWAOc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MWU2/OTRlNDcyNDg0M2Y5/NTJmMTQ3ZTZmMWQz/NTRmMy5wbmc.jpg" /></item>
     <item>
       <title>Noční razie i „nervozita“ v ODS. Bitcoinová kauza v pohybu</title>
       <ns2:episode>930</ns2:episode>
@@ -424,7 +424,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/BLybsB2TZJqQdyJIw9RSSlQX3yNsLDHZrLGn32ZkwgI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hZmIx/ZTIyZDI1MWY4YmQw/MmNkNjJkZmU2Yjg2/OTA1Zi5wbmc.jpg" /></item>
     <item>
       <title>„Velkolepé vítězství“ Putina na Aljašce</title>
       <ns2:episode>929</ns2:episode>
@@ -450,7 +450,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/wMpa1I40SNb26LHYiKe5SK-8ftoBQerRR-dX7IhAPjI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yODMz/ZmU5NGYxNjFlMjRj/YTQ2YTc4YjJkZmM3/MjQ5Ni5wbmc.jpg" /></item>
     <item>
       <title>Zatopit firmě, zastřelit psa. Pád Balaštíkové z ANO</title>
       <ns2:episode>928</ns2:episode>
@@ -476,7 +476,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/7cjIok8pQOyyaBjV5542ab8RdraUaWGP3QwGDXzz5J4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNTM4/MzdiZTg2MWVhYzdk/Y2M2N2RlYTRjNWQy/M2YyYS5qcGc.jpg" /></item>
     <item>
       <title>S miliardářem na dvorku. Vidlákova cesta do politiky</title>
       <ns2:episode>927</ns2:episode>
@@ -502,7 +502,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/Xq9Wwi4e3o8efX74turMQpUh78ZNN6ZiFxB3Mies06E/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zOWNk/NjRlZWQ5ZGE1MzI5/ZGYyZWE3YTQ5NmZk/ODhiYi5wbmc.jpg" /></item>
     <item>
       <title>Summit Trump-Putin: Kdo bude mít navrch?</title>
       <ns2:episode>926</ns2:episode>
@@ -528,7 +528,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/5xxj7zbKdH2uBNPOAUQJ97WHRsFO8MKJcknpB99rtNw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84YzY4/NDRkZDFlYjRlNjA1/MzVjODFlOGZmMzdl/Y2ZiZS5qcGc.jpg" /></item>
     <item>
       <title>Očkování v lékárnách? Hra o peníze i podobu zdravotnictví</title>
       <ns2:episode>925</ns2:episode>
@@ -554,7 +554,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/paY4thQc-vGFtin-bNF5L-VaKe8Hl64PU584vrEhVWQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZjYx/YWI4ZWJjNDMwYTli/ZjZlMWJkODYwOTU2/MTdhOS5qcGc.jpg" /></item>
     <item>
       <title>Dynamit v rozvodové novele: Přeprodej výživného</title>
       <ns2:episode>924</ns2:episode>
@@ -580,7 +580,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/_qfnVQMyC-RSErWb-EV99Zyehis-9C7iI08VBr9DIFs/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMzMy/NWZiZDE2Mzc1MWQw/MDU4YzM2ZDkxMjhh/ZTJlMC5qcGc.jpg" /></item>
     <item>
       <title>MDŽ LIVE: Máme rádi děti?</title>
       <ns2:episode>923</ns2:episode>
@@ -606,7 +606,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/ipJDQeVnfbnqeT0n6B_c0dFzXj5FDckMLErOkVyDEME/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kYWRm/MDFlOTZkZDAwMTlk/ZThlMWQ5ZWExZDg4/ZDg4Yy5qcGc.jpg" /></item>
     <item>
       <title>Reportér od ukrajinské fronty: Je to jiná válka než na začátku</title>
       <ns2:episode>922</ns2:episode>
@@ -632,7 +632,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/888bMfO5yf-z5bhPq0Gx-blXWv6Ig3GXKMy6H-_sW0Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNjhk/MzlkZTc0ZDkzNmEy/MDgyZmY4NWFjYjYx/MDM1Ny5qcGc.jpg" /></item>
     <item>
       <title>Případ Klempíř: Frontman J.A.R. zamířil k Motoristům</title>
       <ns2:episode>921</ns2:episode>
@@ -658,7 +658,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/XtiFS90dJ1U1KSxcHhVoNNdJJHBhVRfh3Zsh24wuvrU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jYzE0/OThlMjdkZGJmZmEx/YmIzNmFjMjE1NDVl/Y2YwZi5qcGc.jpg" /></item>
     <item>
       <title>Hlad v Gaze zabíjí. Kdo zatlačí na Izrael?</title>
       <ns2:episode>920</ns2:episode>
@@ -684,7 +684,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/GBe7ngicHxzjF07PEkfOwRlAT76VtR29Rwo942qtDXE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMGEy/NTViYWQxZDMyZWVj/N2E5Y2I4MzU0NGVh/ZDgyMi5qcGc.jpg" /></item>
     <item>
       <title>Průlom v boji s HIV s českou stopou</title>
       <ns2:episode>919</ns2:episode>
@@ -710,7 +710,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/OnQDb_mxSBzYxVJxbKuKjed5V7rtgCs0fwpzjoPq28U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNmQx/ZjNiMTJhZWJmNWNh/ZjFlN2Y2MjI0OWMz/N2NiOS5qcGc.jpg" /></item>
     <item>
       <title>Paroubek vs. CzechTek. Pohled Jindřicha Šídla</title>
       <ns2:episode>918</ns2:episode>
@@ -736,7 +736,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/ngydfStWt1RiPXWcvSs5SiexaJRx__07OorgT2uji8c/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85NTkw/MTVjN2JiNWI4MDRl/M2M5MTZmZGZlMTE1/YTczYS5qcGc.jpg" /></item>
     <item>
       <title>Kauza Epstein: Trumpa dohánějí konspirační teorie</title>
       <ns2:episode>917</ns2:episode>
@@ -762,7 +762,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/3PLMXwJmsBAoXTN7n6o6WvKjJpgjqW-UmRm-xwUYiRA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85MWQ4/MTU1OTIzZjRlMjcy/NjMyNGM1MjUxZmNj/MjlkMy5qcGc.jpg" /></item>
     <item>
       <title>Europoslanec Dostál, Moldavsko, MEGA a hybridní válka</title>
       <ns2:episode>916</ns2:episode>
@@ -788,7 +788,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/yWqwY-Wvq3GauO2cku6uWI3rV9FG-5I_XDieWZke_vk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NWI3/YTcxNDNkMTcwYWM2/ZDhlYjkzODZiOTQ4/MTU1ZC5wbmc.jpg" /></item>
     <item>
       <title>„Korupce zabíjí.“ Ukrajinci se vzepřeli Zelenskému</title>
       <ns2:episode>915</ns2:episode>
@@ -814,7 +814,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/9baQNhxhhWQ_WSkhy5u2oQNSfL_X2ibQtvf0wRc9_7k/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZDdj/NDBlYjA2ZDc1N2Y3/Y2ExMzhhNzM1NjRh/YmFlZC5qcGc.jpg" /></item>
     <item>
       <title>Stát odmítá vymáhat miliardy od Babišova Agrofertu</title>
       <ns2:episode>914</ns2:episode>
@@ -840,7 +840,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/DItwJiWIhAc07X4kWG20iwRvsDCmhJnAwTRujmju0lk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMzJk/YjY0NDM1NGQ5MWNh/MmYyMWIxMTk3NzEz/Zjc4Ni5wbmc.jpg" /></item>
     <item>
       <title>Kde domov můj? Čeští Vietnamci hledají sami sebe</title>
       <ns2:episode>913</ns2:episode>
@@ -866,7 +866,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/EtlC5BeSh5_zn0QFMH138NM6zXzhKRfHs27-CzOLAkA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81Y2Y0/MjVhNmRkZGRkNmUw/NjAwMWRhM2IyZWYz/N2NhNy5wbmc.jpg" /></item>
     <item>
       <title>Legenda jménem Ozzy</title>
       <ns2:episode>912</ns2:episode>
@@ -892,7 +892,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/o4BS6kYZHthwkYQFTmHLOZOcnFdrFIHlc8uDG8lcgT4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hODYw/MzM0MDBkMmY1Mzg1/ZTQ5MDhmMDcwMDBi/NWFkOS5wbmc.jpg" /></item>
     <item>
       <title>Likvidace USAID. Konec „lidštější tváře USA“</title>
       <ns2:episode>911</ns2:episode>
@@ -918,7 +918,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/TfmLfR-UVYqC3ww2TpAuY0zP2wlsf2PnKTlCr2Y5i8Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lMzZm/OGY2YTFiNmM1OWIy/YjcxYTk2NTg0NzQw/MzVlNS5wbmc.jpg" /></item>
     <item>
       <title>Bombové hrozby školám. Česko-slovenský spor o ruskou stopu</title>
       <ns2:episode>910</ns2:episode>
@@ -944,7 +944,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/Rm3LJgOfGD8ObEzZ1vmdbk4BfLhCyeOW8Jh0DyDpEAY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83NWQz/ZWVlYjQ4NTA3ZjY3/NjU5NzFhY2IzODg4/NGFlNS5wbmc.jpg" /></item>
     <item>
       <title>Sociální sítě škodí dětem. Máme je zakázat?</title>
       <ns2:episode>909</ns2:episode>
@@ -970,7 +970,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/2XHdn3Oaf0b5fH4y-eHdXKG2gQFFzNhfPqPyPYKf6kI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hYjk1/YmM3ZDEzNWRjOTY3/MmYyNDljMGIzNjgz/OTk5OC5qcGc.jpg" /></item>
     <item>
       <title>Vražda na Jadranu? Ve vazbě je billboardový boss z Čech</title>
       <ns2:episode>908</ns2:episode>
@@ -996,7 +996,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/9fwJuBm-ZEVsGCCSQMo2xgXdfrQ9R2SxycVM8aydWw0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xNWFh/MGM1OWRkMjU0MTg0/MzVmYjEwNjBjMGZi/ZGFmMi5wbmc.jpg" /></item>
     <item>
       <title>Bič na Moskvu, cukr pro Kyjev. Trump mění strategii</title>
       <ns2:episode>907</ns2:episode>
@@ -1022,7 +1022,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/ddc0V0bztWlG4H8ktF9HWFtYGbkVkpudgKDYQ8QD1H0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hN2Rl/N2I1MDIzMDk3MDY5/ZTE2NmQ1ZmU2ZTVi/OGZlYS5qcGc.jpg" /></item>
     <item>
       <title>České zboží nelegálně v Rusku. Co odkryl Zelenského seznam</title>
       <ns2:episode>906</ns2:episode>
@@ -1048,7 +1048,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/GNxqQS3rxad79RJlE8cvu615o3sp-x78WkRhIrN1uj0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84ZTYx/YjE5MTk3MTJiZGNh/NTRiZGIyNTI0NjU5/Y2FmZC5qcGc.jpg" /></item>
     <item>
       <title>Doba kvazikoalic. Spojování, hašteření, souboj eg</title>
       <ns2:episode>905</ns2:episode>
@@ -1074,7 +1074,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/aFIj7RgMaAnlhDPTL9c-12PcbYnP4uPtlqGCnQeXq1g/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MGI2/YmM2MzY5OTlhOWQ4/MjI1OGQ3M2M3NzI3/NDMwMS5wbmc.jpg" /></item>
     <item>
       <title>The Wargame: Ruský útok na Británii</title>
       <ns2:episode>904</ns2:episode>
@@ -1100,7 +1100,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/rShrRuv-uFhx5XEer7FdpfOL_387Dx7HhlAV6UBfiTg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84YTIy/ZDI0MzViYTZhODlh/ZDYzNzFlNDZiZWRj/ZWQ2MS5qcGc.jpg" /></item>
     <item>
       <title>Sbormistr: Film, který dělá vlny</title>
       <ns2:episode>903</ns2:episode>
@@ -1151,7 +1151,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/TgX4UsHSwUXLlj6cueMq_sn895ca079pK43A-HrldMk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MGRi/YTlhYjNjZmJjZmU2/Y2U4NjlmZWEyNjNk/Njg3Yy5wbmc.jpg" /></item>
     <item>
       <title>Musk a Trump v klinči. Uspěje v USA třetí strana? </title>
       <ns2:episode>901</ns2:episode>
@@ -1177,7 +1177,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/AQkP6bo5S8hfzcu6RWRnMVwwQY9uHLneHkqoga2jNrQ/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xMmE5/NzgyZmE3ZGUwMzdk/ZGNkNjhlYWVmN2Vm/NmFiNi5qcGc.jpg" /></item>
     <item>
       <title>Agentury práce a jejich ukrajinská kořist</title>
       <ns2:episode>900</ns2:episode>
@@ -1203,7 +1203,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/aCpWNrzUfQevjXwwdfSePHQCITUsG1IJfwJwoBMs32Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85YzAz/YzlkMjQ4NzgxNTNk/MjQ1Mjc0M2RhYjZj/NDA4Yi5qcGc.jpg" /></item>
     <item>
       <title>Tibeťané vs. Čína. Střet o výběr příštího dalajlámy</title>
       <ns2:episode>899</ns2:episode>
@@ -1229,7 +1229,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/nQzJMewD3YttqnTveo7O6u0xgQsGdS18vhDrB-5NutY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85NjM5/ZWM5M2FmYzRhMDJl/MzQ3ZjVmYjAzYmUy/Njg2ZS5qcGc.jpg" /></item>
     <item>
       <title>Lukašenkův handl s politickými vězni</title>
       <ns2:episode>898</ns2:episode>
@@ -1255,7 +1255,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/9bQvj2gCSUXziJHsW45zdK0EF2Ew_ii1PeDuXHHmGMk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83ZmU5/OGQxYmMwOTg1ZTA0/Y2YyOWQzODczYzM5/NzdlZC5wbmc.jpg" /></item>
     <item>
       <title>Česko v tropické pasti</title>
       <ns2:episode>897</ns2:episode>
@@ -1281,7 +1281,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/-ZRKeb0Jxz7_ieWifgMibZtC5dTTX9xGOJoQthypbOU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84NGMx/MTgyMjJiYzVjMDRh/ZjNjOTQ2N2I3NDE3/YmE3OS5qcGc.jpg" /></item>
     <item>
       <title>Systém Arifovič: Janek Kroupa o „investování“ do policistů</title>
       <ns2:episode>896</ns2:episode>
@@ -1307,7 +1307,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/enwdJAvlbyZjz8Ap-R1WjWXvbDXnAD8YXmHRmvksgN8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mN2Zj/NTg5MDIwOTBiMTk4/NTY2Y2JkZTNiNGZj/NDA0MS5wbmc.jpg" /></item>
     <item>
       <title>Stanjura dostal varování v bitcoinové kauze. Proč ale pozdě?</title>
       <ns2:episode>895</ns2:episode>
@@ -1333,7 +1333,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/MZdVgGBPs5_U8TAjh1LMAE4oHF2TJueNg4Cvddjn4Wg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80NDFi/ZTQ1NjcxMDRmNjk5/N2Y3OTI5OWI5ZGUx/NjUyZS5qcGc.jpg" /></item>
     <item>
       <title>Francie zavelela do útoku proti ultra rychlé módě</title>
       <ns2:episode>894</ns2:episode>
@@ -1359,7 +1359,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/kZvJLbZkq4XVMsgGtwjH2BlNund0JCbXJp0piyEbMl4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ODcz/Zjc0YTg1MDViMjAw/NWI2ZTM4ZTM4ZWJl/NWZkOS5qcGc.jpg" /></item>
     <item>
       <title>MDŽ: Když medicína ignoruje ženy</title>
       <ns2:episode>893</ns2:episode>
@@ -1385,7 +1385,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/0Uz4e15mNsw--ShaVD_4YuhI4bQBL7FxPZClLINRWDE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yZjYy/YTZjODdlODZmYTA2/YWVhMzE0MTM2ZmQ4/ZDU4My5qcGc.jpg" /></item>
     <item>
       <title>Kdo je tady ředitel? ČT má nového šéfa</title>
       <ns2:episode>892</ns2:episode>
@@ -1411,7 +1411,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/VR8VbE8lotozHBa2RKZxM5qYzbjX-p5IwWEx72-ql8M/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MjBj/Mzc0NjQ1OTZkNmQw/Mjk2OTVjZGU4NWM0/OGI4Ni5qcGc.jpg" /></item>
     <item>
       <title>Šok i vzdor. Pohled dovnitř bombardovaného Íránu</title>
       <ns2:episode>891</ns2:episode>
@@ -1437,7 +1437,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/46Onb5B-bRb8s-t3NVw-4fDLYnJdnoH3RoOL4v3UHtE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84Nzhk/ZjY0M2M3OTQ5NDQy/OTdjYmE4ODlkZGU3/NTg4OC5qcGc.jpg" /></item>
     <item>
       <title>Babiš není nevinen. Už zase Čapí hnízdo</title>
       <ns2:episode>890</ns2:episode>
@@ -1463,7 +1463,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/f4S0ThbGEBQUZ6U5wc8JL5wyKuhtxGyWtdRidJc4hOo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80MjFi/MGQyMjFkNzVkMzgx/OWQ0MjA2OTg2YmE3/MDRmNC5wbmc.jpg" /></item>
     <item>
       <title>Americké „Půlnoční kladivo“ udeřilo na Írán</title>
       <ns2:episode>889</ns2:episode>
@@ -1489,7 +1489,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/l-5zaau7kTcfsD2zaUu-oNi-YnQL2WAln1PK2coBYgg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84NjRk/ZTQ0YjNkODVkZWMx/NDM1MzY5MWRmNmRm/MzM0NC5wbmc.jpg" /></item>
     <item>
       <title>„Gestíčko“. Šídlo k hlasování o nedůvěře vládě</title>
       <ns2:episode>888</ns2:episode>
@@ -1515,7 +1515,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/ttILU6YAq5n6v3J3bZ8sqccslIlJ_hw3Toaabnhray8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jMjBi/YTBhMDM0MGM5OGVl/YjY1NjI4YjZjMDM2/ZGE4Ny5qcGc.jpg" /></item>
     <item>
       <title>Digitalizace v ohrožení? České zdravotnictví má problém</title>
       <ns2:episode>887</ns2:episode>
@@ -1541,7 +1541,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/3cQIJ_odrtWV2f-jVWtNo4KlEc24pCz8D5KRHPzj8KU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hMWQy/YjVmN2I0ZWFiMDkw/NTQ4NmJiNWRlM2U2/NGNjNy5wbmc.jpg" /></item>
     <item>
       <title>Putinovi spojenci na krajní pravici sílí. Zválcují Evropu?</title>
       <ns2:episode>886</ns2:episode>
@@ -1567,7 +1567,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/YoUXRiJNFmkgsITS9qi3CHMVQ6cDy7fqwFq3EjCr9AI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85NDU3/OWExM2RhOTM3NmVk/NjVkNDA3ZTcwMjRh/NzZiNS5qcGc.jpg" /></item>
     <item>
       <title>Impérium Adama Kajumiho. OnlyFans v područí agentur</title>
       <ns2:episode>885</ns2:episode>
@@ -1593,7 +1593,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/jhcsbAmyxyukabPqK-g1jIIvIEF9PdrZOzbP9a_kv84/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNTlk/YjUzNjAzZjI2NmE1/OTc5M2E0ZjIyYzgw/MTg1YS5wbmc.jpg" /></item>
     <item>
       <title>Tvrdý střet Izraele s Íránem. Kam míří?</title>
       <ns2:episode>884</ns2:episode>
@@ -1619,7 +1619,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/wCnNfy6vOgCFmWzJs83FV0dP3ExKlBEe__7Kee5SziE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81Mzhh/MWE0ZWY2N2ZiZjc5/Njk5N2U3MTUwNzVl/ODM4Mi5wbmc.jpg" /></item>
     <item>
       <title>Americký generál: Rusové Evropany vystaví skutečné zkoušce</title>
       <ns2:episode>883</ns2:episode>
@@ -1645,7 +1645,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/wC8tNid10HkLcgTiIO_84Ms6llJtnGss8auSsN-mpG0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83YTEz/ZDYxM2E0NTg3ZjUw/OTQzMTI5YTAxYjcw/ZGIxNS5qcGc.jpg" /></item>
     <item>
       <title>Los Angeles v obležení. O co Trumpovi jde?</title>
       <ns2:episode>882</ns2:episode>
@@ -1671,7 +1671,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/d3QT-0rTQLak5kEURpUTEkAXYwY_W1ULQ2inX7CH2b4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNTIx/MTM0NGJhMTU3MDY2/NTA5OGU4MWE5NWMx/MmQxMS5qcGc.jpg" /></item>
     <item>
       <title>Vražda. Proč v případu kutnohorské sekty padly tresty</title>
       <ns2:episode>881</ns2:episode>
@@ -1697,7 +1697,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/xjn0osW3J4OvaVEZtUHJ34t8R3Iwx0kIBSHvL1V_oDc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82YjM3/Nzg5NDRjM2Y0NjY1/NTY3Mzk1YWZhMmQ1/YTZiNC5wbmc.jpg" /></item>
     <item>
       <title>Bitcoinová kauza: Klíčové informace stále chybí</title>
       <ns2:episode>880</ns2:episode>
@@ -1723,7 +1723,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/l2N-Ycw2FF2ZeQTiqkwXL7V7Vc3EnYmfKWqf-c3DdnE/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iOTEw/MzY1MDA5YmQ2YzI2/ZGM0M2E2ZmI1ZWU3/MTI1Zi5qcGc.jpg" /></item>
     <item>
       <title>Luční bouda vs. Krkonoše. Kdo má větší nárok na ochranu</title>
       <ns2:episode>879</ns2:episode>
@@ -1749,7 +1749,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/aq0DBN7zSkZbwCfcA-m1iTjYfg2kcS_sgQKN8SLyc-I/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wOTdj/NjAzZTZmZDAyMjBl/N2Q5YzFiZDlmYmQ3/N2I4Zi5wbmc.jpg" /></item>
     <item>
       <title>Kulky místo jídla. Přímé svědectví z hladovějící Gazy</title>
       <ns2:episode>878</ns2:episode>
@@ -1775,7 +1775,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/INxn7j1yx6F3Xmpfei_5uxVg8sfpb7KUt7dnrmSknOI/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83NzBh/YjY3MTdjMTNiMDM2/OTNkZmMzZGRlNjcx/ZTMzOS5qcGc.jpg" /></item>
     <item>
       <title>Operace Pavučina. Jak Ukrajina překvapila Rusko</title>
       <ns2:episode>877</ns2:episode>
@@ -1801,7 +1801,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/iDPBrueGT1CeALff6OoOcd-Dl1PqAhLmGdf0aKRwJC8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kZmI4/ZjUxNjkzNjkzMmNl/MzEzM2I0OWRjZGU0/ZDEwYS5qcGc.jpg" /></item>
     <item>
       <title>Čínští kyberšpioni: Po čem slídili na resortu zahraničí</title>
       <ns2:episode>876</ns2:episode>
@@ -1827,7 +1827,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/gTmbKutFVgDsxdotlgxm_rBgM_vJPhHxasRXLD4_GdU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hM2M1/ZGJlNWQ0ZmNhMmU2/NGY5ZTVkYzc4MDYy/YzBlYS5wbmc.jpg" /></item>
     <item>
       <title>Býval rváčem, stýkal se s podsvětím. Teď povede Polsko</title>
       <ns2:episode>875</ns2:episode>
@@ -1853,7 +1853,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/NdhNVHwaAcxKlrp52CJAMCEGbnarGAcieJ97LKF1hMo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jZWIz/ZmRkMDJmN2I0ZjVl/MDljMjZjNTUxYjdh/M2M4Ni5qcGc.jpg" /></item>
     <item>
       <title>Dolejší ve speciálu 5:59 o Blažkově kauze: Tak se prohrávají volby </title>
       <ns2:episode>874</ns2:episode>
@@ -1879,7 +1879,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/RfIJSCrV3hkmM4tmb_w2ab_mpVy3PcJbvUdHqQpT9qU/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85MDI5/NWExZTI3MDQ1NGE1/MDU1YzFhZGVjNDky/OTA2Zi5qcGc.jpg" /></item>
     <item>
       <title>Konec ministra Blažka. Jak mu bitcoiny zlomily vaz</title>
       <ns2:episode>873</ns2:episode>
@@ -1905,7 +1905,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/I40fv1qLXu2S1uJVy-TYMHoood5Hzlt4k-z8OxIqMAA/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kYWE5/YWI2YzYyMDM3YWM0/NTk4MmY3YjdhNWI5/ODkyNS5wbmc.jpg" /></item>
     <item>
       <title>Trumpův útok na Harvard</title>
       <ns2:episode>872</ns2:episode>
@@ -1931,7 +1931,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/zr-IPqwe36jIeWaqyrdpBk_xa3FYqFz0qvv6yx3LA0Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mNjdj/OTc1MTNiYTFmMjE1/YTUwOTYwNGNmMjZk/YWNhNS5wbmc.jpg" /></item>
     <item>
       <title>Orbán pod tlakem: Vládce Maďarska sází na Babiše</title>
       <ns2:episode>871</ns2:episode>
@@ -1957,7 +1957,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/cYVnFwVAIujruzrup9qSBThkEDVUjAh2T5j1o2QpkU0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jN2Zk/ZmE2NmQ3NTA5OTQz/NDMwZGFmMjg3ZDJi/NmUxNy5qcGc.jpg" /></item>
     <item>
       <title>„Obchod snů“ primátora z ANO na policejním stole</title>
       <ns2:episode>870</ns2:episode>
@@ -1983,7 +1983,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/XOBCLihF8ulHxeO906jWrS8s5t0M_kefl2lpcD4iS8c/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82ODg2/YTc2NTQ0ODVjZmQy/NjkxZDQ2OTUwNTE4/Yjk1Yi5qcGc.jpg" /></item>
     <item>
       <title>Gaza, pásmo beznaděje</title>
       <ns2:episode>869</ns2:episode>
@@ -2009,7 +2009,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/8AiEEg0pXybiM2GiNGMhgETdPeo3lNuo3Y3gxkb2s_E/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYjMx/ODk5M2RkNjJmMzBl/OTVkNjVkOWM5NzVk/NmMyNi5qcGc.jpg" /></item>
     <item>
       <title> Armáda nakupuje. Polní kuchyni ze zlata?</title>
       <ns2:episode>868</ns2:episode>
@@ -2035,7 +2035,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/Wg-xoV7rmk_Lf0L-y8DZ0PxTeA3VxNHdpvpi5LdPPGg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mMTYw/OGQ1OGY0ZjYxZWRj/Y2IwYjRhNzFkODM4/MmM3MC5qcGc.jpg" /></item>
     <item>
       <title>5:59 v originále: How global oligarchs lost their shame</title>
       <ns2:episode>867</ns2:episode>
@@ -2061,7 +2061,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/OW-q0R_HjejJdpfKyswt71ZozHOgfO9ec3GCHYiAF_4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kYzM4/NTI4Y2Q5OTczNjY0/NzJjYjY2YTMzYmM5/YzFhZS5qcGc.jpg" /></item>
     <item>
       <title>Když peníze vládnou. Nastala éra „bezostyšné oligarchie“</title>
       <ns2:episode>866</ns2:episode>
@@ -2087,7 +2087,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/d70f9vzBFSfuLOuMvyE4sJ2fkvVW4fGJwf_6LG6T26I/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZDZj/MzAwOTgyNGY0MDk5/ZjJjYzUxNWJiNGIx/MjI3MS5qcGc.jpg" /></item>
     <item>
       <title>Duel odlišných světů. Kdo stane v čele Polska?</title>
       <ns2:episode>865</ns2:episode>
@@ -2113,7 +2113,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/nCJwb3qpgtcEtgbcAM9vXD43lrs-6QDkcLCGBfmqp6g/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNWZl/MWZiMWUzYzFlYTg2/N2FhODdkYzNiNmY1/MzAwMi5wbmc.jpg" /></item>
     <item>
       <title>Uprchl, aby očistil své jméno. Po 13 letech ho soud osvobodil</title>
       <ns2:episode>864</ns2:episode>
@@ -2139,7 +2139,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/zEAy_yOUjnwFpD3iXbcYiP0_lC63Xcx4EK9QirnN3Fg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jYzYz/ZGQxZDUzNjVjNTE3/MjgyMDM5MTdiN2Nj/YTE0OC5wbmc.jpg" /></item>
     <item>
       <title>Jak se může Evropa bránit bez USA</title>
       <ns2:episode>863</ns2:episode>
@@ -2165,7 +2165,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/48dWBkvENwAORZStoljNp3fmjMu3UHUxD2ZOh4q682Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9iNWMw/ODBiOGZjYjNjYmQy/MzhhMDQ1MzE4Y2Zj/NjM0ZC5qcGc.jpg" /></item>
     <item>
       <title>Radikální Fico a pře o „nenávist“. Slovensko po atentátu</title>
       <ns2:episode>862</ns2:episode>
@@ -2191,7 +2191,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/-WNypDBAprWxekYnANZCZBuEudS8m8k-oZFMLSxl_D8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jZTNh/ZmI4YWNhNzE5ZmJk/ZGI3ZmJmMWZhMzVi/NGNkMi5wbmc.jpg" /></item>
     <item>
       <title>5:59 v originále: Shaun Walker on Russia's illegals</title>
       <ns2:episode>861</ns2:episode>
@@ -2217,7 +2217,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/JOc3ONr10cWAeLZH0zTM8JOzQnCJidV27WqKrCAnQj8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kNzIx/NGI5OWRlMmVmNTA5/YTliODJjNzJkYTRj/Y2NiMy5qcGc.jpg" /></item>
     <item>
       <title>První Američan papežem. Ponese odkaz Trumpa?</title>
       <ns2:episode>860</ns2:episode>
@@ -2243,7 +2243,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/eMvlcaYaSd6N75yPTRz3SMymoDNKG_YpuwKaLoBmSLo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82ZjYz/MjI0MmVkZmY5Zjdm/M2YwOTVkNzEzMWQw/NmI2Yy5qcGc.jpg" /></item>
     <item>
       <title>Erdogan hostí Ukrajince a Rusy. Má respekt obou stran</title>
       <ns2:episode>859</ns2:episode>
@@ -2269,7 +2269,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/5qgc_oyebVHmI9gf_4GhavikHHiztKffRos239gIqko/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lZDdj/ZTI4MTBkOGRmM2Fh/MWRkYzFlNDllNWUy/ZTlmNy5wbmc.jpg" /></item>
     <item>
       <title>Kemp za „normální svět“. Nechyběl Vidlák ani lídři ANO</title>
       <ns2:episode>858</ns2:episode>
@@ -2295,7 +2295,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/CBD4ZBRMVD1p38X5pEhFCEYNnIduSo2zDNIFrg_GsWc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yODVk/NDVkNjBlMGU4N2Vl/OTQ2ZWRmMWE5OWU2/N2QzZS5qcGc.jpg" /></item>
     <item>
       <title>Poker mezi Putinem a Zelenským. Bude mír?</title>
       <ns2:episode>857</ns2:episode>
@@ -2321,7 +2321,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/ZrMk4HVJtOUlzwmyTMbA2_db87CxRZl_On4ARiR6bAY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ZTZj/MmZjMTMxM2YzZDQw/ZWVhOTdhYmU0ZDhi/NjhkYy5wbmc.jpg" /></item>
     <item>
       <title>Mezi ruské špiony-ilegály s Shaunem Walkerem</title>
       <ns2:episode>856</ns2:episode>
@@ -2347,7 +2347,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/ukRNTCSFMztcyGIiuDAK1RllKTQqea2a45zayVDsklg/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9jNzlm/Y2ZhNGQ4Zjc1ZDM3/MDM2OWQ3NjdhYWUw/OGIwNy5wbmc.jpg" /></item>
     <item>
       <title>Pachové stopy: Nespolehlivé důkazy v Česku stále ve hře</title>
       <ns2:episode>855</ns2:episode>
@@ -2373,7 +2373,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/6X3I_eB9IdNF_an55PGH4t27Jr1Tc_cCq-i_fMIc-tY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9mOGNi/MjNiNTRjOWU5Yzk2/YzE1NjAzMDQ4Yzhh/NzU4OC5wbmc.jpg" /></item>
     <item>
       <title>Páteř Putinova režimu. Jak Rusko uneslo odkaz světové války</title>
       <ns2:episode>854</ns2:episode>
@@ -2399,7 +2399,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/ZbZtuRibq5O617j7nunmPqBJcUU2aE2vb1peOAwov38/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS82MTJi/ZTgwYmNlNTQ0Zjg2/ZWY3YTVjZjE1MDc5/YTAzNi5qcGc.jpg" /></item>
     <item>
       <title>Usvědčily ho deníky. Chirurg desítky let znásilňoval děti</title>
       <ns2:episode>853</ns2:episode>
@@ -2425,7 +2425,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/oI-B2ZDeQKIvePFotW5R1MkMECWfMEcrQXtPWHTJUZo/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9kNzJj/Yzc3YTkzOWM1NDhh/MWI5ZmJkZGQyMzZh/NjA2YS5qcGc.jpg" /></item>
     <item>
       <title>Šéf ČT na hraně pádu. Jak Souček naštval, koho mohl</title>
       <ns2:episode>852</ns2:episode>
@@ -2451,7 +2451,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/gIO8x85eeGv0fBgx6_n_pCJaj5nlj0Rs_siaxq3Cq4w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xZjFi/MzQ5MzUyNzVmNzI4/YTk5ZmNiMWY4ODU4/YmE4MS5qcGc.jpg" /></item>
     <item>
       <title>5:59 v originále: Henry Foy on Europe’s Trumpian challenge</title>
       <ns2:episode>851</ns2:episode>
@@ -2477,7 +2477,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/i2QAAHeT-SVx13dxOaMzy7srbf_iU_c1Oyc_i7Bccas/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85ZjBh/MWMyMDllNmFiMjdl/MTRjZGZlMWY5ZGRk/ZWM0NC5qcGc.jpg" /></item>
     <item>
       <title>Poznaly, že dokážou žít bez mužů. Ukrajinky se venku emancipují</title>
       <ns2:episode>850</ns2:episode>
@@ -2503,7 +2503,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/kvNGzecgR1xCn8aOQDiHKwCXwiBajxAjPiwTIEuiH5Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zOGY3/NWE0MTBlMDRkMjBj/YWEwNmVkNjgxZTA3/NzJjMS5qcGc.jpg" /></item>
     <item>
       <title>5:59 v originále: Ian Bremmer on Trump and kleptocracy</title>
       <ns2:episode>849</ns2:episode>
@@ -2529,7 +2529,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/sthEw1aUavSvA5jf1L8vnYDZPGbkLGrmvAc-i-W-kGk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNmUz/MjA5NTg5M2RmODM5/NmM3MDcyZmZjMDJj/ZjRkMi5qcGc.jpg" /></item>
     <item>
       <title>S Ianem Bremmerem o Trumpovi a kleptokracii v USA</title>
       <ns2:episode>848</ns2:episode>
@@ -2555,7 +2555,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/38qoDP9QFq87moLojojbO7PmOYDsnIvg7iq5B0npv2Q/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYTk0/MTVlNzk1YTA2MmJk/MmFhMDZhYjU3OGQ2/Mjg4NC5qcGc.jpg" /></item>
     <item>
       <title>Krize jménem Trump. Zvládá ji Evropa?</title>
       <ns2:episode>847</ns2:episode>
@@ -2581,7 +2581,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/LURTTfrYsesCaskzSFgSgh1WmrEKOv9_qJrEEtRI2TY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MjE3/OWFmMGQ5YThjNTE0/MTA1OTkxYWQ2YTIw/OTQyZC5qcGc.jpg" /></item>
     <item>
       <title>Utrácení za 3, 2, 1. Německá vláda mění strategii</title>
       <ns2:episode>846</ns2:episode>
@@ -2607,7 +2607,7 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/CZe7QM_c7RaneSo8cGpnnE3374VbD0VB5_xc4OVT45U/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8xMDli/ZjcwNTU0MTQ0ZTVk/YzA5MWFjMjA5NGUz/NGExZC5qcGc.jpg" /></item>
     <item>
       <title>Šelma na odstřel. Medvědi v hledáčku Ficovy vlády</title>
       <ns2:episode>845</ns2:episode>
@@ -2633,6 +2633,6 @@
       </ns2:summary>
       <ns2:keywords>Lenka, Kabrhelová, podcast, 5:59, za minutu šest, </ns2:keywords>
       <ns2:explicit>No</ns2:explicit>
-    </item>
+    <ns4:thumbnail url="https://img.transistor.fm/iJq4mGMzykWVm9N_a25tWmlVMJuUPNnstlmEUYakd_w/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hNzk1/ZjE1MmNjZTk1NmJl/NmM5NWRkMTdjNzUz/ZGI3Yy5qcGc.jpg" /></item>
     </channel>
 </rss>
