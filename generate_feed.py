@@ -180,23 +180,80 @@ def process_feed(filename: str, url: str):
     # Zjisti obrázek kanálu (fallback pro epizody)
     channel_img_url = get_channel_image(channel)
 
-    # Úprava enclosure + artwork epizod
-    for item in items:
-        enclosure = item.find("enclosure")
-        if enclosure is not None and "url" in enclosure.attrib:
-            raw_url = enclosure.attrib["url"]
-            final_url = normalize_enclosure_url(raw_url)
-            enclosure.set("url", final_url)
-        # jistota názvu v itunes:title (některé aplikace to preferují)
-        title_el = item.find("title")
-        if title_el is not None and (title_el.text or "").strip():
-            it_title = item.find(f"{{{ITUNES_NS}}}title")
-            if it_title is None:
-                it_title = ET.SubElement(item, f"{{{ITUNES_NS}}}title")
-            it_title.text = title_el.text.strip()
+  # 🔧 Úprava <enclosure> URL – rozbalit, očistit, převést na http
+for item in channel.findall("item"):
+    enclosure = item.find("enclosure")
+    if enclosure is None or "url" not in enclosure.attrib:
+        continue
 
-        # doplň dlaždice (itunes:image + media:thumbnail)
-        ensure_item_artwork(item, channel_img_url)
+    url_attr = enclosure.attrib["url"]
+
+    # 1) Rozbal percent-encoding (…https%3A%2F%2F…)
+    try:
+        from urllib.parse import unquote, urlparse
+        url_attr = unquote(url_attr)
+    except Exception:
+        pass
+
+    # 2) Z Podtrac odstraň redirect prefix (ať zůstane čisté MP3)
+    for pref in ("https://dts.podtrac.com/redirect.mp3/",
+                 "http://dts.podtrac.com/redirect.mp3/"):
+        if url_attr.startswith(pref):
+            url_attr = url_attr[len(pref):]
+
+    # 3) Anchor/Spotify: enclosure bývá "…/http(s)://cloudfront…mp3"
+    #    – vezmeme POSLEDNÍ výskyt http(s):// a zbytek je skutečný stream
+    last_http = max(url_attr.rfind("https://"), url_attr.rfind("http://"))
+    if last_http > 0:
+        candidate = url_attr[last_http:]
+        # Pokud candidate vypadá smysluplně (končí .mp3 nebo má .mp3 query), bereme ho
+        if ".mp3" in candidate:
+            url_attr = candidate
+
+    # 4) mujRozhlas base64 (…/aod/<base64>.mp3) → dekódovat na skutečný URL
+    try:
+        parsed = urlparse(url_attr)
+        if "aod" in parsed.path and parsed.path.endswith(".mp3"):
+            import base64
+            b64name = parsed.path.split("/")[-1].replace(".mp3", "")
+            decoded = base64.urlsafe_b64decode(b64name + "==").decode("utf-8")
+            url_attr = decoded
+    except Exception:
+        # když dekódování selže, necháme původní url_attr
+        pass
+
+    # 5) Donutit http (LMS neumí https). Když schéma chybí, doplníme http://
+    if url_attr.startswith("https://"):
+        url_attr = "http://" + url_attr[len("https://"):]
+    elif not url_attr.startswith("http://"):
+        url_attr = "http://" + url_attr.lstrip("/")
+
+    # 6) Zápis zpět
+    enclosure.set("url", url_attr)
+
+    # 7) (volitelné) Propagovat název epizody i jako itunes:title – LMS to někdy používá
+    it_title = item.find(f"{{{ITUNES_NS}}}title") if 'ITUNES_NS' in globals() else None
+    if it_title is None:
+        # vytvoř itunes:title jen pokud ještě není
+        try:
+            from xml.etree.ElementTree import SubElement
+            SubElement(item, f"{{{ITUNES_NS}}}title").text = (item.findtext("title") or "").strip()
+        except Exception:
+            pass
+
+    # 8) Obrázek epizody (dlaždice): pokud chybí, použij obrázek kanálu
+    if channel_img_url:
+        it_img = item.find(f"{{{ITUNES_NS}}}image") if 'ITUNES_NS' in globals() else None
+        md_thumb = item.find(f"{{{MEDIA_NS}}}thumbnail") if 'MEDIA_NS' in globals() else None
+        if (it_img is None or not it_img.get("href")) and (md_thumb is None or not md_thumb.get("url")):
+            try:
+                from xml.etree.ElementTree import SubElement
+                # itunes:image
+                SubElement(item, f"{{{ITUNES_NS}}}image", {"href": channel_img_url})
+                # media:thumbnail
+                SubElement(item, f"{{{MEDIA_NS}}}thumbnail", {"url": channel_img_url})
+            except Exception:
+                pass
 
     # Ulož výstup
     os.makedirs(OUTPUT_DIR, exist_ok=True)
