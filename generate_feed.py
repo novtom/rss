@@ -4,34 +4,7 @@ import xml.etree.ElementTree as ET
 import base64
 from urllib.parse import urlparse
 
-# --- performance knobs ---
-REDIRECT_HOSTS = (
-    "podtrac.com", "anchor.fm", "spotify.com", "megaphone.fm",
-    "transistor.fm", "buzzsprout.com", "simplecast.com", "omny.fm",
-    "blubrry.com", "cloudfront.net"
-)
-DO_HEAD_RESOLVE = True       # přepni na False = nejrychlejší
-HEAD_TIMEOUT = 4             # sekundy
-TRY_HTTP_PROBE = False       # True = zkoušet i http, pomalejší
 
-# registrace namespaces jen jednou (ne uvnitř smyčky)
-ET.register_namespace('media', "http://search.yahoo.com/mrss/")
-ET.register_namespace('itunes', "http://www.itunes.com/dtds/podcast-1.0.dtd")
-
-def should_head(url: str) -> bool:
-    try:
-        host = urlparse(url).netloc.lower()
-    except Exception:
-        return False
-    return any(h in host for h in REDIRECT_HOSTS)
-
-
-ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
-MRSS_NS   = "http://search.yahoo.com/mrss/"
-
-# Vynutíme prefixy 'itunes' a 'media' v XML výstupu
-ET.register_namespace('itunes', ITUNES_NS)
-ET.register_namespace('media',  MRSS_NS)
 
 OUTPUT_DIR = "feeds"
 
@@ -198,49 +171,12 @@ for filename, url in podcasts.items():
         enclosure = item.find("enclosure")
         if enclosure is not None and "url" in enclosure.attrib:
             url_attr = enclosure.attrib["url"]
-            final_url = url_attr
 
-         # 0️⃣ Rozbal přesměrování (jen pro známé hosty)
-if DO_HEAD_RESOLVE and should_head(url_attr):
-    try:
-        h = requests.head(url_attr, allow_redirects=True, timeout=HEAD_TIMEOUT)
-        if h.url:
-            final_url = h.url
-    except requests.exceptions.RequestException:
-        final_url = url_attr
-else:
-    final_url = url_attr
+            # 1️⃣ Podtrac redirect
+            if "dts.podtrac.com/redirect.mp3/" in url_attr:
+                url_attr = url_attr.replace("https://dts.podtrac.com/redirect.mp3/", "")
 
-  # 0b) Volitelný http pokus (většinou vypnuto kvůli rychlosti)
-if TRY_HTTP_PROBE and final_url.startswith("https://"):
-    http_try = "http://" + final_url[len("https://"):]
-    try:
-        h2 = requests.head(http_try, allow_redirects=False, timeout=HEAD_TIMEOUT)
-        if 200 <= h2.status_code < 400:
-            final_url = http_try
-    except requests.exceptions.RequestException:
-        pass
-
-            # 1️⃣ Podtrac pryč
-            if "dts.podtrac.com/redirect.mp3/" in final_url:
-                final_url = final_url.replace("https://dts.podtrac.com/redirect.mp3/", "")
-                final_url = final_url.replace("http://dts.podtrac.com/redirect.mp3/", "")
-
-            # 2️⃣ Percent-encoded "://"
-            if "%3A%2F%2F" in final_url:
-                try:
-                    from urllib.parse import unquote
-                    final_url = unquote(final_url)
-                except Exception:
-                    pass
-
-            # 3️⃣ Poslední kosmetika: preferuj http, kde to jde
-            if final_url.startswith("https://") and "cloudfront.net" in final_url:
-                final_url = "http://" + final_url[len("https://"):]
-
-            enclosure.set("url", final_url)
-
-            # 🔎 Base64 zakódovaný mujRozhlas
+            # 2️⃣ Base64 zakódovaný mujRozhlas
             parsed = urlparse(url_attr)
             if "aod" in parsed.path and parsed.path.endswith(".mp3"):
                 try:
@@ -260,67 +196,13 @@ if TRY_HTTP_PROBE and final_url.startswith("https://"):
                     else:
                         enclosure.attrib["url"] = url_attr
             else:
-                # fallback
+                # 3️⃣ fallback: jen přidej http, pokud chybí
                 if url_attr.startswith("https://"):
                     enclosure.attrib["url"] = url_attr.replace("https://", "http://", 1)
                 elif not url_attr.startswith("http://"):
                     enclosure.attrib["url"] = "http://" + url_attr
                 else:
                     enclosure.attrib["url"] = url_attr
-
-            # 📦 MEDIA RSS pro LMS (název + obrázek)
-            ET.register_namespace('media', "http://search.yahoo.com/mrss/")
-            ET.register_namespace('itunes', "http://www.itunes.com/dtds/podcast-1.0.dtd")
-
-            audio_url = enclosure.attrib.get("url", "").strip()
-
-            title_el = item.find("title")
-            itunes_title_el = item.find("{http://www.itunes.com/dtds/podcast-1.0.dtd}title")
-            ep_title = (title_el.text if title_el is not None and title_el.text
-                        else (itunes_title_el.text if itunes_title_el is not None and itunes_title_el.text else ""))
-
-            # obrázek epizody
-            img_url = None
-            it_img_item = item.find("{http://www.itunes.com/dtds/podcast-1.0.dtd}image")
-            if it_img_item is not None and it_img_item.get("href"):
-                img_url = it_img_item.get("href")
-            if not img_url:
-                media_thumb_item = item.find("{http://search.yahoo.com/mrss/}thumbnail")
-                if media_thumb_item is not None and media_thumb_item.get("url"):
-                    img_url = media_thumb_item.get("url")
-            if not img_url:
-                ch_image = channel.find("image")
-                if ch_image is not None:
-                    ch_img_url = ch_image.findtext("url")
-                    if ch_img_url:
-                        img_url = ch_img_url
-
-            # smaž staré media:content
-            for old_mc in item.findall("{http://search.yahoo.com/mrss/}content"):
-                item.remove(old_mc)
-
-            if audio_url:
-                mc = ET.SubElement(
-                    item,
-                    "{http://search.yahoo.com/mrss/}content",
-                    {"url": audio_url, "type": "audio/mpeg", "medium": "audio"}
-                )
-                if ep_title:
-                    mt = ET.SubElement(mc, "{http://search.yahoo.com/mrss/}title")
-                    mt.text = ep_title
-                if img_url:
-                    ET.SubElement(mc, "{http://search.yahoo.com/mrss/}thumbnail", {"url": img_url})
-
-                # item-level thumbnail
-                if img_url and item.find("{http://search.yahoo.com/mrss/}thumbnail") is None:
-                    ET.SubElement(item, "{http://search.yahoo.com/mrss/}thumbnail", {"url": img_url})
-
-                # doplň itunes:title, pokud chybí
-                if ep_title and itunes_title_el is None:
-                    itt = ET.SubElement(item, "{http://www.itunes.com/dtds/podcast-1.0.dtd}title")
-                    itt.text = ep_title
-
-    
 
     # 💾 Ulož výstupní XML
     output_path = os.path.join(OUTPUT_DIR, filename)
