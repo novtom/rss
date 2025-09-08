@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns0="https://audioboom.com/rss/1.0" xmlns:ns3="https://podcastindex.org/namespace/1.0" version="2.0" xml:base="https://audioboom.com/">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:ns0="https://audioboom.com/rss/1.0" xmlns:ns3="https://podcastindex.org/namespace/1.0" version="2.0" xml:base="https://audioboom.com/">
 
 <channel>
 <title>Mezi Rentiéry</title>
@@ -37,7 +37,7 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
   <link>https://audioboom.com/posts/8773474</link>
   <itunes:episode>135</itunes:episode>
   <itunes:title>Proč si úspěšní podnikatelé otevírají účty ve Švýcarsku - a co tím získají 2/2</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8773474.mp3?modified=1757236196&amp;sid=5096524&amp;source=rss" length="22256459" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8773474.mp3%3Fmodified%3D1757236196%26sid%3D5096524%26source%3Drss" length="22256459" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/43029969/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1361</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -62,13 +62,13 @@ Pokud hledáte dlouhodobou stabilitu, diskrétnost a klidný spánek, tato epizo
   <guid isPermaLink="false">tag:audioboom.com,2025-09-07:/posts/8773474</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/43029969/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>134: Proč si úspěšní podnikatelé otevírají účty ve Švýcarsku - a co tím získají 1/2</title>
   <link>https://audioboom.com/posts/8770392</link>
   <itunes:episode>134</itunes:episode>
   <itunes:title>Proč si úspěšní podnikatelé otevírají účty ve Švýcarsku - a co tím získají 1/2</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8770392.mp3?modified=1756668954&amp;sid=5096524&amp;source=rss" length="19054603" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8770392.mp3%3Fmodified%3D1756668954%26sid%3D5096524%26source%3Drss" length="19054603" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/43013710/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1161</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -92,13 +92,13 @@ Pokud spravujete větší bohatství, poslechněte si jak díky švýcarskému b
   <guid isPermaLink="false">tag:audioboom.com,2025-08-31:/posts/8770392</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/43013710/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>133: 5 principů pro klidný spánek při správě bohatství</title>
   <link>https://audioboom.com/posts/8767384</link>
   <itunes:episode>133</itunes:episode>
   <itunes:title>5 principů pro klidný spánek při správě bohatství</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8767384.mp3?modified=1756072370&amp;sid=5096524&amp;source=rss" length="28860125" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8767384.mp3%3Fmodified%3D1756072370%26sid%3D5096524%26source%3Drss" length="28860125" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42998662/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1774</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -120,13 +120,13 @@ Klidný spánek není luxus, ale přirozená odměna za promyšlenou správu maj
   <guid isPermaLink="false">tag:audioboom.com,2025-08-24:/posts/8767384</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42998662/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>132: Plán B: 4 základní kroky ke klidu v nejisté době</title>
   <link>https://audioboom.com/posts/8764276</link>
   <itunes:episode>132</itunes:episode>
   <itunes:title>Plán B: 4 základní kroky ke klidu v nejisté době</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8764276.mp3?modified=1755469914&amp;sid=5096524&amp;source=rss" length="33340489" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8764276.mp3%3Fmodified%3D1755469914%26sid%3D5096524%26source%3Drss" length="33340489" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42983564/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>2054</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -147,13 +147,13 @@ Poslechněte si tuto epizodu a získejte inspiraci, jak si s rodinou vytvořit v
   <guid isPermaLink="false">tag:audioboom.com,2025-08-17:/posts/8764276</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42983564/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>131: Diskuse o majetku začíná, když je dětem osm – ne padesát</title>
   <link>https://audioboom.com/posts/8761434</link>
   <itunes:episode>131</itunes:episode>
   <itunes:title>Diskuse o majetku začíná, když je dětem osm – ne padesát</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8761434.mp3?modified=1754866151&amp;sid=5096524&amp;source=rss" length="30797484" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8761434.mp3%3Fmodified%3D1754866151%26sid%3D5096524%26source%3Drss" length="30797484" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42969624/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1895</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -175,13 +175,13 @@ Pokud nechcete, aby vaše děti jednou stály před vaším majetkem jako před 
   <guid isPermaLink="false">tag:audioboom.com,2025-08-10:/posts/8761434</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42969624/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>130: Erika Matwij: Jak akademie nástupců funguje prakticky</title>
   <link>https://audioboom.com/posts/8757883</link>
   <itunes:episode>130</itunes:episode>
   <itunes:title>Erika Matwij: Jak akademie nástupců funguje prakticky</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8757883.mp3?modified=1754252944&amp;sid=5096524&amp;source=rss" length="31194703" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8757883.mp3%3Fmodified%3D1754252944%26sid%3D5096524%26source%3Drss" length="31194703" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42952376/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1916</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -203,13 +203,13 @@ Pokud chcete, aby vaše rodina zvládla mezigenerační převod majetku bez rozp
   <guid isPermaLink="false">tag:audioboom.com,2025-08-03:/posts/8757883</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42952376/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>129: 7 pohledů na riziko při správě bohatství</title>
   <link>https://audioboom.com/posts/8755137</link>
   <itunes:episode>129</itunes:episode>
   <itunes:title>7 pohledů na riziko při správě bohatství</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8755137.mp3?modified=1753654186&amp;sid=5096524&amp;source=rss" length="25688825" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8755137.mp3%3Fmodified%3D1753654186%26sid%3D5096524%26source%3Drss" length="25688825" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42938539/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1576</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -231,13 +231,13 @@ Objevte sedm konkrétních oblastí, kde se tento posun nejvíce projevuje – o
   <guid isPermaLink="false">tag:audioboom.com,2025-07-27:/posts/8755137</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42938539/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>128: Deformují ETF trh? Fakta místo mýtů</title>
   <link>https://audioboom.com/posts/8751451</link>
   <itunes:episode>128</itunes:episode>
   <itunes:title>Deformují ETF trh? Fakta místo mýtů</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8751451.mp3?modified=1753049335&amp;sid=5096524&amp;source=rss" length="39328286" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8751451.mp3%3Fmodified%3D1753049335%26sid%3D5096524%26source%3Drss" length="39328286" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42921069/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>2425</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -263,13 +263,13 @@ Rozhovor s Tomášem Tylem v Hospodářských novinách (Rentiér 2025/1) najdet
   <guid isPermaLink="false">tag:audioboom.com,2025-07-20:/posts/8751451</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42921069/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>127: Erika Matwij: Akademie nástupců – jak připravit děti na správu bohatství</title>
   <link>https://audioboom.com/posts/8748034</link>
   <itunes:episode>127</itunes:episode>
   <itunes:title>Erika Matwij: Akademie nástupců – jak připravit děti na správu bohatství</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8748034.mp3?modified=1752443681&amp;sid=5096524&amp;source=rss" length="27780311" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8748034.mp3%3Fmodified%3D1752443681%26sid%3D5096524%26source%3Drss" length="27780311" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42904943/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1702</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -290,13 +290,13 @@ Akademie nástupců přináší reálné příběhy, praktické nástroje a pře
   <guid isPermaLink="false">tag:audioboom.com,2025-07-13:/posts/8748034</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42904943/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>126: Dva roky s investiční nemovitostí ve Španělsku: jak koupit, přestavět a pronajímat</title>
   <link>https://audioboom.com/posts/8744901</link>
   <itunes:episode>126</itunes:episode>
   <itunes:title>Dva roky s investiční nemovitostí ve Španělsku: jak koupit, přestavět a pronajímat</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8744901.mp3?modified=1751839490&amp;sid=5096524&amp;source=rss" length="31118284" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8744901.mp3%3Fmodified%3D1751839490%26sid%3D5096524%26source%3Drss" length="31118284" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42889090/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1915</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -320,13 +320,13 @@ Vladimír o nemovitostech ve Španělsku mluvil také v epizodách 28 (výběr a
   <guid isPermaLink="false">tag:audioboom.com,2025-07-06:/posts/8744901</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42889090/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>125: 6 principů, které drží rodinné bohatství pohromadě</title>
   <link>https://audioboom.com/posts/8741881</link>
   <itunes:episode>125</itunes:episode>
   <itunes:title>6 principů, které drží rodinné bohatství pohromadě</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8741881.mp3?modified=1751231855&amp;sid=5096524&amp;source=rss" length="22166176" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8741881.mp3%3Fmodified%3D1751231855%26sid%3D5096524%26source%3Drss" length="22166176" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42872993/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1355</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -343,13 +343,13 @@ Dozvíte se, proč hodnoty jsou důležitější než peníze, jaký význam má
   <guid isPermaLink="false">tag:audioboom.com,2025-06-29:/posts/8741881</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42872993/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>124: Robert Basch: Dárcovské fondy jako alternativa založení vlastní nadace</title>
   <link>https://audioboom.com/posts/8738711</link>
   <itunes:episode>124</itunes:episode>
   <itunes:title>Robert Basch: Dárcovské fondy jako alternativa založení vlastní nadace</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8738711.mp3?modified=1750629846&amp;sid=5096524&amp;source=rss" length="30323987" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8738711.mp3%3Fmodified%3D1750629846%26sid%3D5096524%26source%3Drss" length="30323987" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42857598/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1863</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -376,13 +376,13 @@ Pokud přemýšlíte, jak elegantně strukturovat své dary, jak využít daňov
   <guid isPermaLink="false">tag:audioboom.com,2025-06-22:/posts/8738711</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42857598/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>123: 1 konzervativní strategie, 15 náročných let a čistý zisk 158 %</title>
   <link>https://audioboom.com/posts/8735546</link>
   <itunes:episode>123</itunes:episode>
   <itunes:title>1 konzervativní strategie, 15 náročných let a čistý zisk 158 %</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8735546.mp3?modified=1750024781&amp;sid=5096524&amp;source=rss" length="28089658" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8735546.mp3%3Fmodified%3D1750024781%26sid%3D5096524%26source%3Drss" length="28089658" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42841975/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1725</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -409,13 +409,13 @@ Pokud přemýšlíte o tom, jak investovat s klidem – i v těžkých časech �
   <guid isPermaLink="false">tag:audioboom.com,2025-06-15:/posts/8735546</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42841975/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>122: Jak začít s filantropií - bez chaosu a s dlouhodobým dopadem</title>
   <link>https://audioboom.com/posts/8732272</link>
   <itunes:episode>122</itunes:episode>
   <itunes:title>Jak začít s filantropií - bez chaosu a s dlouhodobým dopadem</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8732272.mp3?modified=1749421076&amp;sid=5096524&amp;source=rss" length="30871976" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8732272.mp3%3Fmodified%3D1749421076%26sid%3D5096524%26source%3Drss" length="30871976" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42826236/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1897</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -439,13 +439,13 @@ Poslechněte si inspiraci, jak z dobročinnosti udělat vědomou, radostnou a ro
   <guid isPermaLink="false">tag:audioboom.com,2025-06-08:/posts/8732272</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42826236/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>121: Tři příběhy, tři chyby, tři ztráty desítek milionů. Dokážete se z nich poučit?</title>
   <link>https://audioboom.com/posts/8728740</link>
   <itunes:episode>121</itunes:episode>
   <itunes:title>Tři příběhy, tři chyby, tři ztráty desítek milionů. Dokážete se z nich poučit?</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8728740.mp3?modified=1748809701&amp;sid=5096524&amp;source=rss" length="25969824" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8728740.mp3%3Fmodified%3D1748809701%26sid%3D5096524%26source%3Drss" length="25969824" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42809444/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1593</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -465,13 +465,13 @@ Poslechněte si tuto epizodu a zjistěte, proč je lepší učit se na chybách 
   <guid isPermaLink="false">tag:audioboom.com,2025-06-01:/posts/8728740</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42809444/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>120: Jakub Nešetřil: Matematikou společnost bohatne</title>
   <link>https://audioboom.com/posts/8725436</link>
   <itunes:episode>120</itunes:episode>
   <itunes:title>Jakub Nešetřil: Matematikou společnost bohatne</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8725436.mp3?modified=1748208513&amp;sid=5096524&amp;source=rss" length="47299865" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8725436.mp3%3Fmodified%3D1748208513%26sid%3D5096524%26source%3Drss" length="47299865" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42792899/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>2924</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -501,13 +501,13 @@ Navštivte &lt;a href="https://www.matikacesku.cz/"&gt;https://www.matikacesku.c
   <guid isPermaLink="false">tag:audioboom.com,2025-05-25:/posts/8725436</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42792899/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>119: Jak harmonizovat osobní život a správu rodinného bohatství, abychom předcházeli vyhoření</title>
   <link>https://audioboom.com/posts/8721991</link>
   <itunes:episode>119</itunes:episode>
   <itunes:title>Jak harmonizovat osobní život a správu rodinného bohatství, abychom předcházeli vyhoření</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8721991.mp3?modified=1747601158&amp;sid=5096524&amp;source=rss" length="28894395" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8721991.mp3%3Fmodified%3D1747601158%26sid%3D5096524%26source%3Drss" length="28894395" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42776392/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1776</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -534,13 +534,13 @@ Pokud máte pocit, že toho máte občas až nad hlavu, je to epizoda přesně p
   <guid isPermaLink="false">tag:audioboom.com,2025-05-18:/posts/8721991</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42776392/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>118: Emoční pasti při správě rozsáhlého majetku</title>
   <link>https://audioboom.com/posts/8718531</link>
   <itunes:episode>118</itunes:episode>
   <itunes:title>Emoční pasti při správě rozsáhlého majetku</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8718531.mp3?modified=1747030376&amp;sid=5096524&amp;source=rss" length="28120990" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8718531.mp3%3Fmodified%3D1747030376%26sid%3D5096524%26source%3Drss" length="28120990" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42759484/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1727</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -572,13 +572,13 @@ Zdroje: &lt;a href="https://clientassociates.com/scholarly/the-psychology-of-wea
   <guid isPermaLink="false">tag:audioboom.com,2025-05-11:/posts/8718531</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42759484/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>117: Deglobalizace a fragmentace: Hrozba nebo skrytá příležitost pro váš majetek?</title>
   <link>https://audioboom.com/posts/8715167</link>
   <itunes:episode>117</itunes:episode>
   <itunes:title>Deglobalizace a fragmentace: Hrozba nebo skrytá příležitost pro váš majetek?</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8715167.mp3?modified=1746391935&amp;sid=5096524&amp;source=rss" length="31065156" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8715167.mp3%3Fmodified%3D1746391935%26sid%3D5096524%26source%3Drss" length="31065156" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42742846/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1910</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -601,13 +601,13 @@ Tato epizoda je pro každého, kdo chce pochopit, jak si zachovat klid, jistotu 
   <guid isPermaLink="false">tag:audioboom.com,2025-05-04:/posts/8715167</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42742846/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>116: Rodina vs. instituce – proč nestačí kopírovat portfolio Harvardu, Yale nebo Nobelovy nadace</title>
   <link>https://audioboom.com/posts/8711909</link>
   <itunes:episode>116</itunes:episode>
   <itunes:title>Rodina vs. instituce – proč nestačí kopírovat portfolio Harvardu, Yale nebo Nobelovy nadace</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8711909.mp3?modified=1745789106&amp;sid=5096524&amp;source=rss" length="30235450" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8711909.mp3%3Fmodified%3D1745789106%26sid%3D5096524%26source%3Drss" length="30235450" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42726949/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1859</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -630,13 +630,13 @@ Jedním z nejdůležitějších cílů pro rodinné bohatství je zachování re
   <guid isPermaLink="false">tag:audioboom.com,2025-04-27:/posts/8711909</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42726949/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>115: Trump, Čína a Evropa – Do čeho investovat v době nejistoty</title>
   <link>https://audioboom.com/posts/8707847</link>
   <itunes:episode>115</itunes:episode>
   <itunes:title>Trump, Čína a Evropa – Do čeho investovat v době nejistoty</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8707847.mp3?modified=1745187374&amp;sid=5096524&amp;source=rss" length="31926978" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8707847.mp3%3Fmodified%3D1745187374%26sid%3D5096524%26source%3Drss" length="31926978" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42707522/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1962</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -657,13 +657,13 @@ Když svět kolísá, je dobré se pevně držet strategie. V turbulentních ča
   <guid isPermaLink="false">tag:audioboom.com,2025-04-20:/posts/8707847</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42707522/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>114: Erika Matwij: 5 pravidel pro harmonický přechod majetku na další generaci a výběr nástupců</title>
   <link>https://audioboom.com/posts/8704346</link>
   <itunes:episode>114</itunes:episode>
   <itunes:title>Erika Matwij: 5 pravidel pro harmonický přechod majetku na další generaci a výběr nástupců</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8704346.mp3?modified=1744576608&amp;sid=5096524&amp;source=rss" length="22686342" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8704346.mp3%3Fmodified%3D1744576608%26sid%3D5096524%26source%3Drss" length="22686342" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42690804/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1384</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -684,13 +684,13 @@ Tato epizoda je nabitá praktickými tipy a příběhy z českých i mezinárodn
   <guid isPermaLink="false">tag:audioboom.com,2025-04-13:/posts/8704346</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42690804/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>113: Jak podpořit podnikatele v rodině a nezničit přitom vztahy</title>
   <link>https://audioboom.com/posts/8700949</link>
   <itunes:episode>113</itunes:episode>
   <itunes:title>Jak podpořit podnikatele v rodině a nezničit přitom vztahy</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8700949.mp3?modified=1743970386&amp;sid=5096524&amp;source=rss" length="27551213" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8700949.mp3%3Fmodified%3D1743970386%26sid%3D5096524%26source%3Drss" length="27551213" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42673753/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1692</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -713,13 +713,13 @@ Poslechněte si tuto epizodu a dozvíte se, jaké chyby rodiny nejčastěji děl
   <guid isPermaLink="false">tag:audioboom.com,2025-04-06:/posts/8700949</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42673753/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>112: Máte nemovitosti v zahraničí? Tyto chyby mohou vaše dědice stát miliony!</title>
   <link>https://audioboom.com/posts/8696815</link>
   <itunes:episode>112</itunes:episode>
   <itunes:title>Máte nemovitosti v zahraničí? Tyto chyby mohou vaše dědice stát miliony!</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8696815.mp3?modified=1743363740&amp;sid=5096524&amp;source=rss" length="19904946" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8696815.mp3%3Fmodified%3D1743363740%26sid%3D5096524%26source%3Drss" length="19904946" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42653069/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1210</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -750,13 +750,13 @@ Poslechněte si tuto epizodu a zjistíte, jak předejít problémům, které si 
   <guid isPermaLink="false">tag:audioboom.com,2025-03-30:/posts/8696815</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42653069/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>111: Erika Matwij: Jak připravit nástupce na správu rodinného bohatství</title>
   <link>https://audioboom.com/posts/8693436</link>
   <itunes:episode>111</itunes:episode>
   <itunes:title>Erika Matwij: Jak připravit nástupce na správu rodinného bohatství</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8693436.mp3?modified=1742761144&amp;sid=5096524&amp;source=rss" length="24508137" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8693436.mp3%3Fmodified%3D1742761144%26sid%3D5096524%26source%3Drss" length="24508137" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42636376/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1498</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -778,13 +778,13 @@ Zkušenosti z praxe, příběhy z rodin, které už cestu nástupnictví úspě�
   <guid isPermaLink="false">tag:audioboom.com,2025-03-23:/posts/8693436</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42636376/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>110: Filantropie a charita jako součást rodinné identity</title>
   <link>https://audioboom.com/posts/8673011</link>
   <itunes:episode>110</itunes:episode>
   <itunes:title>Filantropie a charita jako součást rodinné identity</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8673011.mp3?modified=1742156263&amp;sid=5096524&amp;source=rss" length="30045751" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8673011.mp3%3Fmodified%3D1742156263%26sid%3D5096524%26source%3Drss" length="30045751" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42558395/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1848</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -803,13 +803,13 @@ Pokud přemýšlíte o tom, jak smysluplně &lt;strong&gt;propojit rodinné boha
   <guid isPermaLink="false">tag:audioboom.com,2025-03-16:/posts/8673011</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42558395/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>109: Správa majetku v dobách krizí a nestability</title>
   <link>https://audioboom.com/posts/8666325</link>
   <itunes:episode>109</itunes:episode>
   <itunes:title>Správa majetku v dobách krizí a nestability</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8666325.mp3?modified=1741556015&amp;sid=5096524&amp;source=rss" length="28046170" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8666325.mp3%3Fmodified%3D1741556015%26sid%3D5096524%26source%3Drss" length="28046170" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42527830/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1722</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -836,13 +836,13 @@ Tato epizoda vám dá inspiraci k zamyšlení.&lt;/div&gt;
   <guid isPermaLink="false">tag:audioboom.com,2025-03-09:/posts/8666325</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42527830/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>108: Štěpán Holub: Opatrovník může hrát zásadní roli při ochraně bohatství</title>
   <link>https://audioboom.com/posts/8662888</link>
   <itunes:episode>108</itunes:episode>
   <itunes:title>Štěpán Holub: Opatrovník může hrát zásadní roli při ochraně bohatství</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8662888.mp3?modified=1740992357&amp;sid=5096524&amp;source=rss" length="20968386" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8662888.mp3%3Fmodified%3D1740992357%26sid%3D5096524%26source%3Drss" length="20968386" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42509551/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1276</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -865,13 +865,13 @@ Chcete mít kontrolu nad tím, &lt;strong&gt;co se stane s vaším majetkem v p�
   <guid isPermaLink="false">tag:audioboom.com,2025-03-02:/posts/8662888</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42509551/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>107: Rodinná ústava 2.0 - Proč ji zvážit a jak ji vytvořit?</title>
   <link>https://audioboom.com/posts/8658263</link>
   <itunes:episode>107</itunes:episode>
   <itunes:title>Rodinná ústava 2.0 - Proč ji zvážit a jak ji vytvořit?</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8658263.mp3?modified=1740349289&amp;sid=5096524&amp;source=rss" length="27573786" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8658263.mp3%3Fmodified%3D1740349289%26sid%3D5096524%26source%3Drss" length="27573786" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42486009/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1694</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -900,13 +900,13 @@ Pokud i vy uvažujete o tom, jak ve vaší rodině nastavit jasná pravidla spr�
   <guid isPermaLink="false">tag:audioboom.com,2025-02-23:/posts/8658263</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42486009/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>106: Co ovlivňuje výnos vašeho portfolia?</title>
   <link>https://audioboom.com/posts/8654669</link>
   <itunes:episode>106</itunes:episode>
   <itunes:title>Co ovlivňuje výnos vašeho portfolia?</itunes:title>
-  <enclosure url="http://audioboom.com/posts/8654669.mp3?modified=1739742735&amp;sid=5096524&amp;source=rss" length="21123527" type="audio/mpeg" />
+  <enclosure url="https://podcast-relay.novtom.workers.dev/?u=https%3A%2F%2Faudioboom.com%2Fposts%2F8654669.mp3%3Fmodified%3D1739742735%26sid%3D5096524%26source%3Drss" length="21123527" type="audio/mpeg" />
   <itunes:image href="https://audioboom.com/i/42468089/s=1400x1400/el=1/rt=fill.png" />
   <itunes:duration>1287</itunes:duration>
   <itunes:explicit>false</itunes:explicit>
@@ -927,6 +927,6 @@ Private equity a nemovitosti mohou být silným motorem růstu, ale nejsou bez r
   <guid isPermaLink="false">tag:audioboom.com,2025-02-16:/posts/8654669</guid>
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
-</item>
+<media:thumbnail url="https://audioboom.com/i/42468089/s=1400x1400/el=1/rt=fill.png" /></item>
 </channel>
 </rss>
