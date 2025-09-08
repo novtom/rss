@@ -70,7 +70,28 @@ for filename, url in podcasts.items():
     # Přidej <description> pokud chybí
     if channel.find("description") is None:
         ET.SubElement(channel, "description").text = "RSS feed z mujRozhlas.cz"
+    # 🖼️ Doplnění obrázků pro klienty, co nečtou itunes:image
+    ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
+    MRSS_NS = "http://search.yahoo.com/mrss/"
 
+    # 1) CHANNEL IMAGE: když chybí <image>, vezmeme ho z <itunes:image href="...">
+    rss_image = channel.find("image")
+    itunes_image = channel.find(f"{{{ITUNES_NS}}}image")
+    if rss_image is None and itunes_image is not None and "href" in itunes_image.attrib:
+        img = ET.SubElement(channel, "image")
+        ET.SubElement(img, "url").text = itunes_image.attrib["href"]  # necháme HTTPS; u obrázků to bývá OK
+        ET.SubElement(img, "title").text = channel.findtext("title") or "Podcast"
+        # vezmeme už tebou nastavený channel <link>, nebo fallback na GH Pages
+        ch_link = channel.findtext("link") or f"https://novtom.github.io/rss/feeds/{filename}"
+        ET.SubElement(img, "link").text = ch_link
+
+    # 2) ITEM THUMBNAILS: přidej <media:thumbnail url="..."> z <itunes:image>, pokud není
+    for item in channel.findall("item"):
+        it_img = item.find(f"{{{ITUNES_NS}}}image")
+        has_thumb = item.find(f"{{{MRSS_NS}}}thumbnail") is not None
+        if it_img is not None and ("href" in it_img.attrib) and not has_thumb:
+            thumb = ET.SubElement(item, f"{{{MRSS_NS}}}thumbnail")
+            thumb.set("url", it_img.attrib["href"])
     # 🔧 Úprava <enclosure> URL
     for item in channel.findall("item"):
         enclosure = item.find("enclosure")
