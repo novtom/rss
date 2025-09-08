@@ -2,7 +2,7 @@ import os
 import requests
 import xml.etree.ElementTree as ET
 import base64
-from urllib.parse import urlparse
+from urllib.parse import urlparse, unquote
 
 # --- namespaces pro iTunes a Media RSS ---
 ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
@@ -89,7 +89,7 @@ if not channel_img_url:
         channel_img_url = it_img.get("href").strip()
     # 🔻 Omez počet epizod v RSS feedu
     items = channel.findall("item")
-    max_items = 100  # změň podle potřeby (např. 200)
+    max_items = 30  # změň podle potřeby (např. 200)
     for item in items[max_items:]:
         channel.remove(item)
 
@@ -198,100 +198,60 @@ if not channel_img_url:
             it_img.set("href", channel_img_url)
             thumb = ET.SubElement(item, f"{{{MRSS_NS}}}thumbnail")
             thumb.set("url", channel_img_url)
-   # 🔧 Doplň metadata a uprav <enclosure> URL
-        # 🔴 Speciální fix jen pro feed 5-59: rozbal/odkóduj URL a převeď na HTTP
-        if filename == "5-59.xml":
-            from urllib.parse import unquote
-
-            u = enclosure.get("url", "")
-
-            # 1) odkoduj percent-encoding (…https%3A%2F%2F…)
-            u = unquote(u)
-
-            # 2) zahoď podtrac přesměrování, kdyby se objevilo
-            u = u.replace("https://dts.podtrac.com/redirect.mp3/", "")
-            u = u.replace("http://dts.podtrac.com/redirect.mp3/", "")
-
-            # 3) preferuj HTTP (LMS pak přehrává spolehlivěji)
-            if u.startswith("https://"):
-                u = "http://" + u[len("https://"):]
-            elif not u.startswith("http://"):
-                u = "http://" + u
-
-            enclosure.set("url", u)
-
-            # máme hotovo pro tuhle položku – přeskoč obecné zpracování
-            continue
-
-
+  # 🔧 Úprava <enclosure> URL
 for item in channel.findall("item"):
-    # ——— a) itunes:title (kvůli zobrazení názvu při přehrávání) ———
+    # itunes:title – aby se při přehrávání zobrazil název epizody
     if item.find(f"{{{ITUNES_NS}}}title") is None:
         t = item.find("title")
         if t is not None and t.text:
             ET.SubElement(item, f"{{{ITUNES_NS}}}title").text = t.text
 
-    # ——— b) Obrázky epizody (dlaždice + přehrávač) ———
-    has_itunes_img = item.find(f"{{{ITUNES_NS}}}image") is not None
+    # Obrázky epizody: vezmi per-item iTunes/MRSS; když chybí, spadni na obrázek kanálu
+    has_itunes_img  = item.find(f"{{{ITUNES_NS}}}image") is not None
     has_media_thumb = item.find(f"{{{MRSS_NS}}}thumbnail") is not None
-    if channel_img_url:
+    if (not has_itunes_img or not has_media_thumb) and channel_img_url:
         if not has_itunes_img:
             ET.SubElement(item, f"{{{ITUNES_NS}}}image", {"href": channel_img_url})
         if not has_media_thumb:
             ET.SubElement(item, f"{{{MRSS_NS}}}thumbnail", {"url": channel_img_url})
 
-    # ——— c) Úprava <enclosure> URL (odstranění redirectů, http prefer.) ———
     enclosure = item.find("enclosure")
     if enclosure is None or "url" not in enclosure.attrib:
         continue
 
     url_attr = enclosure.attrib["url"]
-    final_url = url_attr
 
-    # 1) Rozbal přesměrování (někdy je v URL Anchor/Transistor meziskok)
-    try:
-        h = requests.head(url_attr, allow_redirects=True, timeout=12)
-        if h.url:
-            final_url = h.url
-    except requests.exceptions.RequestException:
-        pass
-
-    # 2) Zahoď Podtrac redirect
-    if "dts.podtrac.com/redirect.mp3/" in final_url:
-        final_url = final_url.replace("https://dts.podtrac.com/redirect.mp3/", "")
-        final_url = final_url.replace("http://dts.podtrac.com/redirect.mp3/", "")
-
-    # 3) mujRozhlas base64 varianta „…/aod/<base64>.mp3“
-    parsed = urlparse(final_url)
-    if "aod" in parsed.path and parsed.path.endswith(".mp3"):
+    # 1) Anchor/Spotify: cesta obsahuje percent-enkódované https://...mp3 za "/podcast/play/<id>/"
+    extracted = None
+    if "/podcast/play/" in url_attr and ("%3A%2F%2F" in url_attr or "%2F" in url_attr):
         try:
-            b64name = parsed.path.rsplit("/", 1)[-1].replace(".mp3", "")
-            decoded = base64.urlsafe_b64decode(b64name + "==").decode("utf-8")
-            final_url = decoded
-        except Exception:
-            pass
+            # vezmi část za posledním "/" a rozbal ji (většinou je to celé enkódovaná cílová URL)
+            # někdy je ale enkódované víc než poslední segment – proto zkus najít první výskyt 'http' v enkódované podobě
+            pos = url_attr.find("https%3A%2F%2F")
+            if pos == -1:
+                pos = url_attr.find("http%3A%2F%2F")
+            if pos != -1:
+                encoded_tail = url_attr[pos:]
+            else:
+                encoded_tail = url_attr.rsplit("/", 1)[-1]
 
-    # 4) Preferuj http (pokud to server dovolí), jinak nech https
+            u = unquote(encoded_tail)
+            extracted = u
+        except Exception:
+            extracted = None
+
+    final_url = extracted or url_attr
+
+    # 2) Zahoď případný Podtrac redirect
+    final_url = final_url.replace("https://dts.podtrac.com/redirect.mp3/", "")
+    final_url = final_url.replace("http://dts.podtrac.com/redirect.mp3/", "")
+
+    # 3) Preferuj http (kvůli LMS); když začíná na https, přepiš na http
     if final_url.startswith("https://"):
-        http_try = "http://" + final_url[len("https://"):]
-        try:
-            h2 = requests.head(http_try, allow_redirects=False, timeout=8)
-            if 200 <= h2.status_code < 400:
-                final_url = http_try
-        except requests.exceptions.RequestException:
-            pass
-
-    # 5) Odstranění procent-kódování „https%3A%2F%2F…“ (pojistka)
-    if "%3A%2F%2F" in final_url:
-        try:
-            from urllib.parse import unquote
-            final_url = unquote(final_url)
-        except Exception:
-            pass
-
-    # 6) Poslední pojistka: pokud nezačíná http/https, přidej http://
-    if not (final_url.startswith("http://") or final_url.startswith("https://")):
-        final_url = "http://" + final_url.lstrip("/")
+        final_url = "http://" + final_url[len("https://"):]
+    elif not final_url.startswith(("http://", "https://")):
+        # kdyby po unquote zůstal čistý host/Path bez schématu
+        final_url = "http://" + final_url
 
     enclosure.set("url", final_url)
 # --- doplň metadata epizody: itunes:title a obrázek pro epizodu ---
