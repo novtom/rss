@@ -53,6 +53,7 @@ podcasts = {
     "kilometry.xml": "https://api.mujrozhlas.cz/rss/podcast/b2b82381-216d-310e-aeef-d46cd919d15d.rss",
     "ruz_vor.xml": "https://anchor.fm/s/f5e22098/podcast/rss",
     "5-59.xml": "https://fetchrss.com/feed/aL_WevG8jIyCaL_WTqjkfiAi.rss",
+    "Cesta-rentiera.xml": "https://fetchrss.com/feed/aL_WevG8jIyCaL_X2BJkqQwy.rss",
 }
 
 # ===== Pomocné funkce =====
