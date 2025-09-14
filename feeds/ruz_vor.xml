@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br&gt;&lt;br&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 07 Sep 2025 15:05:05 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 14 Sep 2025 15:02:39 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
+		<item>
+			<title>Karel Havlíček: Aby Evropa přežila, musí být víc sobecká</title>
+			<description>&lt;p&gt;Makroekonomie, Evropa, Čína, Green Deal a Karel Havlíček v hlavní roli. V novém díle podcastu přichází politik, který se nebojí jít do hloubky. Místopředseda sněmovny a bývalý ministr průmyslu a dopravy odpovídá na otázky o daních, rozpočtech, investičních pobídkách i energetice. Řeč přišla i na Čínu, nové uhelné elektrárny, globalizaci nebo vliv případné vlády ANO na postavení Česka v Bruselu. Bez floskulí a bez kliček.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Karel-Havlek-Aby-Evropa-peila--mus-bt-vc-sobeck-e386tnb</link>
+			<guid isPermaLink="false">8c27e918-512b-4fe5-8ee0-9ff659bfbdc8</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Sun, 14 Sep 2025 15:00:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-14/407457015-44100-2-8e04f4c4fee78.mp3" length="48798405" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Makroekonomie, Evropa, Čína, Green Deal a Karel Havlíček v hlavní roli. V novém díle podcastu přichází politik, který se nebojí jít do hloubky. Místopředseda sněmovny a bývalý ministr průmyslu a dopravy odpovídá na otázky o daních, rozpočtech, investičních pobídkách i energetice. Řeč přišla i na Čínu, nové uhelné elektrárny, globalizaci nebo vliv případné vlády ANO na postavení Česka v Bruselu. Bez floskulí a bez kliček.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:49</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Karel Havlíček: Aby Evropa přežila, musí být víc sobecká</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		<item>
 			<title>Premiér Fiala: Bez USA se Ukrajina nevyřeší</title>
 			<description>&lt;p&gt;Volby se blíží a my jdeme přímo za těmi, kdo se vás snaží přesvědčit. Čekají vás čtyři debaty se čtyřmi top politiky, dva z vlády a dva z opozice. Bez laciných přestřelek, zato s otázkami na ekonomiku, bydlení, školství, byznys i místo Česka ve světě. Jako první dorazil premiér Petr Fiala. Jak obhajuje svou práci? A co vlastně nabízí do dalšího kola? Podívejte se sami.&lt;/p&gt;
@@ -491,21 +507,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Ekonomika Indie v roce 2025</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
-		<item>
-			<title>Davos – Třeboň – Washington</title>
-			<description>&lt;p&gt; V Davosu všichni mluvili o USA, ale mnoho Američanů tu nebylo. Proto jsme s Danem povolali svého osobního Američana, aby nám řekl, co si Trump myslí o globalismu, trzích a clech. No a já k tomu přidal, postřehy ze Švýcarska. Pojďme na to!&lt;br&gt;&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Davos--Tebo--Washington-e2ttoto</link>
-			<guid isPermaLink="false">fb1e0f66-1507-47dd-8f91-4a284d4e8676</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Fri, 24 Jan 2025 06:12:26 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-0-24/393625981-44100-2-2783c0186c24a.mp3" length="36301843" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt; V Davosu všichni mluvili o USA, ale mnoho Američanů tu nebylo. Proto jsme s Danem povolali svého osobního Američana, aby nám řekl, co si Trump myslí o globalismu, trzích a clech. No a já k tomu přidal, postřehy ze Švýcarska. Pojďme na to!&lt;br&gt;&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:37:48</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Davos – Třeboň – Washington</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/da5c8bb1d433d42f.jpg" /></item>
 		</channel>
 </rss>
