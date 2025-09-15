@@ -11,7 +11,7 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <atom:link href="https://audioboom.com/channels/5096524" rel="alternate" type="text/html" />
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <atom:link href="https://audioboom.com/channels/5096524.rss" rel="self" type="application/rss+xml" />
-<pubDate>Sun, 07 Sep 2025 22:05:00 +0000</pubDate>
+<pubDate>Sun, 14 Sep 2025 22:05:00 +0000</pubDate>
 <language>cs</language>
 <image>
   <url>https://audioboom.com/i/40152868.jpg</url>
@@ -32,6 +32,36 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <itunes:new-feed-url>https://audioboom.com/channels/5096524.rss</itunes:new-feed-url>
 <itunes:type>episodic</itunes:type>
 
+<item>
+  <title>136: Nemovitosti v USA: 17 let zkušeností investora</title>
+  <link>https://audioboom.com/posts/8776909</link>
+  <itunes:episode>136</itunes:episode>
+  <itunes:title>Nemovitosti v USA: 17 let zkušeností investora</itunes:title>
+  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8776909.mp3?modified=1757877721&amp;sid=5096524&amp;source=rss" length="23008775" type="audio/mpeg" />
+  <itunes:image href="https://audioboom.com/i/43047000/s=1400x1400/el=1/rt=fill.png" />
+  <itunes:duration>1408</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>&lt;div&gt;Historie se opakuje. &lt;br&gt;
+Kdo má všechen majetek jen v České republice, riskuje víc, než si myslí.&lt;br&gt;
+&lt;br&gt;
+V této epizodě zpovídá Vladimír Fichtner svého kolegu a partnera Josefa Podlipného o jeho sedmnáctileté cestě investování do amerických nemovitostí. &lt;br&gt;
+&lt;br&gt;
+Josef popisuje, jak rodinná zkušenost s měnovou reformou a znárodněním v 50. letech vedla k rozhodnutí nikdy už nespoléhat pouze na český trh – a proč v roce 2008 sáhl právě po Americe.&lt;br&gt;
+&lt;br&gt;
+Dozvíte se, jak se postupně budovalo portfolio čtyř lokalit (Fort Lauderdale, Miami, Tampa a Kalifornie), proč byla klíčová trpělivost a proč i první investice za zlomky procent z celkového majetku měla obrovskou hodnotu – otevřela totiž dveře k dlouhodobé strategii diverzifikace.&lt;br&gt;
+&lt;br&gt;
+Josef sdílí i velmi praktické zkušenosti: od rozdílných daní a pojištění, přes nastavení vlastnických struktur (LLC, trusty), až po kuriózní zážitky.  &lt;br&gt;
+&lt;br&gt;
+Tato epizoda ale není jen o detailech – ty se mohou lišit v různých státech i městech – je hlavně o tom, jak přemýšlet o mezinárodní diverzifikaci, jak nepodcenit exit strategii a proč by nemovitosti neměly být jediným pilířem rodinného bohatství.&lt;br&gt;
+&lt;br&gt;
+Pokud hledáte inspiraci, jak přemýšlet o majetku, připravit se na budoucnost a zajímají vás zkušenosti těch, kdo už cestu prošlapali, tato epizoda je přesně pro vás.&lt;/div&gt;
+</description>
+  <pubDate>Sun, 14 Sep 2025 22:05:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2025-09-14:/posts/8776909</guid>
+  <itunes:author>Fichtner Wealth Managers</itunes:author>
+  <dc:creator>Fichtner Wealth Managers</dc:creator>
+<media:thumbnail url="https://audioboom.com/i/43047000/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>135: Proč si úspěšní podnikatelé otevírají účty ve Švýcarsku - a co tím získají 2/2</title>
   <link>https://audioboom.com/posts/8773474</link>
@@ -901,32 +931,5 @@ Pokud i vy uvažujete o tom, jak ve vaší rodině nastavit jasná pravidla spr�
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
 <media:thumbnail url="https://audioboom.com/i/42486009/s=1400x1400/el=1/rt=fill.png" /></item>
-<item>
-  <title>106: Co ovlivňuje výnos vašeho portfolia?</title>
-  <link>https://audioboom.com/posts/8654669</link>
-  <itunes:episode>106</itunes:episode>
-  <itunes:title>Co ovlivňuje výnos vašeho portfolia?</itunes:title>
-  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8654669.mp3?modified=1739742735&amp;sid=5096524&amp;source=rss" length="21123527" type="audio/mpeg" />
-  <itunes:image href="https://audioboom.com/i/42468089/s=1400x1400/el=1/rt=fill.png" />
-  <itunes:duration>1287</itunes:duration>
-  <itunes:explicit>false</itunes:explicit>
-  <itunes:episodeType>full</itunes:episodeType>
-  <description>&lt;div&gt;Téměř každý investor touží po vysokých výnosech. &lt;br&gt;
-Málokdo si ale uvědomuje, že jejich dosažení není jen otázkou výběru správných aktiv. &lt;br&gt;
-&lt;br&gt;
-Jaké faktory ovlivňují výkonnost portfolia? &lt;br&gt;
-Jak se vyhnout zásadním chybám, které  vás mohou připravit o peníze? &lt;br&gt;
-&lt;br&gt;
-V této epizodě se Josef Podlipný a investiční stratég Tomáš Tyl věnují klíčovým principům řízení výnosů portfolia. Diskutují o faktorech, které mají zásadní vliv na investiční výkonnost. &lt;br&gt;
-&lt;br&gt;
-Dozvíte se, proč časování trhu téměř nikdy nefunguje – i ti nejlepší analytici se až příliš často mýlí. Jaký přístup vám přinese dlouhodobě vyšší výnosy?&lt;br&gt;
-&lt;br&gt;
-Private equity a nemovitosti mohou být silným motorem růstu, ale nejsou bez rizik. Správná diverzifikace rozhoduje o tom, zda portfolio obstojí i v turbulentních dobách&lt;/div&gt;
-</description>
-  <pubDate>Sun, 16 Feb 2025 23:05:00 +0000</pubDate>
-  <guid isPermaLink="false">tag:audioboom.com,2025-02-16:/posts/8654669</guid>
-  <itunes:author>Fichtner Wealth Managers</itunes:author>
-  <dc:creator>Fichtner Wealth Managers</dc:creator>
-<media:thumbnail url="https://audioboom.com/i/42468089/s=1400x1400/el=1/rt=fill.png" /></item>
 </channel>
 </rss>
