@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 29 Sep 2025 08:40:34 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 01 Oct 2025 04:03:37 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>30 grafů aneb Volby jsou tady!</title>
+			<description>&lt;p&gt;Tříměsíční šňůra rozhovorů o Česku s diplomaty, ekonomy a politiky je u konce. V závěrečném dílu opět nemluvíme my, ale necháváme mluvit čísla: 30 grafů ve 30 minutách. Ekonomika, průmysl, bydlení, zdravotnictví, stárnutí i bezpečnost – předvolební obrázek bez kudrlinek. Velectěný divák, nechť si udělá obrázek sám.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/30-graf-aneb-Volby-jsou-tady-e38u1rf</link>
+			<guid isPermaLink="false">134e7add-f332-4886-bfa1-9fd837ad4d13</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 01 Oct 2025 04:00:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-30/408434443-44100-2-19d08d3c7aa14.mp3" length="33300897" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Tříměsíční šňůra rozhovorů o Česku s diplomaty, ekonomy a politiky je u konce. V závěrečném dílu opět nemluvíme my, ale necháváme mluvit čísla: 30 grafů ve 30 minutách. Ekonomika, průmysl, bydlení, zdravotnictví, stárnutí i bezpečnost – předvolební obrázek bez kudrlinek. Velectěný divák, nechť si udělá obrázek sám.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:34:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>30 grafů aneb Volby jsou tady!</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Adam Vojtěch o Finsku, NATO, zdravotnictví a životě ve stínu Ruska</title>
 			<description>&lt;p&gt;České zdravotnictví dvacet let přešlapuje na místě – a jen zalepuje díry penězi. Hostem podcastu je Adam Vojtěch, už dvakrát ministr a čtyři roky velvyslanec ve Finsku. Ptáme se, co se Česko může naučit z finské zkušenosti – od nemocnic po bezpečnost a přístup ke světu.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>What is the future of german society? interview with Andreas Kunne</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>What is the future of german economy? interview with Klaus-Peter Willsch</title>
-			<description>&lt;p&gt;The German economy is struggling. Energy is über expensive, factories are uncompetitive, and exports are in decline. We discussed what can be done about it and how quickly Germany can reclaim its position as the EU’s economic powerhouse with Bundestag and Bundeswehr veteran Klaus-Peter Willsch from CDU/CSU.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/What-is-the-future-of-german-economy--interview-with-Klaus-Peter-Willsch-e2uoaqf</link>
-			<guid isPermaLink="false">a4c15451-34fd-4746-a313-d6a3c7bc74f0</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 12 Feb 2025 05:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-1-11/394709779-44100-2-0a62f25f035c4.mp3" length="32370519" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;The German economy is struggling. Energy is über expensive, factories are uncompetitive, and exports are in decline. We discussed what can be done about it and how quickly Germany can reclaim its position as the EU’s economic powerhouse with Bundestag and Bundeswehr veteran Klaus-Peter Willsch from CDU/CSU.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:33:43</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>What is the future of german economy? interview with Klaus-Peter Willsch</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
