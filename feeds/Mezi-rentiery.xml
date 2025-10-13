@@ -11,7 +11,7 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <atom:link href="https://audioboom.com/channels/5096524" rel="alternate" type="text/html" />
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <atom:link href="https://audioboom.com/channels/5096524.rss" rel="self" type="application/rss+xml" />
-<pubDate>Sun, 05 Oct 2025 22:05:00 +0000</pubDate>
+<pubDate>Sun, 12 Oct 2025 22:05:00 +0000</pubDate>
 <language>cs</language>
 <image>
   <url>https://audioboom.com/i/40152868.jpg</url>
@@ -32,6 +32,37 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <itunes:new-feed-url>https://audioboom.com/channels/5096524.rss</itunes:new-feed-url>
 <itunes:type>episodic</itunes:type>
 
+<item>
+  <title>140: Od her k portfoliu – jak své děti (i dospělé) naučit investovat s rozvahou, ne se strachem 1/2</title>
+  <link>https://audioboom.com/posts/8790344</link>
+  <itunes:episode>140</itunes:episode>
+  <itunes:title>Od her k portfoliu – jak své děti (i dospělé) naučit investovat s rozvahou, ne se strachem 1/2</itunes:title>
+  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8790344.mp3?modified=1760296108&amp;sid=5096524&amp;source=rss" length="19002406" type="audio/mpeg" />
+  <itunes:image href="https://audioboom.com/i/43114806/s=1400x1400/el=1/rt=fill.png" />
+  <itunes:duration>1158</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>&lt;div&gt;Hra jako první krok k odpovědnosti. &lt;br&gt;
+Vlastní portfolio jako pokračování.&lt;br&gt;
+A správa rodinného bohatství jako pomyslný cíl.&lt;br&gt;
+&lt;br&gt;
+V této epizodě podcastu Mezi Rentiéry si Vladimír Fichtner a Josef Podlipný povídají o tom, jak přirozeně rozvíjet finanční dovednosti dětí i dospělých – od her až po reálnou správu majetku.&lt;br&gt;
+&lt;br&gt;
+Vladimír sdílí své zkušenosti s deskovou hrou Finanční svoboda, kterou hraje s dětmi na školách i s rodinami klientů, a vysvětluje, proč se děti učí nejlépe, když si „osahají“ investování v bezpečném prostředí hry.&lt;br&gt;
+&lt;br&gt;
+Josef přidává příběhy ze své rodiny i klientských zkušeností, kde se z hraní stala skutečná škola investičního myšlení.&lt;br&gt;
+&lt;br&gt;
+Společně ukazují, že hra nemusí být jen zábava, ale simulace reality, která rozvíjí zodpovědnost, sebevědomí a kritické myšlení. &lt;br&gt;
+&lt;br&gt;
+Dozvíte se také, jaké další kroky podniknout, když jsou děti starší. Poznáte také nástroj, který spojuje generace, učí diskutovat, půjčovat si, odpovědně rozhodovat a chápat, že „v rodině nic není nárok“.&lt;br&gt;
+&lt;br&gt;
+Pokud chcete, aby vaše děti (nebo partner či partnerka) jednou uměli spravovat rodinné bohatství s klidem a rozumem, nenechte si tuto epizodu utéct.&lt;/div&gt;
+</description>
+  <pubDate>Sun, 12 Oct 2025 22:05:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2025-10-12:/posts/8790344</guid>
+  <itunes:author>Fichtner Wealth Managers</itunes:author>
+  <dc:creator>Fichtner Wealth Managers</dc:creator>
+<media:thumbnail url="https://audioboom.com/i/43114806/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>139: Rodinná banka: Když majetek nerozděluje, ale spojuje 2/2</title>
   <link>https://audioboom.com/posts/8784044</link>
@@ -894,30 +925,5 @@ Zkušenosti z praxe, příběhy z rodin, které už cestu nástupnictví úspě�
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
 <media:thumbnail url="https://audioboom.com/i/42636376/s=1400x1400/el=1/rt=fill.png" /></item>
-<item>
-  <title>110: Filantropie a charita jako součást rodinné identity</title>
-  <link>https://audioboom.com/posts/8673011</link>
-  <itunes:episode>110</itunes:episode>
-  <itunes:title>Filantropie a charita jako součást rodinné identity</itunes:title>
-  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8673011.mp3?modified=1742156263&amp;sid=5096524&amp;source=rss" length="30045751" type="audio/mpeg" />
-  <itunes:image href="https://audioboom.com/i/42558395/s=1400x1400/el=1/rt=fill.png" />
-  <itunes:duration>1848</itunes:duration>
-  <itunes:explicit>false</itunes:explicit>
-  <itunes:episodeType>full</itunes:episodeType>
-  <description>&lt;div&gt;Filantropie není jen o &lt;strong&gt;dávání peněz na dobročinné účely&lt;/strong&gt;. &lt;br&gt;
-&lt;br&gt;
-Pro úspěšné rodiny může být &lt;strong&gt;nástrojem pro uchování hodnot, budování soudržnosti napříč generacemi&lt;/strong&gt; a způsobem, jak vrátit společnosti něco zpět.&lt;br&gt;
-&lt;br&gt;
-Jak ale přistupovat k filantropii tak, aby byla &lt;strong&gt;dlouhodobě smysluplná a udržitelná&lt;/strong&gt;? Co udělat pro &lt;strong&gt;zapojení celé rodiny&lt;/strong&gt; jak a najít oblasti, které dávají smysl nejen dnes, ale i pro budoucí generace?  A jak si z filantropie neudělat jen „odpustek“, ale něco, &lt;strong&gt;co rodinu skutečně obohatí&lt;/strong&gt;?&lt;br&gt;
-&lt;br&gt;
-V této epizodě sdílí Vladimír Fichtner&lt;strong&gt; &lt;/strong&gt;a Josef Podlipný své osobní zkušenosti s filantropií a charitou. Proberou nejen &lt;strong&gt;historickou tradici pomoci&lt;/strong&gt;, ale i to, jak se k ní přistupuje dnes. Diskutují také o rozdílu mezi &lt;strong&gt;charitou a filantropií&lt;/strong&gt; a o tom, jak se tento přístup dá využít k uchování rodinného dědictví po generace.&lt;br&gt;
-&lt;br&gt;
-Pokud přemýšlíte o tom, jak smysluplně &lt;strong&gt;propojit rodinné bohatství s pozitivním dopadem na svět&lt;/strong&gt;, tato epizoda vám přinese cenné inspirace.&lt;/div&gt;
-</description>
-  <pubDate>Sun, 16 Mar 2025 23:05:00 +0000</pubDate>
-  <guid isPermaLink="false">tag:audioboom.com,2025-03-16:/posts/8673011</guid>
-  <itunes:author>Fichtner Wealth Managers</itunes:author>
-  <dc:creator>Fichtner Wealth Managers</dc:creator>
-<media:thumbnail url="https://audioboom.com/i/42558395/s=1400x1400/el=1/rt=fill.png" /></item>
 </channel>
 </rss>
