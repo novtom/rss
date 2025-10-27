@@ -11,7 +11,7 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <atom:link href="https://audioboom.com/channels/5096524" rel="alternate" type="text/html" />
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <atom:link href="https://audioboom.com/channels/5096524.rss" rel="self" type="application/rss+xml" />
-<pubDate>Sun, 19 Oct 2025 22:05:00 +0000</pubDate>
+<pubDate>Sat, 25 Oct 2025 22:05:00 +0000</pubDate>
 <language>cs</language>
 <image>
   <url>https://audioboom.com/i/40152868.jpg</url>
@@ -32,6 +32,36 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <itunes:new-feed-url>https://audioboom.com/channels/5096524.rss</itunes:new-feed-url>
 <itunes:type>episodic</itunes:type>
 
+<item>
+  <title>142: Bezpečný přístav pro investory v roce 2025, 2026 a dál 1/2</title>
+  <link>https://audioboom.com/posts/8796137</link>
+  <itunes:episode>142</itunes:episode>
+  <itunes:title>Bezpečný přístav pro investory v roce 2025, 2026 a dál 1/2</itunes:title>
+  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8796137.mp3?modified=1761510035&amp;sid=5096524&amp;source=rss" length="23054964" type="audio/mpeg" />
+  <itunes:image href="https://audioboom.com/i/43143067/s=1400x1400/el=1/rt=fill.png" />
+  <itunes:duration>1408</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>&lt;div&gt;Bezpečí neznamená mít všechny peníze v dluhopisech. &lt;br&gt;
+Znamená mít strategii, plán a schopnost jednat, když ostatní panikaří.&lt;br&gt;
+&lt;br&gt;
+V této epizodě se Josef Podlipný, Vladimír Fichtner a Tomáš Tyl zaměřují na téma, na které se dnes možná zapomíná, a proto může vést k velkým ztrátám: jak ochránit své bohatství v časech nejistoty a zmatku. &lt;br&gt;
+&lt;br&gt;
+Šéf investičního týmu Tomáš Tyl vysvětluje, proč „bezpečný přístav“ nejsou dluhopisy, ale promyšlená strategie, která vám umožní klidně spát i v době geopolitických otřesů, inflace a tržních propadů.&lt;br&gt;
+&lt;br&gt;
+Dozvíte se pohled na konkrétní scénáře – od hypotetického útoku Číny na Tchaj-wan až po reálné poklesy trhů v roce 2025. Zjistíte, jak diverzifikované portfolio, protiinflační dluhopisy a systematické nákupy při poklesech chrání dlouhodobé investory.&lt;br&gt;
+&lt;br&gt;
+Tomáš Tyl podrobně popisuje, proč zdánlivě „bezpečné“ korporátní dluhopisy často nejsou bezpečné vůbec. &lt;br&gt;
+&lt;br&gt;
+Vladimír Fichtner vysvětluje, proč je 100% akciové portfolio často méně rizikové než 100% dluhopisové – pokud je postavené rozumně a dlouhodobě.&lt;br&gt;
+&lt;br&gt;
+První část této diskuse ukazuje, že klidný spánek není o nulovém riziku, ale o schopnosti rozumět svým investicím, mít plán a držet se ho i v době, kdy ostatní ztrácí nervy.&lt;/div&gt;
+</description>
+  <pubDate>Sat, 25 Oct 2025 22:05:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2025-10-26:/posts/8796137</guid>
+  <itunes:author>Fichtner Wealth Managers</itunes:author>
+  <dc:creator>Fichtner Wealth Managers</dc:creator>
+<media:thumbnail url="https://audioboom.com/i/43143067/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>141: Od her k portfoliu – jak své děti (i dospělé) naučit investovat s rozvahou, ne se strachem 2/2</title>
   <link>https://audioboom.com/posts/8790345</link>
@@ -891,42 +921,5 @@ Poslechněte si tuto epizodu a dozvíte se, jaké chyby rodiny nejčastěji děl
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
 <media:thumbnail url="https://audioboom.com/i/42673753/s=1400x1400/el=1/rt=fill.png" /></item>
-<item>
-  <title>112: Máte nemovitosti v zahraničí? Tyto chyby mohou vaše dědice stát miliony!</title>
-  <link>https://audioboom.com/posts/8696815</link>
-  <itunes:episode>112</itunes:episode>
-  <itunes:title>Máte nemovitosti v zahraničí? Tyto chyby mohou vaše dědice stát miliony!</itunes:title>
-  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8696815.mp3?modified=1743363740&amp;sid=5096524&amp;source=rss" length="19904946" type="audio/mpeg" />
-  <itunes:image href="https://audioboom.com/i/42653069/s=1400x1400/el=1/rt=fill.png" />
-  <itunes:duration>1210</itunes:duration>
-  <itunes:explicit>false</itunes:explicit>
-  <itunes:episodeType>full</itunes:episodeType>
-  <description>&lt;div&gt;Vlastnit nemovitosti v zahraničí zní prestižně. &lt;br&gt;
-V rámci EU je nákup relativně jednoduchý. &lt;br&gt;
-&lt;br&gt;
-Ale co se stane, když &lt;strong&gt;náhle zemřete&lt;/strong&gt; – a vaše rodina zjistí, že zákony ve Španělsku, Rakousku nebo Švédsku fungují jinak než v Česku? &lt;br&gt;
-&lt;br&gt;
-Co když místo jednoduchého řízení nastane právní chaos, spory mezi dědici a &lt;strong&gt;hodnota vámi odkázaného majetku významně poklesne&lt;/strong&gt;?&lt;br&gt;
-&lt;br&gt;
-Mezi Rentiéry tentokrát dorazil advokát &lt;strong&gt;Štěpán Holub. &lt;/strong&gt;Štěpán má více než 20 let praxe v oblasti mezigenerační správy majetku a mezinárodního práva. Studoval na prestižních univerzitách v Praze a Stockholmu a je členem STEP, britské organizace pro profesionály v oblasti správy majetku.&lt;br&gt;
-&lt;br&gt;
-V této epizodě si Josef Podlipný a Vladimír Fichtner se Štěpánem&lt;strong&gt; &lt;/strong&gt;probírají chyby, které&lt;strong&gt; &lt;/strong&gt;dělají čeští majitelé mezinárodního majetku nejčastěji. &lt;br&gt;
-&lt;br&gt;
-&lt;strong&gt;Proč závěť sepsaná v Česku nemusí platit v jiných zemích EU – a co s tím.&lt;br&gt;
-&lt;/strong&gt;&lt;br&gt;
-Jedna správně napsaná věta vaší rodině může ušetřit soudní tahanice v zahraničí. Přitom to většina lidí netuší.&lt;br&gt;
-&lt;br&gt;
-Jaká jsou rizika u dědictví mimo EU a proč může být nejlepší řešení vlastnit majetek přes struktury.&lt;br&gt;
-&lt;br&gt;
-Poslechněte si tuto epizodu a zjistíte, jak předejít problémům, které si často uvědomíme až pozdě – a jak si ušetřit nejen peníze, ale hlavně &lt;strong&gt;zbytečný stres pro vaše blízké&lt;/strong&gt;.&lt;br&gt;
-&lt;br&gt;
-
-&lt;/div&gt;
-</description>
-  <pubDate>Sun, 30 Mar 2025 22:05:00 +0000</pubDate>
-  <guid isPermaLink="false">tag:audioboom.com,2025-03-30:/posts/8696815</guid>
-  <itunes:author>Fichtner Wealth Managers</itunes:author>
-  <dc:creator>Fichtner Wealth Managers</dc:creator>
-<media:thumbnail url="https://audioboom.com/i/42653069/s=1400x1400/el=1/rt=fill.png" /></item>
 </channel>
 </rss>
