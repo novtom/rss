@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 29 Oct 2025 15:04:59 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Oct 2025 08:03:30 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Svět viděný očima Číny a Indie</title>
+			<description>&lt;p&gt;V dnešním díle našeho drobného podcastu jsme se podívali na svět očima čínské a indické ekonomiky. Jak se vyrovnávají s Donaldem Trumpem, proč mají rádi Rusko a nevadí jim deglobalizace. Nádavkem dostanete obvyklou hromádku ekonomických dat a vtipných predikcí.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Svt-vidn-oima-ny-a-Indie-e3a8dpv</link>
+			<guid isPermaLink="false">821f58a1-3f7d-4d56-a53c-3b83cf399cfb</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Thu, 30 Oct 2025 07:53:27 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-30/410249892-44100-2-6163396b1345c.mp3" length="45035937" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;V dnešním díle našeho drobného podcastu jsme se podívali na svět očima čínské a indické ekonomiky. Jak se vyrovnávají s Donaldem Trumpem, proč mají rádi Rusko a nevadí jim deglobalizace. Nádavkem dostanete obvyklou hromádku ekonomických dat a vtipných predikcí.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:46:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Svět viděný očima Číny a Indie</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Trhy se potí, Trump chystá cla, Čína mlčí</title>
 			<description>&lt;p&gt;Washington mluví o stabilitě, zatímco trhy se potí a Trump chystá sto procentní cla. IMF varuje před novou krizí, Čína mlčí, Argentina dostává infuzi dolarů a Belgie hlídá trezor. Svět se tváří, že má plán — jen nikdo neví, kdo ho řídí.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Prodají Amerikánci Evropu Rusum? Aneb Kissinger 1, Kissinger 2</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Vietnam, Rusko a Kissinger</title>
-			<description>&lt;p&gt;Svět je větší než Evropa a nežije jen našimi problémy. &lt;strong&gt;Vypravili jsme se proto do Vietnamu, abychom se zeptali na ruskou válečnou mašinérii. Vedle toho jsme take zkoumali stav ekonomiky a plány Vietnamu do budoucna. &lt;/strong&gt;Řešili jsme také Kissingera – protože &lt;strong&gt;jeho duch se znovu vznáší nad Asií.&lt;/strong&gt;&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Vietnam--Rusko-a-Kissinger-e2vnn49</link>
-			<guid isPermaLink="false">78d71c64-40d8-4722-82aa-e920575dd8e1</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 05 Mar 2025 08:01:20 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-5/395993044-44100-2-a5c2c65193c83.mp3" length="47311724" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Svět je větší než Evropa a nežije jen našimi problémy. &lt;strong&gt;Vypravili jsme se proto do Vietnamu, abychom se zeptali na ruskou válečnou mašinérii. Vedle toho jsme take zkoumali stav ekonomiky a plány Vietnamu do budoucna. &lt;/strong&gt;Řešili jsme také Kissingera – protože &lt;strong&gt;jeho duch se znovu vznáší nad Asií.&lt;/strong&gt;&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:49:16</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Vietnam, Rusko a Kissinger</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
