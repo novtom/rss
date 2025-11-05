@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 04 Nov 2025 21:06:22 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Nov 2025 05:32:35 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Rusko na steroidech – jak dlouho vydrží válečná ekonomika?</title>
+			<description>&lt;p&gt;Rusko není na kolenou. Stejně nemá proč jásat. Ekonomika jede na válečný režim, který připomíná fitness plán psaný pro tanky – vysoký výkon, nulová výdrž. Rozpočet se uměle nafukuje steroidy a kreatinem, přitom ale příjmy z ropy padají, devizy vysychají a národní fond se tenčí rychleji než trpělivost centrální banky. Rusko zatím zvládá platit válku, ale každá další raketa je koupená na splátky. A my? Pořád čekáme, že se zhroutí „už zítra“. Jenže ekonomické zákony nečtou Twitter.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Rusko-na-steroidech--jak-dlouho-vydr-vlen-ekonomika-e3aglhg</link>
+			<guid isPermaLink="false">214a92f8-b254-4675-ba9d-d5f38337fcdf</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 05 Nov 2025 05:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-4/410604317-44100-2-7dce9584e0aa1.mp3" length="45310954" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Rusko není na kolenou. Stejně nemá proč jásat. Ekonomika jede na válečný režim, který připomíná fitness plán psaný pro tanky – vysoký výkon, nulová výdrž. Rozpočet se uměle nafukuje steroidy a kreatinem, přitom ale příjmy z ropy padají, devizy vysychají a národní fond se tenčí rychleji než trpělivost centrální banky. Rusko zatím zvládá platit válku, ale každá další raketa je koupená na splátky. A my? Pořád čekáme, že se zhroutí „už zítra“. Jenže ekonomické zákony nečtou Twitter.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:47:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Rusko na steroidech – jak dlouho vydrží válečná ekonomika?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Svět viděný očima Číny a Indie</title>
 			<description>&lt;p&gt;V dnešním díle našeho drobného podcastu jsme se podívali na svět očima čínské a indické ekonomiky. Jak se vyrovnávají s Donaldem Trumpem, proč mají rádi Rusko a nevadí jim deglobalizace. Nádavkem dostanete obvyklou hromádku ekonomických dat a vtipných predikcí.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Americké celní šílenství</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Prodají Amerikánci Evropu Rusum? Aneb Kissinger 1, Kissinger 2</title>
-			<description>&lt;p&gt;Po celé 70.roky se USA snažily rozdělit komunistickou osu zla a oddělit Čínu od Sovětského svazu.  A úspěšně. Klíčovou roli tehdy sehrál Henry Kissinger. Nyní by JD Vance rád pokusil o něco podobného, akorát obráceně. Tedy spojit se Ruskem proti Číně. Nic dobrého pro Evropu…&lt;br&gt;&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Prodaj-Ameriknci-Evropu-Rusum--Aneb-Kissinger-1--Kissinger-2-e301bfj</link>
-			<guid isPermaLink="false">cb194576-32b0-45bb-9326-292cb81e9cfc</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 12 Mar 2025 05:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-2-11/396388689-44100-2-2fd3bf134049a.mp3" length="38922866" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Po celé 70.roky se USA snažily rozdělit komunistickou osu zla a oddělit Čínu od Sovětského svazu.  A úspěšně. Klíčovou roli tehdy sehrál Henry Kissinger. Nyní by JD Vance rád pokusil o něco podobného, akorát obráceně. Tedy spojit se Ruskem proti Číně. Nic dobrého pro Evropu…&lt;br&gt;&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:40:32</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Prodají Amerikánci Evropu Rusum? Aneb Kissinger 1, Kissinger 2</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
