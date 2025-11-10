@@ -11,7 +11,7 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <atom:link href="https://audioboom.com/channels/5096524" rel="alternate" type="text/html" />
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <atom:link href="https://audioboom.com/channels/5096524.rss" rel="self" type="application/rss+xml" />
-<pubDate>Sun, 02 Nov 2025 23:05:00 +0000</pubDate>
+<pubDate>Sun, 09 Nov 2025 23:05:00 +0000</pubDate>
 <language>cs</language>
 <image>
   <url>https://audioboom.com/i/40152868.jpg</url>
@@ -32,6 +32,36 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <itunes:new-feed-url>https://audioboom.com/channels/5096524.rss</itunes:new-feed-url>
 <itunes:type>episodic</itunes:type>
 
+<item>
+  <title>144: Lombardní úvěr – dobrý sluha, ale zlý pán 1/2</title>
+  <link>https://audioboom.com/posts/8804076</link>
+  <itunes:episode>144</itunes:episode>
+  <itunes:title>Lombardní úvěr – dobrý sluha, ale zlý pán 1/2</itunes:title>
+  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8804076.mp3?modified=1762727713&amp;sid=5096524&amp;source=rss" length="14839275" type="audio/mpeg" />
+  <itunes:image href="https://audioboom.com/i/43183731/s=1400x1400/el=1/rt=fill.png" />
+  <itunes:duration>894</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>&lt;div&gt;Jak získat okamžitou likviditu bez prodeje portfolia. &lt;br&gt;
+A proč se s tím dá zároveň vydělat – i spálit.&lt;br&gt;
+&lt;br&gt;
+V této epizodě se Josef Podlipný, Vladimír Fichtner a Tomáš Tyl dívají na jeden z nejmocnějších, ale zároveň i nejzrádnějších nástrojů privátního bankovnictví – lombardní úvěr. Ten umožňuje investorům čerpat peníze proti hodnotě jejich investičního portfolia, bez nutnosti prodávat aktiva.&lt;br&gt;
+&lt;br&gt;
+Zní to jako kouzlo: druhý den můžete mít na účtu miliony eur, s úrokem kolem 1–2 % nad základní sazbu. Ale jak říkají hosté – „je to výborný sluha, ale zlý pán“.&lt;br&gt;
+&lt;br&gt;
+Dozvíte se, jak lombardní úvěr skutečně funguje, kdy dává smysl a kdy se z něj může stát past. Jak pracovat s měnami i ukazatelem Loan-to-Value.&lt;br&gt;
+&lt;br&gt;
+Zjistíte rozdíly mezi švýcarskými privátními bankami a on-line brokery. Proč u jedněch při poklesu trhu dostanete telefonát, zatímco u druhých jen zjistíte, že vám systém vyprodal celé portfolio.&lt;br&gt;
+&lt;br&gt;
+A také to, proč i bohaté rodiny omezují využití lombardního úvěru – často na pouhých 6 % z celkového majetku – aby jejich majetek zůstal v bezpečné zóně, i když přijde „černá labuť“.&lt;br&gt;
+&lt;br&gt;
+Bez pravidel, limitů a kontroly se z lombardu stává hazard. V této epizodě pochopíte, jak využít lombardní úvěr správně – bez zbytečného rizika a s chladnou hlavou.&lt;/div&gt;
+</description>
+  <pubDate>Sun, 09 Nov 2025 23:05:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2025-11-09:/posts/8804076</guid>
+  <itunes:author>Fichtner Wealth Managers</itunes:author>
+  <dc:creator>Fichtner Wealth Managers</dc:creator>
+<media:thumbnail url="https://audioboom.com/i/43183731/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>143: Bezpečný přístav pro investory v roce 2025, 2026 a dál 2/2</title>
   <link>https://audioboom.com/posts/8798964</link>
@@ -890,32 +920,5 @@ Když svět kolísá, je dobré se pevně držet strategie. V turbulentních ča
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
 <media:thumbnail url="https://audioboom.com/i/42707522/s=1400x1400/el=1/rt=fill.png" /></item>
-<item>
-  <title>114: Erika Matwij: 5 pravidel pro harmonický přechod majetku na další generaci a výběr nástupců</title>
-  <link>https://audioboom.com/posts/8704346</link>
-  <itunes:episode>114</itunes:episode>
-  <itunes:title>Erika Matwij: 5 pravidel pro harmonický přechod majetku na další generaci a výběr nástupců</itunes:title>
-  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8704346.mp3?modified=1744576608&amp;sid=5096524&amp;source=rss" length="22686342" type="audio/mpeg" />
-  <itunes:image href="https://audioboom.com/i/42690804/s=1400x1400/el=1/rt=fill.png" />
-  <itunes:duration>1384</itunes:duration>
-  <itunes:explicit>false</itunes:explicit>
-  <itunes:episodeType>full</itunes:episodeType>
-  <description>&lt;div&gt;Když rodiče mlčí, děti tápou. &lt;br&gt;
-Nástupnictví není událost, ale proces. &lt;br&gt;
-A čím dřív začne, tím lépe pro všechny.&lt;br&gt;
-&lt;br&gt;
-Mnoho úspěšných rodin odkládá diskuzi o nástupnictví a přechodu správy majetku na další generaci s tím, že „ještě je čas“. Pravda ale je, že čas může představovat problém – místo plynulého předání vznikne nedůvěra, chaos nebo dokonce konflikt mezi sourozenci.&lt;br&gt;
-&lt;br&gt;
-Pozvání Mezi Rentiéry opět přijala &lt;strong&gt;Erika Matwij, expertka na strategii a řízení v rodinných firmách&lt;/strong&gt;, členka Mezinárodní akademie pro výzkum rodinných podniků (ifera) a pořadatelka Mezinárodního kongresu rodinných firem.&lt;br&gt;
-&lt;br&gt;
-Erika s Vladimírem Fichtnerem a Josefem Podlipným sdílí, jak začít otevřenou komunikaci o majetku včas, jak vést rodinné rady a jak vybírat nástupce na základě talentů, hodnot a přirozené angažovanosti – nikoliv očekávání nebo tlaku.&lt;br&gt;
-&lt;br&gt;
-Tato epizoda je nabitá praktickými tipy a příběhy z českých i mezinárodních rodin, které se úspěšně (nebo bolestivě) pustily do přípravy nové generace. Pokud chcete ochránit nejen majetek, ale i rodinné vztahy, nenechte si tuto epizodu utéct.&lt;/div&gt;
-</description>
-  <pubDate>Sun, 13 Apr 2025 22:05:00 +0000</pubDate>
-  <guid isPermaLink="false">tag:audioboom.com,2025-04-13:/posts/8704346</guid>
-  <itunes:author>Fichtner Wealth Managers</itunes:author>
-  <dc:creator>Fichtner Wealth Managers</dc:creator>
-<media:thumbnail url="https://audioboom.com/i/42690804/s=1400x1400/el=1/rt=fill.png" /></item>
 </channel>
 </rss>
