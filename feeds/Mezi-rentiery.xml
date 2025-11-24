@@ -11,7 +11,7 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <atom:link href="https://audioboom.com/channels/5096524" rel="alternate" type="text/html" />
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <atom:link href="https://audioboom.com/channels/5096524.rss" rel="self" type="application/rss+xml" />
-<pubDate>Sun, 16 Nov 2025 23:05:00 +0000</pubDate>
+<pubDate>Sun, 23 Nov 2025 23:05:00 +0000</pubDate>
 <language>cs</language>
 <image>
   <url>https://audioboom.com/i/40152868.jpg</url>
@@ -32,6 +32,47 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <itunes:new-feed-url>https://audioboom.com/channels/5096524.rss</itunes:new-feed-url>
 <itunes:type>episodic</itunes:type>
 
+<item>
+  <title>146: 7 klíčových kroků ke zdraví jako aktivu: Jak systematicky chránit lidský kapitál v bohatých rodinách 1/2</title>
+  <link>https://audioboom.com/posts/8809869</link>
+  <itunes:episode>146</itunes:episode>
+  <itunes:title>7 klíčových kroků ke zdraví jako aktivu: Jak systematicky chránit lidský kapitál v bohatých rodinách 1/2</itunes:title>
+  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8809869.mp3?modified=1763931058&amp;sid=5096524&amp;source=rss" length="27738744" type="audio/mpeg" />
+  <itunes:image href="https://audioboom.com/i/43212753/s=1400x1400/el=1/rt=fill.png" />
+  <itunes:duration>1704</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>&lt;div&gt;Bez zdraví ztrácí smysl i těžce vybudované rodinné bohatství. &lt;br&gt;
+Jak tedy spravovat zdraví jako klíčové aktivum?&lt;br&gt;
+&lt;br&gt;
+V rodinách s majetkem v řádu stovek milionů korun či miliard už zdraví jednoho člověka rozhoduje o strategii, kontinuitě a někdy i o tom, zda rodina zůstane jednotná. &lt;br&gt;
+&lt;br&gt;
+Ukazuje se, že nejzranitelnější bod při správě rodinného bohatství není trh, konkurence ani legislativa – je to člověk a jeho zdraví.&lt;br&gt;
+&lt;br&gt;
+Josef Podlipný, člen čtvrté generace bohatství, má svou osobní zkušenost s infarktem, který mu ukázal, že věnoval více energie správě majetku než péči o své vlastní zdraví. &lt;br&gt;
+&lt;br&gt;
+Na základě svých zkušeností i diskuze s mnoha rodinami úspěšných sdílí, jak systematicky přistupovat ke zdraví podobně jako ke správě finančních aktiv –  sledují, měří a řídí.&lt;br&gt;
+&lt;br&gt;
+Dozvíte se 3 konkrétní metriky, které lze okamžitě začít měřit. HRV (variabilita srdečního tepu) jako biometrickou obdobu volatility portfolia. Spánek. Glukóza.&lt;br&gt;
+&lt;br&gt;
+Poznáte rozdíl mezi genetickými a epigenetickými testy a jejich praktické využití. Zjistíte, jak rodiny, které řeší zdraví systematicky, dělají méně impulzivních rozhodnutí.&lt;br&gt;
+&lt;br&gt;
+Pokud chcete, aby vaše rodina měla sílu spravovat bohatství v horizontu desítek let, a nebyla nucena zbrkle reagovat na „nečekané” situace, tato a následující epizoda vám poskytne dost podnětů na zamyšlení.&lt;br&gt;
+&lt;br&gt;
+7 klíčových kroků ke zdraví jako aktivu:&lt;br&gt;
+1. Zavést risk management pomocí HRV, spánku a glukózy&lt;br&gt;
+2. Provést komprehenzivní well-being audit celé rodiny&lt;br&gt;
+3. Vzdělávat se o mentální odolnosti, biohackingu a adaptogenech&lt;br&gt;
+4. Integrovat zdravotní data do rozhodovacích procesů rodiny&lt;br&gt;
+5. Realizovat genetické testování pro poznání predispozic&lt;br&gt;
+6. Ročně kontrolovat epigenetický věk pro sledování trendů&lt;br&gt;
+7. Ustanovit Chief Health Officera v rodinné governance&lt;/div&gt;
+</description>
+  <pubDate>Sun, 23 Nov 2025 23:05:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2025-11-23:/posts/8809869</guid>
+  <itunes:author>Fichtner Wealth Managers</itunes:author>
+  <dc:creator>Fichtner Wealth Managers</dc:creator>
+<media:thumbnail url="https://audioboom.com/i/43212753/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>145: Lombardní úvěr – dobrý sluha, ale zlý pán 2/2</title>
   <link>https://audioboom.com/posts/8806957</link>
@@ -893,34 +934,5 @@ Tato epizoda je pro každého, kdo chce pochopit, jak si zachovat klid, jistotu 
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
 <media:thumbnail url="https://audioboom.com/i/42742846/s=1400x1400/el=1/rt=fill.png" /></item>
-<item>
-  <title>116: Rodina vs. instituce – proč nestačí kopírovat portfolio Harvardu, Yale nebo Nobelovy nadace</title>
-  <link>https://audioboom.com/posts/8711909</link>
-  <itunes:episode>116</itunes:episode>
-  <itunes:title>Rodina vs. instituce – proč nestačí kopírovat portfolio Harvardu, Yale nebo Nobelovy nadace</itunes:title>
-  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8711909.mp3?modified=1745789106&amp;sid=5096524&amp;source=rss" length="30235450" type="audio/mpeg" />
-  <itunes:image href="https://audioboom.com/i/42726949/s=1400x1400/el=1/rt=fill.png" />
-  <itunes:duration>1859</itunes:duration>
-  <itunes:explicit>false</itunes:explicit>
-  <itunes:episodeType>full</itunes:episodeType>
-  <description>&lt;div&gt;Mnoho movitých rodin sní o tom, že budou spravovat svůj majetek „stejně dobře jako Harvard, Yale nebo Nobelova nadace“. &lt;br&gt;
-&lt;br&gt;
-Ale v praxi je slepé kopírování institucionálních strategií jednou z největších chyb, které můžete při správě rodinného majetku udělat.&lt;br&gt;
-&lt;br&gt;
-V této epizodě Vladimír Fichtner a Josef Podlipný vysvětlují, proč mají instituce úplně jiné cíle, rizikový profil i možnosti, jak zvládat krize než rodiny – a jak tyto rozdíly mohou vést k fatálním finančním i vztahovým problémům, pokud je ignorujete.&lt;br&gt;
-&lt;br&gt;
-Josef sdílí konkrétní příběhy rodin, které na vlastní kůži zažily, jak bolestné je přijít o desítky procent majetku kvůli špatné inspiraci. &lt;br&gt;
-&lt;br&gt;
-V diskuzi pak společně ukazují, jak rodina může chytře využít inspiraci od institucí, ale přitom zachovat to nejdůležitější: bezpečí, likviditu, cash flow a emoční stabilitu.&lt;br&gt;
-&lt;br&gt;
-Instituce mohou selhat a vybrat nové peníze. Rodina oproti tomu nemá moc kam sáhnout, když její kapitál mizí.&lt;br&gt;
-&lt;br&gt;
-Jedním z nejdůležitějších cílů pro rodinné bohatství je zachování reálné hodnoty kapitálu na hlavu napříč generacemi rostoucí rodiny.&lt;/div&gt;
-</description>
-  <pubDate>Sun, 27 Apr 2025 22:05:00 +0000</pubDate>
-  <guid isPermaLink="false">tag:audioboom.com,2025-04-27:/posts/8711909</guid>
-  <itunes:author>Fichtner Wealth Managers</itunes:author>
-  <dc:creator>Fichtner Wealth Managers</dc:creator>
-<media:thumbnail url="https://audioboom.com/i/42726949/s=1400x1400/el=1/rt=fill.png" /></item>
 </channel>
 </rss>
