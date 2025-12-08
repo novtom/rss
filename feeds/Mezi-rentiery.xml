@@ -11,7 +11,7 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <atom:link href="https://audioboom.com/channels/5096524" rel="alternate" type="text/html" />
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <atom:link href="https://audioboom.com/channels/5096524.rss" rel="self" type="application/rss+xml" />
-<pubDate>Sun, 30 Nov 2025 23:05:00 +0000</pubDate>
+<pubDate>Sun, 07 Dec 2025 23:05:00 +0000</pubDate>
 <language>cs</language>
 <image>
   <url>https://audioboom.com/i/40152868.jpg</url>
@@ -32,6 +32,33 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <itunes:new-feed-url>https://audioboom.com/channels/5096524.rss</itunes:new-feed-url>
 <itunes:type>episodic</itunes:type>
 
+<item>
+  <title>148: Jan Staněk: Startupy, pre-seed investice a mindset investora: Jak nepřijít o iluze ani o peníze 1/2</title>
+  <link>https://audioboom.com/posts/8815791</link>
+  <itunes:episode>148</itunes:episode>
+  <itunes:title>Jan Staněk: Startupy, pre-seed investice a mindset investora: Jak nepřijít o iluze ani o peníze 1/2</itunes:title>
+  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8815791.mp3?modified=1765145287&amp;sid=5096524&amp;source=rss" length="68044863" type="audio/mpeg" />
+  <itunes:image href="https://audioboom.com/i/43248948/s=1400x1400/el=1/rt=fill.png" />
+  <itunes:duration>4220</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>&lt;div&gt;Pokud máte investovatelný majetek přes 100 milionů korun, stojíte před otázkou: jak velkou část portfolia alokovat do private equity, konkrétně do venture kapitálu. Data z UBS a velkých family offices ukazují rozmezí 2–12 % volného kapitálu.&lt;br&gt;
+&lt;br&gt;
+Jan Staněk, Managing General Partner Purple Ventures s lucemburským fondem o objemu 40 milionů eur, vysvětluje v této epizodě podcastu Mezi Rentiéry, proč právě seed investice mohou při správném přístupu přinášet zajímavé výnosy – a zároveň proč většina investorů už po dvou až třech pokusech selhává a přichází o peníze.&lt;br&gt;
+&lt;br&gt;
+Seed investice představují nelikvidní aktiva s horizontem 5–10 let, což vyžaduje zcela odlišný přístup než u tradičních investičních nástrojů.&lt;br&gt;
+&lt;br&gt;
+Mimo jiné se dozvíte, jak odlišit nápad na ubrousku od firmy s reálným potenciálem, proč je důležitější investice do lidí než do nápadu, a proč andělský investor musí být připravený selhávat – systematicky, ne emocionálně.&lt;br&gt;
+&lt;br&gt;
+Spousta investorů sní o tom, že jejich investice do startupu bude další jednorožec - miliardová firma. Ale drtivá většina startupů selže. &lt;br&gt;
+&lt;br&gt;
+V této a následující epizodě se dozvíte, jak se stát chytrým investorem – a ne „bláznem“ z fráze friends, family &amp;amp; fools.&lt;/div&gt;
+</description>
+  <pubDate>Sun, 07 Dec 2025 23:05:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2025-12-07:/posts/8815791</guid>
+  <itunes:author>Fichtner Wealth Managers</itunes:author>
+  <dc:creator>Fichtner Wealth Managers</dc:creator>
+<media:thumbnail url="https://audioboom.com/i/43248948/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>147: 7 klíčových kroků ke zdraví jako aktivu: Jak systematicky chránit lidský kapitál v bohatých rodinách 2/2</title>
   <link>https://audioboom.com/posts/8812853</link>
@@ -908,43 +935,5 @@ Pokud máte pocit, že toho máte občas až nad hlavu, je to epizoda přesně p
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
 <media:thumbnail url="https://audioboom.com/i/42776392/s=1400x1400/el=1/rt=fill.png" /></item>
-<item>
-  <title>118: Emoční pasti při správě rozsáhlého majetku</title>
-  <link>https://audioboom.com/posts/8718531</link>
-  <itunes:episode>118</itunes:episode>
-  <itunes:title>Emoční pasti při správě rozsáhlého majetku</itunes:title>
-  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8718531.mp3?modified=1747030376&amp;sid=5096524&amp;source=rss" length="28120990" type="audio/mpeg" />
-  <itunes:image href="https://audioboom.com/i/42759484/s=1400x1400/el=1/rt=fill.png" />
-  <itunes:duration>1727</itunes:duration>
-  <itunes:explicit>false</itunes:explicit>
-  <itunes:episodeType>full</itunes:episodeType>
-  <description>&lt;div&gt;Nejsou to trhy, co ničí portfolia. &lt;br&gt;
-Jsou to naše emoce. &lt;br&gt;
-A právě proto je potřeba být připraven ještě dřív, než přijdou.&lt;br&gt;
-&lt;br&gt;
-Když se mluví o investičních chybách, většina lidí si představí špatně načasovaný nákup nebo špatně vybrané aktivum. &lt;br&gt;
-&lt;br&gt;
-Ale přitom nejvíce investičních chyb pramení z emocí – strachu, chamtivosti, nebo naopak z paralýzy v krizových chvílích.&lt;br&gt;
-&lt;br&gt;
-V této epizodě Vladimír Fichtner a Josef Podlipný mluví otevřeně o tom, jak emoce ovlivňují správu rodinného bohatství. &lt;br&gt;
-&lt;br&gt;
-S pomocí konkrétních příběhů investorů a rodin ukazují, jak může emoční rozhodování vést k fatálním chybám – a jak jim lze předejít systematickým přístupem a vědomou přípravou.&lt;br&gt;
-&lt;br&gt;
--&amp;gt; Koncentrace investice (např. 50 % portfolia v jedné akcii) zvyšuje riziko paniky a unáhlených rozhodnutí.&lt;br&gt;
-&lt;br&gt;
--&amp;gt; Silné a stabilní cashflow pomáhá překonat poklesy bez nutnosti „panického prodeje“.&lt;br&gt;
-&lt;br&gt;
--&amp;gt; Plánování a předem definované scénáře (např. co dělat při poklesu o 20–50 %) pomáhají zvládnout emoce.&lt;br&gt;
-&lt;br&gt;
-Pokud chcete být investorem, který dlouhodobě udrží své emoce na uzdě a díky tomu navyšuje rodinné bohatství, toto je epizoda, kterou si nenechte ujít.&lt;br&gt;
-&lt;br&gt;
-Zdroje: &lt;a href="https://clientassociates.com/scholarly/the-psychology-of-wealth-understanding-uhnwi-investment-biases"&gt;The Psychology of Wealth: Understanding UHNWI Investment Biases&lt;/a&gt;
-&lt;/div&gt;
-</description>
-  <pubDate>Sun, 11 May 2025 22:05:00 +0000</pubDate>
-  <guid isPermaLink="false">tag:audioboom.com,2025-05-11:/posts/8718531</guid>
-  <itunes:author>Fichtner Wealth Managers</itunes:author>
-  <dc:creator>Fichtner Wealth Managers</dc:creator>
-<media:thumbnail url="https://audioboom.com/i/42759484/s=1400x1400/el=1/rt=fill.png" /></item>
 </channel>
 </rss>
