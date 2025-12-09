@@ -5,7 +5,7 @@
 		<description>Kecy a politika je podcast komentátora Bohumila Pečinky a Petrose Michopulose, muže, který se čtvrtstoletí zabývá marketingem a politikou. Současná politika pohledem dvou rozdílných osobností, kteří se nebojí říct své názory. Nekorektní podcast, v němž se věci zasazují do kontextu a přísně se tu oddělují prázdné kecy od skutečné politiky.</description>
 		<link>https://novtom.github.io/rss/feeds/Kecy-politika.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 04 Dec 2025 23:03:33 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Dec 2025 23:03:26 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/99c6e0b4/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Bohumil Pečinka, Petros Michopulos</author>
 		<copyright>Bohumil Pečinka, Petros Michopulos</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+		<item>
+			<title>Kecy a politika 243: Nanebevzetí Andreje Babiše</title>
+			<description>&lt;p&gt;Většina českých médií jásá a posunuje budoucího českého premiéra někam nad oblaka. Andrej Babiš slibuje, že se vzdá Agrofertu a vloží ho do blíže neupřesněného trustu, takže předřazuje zájem státu před svým osobním, tvrdí řada médií. Ve skutečnosti je to hodně jinak.&lt;/p&gt;&lt;p&gt;Smyslem každého trustu je tak či onak zamaskovat vlastnickou strukturu. Tak tomu zřejmě bude i v tomto případě. Definitivní soud si necháme na chvíli, kdy se dozvíme zakladatelskou listinu tohoto (slepého?) svěřenského fondu, popřípadě její dodatky. Také bude důležité sledovat, kdo bude správcem a kdo ho naopak bude kontrolovat. A kdo zjistí, jestli není zneužívána politická moc?&lt;/p&gt;&lt;p&gt;Samostatným otazníkem je, proč Andrej Babiš mluví jen o Agrofertu a nikoli o společnostech, které vlastní, jako Synbiol, Hartenberg nebo FutureLife. Právě do řady z nich tečou peníze z veřejného zdravotního pojištění. Na ně se střet zájmů nevztahuje? Vždyť ministr zdravotnictví je z hnutí ANO, které určuje úhradovou vyhlášku, a tedy to, jaké částky poputují do zdravotních firem, které Babiš vlastní.&lt;/p&gt;&lt;p&gt;Množství veřejných peněz do těchto podniků je přitom neporovnatelně vyšší než do zemědělských firem holdingu Agrofert. Čekají nás další zbytečné roky soudních sporů.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/Kecy-a-politika-243-Nanebevzet-Andreje-Babie-e3c2j8f</link>
+			<guid isPermaLink="false">7ac5dcbd-d06d-470e-a487-62bb2ea132c7</guid>
+			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
+			<pubDate>Mon, 08 Dec 2025 23:01:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-8/413999991-44100-2-279a2def32011.mp3" length="44261876" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Většina českých médií jásá a posunuje budoucího českého premiéra někam nad oblaka. Andrej Babiš slibuje, že se vzdá Agrofertu a vloží ho do blíže neupřesněného trustu, takže předřazuje zájem státu před svým osobním, tvrdí řada médií. Ve skutečnosti je to hodně jinak.&lt;/p&gt;&lt;p&gt;Smyslem každého trustu je tak či onak zamaskovat vlastnickou strukturu. Tak tomu zřejmě bude i v tomto případě. Definitivní soud si necháme na chvíli, kdy se dozvíme zakladatelskou listinu tohoto (slepého?) svěřenského fondu, popřípadě její dodatky. Také bude důležité sledovat, kdo bude správcem a kdo ho naopak bude kontrolovat. A kdo zjistí, jestli není zneužívána politická moc?&lt;/p&gt;&lt;p&gt;Samostatným otazníkem je, proč Andrej Babiš mluví jen o Agrofertu a nikoli o společnostech, které vlastní, jako Synbiol, Hartenberg nebo FutureLife. Právě do řady z nich tečou peníze z veřejného zdravotního pojištění. Na ně se střet zájmů nevztahuje? Vždyť ministr zdravotnictví je z hnutí ANO, které určuje úhradovou vyhlášku, a tedy to, jaké částky poputují do zdravotních firem, které Babiš vlastní.&lt;/p&gt;&lt;p&gt;Množství veřejných peněz do těchto podniků je přitom neporovnatelně vyšší než do zemědělských firem holdingu Agrofert. Čekají nás další zbytečné roky soudních sporů.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:46:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Kecy a politika 243: Nanebevzetí Andreje Babiše</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		<item>
 			<title>SPECIÁL Karel Svoboda: Rusko může válčit donekonečna</title>
 			<description>&lt;p&gt;S doktorem Karlem Svobodou z Katedry ruských a východoevropských studií Karlovy univerzity o tom, kdy skončí válka na Ukrajině a jak válku ekonomicky zvládá Rusko. Může opravdu Rusko válčit donekonečna? Vede mírová jednání upřímně, nebo jenom tahá Donalda Trumpa za nos? Nebo je to od začátku pro Trumpa rodinný byznys a jakýkoliv mír je pro něj jen prostředek k získání majetku pro jeho rodinu?&lt;/p&gt;&lt;p&gt;Taky probereme, jak Putin falšuje statistické údaje o ruské ekonomice a jak upadá a zaostává ruský průmysl. A spoustu dalších zajímavých věcí o fungování současného ruského režimu.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>SPECIÁL Ondřej Neff: Internet jsme odhadli už před 30 lety</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
-		<item>
-			<title>Kecy a politika 228: Budou vládnout s Babišem?</title>
-			<description>&lt;p&gt;Sedmapadesáté výročí okupace Československa v srpnu 1968 se pro většinu politiků stalo záminkou k vyjádření postoje k budoucnosti Česka. Strany vládní koalice to vesměs považují za nejtragičtější etapu českých dějin. ANO mlčí a Tomio Okamura naznačuje, že Rusko má své bezpečnostní zájmy, které je třeba respektovat. Lídr hnutí Stačilo Sterzik vnímá dvacetiletou okupaci ruskými vojsky jako období rozkvětu. Chválí okupanty, že „odešli bez jediného výstřelu a všechno nám tady nechali.“&lt;/p&gt;&lt;p&gt;Dlouhá desetiletí se vedly diskuse, kdo Rudou armádu v srpnu 1968 do republiky pozval. Existoval minimálně jeden zvací dopis, který podepsali špičkoví představitelé KSČ s žádostí o invazi, aby se zachránil socialismus. Jak by dnes vypadal podobný zvací dopis? Tak, jak ho poslal Sterzik v roce 2022 Putinovi, když mu vyjádřil podporu? Anebo to bude mít podobu zrušení paragrafu trestního zákoníku o spolupráci s cizí mocí, jak se o tom intenzivně mluví?&lt;/p&gt;&lt;p&gt;V hodnocení minulosti a budoucnosti se také promítá otázka, kdo bude vládnout s pravděpodobným vítězem voleb, hnutím ANO. Má smysl pro některou z vládních stran se obětovat a zadržovat Andreje Babiše? Anebo by bylo lepší nechat vládnout koalici ANO, SPD a Stačilo?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/Kecy-a-politika-228-Budou-vldnout-s-Babiem-e37acob</link>
-			<guid isPermaLink="false">138cff37-8b28-49c0-abb1-09e5a144601f</guid>
-			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
-			<pubDate>Mon, 25 Aug 2025 22:01:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-25/406278597-44100-2-6e102b9ea7c5f.mp3" length="51327476" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Sedmapadesáté výročí okupace Československa v srpnu 1968 se pro většinu politiků stalo záminkou k vyjádření postoje k budoucnosti Česka. Strany vládní koalice to vesměs považují za nejtragičtější etapu českých dějin. ANO mlčí a Tomio Okamura naznačuje, že Rusko má své bezpečnostní zájmy, které je třeba respektovat. Lídr hnutí Stačilo Sterzik vnímá dvacetiletou okupaci ruskými vojsky jako období rozkvětu. Chválí okupanty, že „odešli bez jediného výstřelu a všechno nám tady nechali.“&lt;/p&gt;&lt;p&gt;Dlouhá desetiletí se vedly diskuse, kdo Rudou armádu v srpnu 1968 do republiky pozval. Existoval minimálně jeden zvací dopis, který podepsali špičkoví představitelé KSČ s žádostí o invazi, aby se zachránil socialismus. Jak by dnes vypadal podobný zvací dopis? Tak, jak ho poslal Sterzik v roce 2022 Putinovi, když mu vyjádřil podporu? Anebo to bude mít podobu zrušení paragrafu trestního zákoníku o spolupráci s cizí mocí, jak se o tom intenzivně mluví?&lt;/p&gt;&lt;p&gt;V hodnocení minulosti a budoucnosti se také promítá otázka, kdo bude vládnout s pravděpodobným vítězem voleb, hnutím ANO. Má smysl pro některou z vládních stran se obětovat a zadržovat Andreje Babiše? Anebo by bylo lepší nechat vládnout koalici ANO, SPD a Stačilo?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:53:27</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Kecy a politika 228: Budou vládnout s Babišem?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		</channel>
 </rss>
