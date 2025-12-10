@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 10 Dec 2025 09:03:57 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Dec 2025 20:12:08 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,22 +23,6 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-		<item>
-			<title>Pain of the British Economy — And How to Fix It</title>
-			<description>&lt;p&gt;Británie hledá nový ekonomický model – a nedaří se. Produktivita stojí, investice slábnou a veřejné finance mají problém. V závěrečném dílu série s bankéřem Melem Carvillem řešíme, proč se UK nevrací k růstu, jak vážný je dluh, co čeká libru a zda vůbec existuje politická cesta zpět k dynamice.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Pain-of-the-British-Economy--And-How-to-Fix-It-e3c481v</link>
-			<guid isPermaLink="false">83d875c1-8f4f-4ce8-943a-f0440bd747a7</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 10 Dec 2025 05:30:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-9/414071453-44100-2-82a67886604b3.mp3" length="48963499" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Británie hledá nový ekonomický model – a nedaří se. Produktivita stojí, investice slábnou a veřejné finance mají problém. V závěrečném dílu série s bankéřem Melem Carvillem řešíme, proč se UK nevrací k růstu, jak vážný je dluh, co čeká libru a zda vůbec existuje politická cesta zpět k dynamice.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:51:00</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Pain of the British Economy — And How to Fix It</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Power, Chaos and Comebacks: Tom Tugendhat on Britain Today</title>
 			<description>&lt;p&gt;Tom Tugendhat has become one of the defining Conservative figures on security. A former soldier, outspoken China hawk, and the UK’s former Minister for Security. In this conversation, we examine how Britain’s security environment has shifted since the election — political instability, migration pressures, and the new government’s attempt to rebuild state capacity and strategic focus.&lt;/p&gt;
@@ -503,5 +487,21 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>V obchodní válce má Čína lepší karty</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
+		<item>
+			<title>Trumpova obchodní válka. Viděno ze zahraničí</title>
+			<description>&lt;p&gt;V našem novém díle mluvíme málo o Trumpovi, o to více o zemích zasažených jeho bláznivou obchodní válkou. Jak reagují, na co se připravují, jak chtějí bojovat. V rychlém sledu řešíme EU, Izrael, Brazílii, Japonsko a Austrálie. Podívali jsme se na to, jak mluví ke svým vlastním občanům. Mnohdy je to velmi překvapivé!&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Trumpova-obchodn-vlka--Vidno-ze-zahrani-e31jk30</link>
+			<guid isPermaLink="false">0ddb603a-fd4e-4288-8d94-bcc7d79e5e3f</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 16 Apr 2025 04:45:49 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-16/398481314-44100-2-c90d4f3987a93.mp3" length="34010591" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;V našem novém díle mluvíme málo o Trumpovi, o to více o zemích zasažených jeho bláznivou obchodní válkou. Jak reagují, na co se připravují, jak chtějí bojovat. V rychlém sledu řešíme EU, Izrael, Brazílii, Japonsko a Austrálie. Podívali jsme se na to, jak mluví ke svým vlastním občanům. Mnohdy je to velmi překvapivé!&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:35:25</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Trumpova obchodní válka. Viděno ze zahraničí</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
