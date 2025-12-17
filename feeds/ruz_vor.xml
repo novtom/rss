@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 11 Dec 2025 07:22:49 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Dec 2025 14:22:21 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>The Next Wars: A Conversation with General David Petraeus</title>
+			<description>&lt;p&gt;General David Petraeus — former commander in Iraq and Afghanistan, director of CIA and leader of KKR — is one of today’s most influential strategic minds. In our conversation, we debate Ukraine, the Middle East, the risks in US–China competition and the future of NATO. A clear, unsentimental view of the world as it is — and as it may soon be.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/The-Next-Wars-A-Conversation-with-General-David-Petraeus-e3cf4d0</link>
+			<guid isPermaLink="false">2497fe24-de8a-40b9-add2-538a08ea7210</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 17 Dec 2025 05:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-16/414525266-44100-2-b78e03404feed.mp3" length="49537357" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;General David Petraeus — former commander in Iraq and Afghanistan, director of CIA and leader of KKR — is one of today’s most influential strategic minds. In our conversation, we debate Ukraine, the Middle East, the risks in US–China competition and the future of NATO. A clear, unsentimental view of the world as it is — and as it may soon be.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:51:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>The Next Wars: A Conversation with General David Petraeus</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Pain of the British Economy — And How to Fix It</title>
 			<description>&lt;p&gt;Británie hledá nový ekonomický model – a nedaří se. Produktivita stojí, investice slábnou a veřejné finance mají problém. V závěrečném dílu série s bankéřem Melem Carvillem řešíme, proč se UK nevrací k růstu, jak vážný je dluh, co čeká libru a zda vůbec existuje politická cesta zpět k dynamice.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Trump tančí, trhy pláčou, Číňan mlčí</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>V obchodní válce má Čína lepší karty</title>
-			<description>&lt;p&gt;Trump je mistr pokeru. Umí ho hrát i když nemá žádné karty. Je impulzivní, agresivní. Snaží se protihráče přetlačit. Oproti tomu Číňané sice nehrají poker, ale mají poker face. Jsou pomalí, metodičtí. Umí čekat. A nerozhádali se s celým světem. Na to jak mají v ruce karty se podíváme v dnešním dílu.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/V-obchodn-vlce-m-na-lep-karty-e31sb9s</link>
-			<guid isPermaLink="false">21688345-6cea-4d1f-9839-db313429fcff</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 23 Apr 2025 04:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-22/398844461-44100-2-63d2254d03af9.mp3" length="33392848" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Trump je mistr pokeru. Umí ho hrát i když nemá žádné karty. Je impulzivní, agresivní. Snaží se protihráče přetlačit. Oproti tomu Číňané sice nehrají poker, ale mají poker face. Jsou pomalí, metodičtí. Umí čekat. A nerozhádali se s celým světem. Na to jak mají v ruce karty se podíváme v dnešním dílu.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:34:47</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>V obchodní válce má Čína lepší karty</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
