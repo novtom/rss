@@ -11,7 +11,7 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <atom:link href="https://audioboom.com/channels/5096524" rel="alternate" type="text/html" />
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
 <atom:link href="https://audioboom.com/channels/5096524.rss" rel="self" type="application/rss+xml" />
-<pubDate>Sun, 14 Dec 2025 23:05:00 +0000</pubDate>
+<pubDate>Sun, 21 Dec 2025 23:05:00 +0000</pubDate>
 <language>cs</language>
 <image>
   <url>https://audioboom.com/i/40152868.jpg</url>
@@ -32,6 +32,37 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
 <itunes:new-feed-url>https://audioboom.com/channels/5096524.rss</itunes:new-feed-url>
 <itunes:type>episodic</itunes:type>
 
+<item>
+  <title>150: Francesco Kinský dal Borgo: Co rod Kinských dělá jinak než 90 % rodin s majetkem</title>
+  <link>https://audioboom.com/posts/8822318</link>
+  <itunes:episode>150</itunes:episode>
+  <itunes:title>Francesco Kinský dal Borgo: Co rod Kinských dělá jinak než 90 % rodin s majetkem</itunes:title>
+  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8822318.mp3?modified=1766360503&amp;sid=5096524&amp;source=rss" length="93819236" type="audio/mpeg" />
+  <itunes:image href="https://audioboom.com/i/43282990/s=1400x1400/el=1/rt=fill.png" />
+  <itunes:duration>5831</itunes:duration>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>&lt;div&gt;Na závěr roku 2025 pro Vás máme vánoční dárek a pomyslnou třešničku na dortu. &lt;br&gt;
+&lt;br&gt;
+Je nám velkou ctí, že na jubilejní a zároveň předposlední epizodu podcastu Mezi Rentiéry přišel hrabě Francesco Kinský dal Borgo a sdílí s námi své zkušenosti a pohled na mezigenerační správu majetku.&lt;br&gt;
+&lt;br&gt;
+Většina rodin s významným majetkem řeší stejnou otázku: Jak předat bohatství další generaci, aniž by rodinu rozdělilo? Zákon má jasnou odpověď – rovný díl každému. Ale co když právě takové „spravedlivé“ řešení zničí to, co předchozí generace budovaly?&lt;br&gt;
+&lt;br&gt;
+Hrabě Francesco Kinský dal Borgo spravuje rodinný majetek, jehož počátek sahá k 12. století, a čítá tisíce hektarů lesů, dva zámky, pilu a tradici, která přežila konfiskace, války i totalitní režimy. &lt;br&gt;
+&lt;br&gt;
+V rozhovoru s Josefem Podlipným odhaluje, proč jeho rodina záměrně nejde cestou zákona a místo dělení majetku rozděluje výnosy. „Mnohem důležitější než rozdělit majetek, je spravedlivě rozdělovat výnos z toho majetku,“ vysvětluje Francesco princip, který může zachránit rodinné bohatství i po generace.&lt;br&gt;
+&lt;br&gt;
+Francesco varuje před příklady, kdy hlava rodiny drží moc do 90 let věku. Druhá generace buď přestane mít zájem, protože má vlastní kariéru, nebo se nikdy nenaučí převzít odpovědnost. Otázka "kdy" je klíčová a málokdo ji řeší včas.&lt;br&gt;
+&lt;br&gt;
+Dozvíte se také, jak psaná pravidla minimalizují nejhorší emoce – frustraci a pocit nespravedlnosti – které ničí rodiny bez ohledu na velikost majetku. A především získáte praktický rámec, jak začít diverzifikovat postupně z výnosů, aniž byste riskovali rozpad fungujícího celku.&lt;br&gt;
+&lt;br&gt;
+Tato epizoda není o šlechtických rodech. Je o každé rodině, která stojí před otázkou: Co předám, jak to předám, a kdy to předám? Francesco a Josef sdílejí odpovědi, které přežily staletí.&lt;/div&gt;
+</description>
+  <pubDate>Sun, 21 Dec 2025 23:05:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2025-12-21:/posts/8822318</guid>
+  <itunes:author>Fichtner Wealth Managers</itunes:author>
+  <dc:creator>Fichtner Wealth Managers</dc:creator>
+<media:thumbnail url="https://audioboom.com/i/43282990/s=1400x1400/el=1/rt=fill.png" /></item>
 <item>
   <title>149: Jan Staněk: Startupy, pre-seed investice a mindset investora: Jak nepřijít o iluze ani o peníze 2/2</title>
   <link>https://audioboom.com/posts/8818954</link>
@@ -888,41 +919,5 @@ Poslechněte si tuto epizodu a zjistěte, proč je lepší učit se na chybách 
   <itunes:author>Fichtner Wealth Managers</itunes:author>
   <dc:creator>Fichtner Wealth Managers</dc:creator>
 <media:thumbnail url="https://audioboom.com/i/42809444/s=1400x1400/el=1/rt=fill.png" /></item>
-<item>
-  <title>120: Jakub Nešetřil: Matematikou společnost bohatne</title>
-  <link>https://audioboom.com/posts/8725436</link>
-  <itunes:episode>120</itunes:episode>
-  <itunes:title>Jakub Nešetřil: Matematikou společnost bohatne</itunes:title>
-  <enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://audioboom.com/posts/8725436.mp3?modified=1748208513&amp;sid=5096524&amp;source=rss" length="47299865" type="audio/mpeg" />
-  <itunes:image href="https://audioboom.com/i/42792899/s=1400x1400/el=1/rt=fill.png" />
-  <itunes:duration>2924</itunes:duration>
-  <itunes:explicit>false</itunes:explicit>
-  <itunes:episodeType>full</itunes:episodeType>
-  <description>&lt;div&gt;Když prodáte firmu, nemusíte do důchodu ani lenošit v luxusu. Můžete se třeba stát tvůrcem lepší společnosti. &lt;br&gt;
-&lt;br&gt;
-Pozvání Mezi Rentiéry přijal Jakub Nešetřil, úspěšný podnikatel, investor a filantrop. Jakub s partnery vybudoval technologickou společnost Apiary, kterou v roce 2017 koupil Oracle. Po úspěšném exitu Jakub založil veřejně prospěšný projekt &lt;a href="http://%C4%8Cesko.Digital"&gt;Česko.Digital&lt;/a&gt; a nyní se pustil do dalšího - Matika Česku.&lt;br&gt;
-&lt;br&gt;
-Jakub otevřeně sdílí příběh o tom, co znamená najednou zbohatnout, jak se mění pohled na smysl majetku, proč věří, že matematika činí společnost bohatší, a proč se rozhodl investovat nejen peníze, ale i čas a energii do vzdělávání a inovací. &lt;br&gt;
-&lt;br&gt;
-V rozhovoru se dozvíte šokující fakta: učitelů matematiky a fyziky chybí tisíce, více než 80% pozic zůstává neobsazených déle než 7 měsíců. V některých regionech připadá jeden nový absolvent na 50 odcházejících pedagogů. Přesto Jakub věří, že Česko má potenciál být matematickou velmocí - stačí se vrátit k tomu, v čem jsme byli špičkoví. &lt;br&gt;
-&lt;br&gt;
-Představte si společnost, kde matematika není strašákem, ale klíčem k úspěchu v 21. století. Kde AI a technologie nejsou hrozbou, ale příležitostí i pro naši malou zemi s velkým potenciálem. Jakub ukazuje možnou cestu - od Silicon Valley zpět do českých škol, od individuálního bohatství k společenskému dopadu. &lt;br&gt;
-&lt;br&gt;
-Proč považuje Jakub matematiku za klíčovou dovednost 21. století – a proč Česko v tomto směru ztrácí?&lt;br&gt;
-&lt;br&gt;
-Jak lze zbohatnout a přitom neztratit pokoru – a proč první rok po prodeji firmy „neutratil nic“?&lt;br&gt;
-&lt;br&gt;
-Jak přemýšlet o bohatství jako o nástroji svobody, ale i o zodpovědnosti vůči společnosti a rodině?&lt;br&gt;
-&lt;br&gt;
-Tato epizoda vám odhalí, jak přemýšlet o majetku, vzdělání a budoucnosti jako investici do společnosti. Jak spojit osobní úspěch s pozitivním dopadem. A proč by vás měl zajímat projekt Matika Česku, i když nejste matematik.&lt;br&gt;
-&lt;br&gt;
-Navštivte &lt;a href="https://www.matikacesku.cz/"&gt;https://www.matikacesku.cz/&lt;/a&gt;
-&lt;/div&gt;
-</description>
-  <pubDate>Sun, 25 May 2025 22:05:00 +0000</pubDate>
-  <guid isPermaLink="false">tag:audioboom.com,2025-05-25:/posts/8725436</guid>
-  <itunes:author>Fichtner Wealth Managers</itunes:author>
-  <dc:creator>Fichtner Wealth Managers</dc:creator>
-<media:thumbnail url="https://audioboom.com/i/42792899/s=1400x1400/el=1/rt=fill.png" /></item>
 </channel>
 </rss>
