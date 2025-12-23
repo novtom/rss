@@ -5,7 +5,7 @@
 		<description>Kecy a politika je podcast komentátora Bohumila Pečinky a Petrose Michopulose, muže, který se čtvrtstoletí zabývá marketingem a politikou. Současná politika pohledem dvou rozdílných osobností, kteří se nebojí říct své názory. Nekorektní podcast, v němž se věci zasazují do kontextu a přísně se tu oddělují prázdné kecy od skutečné politiky.</description>
 		<link>https://novtom.github.io/rss/feeds/Kecy-politika.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 22 Dec 2025 13:46:31 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 Dec 2025 23:02:31 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/99c6e0b4/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Bohumil Pečinka, Petros Michopulos</author>
 		<copyright>Bohumil Pečinka, Petros Michopulos</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+		<item>
+			<title>Kecy a politika 245: Vánoční otázkový speciál</title>
+			<description>&lt;p&gt;Vše, co jste o podcastu &lt;strong&gt;Kecy a politika&lt;/strong&gt; nevěděli a nebáli jste se zeptat! Jak se Petros s Bohoušem usmiřují po hádce? Jak to má Petros s Kateřinou Brožovou? Bude někdy politika jako dřív? A jakou vánočku upekla Karolína?&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/Kecy-a-politika-245-Vnon-otzkov-specil-e3cmdv4</link>
+			<guid isPermaLink="false">a2ebaf9c-1606-4c80-baf9-75d90b8a1f9a</guid>
+			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
+			<pubDate>Mon, 22 Dec 2025 23:00:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-22/414831980-44100-2-1f618be332e6c.mp3" length="49816554" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Vše, co jste o podcastu &lt;strong&gt;Kecy a politika&lt;/strong&gt; nevěděli a nebáli jste se zeptat! Jak se Petros s Bohoušem usmiřují po hádce? Jak to má Petros s Kateřinou Brožovou? Bude někdy politika jako dřív? A jakou vánočku upekla Karolína?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:51:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Kecy a politika 245: Vánoční otázkový speciál</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		<item>
 			<title>SPECIÁL Jan Špaček: Nosím papuče z leopardí kůže</title>
 			<description>&lt;p&gt;Do vánočního speciálu Kecy a politika jsme si pozvali youtubera Jana Špačka, vítěze prestižní soutěže Křišťálová lupa v kategorii Video. Kdo tuto cenu vlastně dostal? Už samotný výraz obličeje tohoto člověka připomíná předčasně zestárlého muže, do jehož rysů se vlily všechny rozpaky a úzkosti generace Z.&lt;/p&gt;&lt;p&gt;Poznávacím znamením této digi legendy je, že doma nosí zásadně papuče z leopardí kůže. Pokud to ovšem není jen imitace. A není tento „starý mladý“ sám imitací? Co takhle britského herce Sachy Barona Cohena a jeho nesmrtelné postavy Borata? Nebo se jedná o nevlastního syna slavného francouzského herce Pierra Richarda? Velký blondýn s černou botou z Kroměříže?&lt;/p&gt;&lt;p&gt;I tak ho mnozí pro jeho humor jdoucí do protipohybu vnímají. Seriálový major Zeman by se ho zeptal: Kdo jsi, Jene Špačku? Komik, nebo záškodník? Na tyto a další otázky nám dotyčný odpoví ve speciálu podcastu Kecy a politika.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>SPECIÁL Filip Matějka: Můžeme si dovolit zbrojit?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
-		<item>
-			<title>Kecy a politika 230: Volební program ANO je podvod</title>
-			<description>&lt;p&gt;Dlouho očekávaný volební program ANO byl minulý čtvrtek odtajněn. Hned na úvod řekněme: fakticky jde o zrušení úsporného balíčku Fialovy vlády a zákona o vyrovnaném hospodaření. Hnutí ANO se pokouší o složitý akrobatický manévr – snížit některé daně a současně v řádu vyšších stovek miliard navýšit výdaje.&lt;/p&gt;&lt;p&gt;Nové zdroje ve výši 1 bilionu korun chce Babišova strana získat ze zdanění šedé ekonomiky. Jde však jen o krycí manévr. Fikce o tisíci miliardách volně ležících kdesi, stačí je jen sebrat, je záminkou pro masivní zadlužování státu.&lt;/p&gt;&lt;p&gt;Zároveň byl minulý čtvrtek v Ostravě vyhlášen povolební hon na produktivní lidi, kteří v Česku vytvářejí hodnoty. Andrej Babiš byl u moci 8 let a musí vědět, že jeho pokusy s tzv. daňovou kobrou přinesly za deset let jen asi 16 miliard korun. EET zase přineslo mezi 9–18 miliardami, což stačí na pokrytí jednoho z mnoha volebních dárečků.&lt;/p&gt;&lt;p&gt;Vedlejším efektem tlaků na podnikatelskou sféru byla řada tzv. zaklekávání na různé firmy, které finanční úřady zničily. Jen do listopadu 2018 prohrál stát 40 % sporů s postiženými majiteli firem. Nejvyšší správní soud pak většině nezákonně šikanovaných přiznal odškodnění.&lt;/p&gt;&lt;p&gt;Stručně řečeno, celý volební program je založen na fikci, že „zdroje budou“. Ve skutečnosti jde o chladnokrevnou lež. Žádná vláda na světě by nebyla schopna sérii volebních slibů tohoto typu pokrýt lepším výběrem daní. Celý program se tak stává maskou – způsobem, jak zdůvodnit výraznější zadlužení státu.&lt;/p&gt;&lt;p&gt;Koneckonců, vždyť máme v záloze bilion korun, který určitě doputuje, takže proč bychom se netěšili. Po čtyřech letech tak zřejmě k moci přijde stejná sestava, jaká u ní byla v letech 2014–2021. Nikdo nemůže říkat, že nevěděl.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/Kecy-a-politika-230-Volebn-program-ANO-je-podvod-e37v6r5</link>
-			<guid isPermaLink="false">b80eb09b-73b5-4c9a-b9fc-81e4173d0322</guid>
-			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
-			<pubDate>Mon, 08 Sep 2025 22:01:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-8/407133572-44100-2-c2d63e6448c14.mp3" length="46000168" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Dlouho očekávaný volební program ANO byl minulý čtvrtek odtajněn. Hned na úvod řekněme: fakticky jde o zrušení úsporného balíčku Fialovy vlády a zákona o vyrovnaném hospodaření. Hnutí ANO se pokouší o složitý akrobatický manévr – snížit některé daně a současně v řádu vyšších stovek miliard navýšit výdaje.&lt;/p&gt;&lt;p&gt;Nové zdroje ve výši 1 bilionu korun chce Babišova strana získat ze zdanění šedé ekonomiky. Jde však jen o krycí manévr. Fikce o tisíci miliardách volně ležících kdesi, stačí je jen sebrat, je záminkou pro masivní zadlužování státu.&lt;/p&gt;&lt;p&gt;Zároveň byl minulý čtvrtek v Ostravě vyhlášen povolební hon na produktivní lidi, kteří v Česku vytvářejí hodnoty. Andrej Babiš byl u moci 8 let a musí vědět, že jeho pokusy s tzv. daňovou kobrou přinesly za deset let jen asi 16 miliard korun. EET zase přineslo mezi 9–18 miliardami, což stačí na pokrytí jednoho z mnoha volebních dárečků.&lt;/p&gt;&lt;p&gt;Vedlejším efektem tlaků na podnikatelskou sféru byla řada tzv. zaklekávání na různé firmy, které finanční úřady zničily. Jen do listopadu 2018 prohrál stát 40 % sporů s postiženými majiteli firem. Nejvyšší správní soud pak většině nezákonně šikanovaných přiznal odškodnění.&lt;/p&gt;&lt;p&gt;Stručně řečeno, celý volební program je založen na fikci, že „zdroje budou“. Ve skutečnosti jde o chladnokrevnou lež. Žádná vláda na světě by nebyla schopna sérii volebních slibů tohoto typu pokrýt lepším výběrem daní. Celý program se tak stává maskou – způsobem, jak zdůvodnit výraznější zadlužení státu.&lt;/p&gt;&lt;p&gt;Koneckonců, vždyť máme v záloze bilion korun, který určitě doputuje, takže proč bychom se netěšili. Po čtyřech letech tak zřejmě k moci přijde stejná sestava, jaká u ní byla v letech 2014–2021. Nikdo nemůže říkat, že nevěděl.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:47:54</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Kecy a politika 230: Volební program ANO je podvod</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		</channel>
 </rss>
