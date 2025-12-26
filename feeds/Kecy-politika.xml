@@ -5,7 +5,7 @@
 		<description>Kecy a politika je podcast komentátora Bohumila Pečinky a Petrose Michopulose, muže, který se čtvrtstoletí zabývá marketingem a politikou. Současná politika pohledem dvou rozdílných osobností, kteří se nebojí říct své názory. Nekorektní podcast, v němž se věci zasazují do kontextu a přísně se tu oddělují prázdné kecy od skutečné politiky.</description>
 		<link>https://novtom.github.io/rss/feeds/Kecy-politika.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 22 Dec 2025 23:02:31 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 25 Dec 2025 23:02:43 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/99c6e0b4/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Bohumil Pečinka, Petros Michopulos</author>
 		<copyright>Bohumil Pečinka, Petros Michopulos</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+		<item>
+			<title>SPECIÁL Jaroslav Bílek: Napadne Trump Venezuelu?</title>
+			<description>&lt;p&gt;S Jaroslavem Bílkem z Institutu politologických studií FSV UK. Jaroslav Bílek výzkumně působil na University of Notre Dame v USA nebo na UNAN Managua v Nikaragui. Ve svém výzkumu se věnuje volební manipulaci, vojenským převratům a autokratům v politice.&lt;/p&gt;&lt;p&gt;Původně jsme chtěli mluvit hlavně o vůdci Venezuely Madurovi a jeho režimu, ale nakonec nás aktuální události přivedly k mnoha dalším otázkám. Odhodlá se Donald Trump k plnohodnotné invazi? Jsou argumenty o drogovém režimu skutečné, nebo se jedná o přípravu na válku? A bude válka kvůli drogám, nebo kvůli surovinám? Jaká je vlastně strategie Trumpa ohledně Latinské Ameriky?&lt;/p&gt;&lt;p&gt;Co je Monroova doktrína? Odvolává se skutečně Trump na ni, nebo spíše na její rozšířenou doktrínu prezidenta Theodora Roosevelta? Je skutečně možné, aby USA ovládaly celý kontinent a vybudovaly tzv. „Pevnost Amerika“ a rozdělily si svět s Čínou a Ruskem?&lt;/p&gt;&lt;p&gt;To všechno jsme probírali, a mnoho dalších témat týkajících se vztahu USA a Latinské Ameriky i současných kroků trumpovské vlády ve Washingtonu.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Jaroslav-Blek-Napadne-Trump-Venezuelu-e3cmr87</link>
+			<guid isPermaLink="false">980e4b89-e7a5-4136-8637-f77d29f31516</guid>
+			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
+			<pubDate>Thu, 25 Dec 2025 23:00:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-22/414857942-44100-2-050883f01a73d.mp3" length="49243950" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;S Jaroslavem Bílkem z Institutu politologických studií FSV UK. Jaroslav Bílek výzkumně působil na University of Notre Dame v USA nebo na UNAN Managua v Nikaragui. Ve svém výzkumu se věnuje volební manipulaci, vojenským převratům a autokratům v politice.&lt;/p&gt;&lt;p&gt;Původně jsme chtěli mluvit hlavně o vůdci Venezuely Madurovi a jeho režimu, ale nakonec nás aktuální události přivedly k mnoha dalším otázkám. Odhodlá se Donald Trump k plnohodnotné invazi? Jsou argumenty o drogovém režimu skutečné, nebo se jedná o přípravu na válku? A bude válka kvůli drogám, nebo kvůli surovinám? Jaká je vlastně strategie Trumpa ohledně Latinské Ameriky?&lt;/p&gt;&lt;p&gt;Co je Monroova doktrína? Odvolává se skutečně Trump na ni, nebo spíše na její rozšířenou doktrínu prezidenta Theodora Roosevelta? Je skutečně možné, aby USA ovládaly celý kontinent a vybudovaly tzv. „Pevnost Amerika“ a rozdělily si svět s Čínou a Ruskem?&lt;/p&gt;&lt;p&gt;To všechno jsme probírali, a mnoho dalších témat týkajících se vztahu USA a Latinské Ameriky i současných kroků trumpovské vlády ve Washingtonu.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:51:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>SPECIÁL Jaroslav Bílek: Napadne Trump Venezuelu?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		<item>
 			<title>Kecy a politika 245: Vánoční otázkový speciál</title>
 			<description>&lt;p&gt;Vše, co jste o podcastu &lt;strong&gt;Kecy a politika&lt;/strong&gt; nevěděli a nebáli jste se zeptat! Jak se Petros s Bohoušem usmiřují po hádce? Jak to má Petros s Kateřinou Brožovou? Bude někdy politika jako dřív? A jakou vánočku upekla Karolína?&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Kecy a politika 231: Rusko útočí, kolaboranti taky</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
-		<item>
-			<title>SPECIÁL Filip Matějka: Můžeme si dovolit zbrojit?</title>
-			<description>&lt;p&gt;S Filipem jsme se snažili odpovědět na otázku, jestli si Česká republika může dovolit vydávat tři a více procent HDP na obranu, nebo je to nad její ekonomické možnosti. Stejně tak jsme se podívali i na ostatní evropské státy.&lt;/p&gt;&lt;p&gt;Jaké je provázání obranyschopnosti a zbrojení s ekonomikou? Má vojenská síla vliv na ekonomickou sílu států, případně celé EU, a v čem se to projevuje? Měla by EU začít uvažovat o jednotné armádě, nebo alespoň o větší centralizaci nákupů zbrojního vybavení – podobně jako USA nebo Čína?&lt;/p&gt;&lt;p&gt;Dají se na podobné nákupy aplikovat ekonomické modely, které se používají třeba při aukcích frekvencí pro mobilní operátory? Bavili jsme se také o ekonomickém fungování Ruska po přechodu na válečnou ekonomiku a o celé řadě dalších témat souvisejících s vazbami ekonomiky, zbrojením a vedením války.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Filip-Matjka-Meme-si-dovolit-zbrojit-e383lgr</link>
-			<guid isPermaLink="false">e8c34093-195f-4171-b961-c39ddeee2766</guid>
-			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
-			<pubDate>Thu, 11 Sep 2025 22:01:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-11/407319232-44100-2-23275150287ff.mp3" length="46502555" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;S Filipem jsme se snažili odpovědět na otázku, jestli si Česká republika může dovolit vydávat tři a více procent HDP na obranu, nebo je to nad její ekonomické možnosti. Stejně tak jsme se podívali i na ostatní evropské státy.&lt;/p&gt;&lt;p&gt;Jaké je provázání obranyschopnosti a zbrojení s ekonomikou? Má vojenská síla vliv na ekonomickou sílu států, případně celé EU, a v čem se to projevuje? Měla by EU začít uvažovat o jednotné armádě, nebo alespoň o větší centralizaci nákupů zbrojního vybavení – podobně jako USA nebo Čína?&lt;/p&gt;&lt;p&gt;Dají se na podobné nákupy aplikovat ekonomické modely, které se používají třeba při aukcích frekvencí pro mobilní operátory? Bavili jsme se také o ekonomickém fungování Ruska po přechodu na válečnou ekonomiku a o celé řadě dalších témat souvisejících s vazbami ekonomiky, zbrojením a vedením války.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:48:26</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>SPECIÁL Filip Matějka: Můžeme si dovolit zbrojit?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		</channel>
 </rss>
