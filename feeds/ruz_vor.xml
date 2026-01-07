@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 07 Jan 2026 00:54:29 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 Jan 2026 06:58:25 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>12 velkých příběhů aneb naše predikce pro rok 2026</title>
+			<description>&lt;p&gt;Rok 2026 nebude o jednom „velkém příběhu“. Bude o dvanácti. V tomhle dílu si s Danem projdeme naše osobní predikce: AI cyklus a valuace trhů, schopnost Evropy udělat domácí úkoly, restart Německa, konec (nebo nekonec) čínské realitní krize – a pak geopolitiku v plné síle: Ukrajina, Taiwan, Venezuela, Grónsko, americké midterms, Latinská Amerika a scénáře pro Írán. Bez morálních zkratek. S jasnými sázkami, co se může pokazit.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/12-velkch-pbh-aneb-nae-predikce-pro-rok-2026-e3d9gmf</link>
+			<guid isPermaLink="false">ce7fa4f4-b8de-4ef0-9581-6ceb0c8d55f1</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 07 Jan 2026 06:54:09 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-7/415624430-44100-2-ace3a8308161a.mp3" length="66494379" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Rok 2026 nebude o jednom „velkém příběhu“. Bude o dvanácti. V tomhle dílu si s Danem projdeme naše osobní predikce: AI cyklus a valuace trhů, schopnost Evropy udělat domácí úkoly, restart Německa, konec (nebo nekonec) čínské realitní krize – a pak geopolitiku v plné síle: Ukrajina, Taiwan, Venezuela, Grónsko, americké midterms, Latinská Amerika a scénáře pro Írán. Bez morálních zkratek. S jasnými sázkami, co se může pokazit.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>01:09:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>12 velkých příběhů aneb naše predikce pro rok 2026</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>The Next Wars: A Conversation with General David Petraeus</title>
 			<description>&lt;p&gt;General David Petraeus — former commander in Iraq and Afghanistan, director of CIA and leader of KKR — is one of today’s most influential strategic minds. In our conversation, we debate Ukraine, the Middle East, the risks in US–China competition and the future of NATO. A clear, unsentimental view of the world as it is — and as it may soon be.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>World Economic Outlook 2Q2025</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Trump tančí, trhy pláčou, Číňan mlčí</title>
-			<description>&lt;p&gt;Správný scénárista nekonečného seriálu ví, že na konci každého dílu má být šok a tajemství. No a přesně takhle řídí Trump světovou ekonomiku. Dnes je už evidentní, že není plán, strategie ani 5D šachy. Je pouze nekonečná reality show. Vzhledem k tomu, že minulý týden zasedala Světová banka i IMF, zavolali jsme pro názor rovnou do Washingtonu.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Trump-tan--trhy-plou--an-ml-e326hun</link>
-			<guid isPermaLink="false">54b4e90a-15a9-4775-b041-edf79926a284</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 30 Apr 2025 08:36:57 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-30/399332869-44100-2-a90bcb710f028.mp3" length="36518764" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Správný scénárista nekonečného seriálu ví, že na konci každého dílu má být šok a tajemství. No a přesně takhle řídí Trump světovou ekonomiku. Dnes je už evidentní, že není plán, strategie ani 5D šachy. Je pouze nekonečná reality show. Vzhledem k tomu, že minulý týden zasedala Světová banka i IMF, zavolali jsme pro názor rovnou do Washingtonu.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:38:02</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Trump tančí, trhy pláčou, Číňan mlčí</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
