@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 20 Jan 2026 20:05:25 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jan 2026 05:32:35 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Davos: kulichy, palčáky a Donald Trump</title>
+			<description>&lt;p&gt;Zasněžená horská vesnice, kde se jednou ročně potkává celý svět. Světové ekonomické fórum v Davosu je pro jedny symbolem liberálního globalismu, pro druhé ideálním terčem posměchu. A přesto sem letos míří i lidé, kteří by Davos nejraději zrušili. Včetně Donalda Trumpa. Natáčíme přímo z místa činu. Z Mekky globalismu. Se vším všudy.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Davos-kulichy--palky-a-Donald-Trump-e3duii1</link>
+			<guid isPermaLink="false">de8d5cd8-53bf-4392-98c7-2a3ce08e3a30</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 21 Jan 2026 05:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-20/416500450-44100-2-e4387f8046d29.mp3" length="18030340" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Zasněžená horská vesnice, kde se jednou ročně potkává celý svět. Světové ekonomické fórum v Davosu je pro jedny symbolem liberálního globalismu, pro druhé ideálním terčem posměchu. A přesto sem letos míří i lidé, kteří by Davos nejraději zrušili. Včetně Donalda Trumpa. Natáčíme přímo z místa činu. Z Mekky globalismu. Se vším všudy.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:18:46</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Davos: kulichy, palčáky a Donald Trump</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Revolution or Bloody Repression? Iran between Uprising and War</title>
 			<description>&lt;p&gt;Iran is experiencing the largest wave of anti-government protests in decades—possibly since 1979. The regime is responding with brutal force, while the people are answering with open defiance. What is really happening on the streets of Tehran? How firm is the grip of the ayatollahs, and does the crisis risk regional escalation? Our guest is Zineb Riboua, Moroccan political scientist and Middle East expert, who argues that the regime is in serious trouble.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Poland: An Economic Miracle in a Divided Country</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>American Leadership in Fractured World – Interview with James C. O’Brien</title>
-			<description>&lt;p&gt;America is unsure whether it wants to retreat into isolation or lead the world. It doesn’t know if it believes in free trade or in tariffs. It wavers between standing by its allies and courting its adversaries. We discussed all of this with James O’Brien, a top diplomat and veteran of the Clinton, Obama, and Biden administrations.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/American-Leadership-in-Fractured-World--Interview-with-James-C--OBrien-e33fdjg</link>
-			<guid isPermaLink="false">3ed8ac83-40bf-4c22-aa86-27e3475e2c08</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 28 May 2025 08:47:09 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-4-28/401139251-44100-2-7a33f6c3746af.mp3" length="52191398" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;America is unsure whether it wants to retreat into isolation or lead the world. It doesn’t know if it believes in free trade or in tariffs. It wavers between standing by its allies and courting its adversaries. We discussed all of this with James O’Brien, a top diplomat and veteran of the Clinton, Obama, and Biden administrations.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:54:21</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>American Leadership in Fractured World – Interview with James C. O’Brien</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
