@@ -5,7 +5,7 @@
 		<description>Kecy a politika je podcast komentátora Bohumila Pečinky a Petrose Michopulose, muže, který se čtvrtstoletí zabývá marketingem a politikou. Současná politika pohledem dvou rozdílných osobností, kteří se nebojí říct své názory. Nekorektní podcast, v němž se věci zasazují do kontextu a přísně se tu oddělují prázdné kecy od skutečné politiky.</description>
 		<link>https://novtom.github.io/rss/feeds/Kecy-politika.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 22 Jan 2026 19:41:36 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Jan 2026 23:02:15 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/99c6e0b4/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Bohumil Pečinka, Petros Michopulos</author>
 		<copyright>Bohumil Pečinka, Petros Michopulos</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+		<item>
+			<title>SPECIÁL Martin Kupka: ODS se musí zásadně změnit</title>
+			<description>&lt;p&gt;Speciál s nově zvoleným předsedou ODS Martinem Kupkou. O tom, jestli bude jako doposud každý předseda ODS někdy premiérem. Jaké byly největší chyby vlády a ODS v posledních letech. Jestli měl Stanjura s Blažkem odejít dřív a jestli Petr Fiala trváním na konsensu za každou cenu nezmrazil život ve straně. Jak chce zapojit příznivce a veřejnost do rozhodování ve straně a jestli pro ně budou otevřeny i primárky. Jaké budou nově povolené frakce v ODS a jaká bude jejich úloha v tvorbě politiky a spousta dalších témat, která čekají nového předsedu.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Martin-Kupka-ODS-se-mus-zsadn-zmnit-e3e1rg2</link>
+			<guid isPermaLink="false">e7624fef-c799-4e3c-8f83-0c8e5a5f4e7f</guid>
+			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
+			<pubDate>Thu, 22 Jan 2026 23:00:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-22/416641987-44100-2-e263eb029f106.mp3" length="56968671" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Speciál s nově zvoleným předsedou ODS Martinem Kupkou. O tom, jestli bude jako doposud každý předseda ODS někdy premiérem. Jaké byly největší chyby vlády a ODS v posledních letech. Jestli měl Stanjura s Blažkem odejít dřív a jestli Petr Fiala trváním na konsensu za každou cenu nezmrazil život ve straně. Jak chce zapojit příznivce a veřejnost do rozhodování ve straně a jestli pro ně budou otevřeny i primárky. Jaké budou nově povolené frakce v ODS a jaká bude jejich úloha v tvorbě politiky a spousta dalších témat, která čekají nového předsedu.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:59:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>SPECIÁL Martin Kupka: ODS se musí zásadně změnit</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		<item>
 			<title>Kecy a politika 249: Fiala skončil a nic nepochopil</title>
 			<description>&lt;p&gt;Skončil 32. kongres ODS a zřejmě bude patřit k těm důležitějším. Jednak odešel dlouholetý předseda Petr Fiala. Spolustraníci mu vystrojili velkolepý odchod, doprovázený slovy uznání a potleskem. Sám expremiér si své odcházení ještě předtím pojistil tím, že vydal brožuru o úspěších své vlády a sdělil, že současnou názorovou a personální strnulost ODS rozhodně nelze považovat za krizi. ODS podle něj není v krizi, ale pokud chce, udělá si ji sama.&lt;/p&gt;&lt;p&gt;Naopak lidé jako Radim Ivan, Karel Haas, ale do značné míry i Martin Kupka získali na kongresu většinu tím, že navrhli stranu, která za Fialova působení ztratila polovinu členů, otevřít širší veřejnosti. Poslanec Haas přišel dokonce s projektem ODS 2028, jímž by chtěl stranu během dvou let radikálně modernizovat. Zcela jistě narazí na křídlo starých rutinérů, kteří si myslí, že slunce obíhá kolem jejich procedurálních opozičních tanečků v Poslanecké sněmovně.&lt;/p&gt;&lt;p&gt;Pěkným příkladem byl závěrečný souboj mezi Markem Bendou a Radimem Ivanem o usnesení, zda otevírat ODS širší veřejnosti vytvářením ideových platforem. Tento bod usnesení nakonec na zásah Martina Kupky prošel a otevírá širší možnosti. Jestli je totiž v ODS možné cítit nějaký konflikt, pak je to ten generační. Závěry pražského kongresu dávají nespokojeným občanským demokratům dobrou možnost, jak svou stranu přizpůsobit 21. století.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Kecy a politika 235: Fiala odchází, kdo přichází?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
-		<item>
-			<title>SPECIÁL Martin Schmarz: Babiš bude vládnout v koalici s Agrofertem</title>
-			<description>&lt;p&gt;Komentátor Martin Schmarz patří k legendám české žurnalistiky a politiky. Nejdříve působil v Českém deníku, MF Dnes a České televizi. Následně byl &lt;em&gt;speechwriter&lt;/em&gt; premiéra Topolánka a místopředsedy vlády Bělobrádka. Dnes se cítí jako konzervativní komentátor na volné noze. Publikuje na INFO.cz a vystupuje na CNN Prima News.&lt;/p&gt;&lt;p&gt;Před sněmovními volbami zaujal svou tezí, že pokud se hnutí Stačilo! dostane do sněmovny, měla by vzniknout velká koalice ANO a SPOLU. V rozhovoru se vracíme k důvodům, které ho k tomuto názoru vedly. Schmarz je skeptický k tomu, jaké skutečné postavení budou mít Motoristé a především SPD v nové vládě v čele s hnutím ANO. Andrej Babiš si nejspíš vybere experty blízké Agrofertu a vnutí SPD představu, že jde o jejich lidi.&lt;/p&gt;&lt;p&gt;Schmarz byl také jedním z mluvčích velké vzpoury, která se v České televizi odehrála před 25 lety a na čtvrtstoletí zajistila ČT velmi svobodný prostor umožňující šíření informací, idejí a názorů. Nastupující vládní koalice chce televizi postátnit a podřídit politické moci.&lt;/p&gt;&lt;p&gt;Proč to dnes už nevyvolává žádné „vzbouření na vsi“?&lt;br&gt;A co ostatní soukromá média? Nevytrácí se společný prostor, kde by lidé mohli sdílet různé informace a názory? Co je hlavní riziko pro svobodu slova?&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Martin-Schmarz-Babi-bude-vldnout-v-koalici-s-Agrofertem-e398pff</link>
-			<guid isPermaLink="false">d02e7352-5cdb-4cb1-9c93-3b71a62ffb7c</guid>
-			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
-			<pubDate>Thu, 09 Oct 2025 22:01:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-8/408892029-44100-2-1a19e1c0d2d89.mp3" length="49810284" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Komentátor Martin Schmarz patří k legendám české žurnalistiky a politiky. Nejdříve působil v Českém deníku, MF Dnes a České televizi. Následně byl &lt;em&gt;speechwriter&lt;/em&gt; premiéra Topolánka a místopředsedy vlády Bělobrádka. Dnes se cítí jako konzervativní komentátor na volné noze. Publikuje na INFO.cz a vystupuje na CNN Prima News.&lt;/p&gt;&lt;p&gt;Před sněmovními volbami zaujal svou tezí, že pokud se hnutí Stačilo! dostane do sněmovny, měla by vzniknout velká koalice ANO a SPOLU. V rozhovoru se vracíme k důvodům, které ho k tomuto názoru vedly. Schmarz je skeptický k tomu, jaké skutečné postavení budou mít Motoristé a především SPD v nové vládě v čele s hnutím ANO. Andrej Babiš si nejspíš vybere experty blízké Agrofertu a vnutí SPD představu, že jde o jejich lidi.&lt;/p&gt;&lt;p&gt;Schmarz byl také jedním z mluvčích velké vzpoury, která se v České televizi odehrála před 25 lety a na čtvrtstoletí zajistila ČT velmi svobodný prostor umožňující šíření informací, idejí a názorů. Nastupující vládní koalice chce televizi postátnit a podřídit politické moci.&lt;/p&gt;&lt;p&gt;Proč to dnes už nevyvolává žádné „vzbouření na vsi“?&lt;br&gt;A co ostatní soukromá média? Nevytrácí se společný prostor, kde by lidé mohli sdílet různé informace a názory? Co je hlavní riziko pro svobodu slova?&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:51:53</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>SPECIÁL Martin Schmarz: Babiš bude vládnout v koalici s Agrofertem</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		</channel>
 </rss>
