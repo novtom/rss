@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 28 Jan 2026 05:32:37 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Jan 2026 05:32:35 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,22 +23,6 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-		<item>
-			<title>Auta, kam se podíváš</title>
-			<description>&lt;p&gt;Automobilový průmysl je páteří české i středoevropské ekonomiky. A právě teď stojí na historickém rozcestí. Zvítězí tradiční Evropa nebo disruptoři v čele s Číňani a Teslou? V úvodním analytickém dílu nové série o auťácích si klademe (pro Evropu) bolavé otázky: přežijí evropská auta? Kde dnes vzniká inovace a přidaná hodnota? Čím budeme jezdit za deset let?&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Auta--kam-se-podv-e3e9cdr</link>
-			<guid isPermaLink="false">b7fc46f2-f278-424d-bffe-ff20db068b54</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 28 Jan 2026 05:30:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-27/416964882-44100-2-4592450a68b4e.mp3" length="34945566" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Automobilový průmysl je páteří české i středoevropské ekonomiky. A právě teď stojí na historickém rozcestí. Zvítězí tradiční Evropa nebo disruptoři v čele s Číňani a Teslou? V úvodním analytickém dílu nové série o auťácích si klademe (pro Evropu) bolavé otázky: přežijí evropská auta? Kde dnes vzniká inovace a přidaná hodnota? Čím budeme jezdit za deset let?&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:36:24</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Auta, kam se podíváš</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Davos: kulichy, palčáky a Donald Trump</title>
 			<description>&lt;p&gt;Zasněžená horská vesnice, kde se jednou ročně potkává celý svět. Světové ekonomické fórum v Davosu je pro jedny symbolem liberálního globalismu, pro druhé ideálním terčem posměchu. A přesto sem letos míří i lidé, kteří by Davos nejraději zrušili. Včetně Donalda Trumpa. Natáčíme přímo z místa činu. Z Mekky globalismu. Se vším všudy.&lt;/p&gt;
@@ -503,5 +487,21 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>České makro očima Mirka Zámečníka</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
+		<item>
+			<title>Poland: An Economic Miracle in a Divided Country</title>
+			<description>&lt;p&gt;Poland has been remarkably successful. At the same time, the country remains internally divided—between liberals and conservatives, between cities and the countryside. We discussed all of this with Jadwiga Emilewicz, who, as Deputy Prime Minister for Economic Affairs, played a key role in driving these reforms.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Poland-An-Economic-Miracle-in-a-Divided-Country-e33o0qa</link>
+			<guid isPermaLink="false">6ed7d643-ab60-4ede-9ce2-9810e166d0e6</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Tue, 03 Jun 2025 11:54:30 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-3/401491731-44100-2-abad28b2205c5.mp3" length="43755728" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Poland has been remarkably successful. At the same time, the country remains internally divided—between liberals and conservatives, between cities and the countryside. We discussed all of this with Jadwiga Emilewicz, who, as Deputy Prime Minister for Economic Affairs, played a key role in driving these reforms.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:45:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Poland: An Economic Miracle in a Divided Country</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
