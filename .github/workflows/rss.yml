@@ -2,8 +2,12 @@ name: Update podcast RSS
 
 on:
   schedule:
-    - cron: "0 */5 * * *"   # každých 5 hodin (UTC)
+    - cron: "0 */5 * * *"    # každých 5 hodin (UTC)
   workflow_dispatch: {}
+
+# DŮLEŽITÉ: Povolení zápisu do repozitáře pro uložení změn
+permissions:
+  contents: write
 
 jobs:
   build:
