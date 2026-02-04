@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 04 Feb 2026 02:45:12 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 04 Feb 2026 09:16:48 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Asijská auta jedou do Evropy ft. Martin Vaculík a Michal Dokoupil</title>
+			<description>&lt;p&gt;Čínská auta už nejsou exotika. Jsou v showroomech, na silnicích i v debatách manažerů evropských automobilek. Jak dobrá skutečně jsou? Koho převálcují, koho ne – a proč je dnes „čínské auto“ i Tesla? A co na ně Korejci a Japonci? O realitě asijské ofenzivy mluví legendy motoristické žurnalistiky Martin Vaculík a Michal Dokoupil.&lt;br /&gt;&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Asijsk-auta-jedou-do-Evropy-ft--Martin-Vaculk-a-Michal-Dokoupil-e3ejoak</link>
+			<guid isPermaLink="false">53b73650-f481-466c-88ec-844a591a978c</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 04 Feb 2026 05:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-3/417418491-44100-2-2b5a8adaf102b.mp3" length="46944756" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Čínská auta už nejsou exotika. Jsou v showroomech, na silnicích i v debatách manažerů evropských automobilek. Jak dobrá skutečně jsou? Koho převálcují, koho ne – a proč je dnes „čínské auto“ i Tesla? A co na ně Korejci a Japonci? O realitě asijské ofenzivy mluví legendy motoristické žurnalistiky Martin Vaculík a Michal Dokoupil.&lt;br /&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:48:54</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Asijská auta jedou do Evropy ft. Martin Vaculík a Michal Dokoupil</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Auta, kam se podíváš</title>
 			<description>&lt;p&gt;Automobilový průmysl je páteří české i středoevropské ekonomiky. A právě teď stojí na historickém rozcestí. Zvítězí tradiční Evropa nebo disruptoři v čele s Číňani a Teslou? V úvodním analytickém dílu nové série o auťácích si klademe (pro Evropu) bolavé otázky: přežijí evropská auta? Kde dnes vzniká inovace a přidaná hodnota? Čím budeme jezdit za deset let?&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>O techu, vědě a školství s Jakubem Jurových</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>České makro očima Mirka Zámečníka</title>
-			<description>&lt;p&gt;Červen bude v našem podcastu patřit Česku. Přineseme vám čtyři rozhovory o české ekonomice, jak ta vypadá a co s ní dělat. Úvodní povídání patří českému makru a reformám. Zde není nikdo povolanější než Mirek Zámečník. Dejte si!&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/esk-makro-oima-Mirka-Zmenka-e33p8v6</link>
-			<guid isPermaLink="false">a1c67fd6-f7bf-42ba-a36d-0997adad79c2</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 04 Jun 2025 05:18:27 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-4/401544558-44100-2-c966d469462d1.mp3" length="25694039" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Červen bude v našem podcastu patřit Česku. Přineseme vám čtyři rozhovory o české ekonomice, jak ta vypadá a co s ní dělat. Úvodní povídání patří českému makru a reformám. Zde není nikdo povolanější než Mirek Zámečník. Dejte si!&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:26:45</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>České makro očima Mirka Zámečníka</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
