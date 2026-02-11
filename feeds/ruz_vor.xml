@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 10 Feb 2026 22:56:38 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Feb 2026 05:32:18 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Evropský comeback. Proč kung-pao ještě nevyhrálo nad řízkem ft. Martin Vaculík a Michal Dokoupil</title>
+			<description>&lt;p&gt;Evropa se nezhroutila. Naopak Volkswagen, BMW i Škoda dohánějí ztrátu v elektromobilech rychleji, než se čekalo. Čínská expanze zpomaluje – a bez cenové války se karta může obracet. Poprvé po letech má Evropa znovu sebevědomí. Opět přišli legendy motorismu Martin Vaculík a Michal Dokoupil.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Evropsk-comeback--Pro-kung-pao-jet-nevyhrlo-nad-zkem-ft--Martin-Vaculk-a-Michal-Dokoupil-e3etsrg</link>
+			<guid isPermaLink="false">2d7f71a6-0270-4da3-96e2-14c5e13115b8</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 11 Feb 2026 05:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-10/417862521-44100-2-5afd6b94ce6c.mp3" length="38573870" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Evropa se nezhroutila. Naopak Volkswagen, BMW i Škoda dohánějí ztrátu v elektromobilech rychleji, než se čekalo. Čínská expanze zpomaluje – a bez cenové války se karta může obracet. Poprvé po letech má Evropa znovu sebevědomí. Opět přišli legendy motorismu Martin Vaculík a Michal Dokoupil.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:40:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Evropský comeback. Proč kung-pao ještě nevyhrálo nad řízkem ft. Martin Vaculík a Michal Dokoupil</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Asijská auta jedou do Evropy ft. Martin Vaculík a Michal Dokoupil</title>
 			<description>&lt;p&gt;Čínská auta už nejsou exotika. Jsou v showroomech, na silnicích i v debatách manažerů evropských automobilek. Jak dobrá skutečně jsou? Koho převálcují, koho ne – a proč je dnes „čínské auto“ i Tesla? A co na ně Korejci a Japonci? O realitě asijské ofenzivy mluví legendy motoristické žurnalistiky Martin Vaculík a Michal Dokoupil.&lt;br /&gt;&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Debata o českém zdravotnictví s Jakubem Hlávkou, poradcem prezidenta Pavla</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>O techu, vědě a školství s Jakubem Jurových</title>
-			<description>&lt;p&gt;Česko nikdy nebyla montovna. Naopak; od půlky 19. století jsme udávali směr v technice, výrobě. Němci to věděli, Rusové to věděli. Bohužel svět se proměnil a nám ujíždí vlak. Jednoduše proto, že strojírenství už není pupek světa. Problémem je i naše závislost na Německu. Prim dnes udává tech, IT, data, AI a start-upy. Co s tím a jak být znova na špici jsme řešili s VC investorem, founderem a byznysmenem Kubou Jurových.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/O-techu--vd-a-kolstv-s-Jakubem-Jurovch-e343glb</link>
-			<guid isPermaLink="false">fb6ccaad-bb6e-4f74-8d4e-f8f91d3014a0</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 11 Jun 2025 10:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-11/401967843-44100-2-afcc79f1f1ccc.mp3" length="44356753" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Česko nikdy nebyla montovna. Naopak; od půlky 19. století jsme udávali směr v technice, výrobě. Němci to věděli, Rusové to věděli. Bohužel svět se proměnil a nám ujíždí vlak. Jednoduše proto, že strojírenství už není pupek světa. Problémem je i naše závislost na Německu. Prim dnes udává tech, IT, data, AI a start-upy. Co s tím a jak být znova na špici jsme řešili s VC investorem, founderem a byznysmenem Kubou Jurových.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:46:12</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>O techu, vědě a školství s Jakubem Jurových</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
