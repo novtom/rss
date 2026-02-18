@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 17 Feb 2026 22:02:50 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Feb 2026 05:31:41 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>An Interview with U.S. Ambassador Nicholas Burns: China Today and the Risk of a New Cold War</title>
+			<description>&lt;p&gt;He served as U.S. Ambassador to NATO. He was Ambassador to Greece. And most recently, he represented the United States in Beijing. He also spent thirteen years in the senior leadership of the U.S. State Department. Nicholas Burns is one of the most seasoned American diplomats of his generation.In our conversation, he speaks candidly about whether China is a systemic rival, what it actually means in practice, why Washington must judge Beijing by actions—not rhetoric—and where the greatest risks of miscalculation lie today. We covered trade, innovation, Taiwan, alliances, human rights, and the realities of an increasingly multipolar world—without illusions.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/An-Interview-with-U-S--Ambassador-Nicholas-Burns-China-Today-and-the-Risk-of-a-New-Cold-War-e3f7u2m</link>
+			<guid isPermaLink="false">3810981b-5590-484d-ba72-35e5713dd9ce</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 18 Feb 2026 05:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-17/418300859-44100-2-62e437514890c.mp3" length="53046124" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;He served as U.S. Ambassador to NATO. He was Ambassador to Greece. And most recently, he represented the United States in Beijing. He also spent thirteen years in the senior leadership of the U.S. State Department. Nicholas Burns is one of the most seasoned American diplomats of his generation.In our conversation, he speaks candidly about whether China is a systemic rival, what it actually means in practice, why Washington must judge Beijing by actions—not rhetoric—and where the greatest risks of miscalculation lie today. We covered trade, innovation, Taiwan, alliances, human rights, and the realities of an increasingly multipolar world—without illusions.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:55:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>An Interview with U.S. Ambassador Nicholas Burns: China Today and the Risk of a New Cold War</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Evropský comeback. Proč kung-pao ještě nevyhrálo nad řízkem ft. Martin Vaculík a Michal Dokoupil</title>
 			<description>&lt;p&gt;Evropa se nezhroutila. Naopak Volkswagen, BMW i Škoda dohánějí ztrátu v elektromobilech rychleji, než se čekalo. Čínská expanze zpomaluje – a bez cenové války se karta může obracet. Poprvé po letech má Evropa znovu sebevědomí. Opět přišli legendy motorismu Martin Vaculík a Michal Dokoupil.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Kdo zaplatí budoucnost české ekonomiky? O tom jsme mluvili s finančníkem a investorem Rosťou Plívou</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Debata o českém zdravotnictví s Jakubem Hlávkou, poradcem prezidenta Pavla</title>
-			<description>&lt;p&gt;České zdravotnictví je super. No irony here. Poměr cena/výkon máme unikátní. Náš systém ale už nějaký ten rok kulhá tím, jak stárne naše populace i naši zdravotníci. První potřebují stále více drahé péče, těch druhých je méně a méně. Co s tím? To jsme řešili s Jakubem Hlávkou, poradcem Petra Pavla.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Debata-o-eskm-zdravotnictv-s-Jakubem-Hlvkou--poradcem-prezidenta-Pavla-e34djdh</link>
-			<guid isPermaLink="false">b50e6e3c-f3b6-43ac-9cdd-c104d090e7b0</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 18 Jun 2025 11:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-18/402381185-44100-2-6fdf09cfcd067.mp3" length="29354526" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;České zdravotnictví je super. No irony here. Poměr cena/výkon máme unikátní. Náš systém ale už nějaký ten rok kulhá tím, jak stárne naše populace i naši zdravotníci. První potřebují stále více drahé péče, těch druhých je méně a méně. Co s tím? To jsme řešili s Jakubem Hlávkou, poradcem Petra Pavla.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:30:34</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Debata o českém zdravotnictví s Jakubem Hlávkou, poradcem prezidenta Pavla</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
