@@ -5,7 +5,7 @@
 		<description>Kecy a politika je podcast komentátora Bohumila Pečinky a Petrose Michopulose, muže, který se čtvrtstoletí zabývá marketingem a politikou. Současná politika pohledem dvou rozdílných osobností, kteří se nebojí říct své názory. Nekorektní podcast, v němž se věci zasazují do kontextu a přísně se tu oddělují prázdné kecy od skutečné politiky.</description>
 		<link>https://novtom.github.io/rss/feeds/Kecy-politika.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Mon, 16 Feb 2026 23:02:05 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Feb 2026 23:02:07 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/99c6e0b4/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Bohumil Pečinka, Petros Michopulos</author>
 		<copyright>Bohumil Pečinka, Petros Michopulos</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+		<item>
+			<title>SPECIÁL Mojmír Hampl: Schillerová nesestaví příští rozpočet</title>
+			<description>&lt;p&gt;Před dvěma týdny prohlásil, že přepracovaný návrh státního rozpočtu je protizákonný, šéf Národní rozpočtové rady Mojmír Hampl. Ve speciálu podcastu Kecy a politika s ním probíráme postavení jeho úřadu, který má vykonávat nezávislý dohled nad rozpočtovou politikou a být svým způsobem hlídačem rozpočtové disciplíny. Po tomto prohlášení následovala poznámka Andreje Babiše, že by jeho úřad mohl být zrušen. To následně potvrdil náměstek ministryně financí Petr Mach (SPD).&lt;/p&gt;&lt;p&gt;O co jde? Jaké má pravomoci tento úřad a jak se liší od podobných institucí v evropských zemích? Proč Česko nevytváří rezervy, když ekonomika roste o pěkných 2,6 procenta HDP? Jak vnímá Hampl sousední Německo, které se podle něj změnilo z rozpočtového jestřába v ekonomiku, která se nedávno poměrně hodně zadlužila? Jak by měl být ideálně složen státní rozpočet? Je zdravé, když většinu rozpočtu tvoří penze a sociální dávky? Bylo by vhodné znovu vrátit superhrubou mzdu? Měli by čeští politici disciplínu a byli by schopni tyto nové prostředky vyčlenit pouze na silniční a železniční infrastrukturu? A přivede do rozpočtu nové příjmy elektronická evidence tržeb (EET), kterou nedávno představila Alena Schillerová?&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Mojmr-Hampl-Schillerov-nesestav-pt-rozpoet-e3fb2nk</link>
+			<guid isPermaLink="false">a6a22e7a-83ae-4f2d-8a56-9ebb2d418209</guid>
+			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
+			<pubDate>Thu, 19 Feb 2026 23:00:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-19/418437558-44100-2-c85ca9aa97641.mp3" length="56052087" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Před dvěma týdny prohlásil, že přepracovaný návrh státního rozpočtu je protizákonný, šéf Národní rozpočtové rady Mojmír Hampl. Ve speciálu podcastu Kecy a politika s ním probíráme postavení jeho úřadu, který má vykonávat nezávislý dohled nad rozpočtovou politikou a být svým způsobem hlídačem rozpočtové disciplíny. Po tomto prohlášení následovala poznámka Andreje Babiše, že by jeho úřad mohl být zrušen. To následně potvrdil náměstek ministryně financí Petr Mach (SPD).&lt;/p&gt;&lt;p&gt;O co jde? Jaké má pravomoci tento úřad a jak se liší od podobných institucí v evropských zemích? Proč Česko nevytváří rezervy, když ekonomika roste o pěkných 2,6 procenta HDP? Jak vnímá Hampl sousední Německo, které se podle něj změnilo z rozpočtového jestřába v ekonomiku, která se nedávno poměrně hodně zadlužila? Jak by měl být ideálně složen státní rozpočet? Je zdravé, když většinu rozpočtu tvoří penze a sociální dávky? Bylo by vhodné znovu vrátit superhrubou mzdu? Měli by čeští politici disciplínu a byli by schopni tyto nové prostředky vyčlenit pouze na silniční a železniční infrastrukturu? A přivede do rozpočtu nové příjmy elektronická evidence tržeb (EET), kterou nedávno představila Alena Schillerová?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:58:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>SPECIÁL Mojmír Hampl: Schillerová nesestaví příští rozpočet</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		<item>
 			<title>Kecy a politika 253: Buranokracie Macinky a Turka</title>
 			<description>&lt;p&gt;Některé kroky lídrů hnutí Motoristé sobě, Petra Macinky a Filipa Turka, vyvolaly už před třemi týdny silné protestní hnutí. To se minulou neděli znovu připomnělo ve 410 z 625 českých a moravských měst. To, co bylo původně reakcí na neuctivé SMS zprávy hlavě státu, přešlo do obav o zahraničněpolitickou orientaci země a nesouhlas s autokratickými tendencemi. Mimo jiné s pokusem zničit nezávislost České televize a rozhlasu.&lt;/p&gt;&lt;p&gt;Do této atmosféry vhodili Motoristé další dva granáty. Petr Macinka na mnichovské bezpečnostní konferenci vyprovokoval debatu s americkou exministryní Clintonovou a polským ministrem zahraničí Sikorským. Příliš z toho bylo cítit, že provokace je pro něj vstupenkou do určitých amerických kruhů, které na svých sociálních sítích neopominuly tento konflikt zvýraznit. Macinka jednak vstoupil do americké kulturní debaty a současně na sebe upozornil ve snaze získat politické krytí v trumpovských kruzích. To je jeho věc. Zároveň je ovšem ministrem zahraničních věcí Česka, jehož národní zájmy by měl hájit. Otázkou je, jestli tahle profilace mu pomůže, nebo nahraje mezi hlavními evropskými spojenci.&lt;/p&gt;&lt;p&gt;Absurdní pak byla jeho polemika ohledně demokratického deficitu uvnitř EU. Znamená to, že by si ho představoval odstranit tím, že by se Unie proměnila ve federaci s jedním premiérem, parlamentem a vládou? To jistě ne. V tomto směru by si ministr zahraničí měl říct, o co usiluje, a navíc ne arogantním způsobem.&lt;/p&gt;&lt;p&gt;Jeho strana současně představila nového ministra životního prostředí Igora Červeného. Neministr Turek vzápětí nového ministra shodil slovy, že bude plnit, co mu na očích uvidí. Znamená to, že dvojministra Macinku, působícího dosud ve dvou resortech, nahradí dva ministři na jednom resortu? Experimenty Motoristů s parlamentní demokracií evidentně neberou konce.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Kecy a politika 239: Na koho Babiš zaútočí?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
-		<item>
-			<title>SPECIÁL historik Vít Vlnas: Češi nebyli nikdy moc velcí konzervativci</title>
-			<description>&lt;p&gt;Hlavním tématem rozhovoru byly vlivy českých politických dějin na současnou politiku. Jak se devatenácté století, které Vít Vlnas nazývá stoletím českého vzestupu, projevuje v současné české politice? Jaký vliv na dnešní český politický národ měla první republika a zkušenost s jejím koncem? Proč u nás pořád existuje slovanský sentiment a kam vlastně Češi politicky patří?&lt;/p&gt;&lt;p&gt;Vít Vlnas také tvrdí, že utváření české politiky v devatenáctém století pod vlivem klasického liberalismu je patrné v celém období po roce 1989 a že Češi nikdy nebyli žádní velcí konzervativci. Shodli jsme se na společné alergii na Česko jako most mezi Východem a Západem a na tom, že Češi mají mnohem více společného s Bavory než se Slováky.&lt;/p&gt;&lt;p&gt;Mluvili jsme taky o jeho žíravě ironických a velmi vtipných příspěvcích na síti X a o reakcích politiků na ně.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-historik-Vt-Vlnas-ei-nebyli-nikdy-moc-velc-konzervativci-e3aj63t</link>
-			<guid isPermaLink="false">c74369bc-3422-461a-af4d-85ddd42ad242</guid>
-			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
-			<pubDate>Thu, 06 Nov 2025 23:01:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-6/410713767-44100-2-dbee1bcd3effe.mp3" length="43521252" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Hlavním tématem rozhovoru byly vlivy českých politických dějin na současnou politiku. Jak se devatenácté století, které Vít Vlnas nazývá stoletím českého vzestupu, projevuje v současné české politice? Jaký vliv na dnešní český politický národ měla první republika a zkušenost s jejím koncem? Proč u nás pořád existuje slovanský sentiment a kam vlastně Češi politicky patří?&lt;/p&gt;&lt;p&gt;Vít Vlnas také tvrdí, že utváření české politiky v devatenáctém století pod vlivem klasického liberalismu je patrné v celém období po roce 1989 a že Češi nikdy nebyli žádní velcí konzervativci. Shodli jsme se na společné alergii na Česko jako most mezi Východem a Západem a na tom, že Češi mají mnohem více společného s Bavory než se Slováky.&lt;/p&gt;&lt;p&gt;Mluvili jsme taky o jeho žíravě ironických a velmi vtipných příspěvcích na síti X a o reakcích politiků na ně.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:45:20</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>SPECIÁL historik Vít Vlnas: Češi nebyli nikdy moc velcí konzervativci</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		</channel>
 </rss>
