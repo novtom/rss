@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 24 Feb 2026 20:42:24 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Feb 2026 05:32:19 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Beyond the Miracle: Is China’s Economic Model Running Out of Steam?</title>
+			<description>&lt;p&gt;Jeremy Mark is one of the most respected economic analysts covering the global economy. He spent 17 years at The Wall Street Journal and CNBC, then more than 20 years at the International Monetary Fund, and the past five years at the Atlantic Council. We asked him where the Chinese economy really stands. We debated brutal capitalism and five-year plans, the property collapse, demographics, the financial system, the role of the renminbi, and the risk of conflict with Taiwan. Is China truly growing at 5% — or only statistically? And why might it never overtake the United States?&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Beyond-the-Miracle-Is-Chinas-Economic-Model-Running-Out-of-Steam-e3fi8va</link>
+			<guid isPermaLink="false">ef0391e3-d24a-4698-b17b-c64f13842e8c</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 25 Feb 2026 05:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-24/418754569-44100-2-12ba9c5f1efca.mp3" length="55297252" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Jeremy Mark is one of the most respected economic analysts covering the global economy. He spent 17 years at The Wall Street Journal and CNBC, then more than 20 years at the International Monetary Fund, and the past five years at the Atlantic Council. We asked him where the Chinese economy really stands. We debated brutal capitalism and five-year plans, the property collapse, demographics, the financial system, the role of the renminbi, and the risk of conflict with Taiwan. Is China truly growing at 5% — or only statistically? And why might it never overtake the United States?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:57:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Beyond the Miracle: Is China’s Economic Model Running Out of Steam?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>An Interview with U.S. Ambassador Nicholas Burns: China Today and the Risk of a New Cold War</title>
 			<description>&lt;p&gt;He served as U.S. Ambassador to NATO. He was Ambassador to Greece. And most recently, he represented the United States in Beijing. He also spent thirteen years in the senior leadership of the U.S. State Department. Nicholas Burns is one of the most seasoned American diplomats of his generation.In our conversation, he speaks candidly about whether China is a systemic rival, what it actually means in practice, why Washington must judge Beijing by actions—not rhetoric—and where the greatest risks of miscalculation lie today. We covered trade, innovation, Taiwan, alliances, human rights, and the realities of an increasingly multipolar world—without illusions.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Trump, Putin &amp; Čína: Svět predátorů</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Kdo zaplatí budoucnost české ekonomiky? O tom jsme mluvili s finančníkem a investorem Rosťou Plívou</title>
-			<description>&lt;p&gt;V novém díle podcastu rozebíráme stav a vývoj českého kapitálového trhu — od kuponové privatizace po dnešní investiční fondy. Ptáme se, proč čeští investoři míří do zahraničí, zda fondy zvyšují ceny bytů a co by české ekonomice přineslo euro. Nechybí ani debata o tom, zda má Česko šanci stát se technologickým king-kongem. To vše jsme řešili s šéfem Winstor Capital Rostislavem Plívou.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Kdo-zaplat-budoucnost-esk-ekonomiky--O-tom-jsme-mluvili-s-finannkem-a-investorem-Rosou-Plvou-e34mv8c</link>
-			<guid isPermaLink="false">23d15096-2658-4f03-9997-5becb88a2d34</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 25 Jun 2025 07:00:31 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-5-25/402773168-44100-2-7b37d2ef5e31d.mp3" length="38199378" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;V novém díle podcastu rozebíráme stav a vývoj českého kapitálového trhu — od kuponové privatizace po dnešní investiční fondy. Ptáme se, proč čeští investoři míří do zahraničí, zda fondy zvyšují ceny bytů a co by české ekonomice přineslo euro. Nechybí ani debata o tom, zda má Česko šanci stát se technologickým king-kongem. To vše jsme řešili s šéfem Winstor Capital Rostislavem Plívou.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:39:47</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Kdo zaplatí budoucnost české ekonomiky? O tom jsme mluvili s finančníkem a investorem Rosťou Plívou</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
