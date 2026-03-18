@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 11 Mar 2026 06:20:02 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 18 Mar 2026 08:39:55 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Interview with General Yaakov Amidror about Iran, Hamas and Hezbollah</title>
+			<description>&lt;p&gt;General Yaakov Amidror joined the Israeli military before the Six-Day War in 1967, serving on the front lines in the Sinai. He later fought in the Yom Kippur War in 1973 and spent two decades in the IDF, including senior command positions. He then went into politics, most recently serving as Israel’s National Security Advisor. There are few people better placed to explain what is happening in the Middle East today and Israel’s strategy toward Iran, Hamas and Hezbollah.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Interview-with-General-Yaakov-Amidror-about-Iran--Hamas-and-Hezbollah-e3gjael</link>
+			<guid isPermaLink="false">94e4f285-7c5e-4cba-874b-e24c12c03ac1</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 18 Mar 2026 08:37:14 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-17/420219019-44100-2-e83f802c23fb6.mp3" length="44045791" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;General Yaakov Amidror joined the Israeli military before the Six-Day War in 1967, serving on the front lines in the Sinai. He later fought in the Yom Kippur War in 1973 and spent two decades in the IDF, including senior command positions. He then went into politics, most recently serving as Israel’s National Security Advisor. There are few people better placed to explain what is happening in the Middle East today and Israel’s strategy toward Iran, Hamas and Hezbollah.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:45:52</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Interview with General Yaakov Amidror about Iran, Hamas and Hezbollah</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>A US Air Force General on Iran, Logistics, and the War That Comes from the Sky</title>
 			<description>&lt;p&gt;Modern wars no longer begin on the ground. They begin in the air—and even earlier in spreadsheets, satellite imagery, and logistics plans. That is why we invited US Air Force General Leonard J. Kosinski to the podcast, who served as Director for Logistics on the Pentagon’s Joint Staff and spent more than three decades planning global operations for the U.S. military.We discuss the war with Iran through the eyes of someone who understands how thousands of targets are planned, how the architecture of an air campaign actually works, and why logistics ultimately decides the outcome—because without it, no modern war would last more than a few days.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Peníze, chléb a hry: Pohádka o české ekonomice</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Evropa vs. USA: Dolar není mrtvý, Trump je zrcadlo</title>
-			<description>&lt;p&gt;Kola ekonomiky se točí stále rychleji.Mění je politika, technologie, zákazníci i černé labutě. Umělá inteligence přinese větší změny než nástup internetu. Staré jistoty přestávají fungovat. Co s tím můžeme jako Češi dělat? A jak na to reagovat? Pozvali jsme tři špičkové ekonomy a s nimi roztočili proud dat a grafů. Dorazili Dominik Stroukal z MUP, Jan Berka z Roklenu a Štěpán Drábek, wunderkind české ekonomie. První díl nese název: Politika vítězí nad penězi.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Evropa-vs--USA-Dolar-nen-mrtv--Trump-je-zrcadlo-e36g01e</link>
-			<guid isPermaLink="false">f634a6bc-50b1-4c7b-b95d-2eda12a5a409</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 06 Aug 2025 04:30:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-5/405170052-44100-2-e349fe0c49349.mp3" length="45669981" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Kola ekonomiky se točí stále rychleji.Mění je politika, technologie, zákazníci i černé labutě. Umělá inteligence přinese větší změny než nástup internetu. Staré jistoty přestávají fungovat. Co s tím můžeme jako Češi dělat? A jak na to reagovat? Pozvali jsme tři špičkové ekonomy a s nimi roztočili proud dat a grafů. Dorazili Dominik Stroukal z MUP, Jan Berka z Roklenu a Štěpán Drábek, wunderkind české ekonomie. První díl nese název: Politika vítězí nad penězi.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:47:34</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Evropa vs. USA: Dolar není mrtvý, Trump je zrcadlo</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
