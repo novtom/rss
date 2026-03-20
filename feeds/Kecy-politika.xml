@@ -5,7 +5,7 @@
 		<description>Kecy a politika je podcast komentátora Bohumila Pečinky a Petrose Michopulose, muže, který se čtvrtstoletí zabývá marketingem a politikou. Současná politika pohledem dvou rozdílných osobností, kteří se nebojí říct své názory. Nekorektní podcast, v němž se věci zasazují do kontextu a přísně se tu oddělují prázdné kecy od skutečné politiky.</description>
 		<link>https://novtom.github.io/rss/feeds/Kecy-politika.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 19 Mar 2026 17:23:09 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 19 Mar 2026 23:02:11 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/99c6e0b4/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Bohumil Pečinka, Petros Michopulos</author>
 		<copyright>Bohumil Pečinka, Petros Michopulos</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+		<item>
+			<title>SPECIÁL Vladimír Foltán: O co jde v aféře Epstein?</title>
+			<description>&lt;p&gt;Speciál s Vláďou Foltánem o aféře Epstein. Vláďa je publicista, který se dlouhodobě zabývá americkou politikou a v posledních letech se podrobně věnuje událostem kolem Jeffreyho Epsteina. Dělá k tématu pravidelný přehled z amerických médií na síti X a zároveň k tomu zveřejnil několik obsáhlých textů.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Kde se vzal Jeffrey Epstein? Jak se mu povedlo tak dlouho vyhýbat spravedlnosti a vytvářet rozsáhlou síť VIP klientů, politiků a businessmanů, aniž by si toho někdo všiml? Jak probíhalo jeho první stíhání na Floridě a jak se mu povedlo vyklouznout? Co se odehrávalo během jeho téměř dvacetiletého přátelství s Donaldem Trumpem? Spáchal sebevraždu a jaké jsou důvody mnoha konspirací kolem jeho smrti? Proč republikáni tak dlouho slibovali zveřejnění všech dokumentů a pak od toho ustoupili? Chytili se do své pasti kolem pedofilního spiknutí demokratů, kterou šířili přes deset let? A mnoho dalších podrobností o celé aféře, která zdaleka nekončí.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Vladimr-Foltn-O-co-jde-v-afe-Epstein-e3gmjvu</link>
+			<guid isPermaLink="false">04559ab0-e7dd-4cb4-98be-1812591157e6</guid>
+			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
+			<pubDate>Thu, 19 Mar 2026 23:00:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-19/420371024-44100-2-f2548d6bcc0a2.mp3" length="57122898" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Speciál s Vláďou Foltánem o aféře Epstein. Vláďa je publicista, který se dlouhodobě zabývá americkou politikou a v posledních letech se podrobně věnuje událostem kolem Jeffreyho Epsteina. Dělá k tématu pravidelný přehled z amerických médií na síti X a zároveň k tomu zveřejnil několik obsáhlých textů.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Kde se vzal Jeffrey Epstein? Jak se mu povedlo tak dlouho vyhýbat spravedlnosti a vytvářet rozsáhlou síť VIP klientů, politiků a businessmanů, aniž by si toho někdo všiml? Jak probíhalo jeho první stíhání na Floridě a jak se mu povedlo vyklouznout? Co se odehrávalo během jeho téměř dvacetiletého přátelství s Donaldem Trumpem? Spáchal sebevraždu a jaké jsou důvody mnoha konspirací kolem jeho smrti? Proč republikáni tak dlouho slibovali zveřejnění všech dokumentů a pak od toho ustoupili? Chytili se do své pasti kolem pedofilního spiknutí demokratů, kterou šířili přes deset let? A mnoho dalších podrobností o celé aféře, která zdaleka nekončí.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:59:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>SPECIÁL Vladimír Foltán: O co jde v aféře Epstein?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		<item>
 			<title>Kecy a politika 257: Vláda utahuje šrouby</title>
 			<description>&lt;p&gt;I politika má své cykly. Po uvolnění politických poměrů vesměs následuje utahování šroubů. Éry liberalizace jsou vystřídány obdobím zvýšené státní kontroly. Jeden takový sešup zažíváme nyní. V posledním podcastu se to pokoušíme demonstrovat na několika vládních zákonech.&lt;/p&gt;&lt;p&gt;Nade vším stojí zákon o registraci subjektů se zahraničními vazbami, který nese všechny znaky obdobného Putinova zákona z roku 2012. Ruský prezident tento zákon přijal v přímé reakci na demonstrace ruské veřejnosti v letech 2011/12, které kritizovaly zmanipulované volby a návrat jeho osoby do prezidentské funkce. Zákon ve své filozofii vychází z jednoho proudu ruských dějin, chápajícího Západ jako zdroj zkaženosti a úpadku. Proto je veškerá podpora ze Západu v duchu této logiky chápána jako pokus zničit „matičku Rus“.&lt;/p&gt;&lt;p&gt;Co s touto protizápadní obsesí má společného Česká republika, která většinu svých dějin byla tím Západem, nebo přinejmenším jeho dynamicky se rozvíjející periferií? Proč se připojujeme k zemím jako Maďarsko, Slovensko, Gruzie nebo Kyrgyzstán, které zákony o „zahraničních agentech“ chtějí zastrašit společnost navázanou na mezinárodní svět?&lt;/p&gt;&lt;p&gt;Nejde o peníze českých daňových poplatníků, jak o tom mluví Andrej Babiš. Jde o kontrolu a buzeraci lidí, což se – paradoxně – vede v duchu boje za svobodu slova. Rusko přitom minimálně od roku 2012 vede subverzivní boj proti téhle republice a podporuje a platí řadu dezinformačních kanálů. To je optika celé téhle vlády – mráz nepřichází z Kremlu, ale z Bruselu.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Kecy a politika 243: Nanebevzetí Andreje Babiše</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
-		<item>
-			<title>SPECIÁL Karel Svoboda: Rusko může válčit donekonečna</title>
-			<description>&lt;p&gt;S doktorem Karlem Svobodou z Katedry ruských a východoevropských studií Karlovy univerzity o tom, kdy skončí válka na Ukrajině a jak válku ekonomicky zvládá Rusko. Může opravdu Rusko válčit donekonečna? Vede mírová jednání upřímně, nebo jenom tahá Donalda Trumpa za nos? Nebo je to od začátku pro Trumpa rodinný byznys a jakýkoliv mír je pro něj jen prostředek k získání majetku pro jeho rodinu?&lt;/p&gt;&lt;p&gt;Taky probereme, jak Putin falšuje statistické údaje o ruské ekonomice a jak upadá a zaostává ruský průmysl. A spoustu dalších zajímavých věcí o fungování současného ruského režimu.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Karel-Svoboda-Rusko-me-vlit-donekonena-e3bshdk</link>
-			<guid isPermaLink="false">afa0d4aa-4d79-4128-8848-89aa6e8b15e1</guid>
-			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
-			<pubDate>Thu, 04 Dec 2025 23:01:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-4/413743442-44100-2-51a7f1b95a22a.mp3" length="47327607" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;S doktorem Karlem Svobodou z Katedry ruských a východoevropských studií Karlovy univerzity o tom, kdy skončí válka na Ukrajině a jak válku ekonomicky zvládá Rusko. Může opravdu Rusko válčit donekonečna? Vede mírová jednání upřímně, nebo jenom tahá Donalda Trumpa za nos? Nebo je to od začátku pro Trumpa rodinný byznys a jakýkoliv mír je pro něj jen prostředek k získání majetku pro jeho rodinu?&lt;/p&gt;&lt;p&gt;Taky probereme, jak Putin falšuje statistické údaje o ruské ekonomice a jak upadá a zaostává ruský průmysl. A spoustu dalších zajímavých věcí o fungování současného ruského režimu.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:49:17</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>SPECIÁL Karel Svoboda: Rusko může válčit donekonečna</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		</channel>
 </rss>
