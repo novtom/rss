@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 24 Mar 2026 21:38:27 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Mar 2026 05:32:51 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Trump vs. Iran: shock, oil and market chaos</title>
+			<description>&lt;p&gt;War is not just geopolitics. It is also a large-scale fiscal experiment. The only real question: who ends up making money? Trump says high oil prices are great for the U.S. The Fed may be less enthusiastic. Inflation, debt and the dollar are back in play—again.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Trump-vs--Iran-shock--oil-and-market-chaos-e3gu1li</link>
+			<guid isPermaLink="false">a58266ac-5e88-41db-a636-350abd5a91c5</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 25 Mar 2026 05:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-24/420697336-44100-2-620ce770f4e44.mp3" length="26741445" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;War is not just geopolitics. It is also a large-scale fiscal experiment. The only real question: who ends up making money? Trump says high oil prices are great for the U.S. The Fed may be less enthusiastic. Inflation, debt and the dollar are back in play—again.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:27:51</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Trump vs. Iran: shock, oil and market chaos</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Interview with General Yaakov Amidror about Iran, Hamas and Hezbollah</title>
 			<description>&lt;p&gt;General Yaakov Amidror joined the Israeli military before the Six-Day War in 1967, serving on the front lines in the Sinai. He later fought in the Yom Kippur War in 1973 and spent two decades in the IDF, including senior command positions. He then went into politics, most recently serving as Israel’s National Security Advisor. There are few people better placed to explain what is happening in the Middle East today and Israel’s strategy toward Iran, Hamas and Hezbollah.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Česko je úžasné místo k životu</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Peníze, chléb a hry: Pohádka o české ekonomice</title>
-			<description>&lt;p&gt;Česká ekonomika je jako stroj, který jede, ale občas škytne. Ovlivňuje ji politika, světové trendy i naše vlastní zvyky. Inflace se mění v tichého zloděje, průmysl hledá nový dech a pracovní trh se přetváří před očima. Dokážeme se přizpůsobit, nebo nám ujede vlak? A kde jsou příležitosti, které jinde nevidí? Do druhého dílu jsme znovu pozvali tři špičkové ekonomy – Dominika Stroukala z MUP, Jana Berku, hlavního ekonoma Portu, a Štěpána Drábka, wunderkind české ekonomie – a společně jsme rozebrali české hospodářství na šroubky. Druhý díl nese název: Peníze, chléb a hry: Pohádka o české ekonomice&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Penze--chlb-a-hry-Pohdka-o-esk-ekonomice-e36pdsr</link>
-			<guid isPermaLink="false">49be9355-d3ca-490f-abc0-96632982af68</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 13 Aug 2025 04:30:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-7-12/405563789-44100-2-8585ab80bb3ac.mp3" length="34545579" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Česká ekonomika je jako stroj, který jede, ale občas škytne. Ovlivňuje ji politika, světové trendy i naše vlastní zvyky. Inflace se mění v tichého zloděje, průmysl hledá nový dech a pracovní trh se přetváří před očima. Dokážeme se přizpůsobit, nebo nám ujede vlak? A kde jsou příležitosti, které jinde nevidí? Do druhého dílu jsme znovu pozvali tři špičkové ekonomy – Dominika Stroukala z MUP, Jana Berku, hlavního ekonoma Portu, a Štěpána Drábka, wunderkind české ekonomie – a společně jsme rozebrali české hospodářství na šroubky. Druhý díl nese název: Peníze, chléb a hry: Pohádka o české ekonomice&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:35:59</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Peníze, chléb a hry: Pohádka o české ekonomice</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
