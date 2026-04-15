@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 09 Apr 2026 11:00:54 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 15 Apr 2026 06:53:32 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Don Tzu a umění strategického chaosu</title>
+			<description>&lt;p&gt;Sedm týdnů operace Epic Fury, zhroucené rozhovory v Islámábádu a zavřený Hormuz. Ropa nad 100 dolarů, Rusko bohatne, Čína se směje a Trump má 37 % podpory. Rekapitulujeme dva nejdivočejší týdny války v Íránu — satiricky, ale s daty.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Don-Tzu-a-umn-strategickho-chaosu-e3htjdm</link>
+			<guid isPermaLink="false">e0cf9c76-2c4a-4bf5-91d3-acc90c3a9b1b</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 15 Apr 2026 04:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-3-14/422072516-44100-2-140b95a61ba63.mp3" length="40728867" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Sedm týdnů operace Epic Fury, zhroucené rozhovory v Islámábádu a zavřený Hormuz. Ropa nad 100 dolarů, Rusko bohatne, Čína se směje a Trump má 37 % podpory. Rekapitulujeme dva nejdivočejší týdny války v Íránu — satiricky, ale s daty.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:42:25</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Don Tzu a umění strategického chaosu</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Will China overtake the U.S.? Probably—but not how you think</title>
 			<description>&lt;p&gt;China produces over one-third of global industrial output. That’s not a trend. That’s a structural fact. Plus China keeps growing—but also keeps hitting constraints: weak consumption, high savings, terrible demographics and pressure to shift its model. So, will it find enough energy to jump over the U.S?&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Karel Havlíček: Aby Evropa přežila, musí být víc sobecká</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Premiér Fiala: Bez USA se Ukrajina nevyřeší</title>
-			<description>&lt;p&gt;Volby se blíží a my jdeme přímo za těmi, kdo se vás snaží přesvědčit. Čekají vás čtyři debaty se čtyřmi top politiky, dva z vlády a dva z opozice. Bez laciných přestřelek, zato s otázkami na ekonomiku, bydlení, školství, byznys i místo Česka ve světě. Jako první dorazil premiér Petr Fiala. Jak obhajuje svou práci? A co vlastně nabízí do dalšího kola? Podívejte se sami.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Premir-Fiala-Bez-USA-se-Ukrajina-nevye-e37o9ev</link>
-			<guid isPermaLink="false">50896968-423f-4be6-a013-04eba4d7b559</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Sun, 07 Sep 2025 15:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-4/406860736-44100-2-0fc9ac0df202a.mp3" length="46120541" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Volby se blíží a my jdeme přímo za těmi, kdo se vás snaží přesvědčit. Čekají vás čtyři debaty se čtyřmi top politiky, dva z vlády a dva z opozice. Bez laciných přestřelek, zato s otázkami na ekonomiku, bydlení, školství, byznys i místo Česka ve světě. Jako první dorazil premiér Petr Fiala. Jak obhajuje svou práci? A co vlastně nabízí do dalšího kola? Podívejte se sami.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:48:02</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Premiér Fiala: Bez USA se Ukrajina nevyřeší</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
