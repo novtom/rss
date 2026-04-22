@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 21 Apr 2026 20:29:09 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Apr 2026 04:32:16 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Trojitá energetická krize</title>
+			<description>&lt;p&gt;Třikrát větší ropný šok než v roce 1973, kolaps Hormuzu o 97%, pojistné tankerů vyletělo 60×, strategické rezervy se rozpouštějí nejrychleji v historii. Amerika na krizi paradoxně vydělává, Rusko inkasuje miliardy navíc a Evropa nahradila jednu závislost druhou. Proč je rok 2026 horší než 70. léta — a proč Volckerova pilulka tentokrát neexistuje.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Trojit-energetick-krize-e3i8jkf</link>
+			<guid isPermaLink="false">706bbd30-deac-45e8-ab15-98464f98e6c7</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 22 Apr 2026 04:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-3-21/422555994-44100-2-b300a49fef942.mp3" length="43126281" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Třikrát větší ropný šok než v roce 1973, kolaps Hormuzu o 97%, pojistné tankerů vyletělo 60×, strategické rezervy se rozpouštějí nejrychleji v historii. Amerika na krizi paradoxně vydělává, Rusko inkasuje miliardy navíc a Evropa nahradila jednu závislost druhou. Proč je rok 2026 horší než 70. léta — a proč Volckerova pilulka tentokrát neexistuje.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:44:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Trojitá energetická krize</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Don Tzu a umění strategického chaosu</title>
 			<description>&lt;p&gt;Sedm týdnů operace Epic Fury, zhroucené rozhovory v Islámábádu a zavřený Hormuz. Ropa nad 100 dolarů, Rusko bohatne, Čína se směje a Trump má 37 % podpory. Rekapitulujeme dva nejdivočejší týdny války v Íránu — satiricky, ale s daty.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Ministr Kupka: Dálnic bude víc než v Polsku</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Karel Havlíček: Aby Evropa přežila, musí být víc sobecká</title>
-			<description>&lt;p&gt;Makroekonomie, Evropa, Čína, Green Deal a Karel Havlíček v hlavní roli. V novém díle podcastu přichází politik, který se nebojí jít do hloubky. Místopředseda sněmovny a bývalý ministr průmyslu a dopravy odpovídá na otázky o daních, rozpočtech, investičních pobídkách i energetice. Řeč přišla i na Čínu, nové uhelné elektrárny, globalizaci nebo vliv případné vlády ANO na postavení Česka v Bruselu. Bez floskulí a bez kliček.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Karel-Havlek-Aby-Evropa-peila--mus-bt-vc-sobeck-e386tnb</link>
-			<guid isPermaLink="false">8c27e918-512b-4fe5-8ee0-9ff659bfbdc8</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Sun, 14 Sep 2025 15:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-14/407457015-44100-2-8e04f4c4fee78.mp3" length="48798405" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Makroekonomie, Evropa, Čína, Green Deal a Karel Havlíček v hlavní roli. V novém díle podcastu přichází politik, který se nebojí jít do hloubky. Místopředseda sněmovny a bývalý ministr průmyslu a dopravy odpovídá na otázky o daních, rozpočtech, investičních pobídkách i energetice. Řeč přišla i na Čínu, nové uhelné elektrárny, globalizaci nebo vliv případné vlády ANO na postavení Česka v Bruselu. Bez floskulí a bez kliček.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:50:49</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Karel Havlíček: Aby Evropa přežila, musí být víc sobecká</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
