@@ -5,7 +5,7 @@
 		<description>Kecy a politika je podcast komentátora Bohumila Pečinky a Petrose Michopulose, muže, který se čtvrtstoletí zabývá marketingem a politikou. Současná politika pohledem dvou rozdílných osobností, kteří se nebojí říct své názory. Nekorektní podcast, v němž se věci zasazují do kontextu a přísně se tu oddělují prázdné kecy od skutečné politiky.</description>
 		<link>https://novtom.github.io/rss/feeds/Kecy-politika.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 23 Apr 2026 16:07:32 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Apr 2026 22:02:35 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/99c6e0b4/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Bohumil Pečinka, Petros Michopulos</author>
 		<copyright>Bohumil Pečinka, Petros Michopulos</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+		<item>
+			<title>SPECIÁL Petr Sokol: Maďarské povstání proti Orbánovi</title>
+			<description>&lt;p&gt;V posledních týdnech jsme se několikrát věnovali výsledkům voleb v Maďarsku. Ani ne tak kvůli samotným výsledkům. Myslíme si, že hlasování voličů v této zemi bylo něčím víc než vyjádřením sympatií pro stranu X nebo Y. Šlo o radikální vyslovení nedůvěry autoritativnímu režimu, který zde premiér Viktor Orbán řadu let budoval. Má to a hlavně bude to mít odraz ve vnitřní politice řady sousedních zemí, protože model Orbán byl léta vykreslován jako ideální prototyp politického režimu hodný následování.&lt;/p&gt;&lt;p&gt;V rozhovoru s politologem Petrem Sokolem rozebíráme politické posuny v Maďarsku, které umožnily vítězství strany Tisza a jejího kandidáta Pétera Magyara. Jak se změnil poměr sil mezi městem a venkovem? Proč se maďarským volbám říká revoluce mladých? Jak je to s Benešovými dekrety a bude chtít nový maďarský premiér jejich zrušení? Nechtějí Maďaři ve skutečnosti království, což úspěšně maskují za republiku s monarchistickými rysy? Jaké je poučení z orbánismu?&lt;/p&gt;&lt;p&gt;Ve druhé části se pokoušíme prokousat bulharskými volbami, v nichž zvítězil generál letectva Radev, který řadě pozorovatelů připomíná nového Orbána.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Petr-Sokol-Maarsk-povstn-proti-Orbnovi-e3ibqrs</link>
+			<guid isPermaLink="false">8f3568a8-cb34-4c05-a480-397db358e5ab</guid>
+			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
+			<pubDate>Thu, 23 Apr 2026 22:00:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-3-23/422703112-44100-2-8ea4567c44662.mp3" length="54764772" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;V posledních týdnech jsme se několikrát věnovali výsledkům voleb v Maďarsku. Ani ne tak kvůli samotným výsledkům. Myslíme si, že hlasování voličů v této zemi bylo něčím víc než vyjádřením sympatií pro stranu X nebo Y. Šlo o radikální vyslovení nedůvěry autoritativnímu režimu, který zde premiér Viktor Orbán řadu let budoval. Má to a hlavně bude to mít odraz ve vnitřní politice řady sousedních zemí, protože model Orbán byl léta vykreslován jako ideální prototyp politického režimu hodný následování.&lt;/p&gt;&lt;p&gt;V rozhovoru s politologem Petrem Sokolem rozebíráme politické posuny v Maďarsku, které umožnily vítězství strany Tisza a jejího kandidáta Pétera Magyara. Jak se změnil poměr sil mezi městem a venkovem? Proč se maďarským volbám říká revoluce mladých? Jak je to s Benešovými dekrety a bude chtít nový maďarský premiér jejich zrušení? Nechtějí Maďaři ve skutečnosti království, což úspěšně maskují za republiku s monarchistickými rysy? Jaké je poučení z orbánismu?&lt;/p&gt;&lt;p&gt;Ve druhé části se pokoušíme prokousat bulharskými volbami, v nichž zvítězil generál letectva Radev, který řadě pozorovatelů připomíná nového Orbána.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:57:02</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>SPECIÁL Petr Sokol: Maďarské povstání proti Orbánovi</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		<item>
 			<title>Kecy a politika 262: České budování orbánismu</title>
 			<description>&lt;p&gt;Rakouský novinář Martin Leidenfrost ve svém článku popisoval neuvěřitelnou atmosféru při vyhlašování výsledků voleb v celé Budapešti. Podle něj to ani vzdáleně nepřipomínalo reakci na volební výsledek. Podle něj se takhle v Evropě ve 20. století slavila jen jedna věc – osvobození.&lt;/p&gt;&lt;p&gt;Je to tak. Maďaři dnes zažívají něco jako Češi v květnu 1945 nebo my a Němci koncem roku 1989. Není to pouhá výměna vlády. Je to prostě osvobození od režimu, který většina společnosti nesnášela. Jinou otázkou je, jak daleko v jeho demontáži dojde vítěz voleb Péter Magyar.&lt;/p&gt;&lt;p&gt;Paradoxem je, že v Česku zažíváme reverzní proces, kdy postupně začínáme s budováním režimu, na jehož troskách ještě před pár dny tančila většina Budapešti. Stručně řečeno, orbánismus je systém, kde stát, jeho fondy a nadace mají kontrolu nad významnou částí ekonomiky. Podle odhadů mezinárodních institucí je až 20 procent ekonomiky tak či onak spjato s vládnoucí stranou Fidesz.&lt;/p&gt;&lt;p&gt;Tenhle etatistický přístup k ekonomice a klientelismus s tím spojený byly přesně to, co podrazilo Orbánovi nohy. Výsledky maďarské ekonomiky v posledních deseti letech a reálné ukazatele (HDP na hlavu, spotřeba na obyvatele) ve srovnání s okolními státy nebyly příznivé. Jasně se ukázalo, kam vede tzv. národní konzervatismus v praxi. Připomíná to starou levici, která politickou spásu viděla v zestátňování.&lt;/p&gt;&lt;p&gt;Vůbec to nemá nic společného s liberálně-konzervativní pravicí, jak se v Česku ustavila v 90. letech. I proto je orbánismus obtížně přenositelný do českých poměrů. Druhým pilířem orbánismu jsou však pokusy omezovat nezávislé instituce. Tady se česká vláda činí opravdu čile a jako první objekt si vybrala Českou televizi. Jak tento boj dopadne?&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Kecy a politika 248: Jde uřídit šestikolku?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
-		<item>
-			<title>SPECIÁL Matěj Schneider: Evropa Trumpa analyzuje chybně</title>
-			<description>&lt;p&gt;Speciál s Matějem Schneiderem z podcastu &lt;em&gt;Redneck&lt;/em&gt; o současné trumpovské Americe. Jak sám Matěj po natáčení řekl, nakonec jsme toho probrali docela dost. Jak se má člověk v Česku dívat na dnešní Ameriku a jak jí rozumět? Je to pořád pilíř západní civilizace a náš spojenec? Myslí Donald Trump vážně všechno, co říká, nebo je to jen „bannonovská mlha“, za kterou si dělá byznys pro svou rodinu? Chce se Amerika skutečně vrátit k předválečnému izolacionismu, nebo má pořád imperiální choutky? Bude po venezuelské akci pokračovat i jinde? Jak se má v takovém světě chovat Česká republika? Chápe vůbec Evropa, co Trump dělá, a jsou její reakce správné, nebo Trumpa analyzuje špatně a její doufání v jeho konec je chyba, protože Amerika se momentálně mění na dekády? A mnoho dalších témat o americké politice dneška.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Matj-Schneider-Evropa-Trumpa-analyzuje-chybn-e3dcfr5</link>
-			<guid isPermaLink="false">b9901e0c-c4ef-4239-881b-31e919c827f4</guid>
-			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
-			<pubDate>Thu, 08 Jan 2026 23:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-8/415748501-44100-2-10027399808bd.mp3" length="52612283" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Speciál s Matějem Schneiderem z podcastu &lt;em&gt;Redneck&lt;/em&gt; o současné trumpovské Americe. Jak sám Matěj po natáčení řekl, nakonec jsme toho probrali docela dost. Jak se má člověk v Česku dívat na dnešní Ameriku a jak jí rozumět? Je to pořád pilíř západní civilizace a náš spojenec? Myslí Donald Trump vážně všechno, co říká, nebo je to jen „bannonovská mlha“, za kterou si dělá byznys pro svou rodinu? Chce se Amerika skutečně vrátit k předválečnému izolacionismu, nebo má pořád imperiální choutky? Bude po venezuelské akci pokračovat i jinde? Jak se má v takovém světě chovat Česká republika? Chápe vůbec Evropa, co Trump dělá, a jsou její reakce správné, nebo Trumpa analyzuje špatně a její doufání v jeho konec je chyba, protože Amerika se momentálně mění na dekády? A mnoho dalších témat o americké politice dneška.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:54:48</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>SPECIÁL Matěj Schneider: Evropa Trumpa analyzuje chybně</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		</channel>
 </rss>
