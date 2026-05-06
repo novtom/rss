@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 30 Apr 2026 09:53:35 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 06 May 2026 04:32:57 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Svět stárne, Afrika rodí, Korea mizí</title>
+			<description>&lt;p&gt;Jižní Korea s plodností 0,7. Čína ztratí 216 milionů pracujících do 2050. Niger má mediánový věk 15 let, Německo 46. Afrika ztrojnásobí populaci, Evropa drží už jen díky migraci. Procházíme čísla, která rozhodnou o důchodech, HDP a globální moci v 21. století — a vysvětlujeme, proč žádný Volcker tentokrát nepřijde.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Svt-strne--Afrika-rod--Korea-miz-e3iuicm</link>
+			<guid isPermaLink="false">9db8d29e-a710-41bf-a125-8a5e245ed5a6</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 06 May 2026 04:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-4-5/423545933-44100-2-a439bfa7ee8dc.mp3" length="41835623" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Jižní Korea s plodností 0,7. Čína ztratí 216 milionů pracujících do 2050. Niger má mediánový věk 15 let, Německo 46. Afrika ztrojnásobí populaci, Evropa drží už jen díky migraci. Procházíme čísla, která rozhodnou o důchodech, HDP a globální moci v 21. století — a vysvětlujeme, proč žádný Volcker tentokrát nepřijde.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:43:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Svět stárne, Afrika rodí, Korea mizí</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Trojitá energetická krize</title>
 			<description>&lt;p&gt;Třikrát větší ropný šok než v roce 1973, kolaps Hormuzu o 97%, pojistné tankerů vyletělo 60×, strategické rezervy se rozpouštějí nejrychleji v historii. Amerika na krizi paradoxně vydělává, Rusko inkasuje miliardy navíc a Evropa nahradila jednu závislost druhou. Proč je rok 2026 horší než 70. léta — a proč Volckerova pilulka tentokrát neexistuje.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Adam Vojtěch o Finsku, NATO, zdravotnictví a životě ve stínu Ruska</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Ministr Kupka: Dálnic bude víc než v Polsku</title>
-			<description>&lt;p&gt;Staví se nebo nestaví? Někdo říká, že ano, někdo, že ne. Každopádně ceny jsou vyšponované. Proto jsme pozvali ministra dopravy Martina Kupku, aby vysvětlil, jak to doopravdy je. A když už přijde, otestujeme ho i z ekonomie a zeptáme se na makro, průmysl i daně.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Ministr-Kupka-Dlnic-bude-vc-ne-v-Polsku-e38glkc</link>
-			<guid isPermaLink="false">06da7efb-ce07-4057-a86b-6b61975a024a</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Sun, 21 Sep 2025 15:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-21/407866972-44100-2-07adc64743a2d.mp3" length="32098846" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Staví se nebo nestaví? Někdo říká, že ano, někdo, že ne. Každopádně ceny jsou vyšponované. Proto jsme pozvali ministra dopravy Martina Kupku, aby vysvětlil, jak to doopravdy je. A když už přijde, otestujeme ho i z ekonomie a zeptáme se na makro, průmysl i daně.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:33:26</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Ministr Kupka: Dálnic bude víc než v Polsku</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
