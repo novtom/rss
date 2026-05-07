@@ -52,6 +52,7 @@ podcasts = {
     "xtb.xml": "https://anchor.fm/s/3de2cbdc/podcast/rss",
     "kilometry.xml": "https://api.mujrozhlas.cz/rss/podcast/b2b82381-216d-310e-aeef-d46cd919d15d.rss",
     "ruz_vor.xml": "https://anchor.fm/s/f5e22098/podcast/rss",
+    "Livesport Daily":"https://anchor.fm/s/e1fe2874/podcast/rss",
 }
 
 # ===== Pomocné funkce =====
