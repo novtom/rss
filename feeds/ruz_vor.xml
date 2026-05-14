@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 06 May 2026 04:32:57 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 13 May 2026 06:16:11 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Krásný nový africký svět</title>
+			<description>&lt;p&gt;Budoucnost se nerodí v Evropě. Rodí se v Lagosu, Karáčí a Dillí. V roce 2075 bude třetina lidstva žít v Africe, Pákistán bude třetí nejlidnatější zemí světa a Evropa zestárne v bohatý skanzen rentiérů. Druhý díl: demografie a co z ní plyne pro peněženku, důchod i geopolitiku.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Krsn-nov-africk-svt-e3ja07b</link>
+			<guid isPermaLink="false">754d1a53-7bba-46c4-8e3a-83fce8567b20</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 13 May 2026 06:12:31 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-4-13/424051326-44100-2-1defe1bd9a8ea.mp3" length="49434957" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Budoucnost se nerodí v Evropě. Rodí se v Lagosu, Karáčí a Dillí. V roce 2075 bude třetina lidstva žít v Africe, Pákistán bude třetí nejlidnatější zemí světa a Evropa zestárne v bohatý skanzen rentiérů. Druhý díl: demografie a co z ní plyne pro peněženku, důchod i geopolitiku.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:51:29</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Krásný nový africký svět</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Svět stárne, Afrika rodí, Korea mizí</title>
 			<description>&lt;p&gt;Jižní Korea s plodností 0,7. Čína ztratí 216 milionů pracujících do 2050. Niger má mediánový věk 15 let, Německo 46. Afrika ztrojnásobí populaci, Evropa drží už jen díky migraci. Procházíme čísla, která rozhodnou o důchodech, HDP a globální moci v 21. století — a vysvětlujeme, proč žádný Volcker tentokrát nepřijde.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>30 grafů aneb Volby jsou tady!</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Adam Vojtěch o Finsku, NATO, zdravotnictví a životě ve stínu Ruska</title>
-			<description>&lt;p&gt;České zdravotnictví dvacet let přešlapuje na místě – a jen zalepuje díry penězi. Hostem podcastu je Adam Vojtěch, už dvakrát ministr a čtyři roky velvyslanec ve Finsku. Ptáme se, co se Česko může naučit z finské zkušenosti – od nemocnic po bezpečnost a přístup ke světu.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Adam-Vojtch-o-Finsku--NATO--zdravotnictv-a-ivot-ve-stnu-Ruska-e38q79j</link>
-			<guid isPermaLink="false">dc7755e8-310c-4594-910e-9558ab6e9cb0</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Sun, 28 Sep 2025 15:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-28/408273113-44100-2-d20c044bd9e5c.mp3" length="46816861" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;České zdravotnictví dvacet let přešlapuje na místě – a jen zalepuje díry penězi. Hostem podcastu je Adam Vojtěch, už dvakrát ministr a čtyři roky velvyslanec ve Finsku. Ptáme se, co se Česko může naučit z finské zkušenosti – od nemocnic po bezpečnost a přístup ke světu.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:48:46</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Adam Vojtěch o Finsku, NATO, zdravotnictví a životě ve stínu Ruska</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
