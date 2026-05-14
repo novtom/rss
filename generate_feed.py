@@ -53,6 +53,7 @@ podcasts = {
     "kilometry.xml": "https://api.mujrozhlas.cz/rss/podcast/b2b82381-216d-310e-aeef-d46cd919d15d.rss",
     "ruz_vor.xml": "https://anchor.fm/s/f5e22098/podcast/rss",
     "livesport_daily.xml":"https://anchor.fm/s/e1fe2874/podcast/rss",
+    "ptam_se_ja.xml":"https://feeds.transistor.fm/ptam-se-ja",
 }
 
 # ===== Pomocné funkce =====
