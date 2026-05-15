@@ -5,7 +5,7 @@
 		<description>Kecy a politika je podcast komentátora Bohumila Pečinky a Petrose Michopulose, muže, který se čtvrtstoletí zabývá marketingem a politikou. Současná politika pohledem dvou rozdílných osobností, kteří se nebojí říct své názory. Nekorektní podcast, v němž se věci zasazují do kontextu a přísně se tu oddělují prázdné kecy od skutečné politiky.</description>
 		<link>https://novtom.github.io/rss/feeds/Kecy-politika.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 14 May 2026 14:03:36 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 14 May 2026 22:02:00 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/99c6e0b4/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Bohumil Pečinka, Petros Michopulos</author>
 		<copyright>Bohumil Pečinka, Petros Michopulos</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+		<item>
+			<title>SPECIÁL Jan Podroužek: Tribuna Sever přerostla Slavii</title>
+			<description>&lt;p&gt;Sobotní události na stadionu pražské Slavie během derby a to, co z nich vyplývá pro celý český fotbal, jsou obsahem nového speciálu podcastu Kecy a politika. Hostem je tentokrát fotbalový expert a spoluautor podcastu Kudy běží zajíc Jan Podroužek.&lt;/p&gt;&lt;p&gt;V první části probíráme všechny důležité momenty, které se v sobotu odehrály na stadionu v pražském Edenu – pozdní přístup policie, házení dýmovnic, kulturu zahalování obličejů, která v obou sektorech skalních fanoušků vedla k násilným výstupům, úder slávisty Chorého a jeho vyloučení, které vyvolalo nervozitu na celém stadionu, masové pokřiky „Jude Slavie“ a „Smrt Spartě“, vstup stovek fanoušků Slavie blízko k hrací ploše a neregulérní situace už deset minut před koncem.&lt;/p&gt;&lt;p&gt;Absolutní pasivita hlavního rozhodčího a jeho asistentů vůči dění na stadionu a nakonec bitva světlicemi mezi hard core fanoušky obou táborů. Průběh posledního pražského derby byl prostě zlom a teď jde o to, jestli fotbaloví majitelé, politici a vedení svazu dokážou z těchto událostí vyvodit nová pravidla pro fungování profesionálního fotbalu.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Jan-Podrouek-Tribuna-Sever-perostla-Slavii-e3jbjs6</link>
+			<guid isPermaLink="false">c81a82ca-594f-4d91-8f5a-c2ace7058100</guid>
+			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
+			<pubDate>Thu, 14 May 2026 22:00:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-4-14/424123613-44100-2-81cc28609fd96.mp3" length="47015809" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Sobotní události na stadionu pražské Slavie během derby a to, co z nich vyplývá pro celý český fotbal, jsou obsahem nového speciálu podcastu Kecy a politika. Hostem je tentokrát fotbalový expert a spoluautor podcastu Kudy běží zajíc Jan Podroužek.&lt;/p&gt;&lt;p&gt;V první části probíráme všechny důležité momenty, které se v sobotu odehrály na stadionu v pražském Edenu – pozdní přístup policie, házení dýmovnic, kulturu zahalování obličejů, která v obou sektorech skalních fanoušků vedla k násilným výstupům, úder slávisty Chorého a jeho vyloučení, které vyvolalo nervozitu na celém stadionu, masové pokřiky „Jude Slavie“ a „Smrt Spartě“, vstup stovek fanoušků Slavie blízko k hrací ploše a neregulérní situace už deset minut před koncem.&lt;/p&gt;&lt;p&gt;Absolutní pasivita hlavního rozhodčího a jeho asistentů vůči dění na stadionu a nakonec bitva světlicemi mezi hard core fanoušky obou táborů. Průběh posledního pražského derby byl prostě zlom a teď jde o to, jestli fotbaloví majitelé, politici a vedení svazu dokážou z těchto událostí vyvodit nová pravidla pro fungování profesionálního fotbalu.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:48:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>SPECIÁL Jan Podroužek: Tribuna Sever přerostla Slavii</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		<item>
 			<title>Kecy a politika 265: Turecké hospodaření Aleny Schillerové</title>
 			<description>&lt;p&gt;Česká vláda v posledních týdnech ukázala, co chce dělat v ekonomice. Vládnou tomu dvě Z: zastrašování a zadlužování.&lt;/p&gt;&lt;p&gt;Od ledna 2027 bude platit elektronická evidence tržeb (EET), která se má týkat až 600 tisíc podnikatelů a živnostníků. Přestože ještě před pár lety vynesla jednotky miliard korun, chce ministryně financí tímto způsobem vybrat až 14 miliard korun. Podobně chce opět rozjet akci Kobra 26, tedy sérii razií a kontrol proti švarcsystému a nelegálnímu zaměstnávání, což prý má vynést až 23 miliard korun. Odvolává se přitom na zprávu NKÚ, která se svým šetřením zabývala především érou první vlády Andreje Babiše.&lt;/p&gt;&lt;p&gt;Zcela přelomový je ovšem institut tzv. únikových doložek. Stručně řečeno, státní rozpočet se rozdělí na část řádnou, z níž se bude platit provoz státu (penze, zdravotnictví, provoz, platy úředníků), a mimořádnou, do níž budou započítávány velké investice do dálnic, železnic, energetických projektů a dalších věcí.&lt;/p&gt;&lt;p&gt;Tohle rozdělení má vytvořit dojem, že lze ze zadlužení uniknout zadním vchodem, aniž by se to promítlo do celkového státního dluhu nebo deficitu státního rozpočtu. Je to čistá Potěmkinova vesnice, na niž finanční trhy, které určují podle kondice ekonomiky úročení dluhů, nikdy nepřistoupí.&lt;/p&gt;&lt;p&gt;Že budeme svědky utahování šroubů, o tom svědčí návrh zákona o ochraně ekonomických zájmů, který vytváří z Finančně analytického útvaru ministerstva financí novou zpravodajskou službu s rozsáhlými pravomocemi. Má tu tedy vzniknout útvar s mimořádnými pravomocemi pronikat do všech účtů bez ohledu na stanovisko soudů.&lt;/p&gt;&lt;p&gt;Tenhle mix zastrašování a zadlužování je novým podložím, z něhož vyroste nová realita života v České republice.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Kecy a politika 251: Kdo ukončí Turka a pohlídá Macinku?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
-		<item>
-			<title>Kecy a politika: Vyhlášení výročních cen Zlatá kozenka 2025</title>
-			<description>&lt;p&gt;Záznam z vyhlašování Výročních cen podcastu Kecy a politika a udělení Zlatých kozenek.&lt;/p&gt;&lt;p&gt;Speciálními hosty jsou Markéta Lukášková a Lucie Petráková z podcastu Chumelenice, básník Petr Soukup, Sebastian Lang se svou kapelou Pondělníci.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/Kecy-a-politika-Vyhlen-vronch-cen-Zlat-kozenka-2025-e3eciqn</link>
-			<guid isPermaLink="false">0fa7c07a-fff0-426c-ac6c-7f6e48add9de</guid>
-			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
-			<pubDate>Thu, 29 Jan 2026 23:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-29/417105326-44100-2-a198e9a24d277.mp3" length="104954983" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Záznam z vyhlašování Výročních cen podcastu Kecy a politika a udělení Zlatých kozenek.&lt;/p&gt;&lt;p&gt;Speciálními hosty jsou Markéta Lukášková a Lucie Petráková z podcastu Chumelenice, básník Petr Soukup, Sebastian Lang se svou kapelou Pondělníci.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>01:49:19</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Kecy a politika: Vyhlášení výročních cen Zlatá kozenka 2025</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		</channel>
 </rss>
