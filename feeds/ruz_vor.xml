@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 19 May 2026 21:24:55 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 20 May 2026 04:32:53 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Bavorsko, Sasko, Česko: tři ekonomiky, jedno tělo</title>
+			<description>&lt;p&gt;Bavorsko má větší ekonomiku než Polsko. Sasko vyrobí každý třetí evropský čip. Obě země pak Česku dávají sto padesát tisíc pracovních míst. Ideově si také se Sasy a Bavoráky velmi rozumíme. V názoru na Brusel, evropskou byrokracii, energetiku, průmysl, migraci i na ten zpropadený Green deal. Bavorský premiér Söder teď přijíždí do Brna na sudetoněmecký sjezd. Ten bude poprvé za 75 let v Čechách. V novém podcastu mluvíme o tom, proč jsou Bavorsko a Sasko důležitější než kterákoli jiná zahraniční vazba — a proč bychom to v Praze měli říkat více.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Bavorsko--Sasko--esko-ti-ekonomiky--jedno-tlo-e3jk68j</link>
+			<guid isPermaLink="false">ecb5453c-7bfb-4a92-b114-fce955fb911c</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 20 May 2026 04:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-4-19/424498464-44100-2-63c2ad00c3d0f.mp3" length="43449363" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Bavorsko má větší ekonomiku než Polsko. Sasko vyrobí každý třetí evropský čip. Obě země pak Česku dávají sto padesát tisíc pracovních míst. Ideově si také se Sasy a Bavoráky velmi rozumíme. V názoru na Brusel, evropskou byrokracii, energetiku, průmysl, migraci i na ten zpropadený Green deal. Bavorský premiér Söder teď přijíždí do Brna na sudetoněmecký sjezd. Ten bude poprvé za 75 let v Čechách. V novém podcastu mluvíme o tom, proč jsou Bavorsko a Sasko důležitější než kterákoli jiná zahraniční vazba — a proč bychom to v Praze měli říkat více.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:45:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Bavorsko, Sasko, Česko: tři ekonomiky, jedno tělo</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Krásný nový africký svět</title>
 			<description>&lt;p&gt;Budoucnost se nerodí v Evropě. Rodí se v Lagosu, Karáčí a Dillí. V roce 2075 bude třetina lidstva žít v Africe, Pákistán bude třetí nejlidnatější zemí světa a Evropa zestárne v bohatý skanzen rentiérů. Druhý díl: demografie a co z ní plyne pro peněženku, důchod i geopolitiku.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Wall Street, White House &amp; americká ekonomika</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>30 grafů aneb Volby jsou tady!</title>
-			<description>&lt;p&gt;Tříměsíční šňůra rozhovorů o Česku s diplomaty, ekonomy a politiky je u konce. V závěrečném dílu opět nemluvíme my, ale necháváme mluvit čísla: 30 grafů ve 30 minutách. Ekonomika, průmysl, bydlení, zdravotnictví, stárnutí i bezpečnost – předvolební obrázek bez kudrlinek. Velectěný divák, nechť si udělá obrázek sám.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/30-graf-aneb-Volby-jsou-tady-e38u1rf</link>
-			<guid isPermaLink="false">134e7add-f332-4886-bfa1-9fd837ad4d13</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 01 Oct 2025 04:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-30/408434443-44100-2-19d08d3c7aa14.mp3" length="33300897" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Tříměsíční šňůra rozhovorů o Česku s diplomaty, ekonomy a politiky je u konce. V závěrečném dílu opět nemluvíme my, ale necháváme mluvit čísla: 30 grafů ve 30 minutách. Ekonomika, průmysl, bydlení, zdravotnictví, stárnutí i bezpečnost – předvolební obrázek bez kudrlinek. Velectěný divák, nechť si udělá obrázek sám.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:34:41</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>30 grafů aneb Volby jsou tady!</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
