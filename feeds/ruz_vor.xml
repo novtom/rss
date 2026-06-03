@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 03 Jun 2026 18:40:46 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 27 May 2026 15:33:55 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,22 +23,6 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-		<item>
-			<title>Paradox jihovýchodní Evropy: Bohatne a hádá se</title>
-			<description>&lt;p&gt;Chorvatsko roste přes tři procenta, Slovinsko se vrací do hry, Maďarsku Brusel právě odemkl 16 miliard eur. Ekonomicky region táhne nahoru — jenže mezi sebou se státy pořád hádají, často kvůli věcem starým sto let. Bulharsko blokuje Severní Makedonii, Srbsko a Chorvatsko si nesou účty z devadesátek, Bosna je zaseknutá. Ptáme se: je ta historická zátěž jen folklór, nebo skutečná brzda integrace?&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Paradox-jihovchodn-Evropy-Bohatne-a-hd-se-e3k93na</link>
-			<guid isPermaLink="false">db507745-1bb8-494e-b747-a303e3e40a3f</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 03 Jun 2026 06:41:31 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-3/425413426-44100-2-9602eb5f1b3a3.mp3" length="40697938" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Chorvatsko roste přes tři procenta, Slovinsko se vrací do hry, Maďarsku Brusel právě odemkl 16 miliard eur. Ekonomicky region táhne nahoru — jenže mezi sebou se státy pořád hádají, často kvůli věcem starým sto let. Bulharsko blokuje Severní Makedonii, Srbsko a Chorvatsko si nesou účty z devadesátek, Bosna je zaseknutá. Ptáme se: je ta historická zátěž jen folklór, nebo skutečná brzda integrace?&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:42:23</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Paradox jihovýchodní Evropy: Bohatne a hádá se</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Jonathan Spyer: Who Actually Won the War With Iran?</title>
 			<description>&lt;p&gt;Hormuz is closed, Brent is at $104, and last week Trump called off a strike on Iran at the last minute — after phone calls from Riyadh, Doha, and Abu Dhabi. In Muscat, negotiators are working on a deal hawks are calling a surrender. Bibi is furious. Mojtaba Khamenei has just banned the export of enriched uranium from the country.Jonathan Spyer is one of the handful of analysts who doesn&amp;#39;t watch the war from an office — he walks into it. We ask him: a deal this week, or a strike? Why are the Gulf monarchies, of all people, saving the regime they spent thirty years wanting to see fall? And who actually won the three years of war since October 7th?&lt;/p&gt;
@@ -503,5 +487,21 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Svět viděný očima Číny a Indie</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
+		<item>
+			<title>Trhy se potí, Trump chystá cla, Čína mlčí</title>
+			<description>&lt;p&gt;Washington mluví o stabilitě, zatímco trhy se potí a Trump chystá sto procentní cla. IMF varuje před novou krizí, Čína mlčí, Argentina dostává infuzi dolarů a Belgie hlídá trezor. Svět se tváří, že má plán — jen nikdo neví, kdo ho řídí.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Trhy-se-pot--Trump-chyst-cla--na-ml-e39rsl3</link>
+			<guid isPermaLink="false">5e7d9f76-835a-4470-a2af-301d3a41ba95</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 22 Oct 2025 04:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-21/409710598-44100-2-9832e21c4997f.mp3" length="38332289" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Washington mluví o stabilitě, zatímco trhy se potí a Trump chystá sto procentní cla. IMF varuje před novou krizí, Čína mlčí, Argentina dostává infuzi dolarů a Belgie hlídá trezor. Svět se tváří, že má plán — jen nikdo neví, kdo ho řídí.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Trhy se potí, Trump chystá cla, Čína mlčí</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
