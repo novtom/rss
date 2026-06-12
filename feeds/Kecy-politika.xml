@@ -5,7 +5,7 @@
 		<description>Kecy a politika je podcast komentátora Bohumila Pečinky a Petrose Michopulose, muže, který se čtvrtstoletí zabývá marketingem a politikou. Současná politika pohledem dvou rozdílných osobností, kteří se nebojí říct své názory. Nekorektní podcast, v němž se věci zasazují do kontextu a přísně se tu oddělují prázdné kecy od skutečné politiky.</description>
 		<link>https://novtom.github.io/rss/feeds/Kecy-politika.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 11 Jun 2026 16:04:36 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jun 2026 22:01:40 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/99c6e0b4/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Bohumil Pečinka, Petros Michopulos</author>
 		<copyright>Bohumil Pečinka, Petros Michopulos</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+		<item>
+			<title>SPECIÁL Robert Čásenský: Novináři, Babiš a politický tlak</title>
+			<description>&lt;p&gt;Pondělní tiskové konference po zasedání české vlády se přeměňují v nevyhlášenou válku Andreje Babiše proti některým médiím. Změnu formátu většina šéfredaktorů nepostřehla a stále tam posílá novináře, pro něž je obtížné pohotově na tyto výpady reagovat. Nechápou, že už se nehraje klasický fotbal, ale spíš ragby nebo MMA.&lt;/p&gt;&lt;p&gt;Tiskovky po zasedání vlády nejsou laskavostí ze strany premiéra a ministrů, ale jde o prvek veřejné kontroly. Nicméně premiérovy útoky a submisivní postoje části novinářů předefinovávají pravidla celé profese. Babiš tím současně podkopává legitimitu médií. Důvodem mimo jiné je, že ze současné politické opozice nejde strach, a premiér jako patentovaný populista potřebuje obraz silného nepřítele, vůči němuž se může vymezit.&lt;/p&gt;&lt;p&gt;Našel si ho v médiích. To, co byl dříve Rakušan nebo Fiala, jsou dnes například média z vydavatelství Seznam. Tento tlak vyvolává i protitlak. Když neexistuje účinná kontrola moci a opozice si zrovna vybírá slabší období, musí média silněji hájit veřejný zájem.&lt;/p&gt;&lt;p&gt;Dnes se čeští novináři nacházejí na rozcestí. Buď zvolí postoj, kdy budou kontrolovat moc, nebo se rozhodnou pro kooperativní model s vládními politiky.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Robert-sensk-Novini--Babi-a-politick-tlak-e3kljb9</link>
+			<guid isPermaLink="false">ff342b30-c38e-4ffc-b8da-cbb5e0fc3252</guid>
+			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
+			<pubDate>Thu, 11 Jun 2026 22:00:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-11/425958743-44100-2-b624736b40dd6.mp3" length="53049886" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Pondělní tiskové konference po zasedání české vlády se přeměňují v nevyhlášenou válku Andreje Babiše proti některým médiím. Změnu formátu většina šéfredaktorů nepostřehla a stále tam posílá novináře, pro něž je obtížné pohotově na tyto výpady reagovat. Nechápou, že už se nehraje klasický fotbal, ale spíš ragby nebo MMA.&lt;/p&gt;&lt;p&gt;Tiskovky po zasedání vlády nejsou laskavostí ze strany premiéra a ministrů, ale jde o prvek veřejné kontroly. Nicméně premiérovy útoky a submisivní postoje části novinářů předefinovávají pravidla celé profese. Babiš tím současně podkopává legitimitu médií. Důvodem mimo jiné je, že ze současné politické opozice nejde strach, a premiér jako patentovaný populista potřebuje obraz silného nepřítele, vůči němuž se může vymezit.&lt;/p&gt;&lt;p&gt;Našel si ho v médiích. To, co byl dříve Rakušan nebo Fiala, jsou dnes například média z vydavatelství Seznam. Tento tlak vyvolává i protitlak. Když neexistuje účinná kontrola moci a opozice si zrovna vybírá slabší období, musí média silněji hájit veřejný zájem.&lt;/p&gt;&lt;p&gt;Dnes se čeští novináři nacházejí na rozcestí. Buď zvolí postoj, kdy budou kontrolovat moc, nebo se rozhodnou pro kooperativní model s vládními politiky.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:55:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>SPECIÁL Robert Čásenský: Novináři, Babiš a politický tlak</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		<item>
 			<title>Kecy a politika 269: Radikální otočky Andreje Babiše</title>
 			<description>&lt;p&gt;Šest měsíců po nástupu nové vlády je jasné jedno: Babišova vláda z let 2017–2021 bude odlišná od té současné. Andrej Babiš ročník 2026 se odpojil od toho z první vlády a provádí radikální otočku.&lt;/p&gt;&lt;p&gt;Projevem může být centralizace moci, kterou dovedl k absolutní dokonalosti tím, že nezapojuje špičkové politiky hnutí ANO do rozhodování a všechno ovládá malý okruh lidí kolem Thunde Barthy, Michaely Pobořilové a Anety Zicklerové. Ani ministři nemají jistotu, protože premiér Babiš má tým poradců, kteří spolurozhodují o resortní politice. Vytváří tak model ÚV KSČ, kdy ministři byli politicky podřízeni politickým tajemníkům.&lt;/p&gt;&lt;p&gt;Nejradikálnější je obrat v protidrogové politice, který je tak překotný a nepochopitelný, že to zavdává pochybnosti, co bylo jeho důvodem. Nový je také Babišův přístup k médiím, který je založen na dobrých vztazích s vlastníky médií a zároveň doplněn brutálním útokem na všechny, kteří nechtějí spolupracovat.&lt;/p&gt;&lt;p&gt;Otázkou je: podvolí se majitel Seznamu Ivo Lukačovič a udělá ze svých médií krotké psíky?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Kecy a politika 255: Babišův Velký skok</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
-		<item>
-			<title>SPECIÁL Marek Výborný: Babiši, vrať 7 miliard!</title>
-			<description>&lt;p&gt;Tématem speciálu bude pátrání po sedmi miliardách korun neoprávněně vyplacených dotací za léta 2017–2021, které by podle rozsudků soudů měl holding Agrofert vrátit českému státu. Celé téma se pokoušíme rozplést s bývalým ministrem zemědělství Markem Výborným. Exministr před rokem reagoval na průlomové rozsudky Nejvyššího správního a Ústavního soudu. Na jejich základě nechal externí firmou vyčíslit celkové náklady a stanovil postup vymáhání.&lt;/p&gt;&lt;p&gt;Následně přišla nová politická garnitura reprezentovaná ministrem zemědělství Šebestyánem, který v účtovacím období 2017–2022 jako šéf platební agentury SZIF měl rozdělování dotací na starosti. A začaly se dít věci. Nejdříve vznikla fáma, že analýza auditorské firmy ohledně vyplácených peněz se ztratila. Pak šéf kanceláře ministra Felčárek zveřejnil na stránkách ministerstva prohlášení, že všechno je právně jinak. Tak rozhodné postavení se proti výrokům soudů Česko ještě nezažilo.&lt;/p&gt;&lt;p&gt;Další konflikt nás čeká, až si Evropská komise udělá audit způsobu, jakým Andrej Babiš zaparkoval Agrofert ve svěřenském fondu RSVP trust. Pokud konstatuje, že to opět neodpovídá zákonu o střetu zájmů, a česká strana to bude ignorovat, může dojít k pozastavení všech zemědělských dotací z evropských fondů. Přetahování o dotace v režimu 2.0 opět začíná.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Marek-Vborn-Babii--vra-7-miliard-e3fjv5g</link>
-			<guid isPermaLink="false">e7475e54-7e1b-4993-bfc0-b7bd46d28e33</guid>
-			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
-			<pubDate>Thu, 26 Feb 2026 23:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-25/418827056-44100-2-e3df17fec52f3.mp3" length="51556100" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Tématem speciálu bude pátrání po sedmi miliardách korun neoprávněně vyplacených dotací za léta 2017–2021, které by podle rozsudků soudů měl holding Agrofert vrátit českému státu. Celé téma se pokoušíme rozplést s bývalým ministrem zemědělství Markem Výborným. Exministr před rokem reagoval na průlomové rozsudky Nejvyššího správního a Ústavního soudu. Na jejich základě nechal externí firmou vyčíslit celkové náklady a stanovil postup vymáhání.&lt;/p&gt;&lt;p&gt;Následně přišla nová politická garnitura reprezentovaná ministrem zemědělství Šebestyánem, který v účtovacím období 2017–2022 jako šéf platební agentury SZIF měl rozdělování dotací na starosti. A začaly se dít věci. Nejdříve vznikla fáma, že analýza auditorské firmy ohledně vyplácených peněz se ztratila. Pak šéf kanceláře ministra Felčárek zveřejnil na stránkách ministerstva prohlášení, že všechno je právně jinak. Tak rozhodné postavení se proti výrokům soudů Česko ještě nezažilo.&lt;/p&gt;&lt;p&gt;Další konflikt nás čeká, až si Evropská komise udělá audit způsobu, jakým Andrej Babiš zaparkoval Agrofert ve svěřenském fondu RSVP trust. Pokud konstatuje, že to opět neodpovídá zákonu o střetu zájmů, a česká strana to bude ignorovat, může dojít k pozastavení všech zemědělských dotací z evropských fondů. Přetahování o dotace v režimu 2.0 opět začíná.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:53:42</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>SPECIÁL Marek Výborný: Babiši, vrať 7 miliard!</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		</channel>
 </rss>
