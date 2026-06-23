@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:ns2="https://podcastindex.org/namespace/1.0" version="2.0" xml:base="https://audioboom.com/">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:ns0="https://audioboom.com/rss/1.0" xmlns:ns3="https://podcastindex.org/namespace/1.0" version="2.0" xml:base="https://audioboom.com/">
 
 <channel>
 <title>Mezi Rentiéry</title>
-<description>&lt;div&gt;Týdně o rodinném bohatství, majetku, penězích a investicích srozumitelně a nadčasově pohledem skutečných rentiérů.&lt;br&gt;
+<description ns0:html="1">&lt;div&gt;Týdně o rodinném bohatství, majetku, penězích a investicích srozumitelně a nadčasově pohledem skutečných rentiérů.&lt;br&gt;
 Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali již značný majetek a otevřeně sdílí, jak se o něj starají a chrání ho.&lt;/div&gt;
 </description>
 <link>https://novtom.github.io/rss/feeds/Mezi-rentiery.xml</link>
@@ -27,7 +27,7 @@ Josef Podlipný i Vladimír Fichtner mají desítky let zkušeností, vybudovali
   <itunes:name />
   <itunes:email>podpora@fichtner.cz</itunes:email>
 </itunes:owner>
-<ns2:guid>1ca3bc56-fb1f-501d-b9cc-a0a391f14dc0</ns2:guid>
+<ns3:guid>1ca3bc56-fb1f-501d-b9cc-a0a391f14dc0</ns3:guid>
 <copyright>Josef Podlipný, Vladimír Fichtner</copyright>
 <itunes:new-feed-url>https://audioboom.com/channels/5096524.rss</itunes:new-feed-url>
 <itunes:type>episodic</itunes:type>
