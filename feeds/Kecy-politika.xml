@@ -5,7 +5,7 @@
 		<description>Kecy a politika je podcast komentátora Bohumila Pečinky a Petrose Michopulose, muže, který se čtvrtstoletí zabývá marketingem a politikou. Současná politika pohledem dvou rozdílných osobností, kteří se nebojí říct své názory. Nekorektní podcast, v němž se věci zasazují do kontextu a přísně se tu oddělují prázdné kecy od skutečné politiky.</description>
 		<link>https://novtom.github.io/rss/feeds/Kecy-politika.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 02 Jul 2026 16:54:50 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 03 Jul 2026 06:28:03 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/99c6e0b4/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Bohumil Pečinka, Petros Michopulos</author>
 		<copyright>Bohumil Pečinka, Petros Michopulos</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+		<item>
+			<title>SPECIÁL Marek Babjuk: Roboti s námi operují</title>
+			<description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;O netradičních operacích, nemocech a vysokém školství jsme se tentokrát bavili s profesorem Markem Babjukem, přednostou Urologické kliniky v pražském Motole a současně děkanem 2. lékařské fakulty Univerzity Karlovy.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Jsme svědky epidemie rakoviny prostaty? Znamená to, že ji dostane každý čtvrtý muž? Proč je výskyt nádoru močového měchýře čtyřikrát vyšší u kuřáků? Co říká tomu, že se testy PSA staly součástí volebního boje? Proč chtěl být od mládí operatérem? A jak probíhá moderní robotická operace? Kdo je za její výsledek zodpovědný – lékař, nebo robot? Jak při analýzách diagnóz spolupracují s umělou inteligencí?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Z injekcí testosteronu se stává lék na uvadající život. Jaká to však s sebou nese rizika? A nevyrábějí si zdravotnická zařízení závislé pacienty? Co říká zásadám nového vysokoškolského zákona? Proč souhlasí s omezením pravomocí akademického senátu a současně se obává vstupu politiků do rozhodování vysokých škol? Jde uřídit Univerzitu Karlovu, kde jsou vedle sebe soustředěny exaktní a humanitní obory, přičemž každý má jiná kritéria pro vědeckou práci?&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Marek-Babjuk-Roboti-s-nmi-operuj-e3lim3j</link>
+			<guid isPermaLink="false">2901a5c1-4406-4db6-912d-58a6cf56bee1</guid>
+			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
+			<pubDate>Fri, 03 Jul 2026 06:26:05 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-2/427235640-44100-2-c662316d80505.mp3" length="52389928" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;O netradičních operacích, nemocech a vysokém školství jsme se tentokrát bavili s profesorem Markem Babjukem, přednostou Urologické kliniky v pražském Motole a současně děkanem 2. lékařské fakulty Univerzity Karlovy.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Jsme svědky epidemie rakoviny prostaty? Znamená to, že ji dostane každý čtvrtý muž? Proč je výskyt nádoru močového měchýře čtyřikrát vyšší u kuřáků? Co říká tomu, že se testy PSA staly součástí volebního boje? Proč chtěl být od mládí operatérem? A jak probíhá moderní robotická operace? Kdo je za její výsledek zodpovědný – lékař, nebo robot? Jak při analýzách diagnóz spolupracují s umělou inteligencí?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Z injekcí testosteronu se stává lék na uvadající život. Jaká to však s sebou nese rizika? A nevyrábějí si zdravotnická zařízení závislé pacienty? Co říká zásadám nového vysokoškolského zákona? Proč souhlasí s omezením pravomocí akademického senátu a současně se obává vstupu politiků do rozhodování vysokých škol? Jde uřídit Univerzitu Karlovu, kde jsou vedle sebe soustředěny exaktní a humanitní obory, přičemž každý má jiná kritéria pro vědeckou práci?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:54:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>SPECIÁL Marek Babjuk: Roboti s námi operují</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		<item>
 			<title>Kecy a politika 272: Proč se Motoristé radikalizují?</title>
 			<description>&lt;p&gt;Vypadá to, že česká politika se v posledních týdnech peče výhradně na jižní Moravě. Nejdříve se v Brně konaly Sudetoněmecké dny, které se staly záminkou k vyvolávání nacionalistických démonů. Minulý týden zase brněnský Ústavní soud rozhodl ve svém předběžném stanovisku o účasti prezidenta republiky na summitu NATO. No a v závěru týdne byli na strážnickém folklórním festivalu vypískáni ministr kultury a ministr zahraničí.&lt;/p&gt;&lt;p&gt;Navenek tyhle tři politické kauzy působí jako zásadní spory o principy. Ve skutečnosti jde o nesmyslné konflikty, které jen rozbíjejí českou společnost a dávají sporům ráz fanouškovských bojů mezi Spartou a Slavií. Ve všech těchto příbězích mají hlavní podíl Motoristé v čele se svým předsedou Petrem Macinkou. Všechny „principiální“ spory šlo ve skutečnosti vyřešit dohodami hlavních aktérů a koncentrovat se přitom na skutečně podstatné otázky naší doby.&lt;/p&gt;&lt;p&gt;Vedení Motoristů se však radikalizuje a sází na veřejné vyvolávání konfliktů, které má ten efekt, že většinu veřejnosti odpudí, ale na menšinu stoupenců působí sympaticky a neotřele, takže to pomáhá budovat tvrdé jádro příznivců. V takovém prostředí je hledání českých národních pozic stále složitější. A do toho přichází vypískání Oty Klempíře a Petra Macinky na strážnickém festivalu folklórní hudby.&lt;/p&gt;&lt;p&gt;Otázkou je, zda jde o předzvěst toho, že se Motoristé stanou pro Andreje Babiše neúnosnou koulí na noze, kterou budou muset pro zachování své vládní pozice nějak v exekutivě odsunout.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Kecy a politika 258: Letná proti ruskému vlivu</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
-		<item>
-			<title>SPECIÁL Vladimír Foltán: O co jde v aféře Epstein?</title>
-			<description>&lt;p&gt;Speciál s Vláďou Foltánem o aféře Epstein. Vláďa je publicista, který se dlouhodobě zabývá americkou politikou a v posledních letech se podrobně věnuje událostem kolem Jeffreyho Epsteina. Dělá k tématu pravidelný přehled z amerických médií na síti X a zároveň k tomu zveřejnil několik obsáhlých textů.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Kde se vzal Jeffrey Epstein? Jak se mu povedlo tak dlouho vyhýbat spravedlnosti a vytvářet rozsáhlou síť VIP klientů, politiků a businessmanů, aniž by si toho někdo všiml? Jak probíhalo jeho první stíhání na Floridě a jak se mu povedlo vyklouznout? Co se odehrávalo během jeho téměř dvacetiletého přátelství s Donaldem Trumpem? Spáchal sebevraždu a jaké jsou důvody mnoha konspirací kolem jeho smrti? Proč republikáni tak dlouho slibovali zveřejnění všech dokumentů a pak od toho ustoupili? Chytili se do své pasti kolem pedofilního spiknutí demokratů, kterou šířili přes deset let? A mnoho dalších podrobností o celé aféře, která zdaleka nekončí.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Vladimr-Foltn-O-co-jde-v-afe-Epstein-e3gmjvu</link>
-			<guid isPermaLink="false">04559ab0-e7dd-4cb4-98be-1812591157e6</guid>
-			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
-			<pubDate>Thu, 19 Mar 2026 23:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-19/420371024-44100-2-f2548d6bcc0a2.mp3" length="57122898" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Speciál s Vláďou Foltánem o aféře Epstein. Vláďa je publicista, který se dlouhodobě zabývá americkou politikou a v posledních letech se podrobně věnuje událostem kolem Jeffreyho Epsteina. Dělá k tématu pravidelný přehled z amerických médií na síti X a zároveň k tomu zveřejnil několik obsáhlých textů.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Kde se vzal Jeffrey Epstein? Jak se mu povedlo tak dlouho vyhýbat spravedlnosti a vytvářet rozsáhlou síť VIP klientů, politiků a businessmanů, aniž by si toho někdo všiml? Jak probíhalo jeho první stíhání na Floridě a jak se mu povedlo vyklouznout? Co se odehrávalo během jeho téměř dvacetiletého přátelství s Donaldem Trumpem? Spáchal sebevraždu a jaké jsou důvody mnoha konspirací kolem jeho smrti? Proč republikáni tak dlouho slibovali zveřejnění všech dokumentů a pak od toho ustoupili? Chytili se do své pasti kolem pedofilního spiknutí demokratů, kterou šířili přes deset let? A mnoho dalších podrobností o celé aféře, která zdaleka nekončí.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:59:30</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>SPECIÁL Vladimír Foltán: O co jde v aféře Epstein?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		</channel>
 </rss>
