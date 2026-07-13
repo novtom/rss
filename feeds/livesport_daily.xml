@@ -6,7 +6,7 @@
 Každodenní porce sportovních informací pro ty, kterým jen výsledky nestačí. </description>
 		<link>https://novtom.github.io/rss/feeds/livesport_daily.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Fri, 10 Jul 2026 04:31:43 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jul 2026 04:31:52 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/e1fe2874/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jakub Burian, Jan Denemark, Tomáš Vogl</author>
 		<copyright>Jakub Burian, Jan Denemark, Tomáš Vogl</copyright>
@@ -23,6 +23,22 @@ Každodenní porce sportovních informací pro ty, kterým jen výsledky nestač
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Sports" />
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37815301/37815301-1701951627840-4d5fcdaeed05f.jpg" />
+		<item>
+			<title>#821: Co stojí za obrovským českým úspěchem ve Wimbledonu? &gt;&gt;&gt; Radek Štěpánek</title>
+			<description>&lt;p&gt;Nejslavnější tenisový kurt, dvě Češky a dechberoucí drama s pěti odvrácenými mečboly. Taková byla sobotní scéna, kterou sledoval celý sportovní svět. Karolína Muchová a Linda Nosková se spolu utkaly ve finále Wimbledonu a ještě zvýraznily neskutečnou dominanci Češek na travnatém grand slamu z posledních let. O historickém zápase i důvodech výhry Noskové jsme mluvili v dnešní epizodě podcastu Livesport Daily s někdejším výtečným tenistou a dvojnásobným vítězem Davis Cupu Radkem Štěpánkem.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/livesport-daily/episodes/821-Co-stoj-za-obrovskm-eskm-spchem-ve-Wimbledonu---Radek-tpnek-e3m0j2t</link>
+			<guid isPermaLink="false">ec0ea3d3-2b83-4d9d-87d7-421996072558</guid>
+			<dc:creator>Jakub Burian, Jan Denemark, Tomáš Vogl</dc:creator>
+			<pubDate>Mon, 13 Jul 2026 04:30:01 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-13/427845271-44100-2-ea73baec76f78.mp3" length="25673977" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Nejslavnější tenisový kurt, dvě Češky a dechberoucí drama s pěti odvrácenými mečboly. Taková byla sobotní scéna, kterou sledoval celý sportovní svět. Karolína Muchová a Linda Nosková se spolu utkaly ve finále Wimbledonu a ještě zvýraznily neskutečnou dominanci Češek na travnatém grand slamu z posledních let. O historickém zápase i důvodech výhry Noskové jsme mluvili v dnešní epizodě podcastu Livesport Daily s někdejším výtečným tenistou a dvojnásobným vítězem Davis Cupu Radkem Štěpánkem.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:26:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1783912517720-b83c4ddd51211.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>#821: Co stojí za obrovským českým úspěchem ve Wimbledonu? &gt;&gt;&gt; Radek Štěpánek</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1783912517720-b83c4ddd51211.jpg" /></item>
 		<item>
 			<title>#820: Co rozhodlo o Chance Lize v Táborsku a Artisu Brno? &gt;&gt;&gt; Ivo Táborský, Petr Kuba</title>
 			<description>&lt;p&gt;Proč ne a proč ano. Speciální dvojdíl podcastu Livesport Daily nabízí rozpletení příběhu dvou druholigových fotbalových klubů, kterým se po neúspěšné baráži naskytla výjimečná příležitost přesto hrát nejvyšší Chance Ligu kvůli vyloučení Karviné. Která propíraná osoba posledních měsíců uškodila Táborsku nebo jaký netradiční problém s fanoušky budou po přijetí nabídky řešit v Artisu Brno, řekli v dnešní epizodě výkonný ředitel Jihočechů Ivo Táborský a generální ředitel Brňanů Petr Kuba.&lt;/p&gt;
@@ -487,21 +503,5 @@ Každodenní porce sportovních informací pro ty, kterým jen výsledky nestač
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1781112185440-4aa1d3fcf1fb7.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Livesport Daily RE:ACTION &gt;&gt;&gt; První dojmy z Mexika! Protesty, bouře před bouří a Azteca středem vesmíru</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1781112185440-4aa1d3fcf1fb7.jpg" /></item>
-		<item>
-			<title>#798: Bude po zranění fit na Tour de France? &gt;&gt;&gt; Pavel Bittner</title>
-			<description>&lt;p&gt;Předloni vyhrál hned při své první Grand Tour kariéry etapu na Vueltě, loni na Tour de France finišoval nejlépe čtvrtý a pátý. Letos se mu povedla jarní část sezony a na Staré dámě plánoval útok na historicky čtvrté české vítězství. V květnu při závodě v Dankerku ale utrpěl nepříjemný karambol, po němž mu zůstala natržená šlacha v kotníku. Zda přesto stihne nejslavnější cyklistický závod světa i jak touží po triumfu na něm, pověděl v dnešní epizodě podcastu Livesport Daily Král české cyklistiky za rok 2024 Pavel Bittner. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Novinky ze světa sportu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.livesport.cz/zpravy/"&gt;&lt;u&gt;Livesport zprávy&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Články k podcastu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.livesport.cz/zpravy/ls-daily/40AScocUWSzc94ws/"&gt;&lt;u&gt;Livesport Daily&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Podívej se na náš Youtube:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;▶️&lt;a href="https://www.youtube.com/@LivesportDaily"&gt;&lt;u&gt;⁠Livesport Daily⁠&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Poslechni si nás na Apple podcast:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🎙️&lt;a href="https://podcasts.apple.com/cz/podcast/livesport-daily/id1688534187"&gt;&lt;u&gt;⁠Livesport Daily⁠&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sleduj novinky ze světa sportu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;⚽&lt;a href="https://www.livesport.cz/zpravy/"&gt;&lt;u&gt;⁠Livesport.cz/zprávy⁠&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nezapomeňte nás sledovat na sociálních sítích:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://www.instagram.com/livesportdaily/"&gt;⁠&lt;u&gt;Livesport Daily⁠&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://www.instagram.com/livesportcz/?hl=cs"&gt;&lt;u&gt;Livesport.cz⁠&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;X.com:&lt;/strong&gt;&lt;br&gt;🔗&lt;a href="https://x.com/LSDailypodcast"&gt; &lt;u&gt;⁠Livesport Daily&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/livesport-daily/episodes/798-Bude-po-zrann-fit-na-Tour-de-France---Pavel-Bittner-e3kio11</link>
-			<guid isPermaLink="false">98b3b696-f90b-4811-bee8-27188aeed324</guid>
-			<dc:creator>Jakub Burian, Jan Denemark, Tomáš Vogl</dc:creator>
-			<pubDate>Wed, 10 Jun 2026 04:30:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-9/425834969-44100-2-ad48709f0c45e.mp3" length="25154454" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Předloni vyhrál hned při své první Grand Tour kariéry etapu na Vueltě, loni na Tour de France finišoval nejlépe čtvrtý a pátý. Letos se mu povedla jarní část sezony a na Staré dámě plánoval útok na historicky čtvrté české vítězství. V květnu při závodě v Dankerku ale utrpěl nepříjemný karambol, po němž mu zůstala natržená šlacha v kotníku. Zda přesto stihne nejslavnější cyklistický závod světa i jak touží po triumfu na něm, pověděl v dnešní epizodě podcastu Livesport Daily Král české cyklistiky za rok 2024 Pavel Bittner. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Novinky ze světa sportu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.livesport.cz/zpravy/"&gt;&lt;u&gt;Livesport zprávy&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Články k podcastu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.livesport.cz/zpravy/ls-daily/40AScocUWSzc94ws/"&gt;&lt;u&gt;Livesport Daily&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Podívej se na náš Youtube:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;▶️&lt;a href="https://www.youtube.com/@LivesportDaily"&gt;&lt;u&gt;⁠Livesport Daily⁠&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Poslechni si nás na Apple podcast:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🎙️&lt;a href="https://podcasts.apple.com/cz/podcast/livesport-daily/id1688534187"&gt;&lt;u&gt;⁠Livesport Daily⁠&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sleduj novinky ze světa sportu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;⚽&lt;a href="https://www.livesport.cz/zpravy/"&gt;&lt;u&gt;⁠Livesport.cz/zprávy⁠&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nezapomeňte nás sledovat na sociálních sítích:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://www.instagram.com/livesportdaily/"&gt;⁠&lt;u&gt;Livesport Daily⁠&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://www.instagram.com/livesportcz/?hl=cs"&gt;&lt;u&gt;Livesport.cz⁠&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;X.com:&lt;/strong&gt;&lt;br&gt;🔗&lt;a href="https://x.com/LSDailypodcast"&gt; &lt;u&gt;⁠Livesport Daily&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:26:12</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1781040507803-057ed6abbd18f.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>#798: Bude po zranění fit na Tour de France? &gt;&gt;&gt; Pavel Bittner</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1781040507803-057ed6abbd18f.jpg" /></item>
 		</channel>
 </rss>
