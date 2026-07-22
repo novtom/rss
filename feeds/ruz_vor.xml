@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 22 Jul 2026 04:32:28 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jul 2026 07:12:03 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,22 +23,6 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-		<item>
-			<title>Mateusz Morawiecki on Central Europe's economy, convergence and what comes next</title>
-			<description>&lt;p&gt;Central Europe pulled off its own miracle — three decades of convergence toward Western living standards, powered by cheap labor, German supply chains, and EU funds. Mateusz Morawiecki on how the region caught up, why the old model is running out, and how to keep converging when Europe itself is losing its edge.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Mateusz-Morawiecki-on-Central-Europes-economy--convergence-and-what-comes-next-e3mcboj</link>
-			<guid isPermaLink="false">4eb2fb4e-ae89-4509-af1d-a4b6df3b2f02</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 22 Jul 2026 04:30:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-21/428368276-44100-2-db3d53f729ece.mp3" length="40078105" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Central Europe pulled off its own miracle — three decades of convergence toward Western living standards, powered by cheap labor, German supply chains, and EU funds. Mateusz Morawiecki on how the region caught up, why the old model is running out, and how to keep converging when Europe itself is losing its edge.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:41:44</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Mateusz Morawiecki on Central Europe's economy, convergence and what comes next</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>The Polish Miracle: Mateusz Morawiecki on how it was built, what it cost, and whether it can last</title>
 			<description>&lt;p&gt;For a decade Poland has been Europe&amp;#39;s growth miracle. We sit down with ex Prime Minister Mateusz Morawiecki, one of the miracle architects: what it was actually built on, which reforms aged best, what it cost, and whether the miracle can survive the end of cheap labor.&lt;/p&gt;
@@ -503,5 +487,21 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Power, Chaos and Comebacks: Tom Tugendhat on Britain Today</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
+		<item>
+			<title>Little Britain, year and half after elections</title>
+			<description>&lt;p&gt;One year after the UK election, politics is in turmoil. Reform UK is leading, the traditional parties are sinking, and voters want competence and order above all. With political analyst Benedict Spence, we unpack why the political landscape is crumbling — and whether Britain still has a chance to be truly “big.”&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Little-Britain--year-and-half-after-elections-e3bffi0</link>
+			<guid isPermaLink="false">5f4ac68c-a820-4e02-b3d7-9feced2aed35</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 26 Nov 2025 05:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-10-25/413167066-44100-2-b98b48d7d9c6f.mp3" length="48189021" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;One year after the UK election, politics is in turmoil. Reform UK is leading, the traditional parties are sinking, and voters want competence and order above all. With political analyst Benedict Spence, we unpack why the political landscape is crumbling — and whether Britain still has a chance to be truly “big.”&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:11</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Little Britain, year and half after elections</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
