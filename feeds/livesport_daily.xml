@@ -6,7 +6,7 @@
 Každodenní porce sportovních informací pro ty, kterým jen výsledky nestačí. </description>
 		<link>https://novtom.github.io/rss/feeds/livesport_daily.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 23 Jul 2026 08:55:56 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 24 Jul 2026 04:02:16 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/e1fe2874/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jakub Burian, Jan Denemark, Tomáš Vogl</author>
 		<copyright>Jakub Burian, Jan Denemark, Tomáš Vogl</copyright>
@@ -23,6 +23,22 @@ Každodenní porce sportovních informací pro ty, kterým jen výsledky nestač
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Sports" />
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37815301/37815301-1701951627840-4d5fcdaeed05f.jpg" />
+		<item>
+			<title>#830: Má Slavia soupeře v cestě za mistrovským hattrickem? &gt;&gt;&gt; Lukáš Michalík</title>
+			<description>&lt;p&gt;Od fotbalu si fanoušci a jejich rodiny neodpočinou ani jeden víkend. Sotva skončilo mistrovství světa, začíná domácí Chance Liga. Po osmi letech s dvěma nováčky, Zbrojovka a Artis dodají soutěži nový, brněnský náboj. O jejich ambicích, o tom, proč může mít mistrovská Slavia v cestě za obhajobou více problémů sama se sebou než se stagnující Spartou, ale taky o nečitelné Plzni nebo pokusu o restart Baníku Ostrava jsme v rámci preview Chance Ligy mluvili v dnešní epizodě podcastu Livesport Daily s novinářem Radiožurnálu Sport Lukášem Michalíkem.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/livesport-daily/episodes/830-M-Slavia-soupee-v-cest-za-mistrovskm-hattrickem---Luk-Michalk-e3mdoqt</link>
+			<guid isPermaLink="false">bba13011-00ac-4fea-87e8-fffbac8385ee</guid>
+			<dc:creator>Jakub Burian, Jan Denemark, Tomáš Vogl</dc:creator>
+			<pubDate>Fri, 24 Jul 2026 04:00:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-22/428431247-44100-2-da93aa66f27fe.mp3" length="30434950" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Od fotbalu si fanoušci a jejich rodiny neodpočinou ani jeden víkend. Sotva skončilo mistrovství světa, začíná domácí Chance Liga. Po osmi letech s dvěma nováčky, Zbrojovka a Artis dodají soutěži nový, brněnský náboj. O jejich ambicích, o tom, proč může mít mistrovská Slavia v cestě za obhajobou více problémů sama se sebou než se stagnující Spartou, ale taky o nečitelné Plzni nebo pokusu o restart Baníku Ostrava jsme v rámci preview Chance Ligy mluvili v dnešní epizodě podcastu Livesport Daily s novinářem Radiožurnálu Sport Lukášem Michalíkem.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:31:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1784745092343-74e822e4b7199.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>#830: Má Slavia soupeře v cestě za mistrovským hattrickem? &gt;&gt;&gt; Lukáš Michalík</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1784745092343-74e822e4b7199.jpg" /></item>
 		<item>
 			<title>#829: Jaký rekord je pro ni obrovskou motivací? &gt;&gt;&gt; Kateřina Siniaková</title>
 			<description>&lt;p&gt;Na probíhajícím Livesport Prague Open nehraje, průběh největšího tenisového turnaje v Česku ale sleduje na Štvanici osobně jako divačka. Je dvojnásobnou olympijskou vítězkou, vyhrála jedenáct grand slamových turnajů ve čtyřhře a letos bude na úkor Martiny Navrátilové usilovat o jeden mimořádně cenný historický rekord. O co jde, proč má speciální motivaci pro nadcházející US Open, taky o kontaktu se Serenou Williamsovou, dominanci českých žen nebo umění odpočinku, vyprávěla v dnešní epizodě podcastu Livesport Daily hrající legenda Kateřina Siniaková.&lt;/p&gt;
@@ -487,21 +503,5 @@ Každodenní porce sportovních informací pro ty, kterým jen výsledky nestač
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1782061763621-7c3610de5be64.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>#806: Má Slavia lepší přístup k mládeži než Sparta?&gt;&gt;&gt; Tomáš Heidenreich</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1782061763621-7c3610de5be64.jpg" /></item>
-		<item>
-			<title>Livesport Daily RE:ACTION &gt;&gt;&gt; Milióny za lístky, ohlas světa na český výkon a odtažené auto v Dallasu!</title>
-			<description>&lt;p&gt;Další RE:ACTION přímo z místa dění probíhajícího mistrovství světa ve fotbale. Honza Denemark a kameraman Filip Vančura jsou v Dallasu a u jednoho z největších stadionů šampionátu vstřebávali atmosféru šlágru Anglie - Chorvatsko. Zajímalo je, kolik jsou fanoušci ochotni utratit za vstupenky na jeden zápas, a některé příběhy jsou za hranicemi normálního smýšlení. Kluků se navíc stále drží smůla. Co se stalo tentokrát?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Novinky ze světa sportu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.livesport.cz/zpravy/"&gt;⁠Livesport zprávy⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Články k podcastu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.livesport.cz/zpravy/ls-daily/40AScocUWSzc94ws/"&gt;⁠Livesport Daily⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Podívej se na náš Youtube:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;▶️&lt;a href="https://www.youtube.com/@LivesportDaily"&gt;⁠⁠Livesport Daily⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Poslechni si nás na Apple podcast:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🎙️&lt;a href="https://podcasts.apple.com/cz/podcast/livesport-daily/id1688534187"&gt;⁠⁠Livesport Daily⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sleduj novinky ze světa sportu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;⚽&lt;a href="https://www.livesport.cz/zpravy/"&gt;⁠⁠Livesport.cz/zprávy⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nezapomeňte nás sledovat na sociálních sítích:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://www.instagram.com/livesportdaily/"&gt;⁠⁠Livesport Daily⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://www.instagram.com/livesportcz/?hl=cs"&gt;⁠Livesport.cz⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;X.com:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://x.com/LSDailypodcast"&gt;⁠ ⁠Livesport Daily⁠&lt;/a&gt;&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/livesport-daily/episodes/Livesport-Daily-REACTION--Miliny-za-lstky--ohlas-svta-na-esk-vkon-a-odtaen-auto-v-Dallasu-e3l23j9</link>
-			<guid isPermaLink="false">5824c67c-bfd1-4db0-a5e1-fde05c1839f0</guid>
-			<dc:creator>Jakub Burian, Jan Denemark, Tomáš Vogl</dc:creator>
-			<pubDate>Sat, 20 Jun 2026 14:39:17 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-5-20/2e14039b-9900-0c40-3836-a90009f51ae3.mp3" length="37760912" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Další RE:ACTION přímo z místa dění probíhajícího mistrovství světa ve fotbale. Honza Denemark a kameraman Filip Vančura jsou v Dallasu a u jednoho z největších stadionů šampionátu vstřebávali atmosféru šlágru Anglie - Chorvatsko. Zajímalo je, kolik jsou fanoušci ochotni utratit za vstupenky na jeden zápas, a některé příběhy jsou za hranicemi normálního smýšlení. Kluků se navíc stále drží smůla. Co se stalo tentokrát?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Novinky ze světa sportu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.livesport.cz/zpravy/"&gt;⁠Livesport zprávy⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Články k podcastu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.livesport.cz/zpravy/ls-daily/40AScocUWSzc94ws/"&gt;⁠Livesport Daily⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Podívej se na náš Youtube:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;▶️&lt;a href="https://www.youtube.com/@LivesportDaily"&gt;⁠⁠Livesport Daily⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Poslechni si nás na Apple podcast:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🎙️&lt;a href="https://podcasts.apple.com/cz/podcast/livesport-daily/id1688534187"&gt;⁠⁠Livesport Daily⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sleduj novinky ze světa sportu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;⚽&lt;a href="https://www.livesport.cz/zpravy/"&gt;⁠⁠Livesport.cz/zprávy⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nezapomeňte nás sledovat na sociálních sítích:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://www.instagram.com/livesportdaily/"&gt;⁠⁠Livesport Daily⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://www.instagram.com/livesportcz/?hl=cs"&gt;⁠Livesport.cz⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;X.com:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://x.com/LSDailypodcast"&gt;⁠ ⁠Livesport Daily⁠&lt;/a&gt;&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:26:12</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1781966277590-1579e20f0091e.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Livesport Daily RE:ACTION &gt;&gt;&gt; Milióny za lístky, ohlas světa na český výkon a odtažené auto v Dallasu!</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1781966277590-1579e20f0091e.jpg" /></item>
 		</channel>
 </rss>
