@@ -5,7 +5,7 @@
 		<description>Kecy a politika je podcast komentátora Bohumila Pečinky a Petrose Michopulose, muže, který se čtvrtstoletí zabývá marketingem a politikou. Současná politika pohledem dvou rozdílných osobností, kteří se nebojí říct své názory. Nekorektní podcast, v němž se věci zasazují do kontextu a přísně se tu oddělují prázdné kecy od skutečné politiky.</description>
 		<link>https://novtom.github.io/rss/feeds/Kecy-politika.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 23 Jul 2026 17:20:18 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jul 2026 22:01:43 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/99c6e0b4/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Bohumil Pečinka, Petros Michopulos</author>
 		<copyright>Bohumil Pečinka, Petros Michopulos</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+		<item>
+			<title>SPECIÁL Čestmír Strakatý: Obsah zdarma neexistuje</title>
+			<description>&lt;p&gt;Speciál s Čestmírem Strakatým o tom, že obsah zadarmo neexistuje, jak si vybírá hosty k rozhovoru a jaké to bylo s Otou Klempířem. Proč se u nás nedají dělat rozhovory pro všechny, aniž by půlka země nezačala někoho hejtovat? Proč to v Americe moderátoři umějí a tady ne? Chtěl by být českým Rogenem, nebo Ebenem pro mileniály? A došlo i na rekordy. Kolik Čestmír zvedne na benchi a kolik v mrtvém tahu?&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-estmr-Strakat-Obsah-zdarma-neexistuje-e3mevh0</link>
+			<guid isPermaLink="false">6ae319ae-2858-44ef-ba8a-20dadf1733b7</guid>
+			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
+			<pubDate>Thu, 23 Jul 2026 22:00:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-23/428488296-44100-2-3281f98421dc7.mp3" length="48611159" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Speciál s Čestmírem Strakatým o tom, že obsah zadarmo neexistuje, jak si vybírá hosty k rozhovoru a jaké to bylo s Otou Klempířem. Proč se u nás nedají dělat rozhovory pro všechny, aniž by půlka země nezačala někoho hejtovat? Proč to v Americe moderátoři umějí a tady ne? Chtěl by být českým Rogenem, nebo Ebenem pro mileniály? A došlo i na rekordy. Kolik Čestmír zvedne na benchi a kolik v mrtvém tahu?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:38</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>SPECIÁL Čestmír Strakatý: Obsah zdarma neexistuje</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		<item>
 			<title>Kecy a politika 275: Mozkové blackouty Andreje Babiše</title>
 			<description>&lt;p&gt;Tohle už fakt není normální. Andrej Babiš přiletěl minulý týden do Paříže na setkání Koalice ochotných, kde zopakoval, co řekl už v Ankaře: nic na projekty protiraketové obrany a Ukrajinu nedáme, sami máme málo. Fajn, to by člověk mohl akceptovat jako politické stanovisko, s nímž může nesouhlasit, ale měl by ho brát na vědomí.&lt;/p&gt;&lt;p&gt;Proč ale premiér zároveň pustil fantazii z uzdy a kompaktní skupině států v čele s Británií a Francií doporučil, aby vyloučila všechny nečleny EU a založila vývoj protiletecké obrany výhradně na členech Evropské unie? Nevysvětlil, proč by zrovna v tomhle efektivně spolupracujícím společenství zemí měly chybět Británie, Norsko, Kanada a další státy.&lt;/p&gt;&lt;p&gt;K této nezvyklé zahraničněpolitické iniciativě se vrátil na tiskové konferenci vlády a jeho zdůvodnění bylo obtížné porozumět. Vůbec pondělní tiskovky vlády se začínají měnit v něco, co starší generace znají jako vystoupení posledního komunistického pohlavára Miloše Jakeše na Červeném Hrádku (viz YouTube). Pro tento formát je charakteristické řetězení myšlenek, skákání z tématu na téma, nedokončená souvětí plná vsuvek a obtížně pochopitelných sdělení.&lt;/p&gt;&lt;p&gt;Jeden by měl dojem, že jde o zvláštní mozkové blackouty, které nejstaršího premiéra zemí Evropské unie spolehlivě odvádějí od základní myšlenky, jež se ztrácí ve změti pocitů a výkřiků.&lt;/p&gt;&lt;p&gt;Je to ještě politika, nebo jsme svědky velmi pozdního odpoledne jednoho byznysmena, toho času premiéra České republiky?&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Kecy a politika 261: Konec orbánismu v Maďarsku?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
-		<item>
-			<title>SPECIÁL Benjamin Činčila: AVATAŘI porodnost nezachrání</title>
-			<description>&lt;p&gt;„Jako společnost budeme muset všichni více pracovat,“ prohlásil německý ministr financí za sociální demokracii. Narážel tím nejen na dlouhodobou stagnaci Německa, ale především na množství hodin, které v průměru odpracuje průměrný Němec na rozdíl od průměrného Řeka nebo Itala. Reagoval tím také na obrovský nárůst sociálních výdajů, které u našich sousedů tvoří více než 40 procent celkových nákladů státu.&lt;/p&gt;&lt;p&gt;Jaká je situace v Česku? O tom jsme si povídali s mladým ambiciózním politikem a současně ekonomem KDU-ČSL Benjaminem Činčilou, který se ve 30 letech pokouší stát prvním místopředsedou lidové strany.&lt;/p&gt;&lt;p&gt;Důležitým tématem pro lidovce je také demografie. Minulý týden zveřejnil Český statistický úřad hodnoty za rok 2025, kdy se narodilo 77 600 dětí, přičemž jich zemřelo o 35 tisíc víc. Na druhou stranu Česko nevymírá, protože díky migraci přibylo 42 tisíc občanů, takže v Česku počet obyvatel za pár let překročí hranici 11 miliónů, což nás řadí na osmé místo z 26 v Evropské unii.&lt;/p&gt;&lt;p&gt;Přitom demografka Jiřina Kocourková tvrdí, že pokud by plodnost pokračovala na úrovni 1,28 dítěte na ženu jako v minulém roce, odpovídalo by tomu, že by v relativně krátké době skončilo 38 procent žen bezdětných. Poslanec Činčila sice navrhuje různá opatření, ale uvědomuje si jejich malý dosah. Mít děti představuje postoj ke světu a životu, takže vyšší sociální dávky jsou tyto životní strategie schopny ovlivnit jen málo.&lt;/p&gt;&lt;p&gt;Do toho přichází umělá inteligence, která vytváří pseudovztahy lidí s neživými věcmi. Jedním z nich by také mohl být avatar, který podle některých optimistů má mít erotický potenciál. Ani to však neřeší demografické a jiné problémy Česka a okolních zemí.&lt;/p&gt;&lt;p&gt;S poslancem Činčilou jsme také debatovali o tichém víně, bermudském trojúhelníku české politiky (nízké daně, velký stát a žádné reformy) a o tom, za co by byl poslanec Činčila schopen v Poslanecké sněmovně obstruovat.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/kecyapolitika/episodes/SPECIL-Benjamin-inila-AVATAI-porodnost-nezachrn-e3hk1i8</link>
-			<guid isPermaLink="false">a6f5addb-96d3-41ba-ad2d-ce23a521a9c7</guid>
-			<dc:creator>Bohumil Pečinka, Petros Michopulos</dc:creator>
-			<pubDate>Thu, 09 Apr 2026 22:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-3-8/421661876-44100-2-ef771cf922c48.mp3" length="49236844" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;„Jako společnost budeme muset všichni více pracovat,“ prohlásil německý ministr financí za sociální demokracii. Narážel tím nejen na dlouhodobou stagnaci Německa, ale především na množství hodin, které v průměru odpracuje průměrný Němec na rozdíl od průměrného Řeka nebo Itala. Reagoval tím také na obrovský nárůst sociálních výdajů, které u našich sousedů tvoří více než 40 procent celkových nákladů státu.&lt;/p&gt;&lt;p&gt;Jaká je situace v Česku? O tom jsme si povídali s mladým ambiciózním politikem a současně ekonomem KDU-ČSL Benjaminem Činčilou, který se ve 30 letech pokouší stát prvním místopředsedou lidové strany.&lt;/p&gt;&lt;p&gt;Důležitým tématem pro lidovce je také demografie. Minulý týden zveřejnil Český statistický úřad hodnoty za rok 2025, kdy se narodilo 77 600 dětí, přičemž jich zemřelo o 35 tisíc víc. Na druhou stranu Česko nevymírá, protože díky migraci přibylo 42 tisíc občanů, takže v Česku počet obyvatel za pár let překročí hranici 11 miliónů, což nás řadí na osmé místo z 26 v Evropské unii.&lt;/p&gt;&lt;p&gt;Přitom demografka Jiřina Kocourková tvrdí, že pokud by plodnost pokračovala na úrovni 1,28 dítěte na ženu jako v minulém roce, odpovídalo by tomu, že by v relativně krátké době skončilo 38 procent žen bezdětných. Poslanec Činčila sice navrhuje různá opatření, ale uvědomuje si jejich malý dosah. Mít děti představuje postoj ke světu a životu, takže vyšší sociální dávky jsou tyto životní strategie schopny ovlivnit jen málo.&lt;/p&gt;&lt;p&gt;Do toho přichází umělá inteligence, která vytváří pseudovztahy lidí s neživými věcmi. Jedním z nich by také mohl být avatar, který podle některých optimistů má mít erotický potenciál. Ani to však neřeší demografické a jiné problémy Česka a okolních zemí.&lt;/p&gt;&lt;p&gt;S poslancem Činčilou jsme také debatovali o tichém víně, bermudském trojúhelníku české politiky (nízké daně, velký stát a žádné reformy) a o tom, za co by byl poslanec Činčila schopen v Poslanecké sněmovně obstruovat.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:51:17</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>SPECIÁL Benjamin Činčila: AVATAŘI porodnost nezachrání</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/25699477/25699477-1653403440754-37ace0f7ee915.jpg" /></item>
 		</channel>
 </rss>
