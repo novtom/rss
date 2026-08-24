@@ -6,7 +6,7 @@
 Každodenní porce sportovních informací pro ty, kterým jen výsledky nestačí. </description>
 		<link>https://novtom.github.io/rss/feeds/livesport_daily.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 23 Aug 2026 19:25:36 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Aug 2026 03:31:53 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/e1fe2874/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jakub Burian, Jan Denemark, Tomáš Vogl</author>
 		<copyright>Jakub Burian, Jan Denemark, Tomáš Vogl</copyright>
@@ -23,6 +23,22 @@ Každodenní porce sportovních informací pro ty, kterým jen výsledky nestač
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Sports" />
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37815301/37815301-1701951627840-4d5fcdaeed05f.jpg" />
+		<item>
+			<title>#851: Jak nad sportem přemýšlí česká plavecká hvězda? &gt;&gt;&gt; Barbora Seemanová</title>
+			<description>&lt;p&gt;Česká plavkyně Barbora Seemanová se na evropském šampionátu v Paříži stala počtvrté v kariéře mistryní Evropy a z dlouhého bazénu tak vytáhla už šestou medaili z kontinentálního mistrovství. Rodačka z Prahy vyhrála potřetí v kariéře závod na 200 metrů volný způsob, vylepšila rekord evropských šampionátů a v šestadvaceti letech se tak řadí mezi největší osobnosti historie českého plavání. Jak náročný je život profesionální plavkyně? Jak blízko je medailový úspěch na olympiádě? Jaké jsou finanční podmínky v českém plavání a proč se s přítelem Alexem Choupenitchem starají o vlastní marketingová práva? A jak moc řeší během sezony životosprávu? To všechno jsme v dnešním vydání podcastu Livesport Daily probrali s mistryní Evropy Barborou Seemanovou.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/livesport-daily/episodes/851-Jak-nad-sportem-peml-esk-plaveck-hvzda---Barbora-Seemanov-e3npp16</link>
+			<guid isPermaLink="false">2cdd1a02-7306-4c2a-8800-4bc841e86a80</guid>
+			<dc:creator>Jakub Burian, Jan Denemark, Tomáš Vogl</dc:creator>
+			<pubDate>Mon, 24 Aug 2026 03:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-7-23/430389684-44100-2-917780726b65.mp3" length="30412799" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Česká plavkyně Barbora Seemanová se na evropském šampionátu v Paříži stala počtvrté v kariéře mistryní Evropy a z dlouhého bazénu tak vytáhla už šestou medaili z kontinentálního mistrovství. Rodačka z Prahy vyhrála potřetí v kariéře závod na 200 metrů volný způsob, vylepšila rekord evropských šampionátů a v šestadvaceti letech se tak řadí mezi největší osobnosti historie českého plavání. Jak náročný je život profesionální plavkyně? Jak blízko je medailový úspěch na olympiádě? Jaké jsou finanční podmínky v českém plavání a proč se s přítelem Alexem Choupenitchem starají o vlastní marketingová práva? A jak moc řeší během sezony životosprávu? To všechno jsme v dnešním vydání podcastu Livesport Daily probrali s mistryní Evropy Barborou Seemanovou.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:31:40</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1787512631929-25f9e65197aa5.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>#851: Jak nad sportem přemýšlí česká plavecká hvězda? &gt;&gt;&gt; Barbora Seemanová</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1787512631929-25f9e65197aa5.jpg" /></item>
 		<item>
 			<title>#850: Jak bojovat s kritikou klubového šéfa? &gt;&gt;&gt; Mojmír Chytil</title>
 			<description>&lt;p&gt;Mojmír Chytil je po čtyřech kolech nejlepším střelcem Chance Ligy. Ve čtyřech utkáních dal čtyři góly a na začátku ročníku je jedním z hlavních tahounů sešívaných. V posledních dvou letech si ale prošel i složitějšími momenty a tím pravděpodobně nejtěžším byla kritika Jaroslava Tvrdíka přesně před rokem u nás v Livesport Daily. Jak mu bylo a jak se dozvěděl o tom, že ho klubový šéf veřejně kritizoval? Jak dlouho hráči trvá, než pozná opravdovou mentalitu Slavie? Jak vnímal situaci kolem Tomáše Chorého a jak je na tom aktuálně David Douděra? A co říká na přestup bývalého spoluhráče Matěje Juráska do Sparty? To všechno jsme v dnešním vydání podcastu Livesport Daily probrali přímo s Mojmírem Chytilem.&lt;/p&gt;
@@ -487,21 +503,5 @@ Každodenní porce sportovních informací pro ty, kterým jen výsledky nestač
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1784505969788-ad8f54e7e0c06.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>#826: Co rozhodlo o španělském triumfu? &gt;&gt;&gt; Jan Morávek</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1784505969788-ad8f54e7e0c06.jpg" /></item>
-		<item>
-			<title>Livesport Daily RE:ACTION &gt;&gt;&gt; Argentina vs. Španělsko! Co rozhodne? A jak vypadá NYC těsně před finále?</title>
-			<description>&lt;p&gt;MS se blíží ke grandióznímu vyústění a jeden z našich moderátorů je přímo u toho. Jakub Burian se v dnešním RE:ACTIONu hlásí přímo z New Yorku, kde za dva dny proběhne finále největšího fotbalového turnaje v dějinách. Jak do chodu města promlouvají rozsáhlé požáry v Kanadě? Žije město velkým utkáním? Kdo duel ovládne a jaké jsou hlavní příběhy tohoto klání? To vše vám dnes servírujeme v našem reakčním speciálu! Příjemný poslech!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Novinky ze světa sportu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.livesport.cz/zpravy/"&gt;⁠⁠⁠Livesport zprávy⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Články k podcastu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.livesport.cz/zpravy/ls-daily/40AScocUWSzc94ws/"&gt;⁠⁠⁠Livesport Daily⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Podívej se na náš Youtube:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;▶️&lt;a href="https://www.youtube.com/@LivesportDaily"&gt;⁠⁠⁠⁠Livesport Daily⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Poslechni si nás na Apple podcast:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🎙️&lt;a href="https://podcasts.apple.com/cz/podcast/livesport-daily/id1688534187"&gt;⁠⁠⁠⁠Livesport Daily⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sleduj novinky ze světa sportu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;⚽&lt;a href="https://www.livesport.cz/zpravy/"&gt;⁠⁠⁠⁠Livesport.cz/zprávy⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nezapomeňte nás sledovat na sociálních sítích:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://www.instagram.com/livesportdaily/"&gt;⁠⁠⁠⁠Livesport Daily⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://www.instagram.com/livesportcz/?hl=cs"&gt;⁠⁠⁠Livesport.cz⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;X.com:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://x.com/LSDailypodcast"&gt;⁠⁠⁠ ⁠Livesport Daily⁠&lt;/a&gt;&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/livesport-daily/episodes/Livesport-Daily-REACTION--Argentina-vs--panlsko--Co-rozhodne--A-jak-vypad-NYC-tsn-ped-finle-e3m72s0</link>
-			<guid isPermaLink="false">aa62c66b-412c-46ba-aa63-cfd44a0d0f88</guid>
-			<dc:creator>Jakub Burian, Jan Denemark, Tomáš Vogl</dc:creator>
-			<pubDate>Fri, 17 Jul 2026 14:31:19 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-6-17/78012aed-7795-4344-ada2-18c17f557fd1.mp3" length="55538484" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;MS se blíží ke grandióznímu vyústění a jeden z našich moderátorů je přímo u toho. Jakub Burian se v dnešním RE:ACTIONu hlásí přímo z New Yorku, kde za dva dny proběhne finále největšího fotbalového turnaje v dějinách. Jak do chodu města promlouvají rozsáhlé požáry v Kanadě? Žije město velkým utkáním? Kdo duel ovládne a jaké jsou hlavní příběhy tohoto klání? To vše vám dnes servírujeme v našem reakčním speciálu! Příjemný poslech!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Novinky ze světa sportu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.livesport.cz/zpravy/"&gt;⁠⁠⁠Livesport zprávy⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Články k podcastu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;📝 &lt;a href="https://www.livesport.cz/zpravy/ls-daily/40AScocUWSzc94ws/"&gt;⁠⁠⁠Livesport Daily⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Podívej se na náš Youtube:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;▶️&lt;a href="https://www.youtube.com/@LivesportDaily"&gt;⁠⁠⁠⁠Livesport Daily⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Poslechni si nás na Apple podcast:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🎙️&lt;a href="https://podcasts.apple.com/cz/podcast/livesport-daily/id1688534187"&gt;⁠⁠⁠⁠Livesport Daily⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sleduj novinky ze světa sportu:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;⚽&lt;a href="https://www.livesport.cz/zpravy/"&gt;⁠⁠⁠⁠Livesport.cz/zprávy⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Nezapomeňte nás sledovat na sociálních sítích:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://www.instagram.com/livesportdaily/"&gt;⁠⁠⁠⁠Livesport Daily⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://www.instagram.com/livesportcz/?hl=cs"&gt;⁠⁠⁠Livesport.cz⁠⁠⁠⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;X.com:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;🔗&lt;a href="https://x.com/LSDailypodcast"&gt;⁠⁠⁠ ⁠Livesport Daily⁠&lt;/a&gt;&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:38:32</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1784298092843-d8d75257d5874.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Livesport Daily RE:ACTION &gt;&gt;&gt; Argentina vs. Španělsko! Co rozhodne? A jak vypadá NYC těsně před finále?</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1784298092843-d8d75257d5874.jpg" /></item>
 		</channel>
 </rss>
