@@ -6,7 +6,7 @@
 Každodenní porce sportovních informací pro ty, kterým jen výsledky nestačí. </description>
 		<link>https://novtom.github.io/rss/feeds/livesport_daily.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 08 Sep 2026 03:39:32 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 09 Sep 2026 03:32:10 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/e1fe2874/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jakub Burian, Jan Denemark, Tomáš Vogl</author>
 		<copyright>Jakub Burian, Jan Denemark, Tomáš Vogl</copyright>
@@ -23,6 +23,22 @@ Každodenní porce sportovních informací pro ty, kterým jen výsledky nestač
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Sports" />
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37815301/37815301-1701951627840-4d5fcdaeed05f.jpg" />
+		<item>
+			<title>#863: Jaký je fotbalový příběh Racingu Lens? &gt;&gt;&gt; Guillaume Narguet</title>
+			<description>&lt;p&gt;Slavia vstupuje do dalšího ročníku Ligy mistrů a s tím začíná také náš seriál věnovaný jednotlivým soupeřům sešívaných. Před každým utkáním pražského týmu v Champions League vám nabídneme pohled na tým soupeře a začínáme ve Francii, protože ve čtvrtek přijede do Edenu druhý tým posledního ročníku Ligue 1 Racing Lens. Jaká je pověst tamního týmu mezi francouzskými fanoušky? Proč byl klub ze severu Francie řadu let v problémech a od covidu se usadil mezi nejlepšími týmy Ligue 1? Jaký fotbal se dá ve čtvrtek očekávat? A kdo patří mezi největší hvězdy Francouzů? To všechno jsme v dnešním vydání podcastu Livesport Daily probrali s redaktorem francouzské sekce Radio Prague International a expertem na francouzský fotbal Guillaumem Narguetem. &lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/livesport-daily/episodes/863-Jak-je-fotbalov-pbh-Racingu-Lens---Guillaume-Narguet-e3ohv6s</link>
+			<guid isPermaLink="false">760aeab9-8ded-4374-b73c-18ace17aa587</guid>
+			<dc:creator>Jakub Burian, Jan Denemark, Tomáš Vogl</dc:creator>
+			<pubDate>Wed, 09 Sep 2026 03:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-8-8/431468347-44100-2-642f073f317b8.mp3" length="31354043" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Slavia vstupuje do dalšího ročníku Ligy mistrů a s tím začíná také náš seriál věnovaný jednotlivým soupeřům sešívaných. Před každým utkáním pražského týmu v Champions League vám nabídneme pohled na tým soupeře a začínáme ve Francii, protože ve čtvrtek přijede do Edenu druhý tým posledního ročníku Ligue 1 Racing Lens. Jaká je pověst tamního týmu mezi francouzskými fanoušky? Proč byl klub ze severu Francie řadu let v problémech a od covidu se usadil mezi nejlepšími týmy Ligue 1? Jaký fotbal se dá ve čtvrtek očekávat? A kdo patří mezi největší hvězdy Francouzů? To všechno jsme v dnešním vydání podcastu Livesport Daily probrali s redaktorem francouzské sekce Radio Prague International a expertem na francouzský fotbal Guillaumem Narguetem. &lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:32:39</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1788894117812-e7838e5d8b3c1.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>#863: Jaký je fotbalový příběh Racingu Lens? &gt;&gt;&gt; Guillaume Narguet</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1788894117812-e7838e5d8b3c1.jpg" /></item>
 		<item>
 			<title>#862: Jak probíhá výběr posil v Dynamu? &gt;&gt;&gt; Petr Sýkora</title>
 			<description>&lt;p&gt;Petr Sýkora patří mezi největší legendy hokejové extraligy. Nejlepší kanonýr v dějinách pardubického klubu se po konci hráčské kariéry přesunul do kanceláří stadionu a aktuálně je z postu sportovního ředitele zodpovědný za sportovní chod a rozvoj Dynama, které na jaře vyhrálo po čtrnácti letech titul. Jak velký tlak si v ambiciózním a bohatém klubu sám na sebe připouští? Jak v Pardubicích probíhá výběr hráčů a tvorba kádru? Jak se klub připravuje na hráčské omlazení? A proč je pro Dynamo letos tak důležitá hokejová Liga mistrů. To všechno jsme v dnešním vydání podcastu Livesport Daily probrali přímo se sportovním ředitelem Dynama Petrem Sýkorou.&lt;/p&gt;
@@ -487,21 +503,5 @@ Každodenní porce sportovních informací pro ty, kterým jen výsledky nestač
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1785827982425-7673d438f0218.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>#838: Proč Česko dominuje vodnímu slalomu? &gt;&gt;&gt; Jakub Krejčí</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1785827982425-7673d438f0218.jpg" /></item>
-		<item>
-			<title>#837: Jak se dostal Lukáš Horníček do Premier League? &gt;&gt;&gt; Martin Shejbal, Lukáš Vrkoč</title>
-			<description>&lt;p&gt;Český fotbal má dalšího gólmana v anglické Premier League. Čtyřiadvacetiletý Lukáše Horníček přestoupil z portugalské Bragy do Newcastlu za částku kolem třiceti milionů eur, což z něj dělá třetího nejdražšího českého fotbalistu v historii. V dnešním speciálním vydání podcastu Livesport Daily nabídneme dva pohledy na tuhle velkou událost českého sportu. S bývalým pardubickým gólmanem, trenérem a funkcionářem Martinem Shejbalem se podíváme na Horníčkovy fotbalové kvality, lidské vlastnosti a také na jeho příběh o tom, jak se z kluka z Vysokého Mýta stal hráč nejsledovanější ligy na světě. Se šéfem zpravodajské sítě Livesportu a dlouholetým fanouškem Newcastlu Lukášem Vrkočem pak ve druhé části přiblížíme, co Horníčka na severovýchodě Anglie čeká a v jakém stavu klub ze slavného St. James’ Parku aktuálně je. &lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/livesport-daily/episodes/837-Jak-se-dostal-Luk-Hornek-do-Premier-League---Martin-Shejbal--Luk-Vrko-e3mu79v</link>
-			<guid isPermaLink="false">a7c018ad-89cc-4ccb-9600-1388cb16d487</guid>
-			<dc:creator>Jakub Burian, Jan Denemark, Tomáš Vogl</dc:creator>
-			<pubDate>Tue, 04 Aug 2026 03:35:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-7-3/429155745-44100-2-0f03d215a630c.mp3" length="38079006" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Český fotbal má dalšího gólmana v anglické Premier League. Čtyřiadvacetiletý Lukáše Horníček přestoupil z portugalské Bragy do Newcastlu za částku kolem třiceti milionů eur, což z něj dělá třetího nejdražšího českého fotbalistu v historii. V dnešním speciálním vydání podcastu Livesport Daily nabídneme dva pohledy na tuhle velkou událost českého sportu. S bývalým pardubickým gólmanem, trenérem a funkcionářem Martinem Shejbalem se podíváme na Horníčkovy fotbalové kvality, lidské vlastnosti a také na jeho příběh o tom, jak se z kluka z Vysokého Mýta stal hráč nejsledovanější ligy na světě. Se šéfem zpravodajské sítě Livesportu a dlouholetým fanouškem Newcastlu Lukášem Vrkočem pak ve druhé části přiblížíme, co Horníčka na severovýchodě Anglie čeká a v jakém stavu klub ze slavného St. James’ Parku aktuálně je. &lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:39:39</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1785791617772-7141e152b7b13.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>#837: Jak se dostal Lukáš Horníček do Premier League? &gt;&gt;&gt; Martin Shejbal, Lukáš Vrkoč</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1785791617772-7141e152b7b13.jpg" /></item>
 		</channel>
 </rss>

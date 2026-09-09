@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 02 Sep 2026 09:29:02 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 09 Sep 2026 04:32:10 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Asijské makro z Hanoje. aneb Asie není jen Čína</title>
+			<description>&lt;p&gt;Vietnam roste o osm procent a na obchodní válce vydělává nejvíc na světě. Asie navíc už není jen Čína, ale pět makro příběhů rozdělených mezi vítěze a poražené. A čáru kreslí čipy, cla a demografie. Vypravili jsme se proto do Hanoje a všechno ověřili přímo na místě.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Asijsk-makro-z-Hanoje--aneb-Asie-nen-jen-na-e3ohn4e</link>
+			<guid isPermaLink="false">33004f1c-c2e5-46c9-9c7c-12483f5416dc</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 09 Sep 2026 04:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-8-8/431459232-44100-2-30a7c86eb2956.mp3" length="48216606" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Vietnam roste o osm procent a na obchodní válce vydělává nejvíc na světě. Asie navíc už není jen Čína, ale pět makro příběhů rozdělených mezi vítěze a poražené. A čáru kreslí čipy, cla a demografie. Vypravili jsme se proto do Hanoje a všechno ověřili přímo na místě.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:50:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Asijské makro z Hanoje. aneb Asie není jen Čína</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Světová ekonomika v září 2026: není všechno zlato, co se třpytí</title>
 			<description>&lt;p&gt;Na světových trzích jede fantastický letní večírek. Burzy trhají rekordy, S&amp;amp;P 500 je na historických maximech a všichni bouchají šampaňské nad AI – podobně jako jsme ho před pár lety bouchali nad Bitcoinem, kryptem a bůhví čím dalším. Jenže externalit je víc než dost: Hormuzem neproudí ropa, americký dluh míří ke 40 bilionům dolarů a Čína zpomaluje. Tak jak je možné, že všechno pořád vypadá tak růžově? Podíváme se tomu na zoubek.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>The Next Wars: A Conversation with General David Petraeus</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Pain of the British Economy — And How to Fix It</title>
-			<description>&lt;p&gt;Británie hledá nový ekonomický model – a nedaří se. Produktivita stojí, investice slábnou a veřejné finance mají problém. V závěrečném dílu série s bankéřem Melem Carvillem řešíme, proč se UK nevrací k růstu, jak vážný je dluh, co čeká libru a zda vůbec existuje politická cesta zpět k dynamice.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Pain-of-the-British-Economy--And-How-to-Fix-It-e3c481v</link>
-			<guid isPermaLink="false">83d875c1-8f4f-4ce8-943a-f0440bd747a7</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 10 Dec 2025 05:30:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-9/414071453-44100-2-82a67886604b3.mp3" length="48963499" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Británie hledá nový ekonomický model – a nedaří se. Produktivita stojí, investice slábnou a veřejné finance mají problém. V závěrečném dílu série s bankéřem Melem Carvillem řešíme, proč se UK nevrací k růstu, jak vážný je dluh, co čeká libru a zda vůbec existuje politická cesta zpět k dynamice.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:51:00</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Pain of the British Economy — And How to Fix It</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
