@@ -6,7 +6,7 @@
 Každodenní porce sportovních informací pro ty, kterým jen výsledky nestačí. </description>
 		<link>https://novtom.github.io/rss/feeds/livesport_daily.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 09 Sep 2026 03:32:10 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 10 Sep 2026 04:31:48 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/e1fe2874/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jakub Burian, Jan Denemark, Tomáš Vogl</author>
 		<copyright>Jakub Burian, Jan Denemark, Tomáš Vogl</copyright>
@@ -23,6 +23,22 @@ Každodenní porce sportovních informací pro ty, kterým jen výsledky nestač
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Sports" />
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37815301/37815301-1701951627840-4d5fcdaeed05f.jpg" />
+		<item>
+			<title>#864: Jaký pohled na hokej přinese do národního týmu? &gt;&gt;&gt; Patrik Eliáš</title>
+			<description>&lt;p&gt;V červnu byl představen jako nový generální manažer hokejové reprezentace, do jedné z nejsledovanějších funkcí v českém sportu se pak naplno pustil v srpnu. O rozdělení kompetencí s rovněž novými trenéry Zdeňkem Motákem a Pavlem Grossem, vlastním širokém pohledu na hokej nebo dalších ambicích ve Slavii, kde vede sportovní úsek, mluvil v dnešní epizodě podcastu Livesport Daily bývalý vynikající hokejista a historicky druhý nejproduktivnější Čech v NHL Patrik Eliáš.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/livesport-daily/episodes/864-Jak-pohled-na-hokej-pinese-do-nrodnho-tmu---Patrik-Eli-e3ojqkg</link>
+			<guid isPermaLink="false">af805108-31f8-4b0b-a8c0-e4c60c1e268f</guid>
+			<dc:creator>Jakub Burian, Jan Denemark, Tomáš Vogl</dc:creator>
+			<pubDate>Thu, 10 Sep 2026 04:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-8-9/431547845-44100-2-90ad1497d6def.mp3" length="38265416" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;V červnu byl představen jako nový generální manažer hokejové reprezentace, do jedné z nejsledovanějších funkcí v českém sportu se pak naplno pustil v srpnu. O rozdělení kompetencí s rovněž novými trenéry Zdeňkem Motákem a Pavlem Grossem, vlastním širokém pohledu na hokej nebo dalších ambicích ve Slavii, kde vede sportovní úsek, mluvil v dnešní epizodě podcastu Livesport Daily bývalý vynikající hokejista a historicky druhý nejproduktivnější Čech v NHL Patrik Eliáš.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:39:51</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1788978337800-2a83bfb04ccfc.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>#864: Jaký pohled na hokej přinese do národního týmu? &gt;&gt;&gt; Patrik Eliáš</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1788978337800-2a83bfb04ccfc.jpg" /></item>
 		<item>
 			<title>#863: Jaký je fotbalový příběh Racingu Lens? &gt;&gt;&gt; Guillaume Narguet</title>
 			<description>&lt;p&gt;Slavia vstupuje do dalšího ročníku Ligy mistrů a s tím začíná také náš seriál věnovaný jednotlivým soupeřům sešívaných. Před každým utkáním pražského týmu v Champions League vám nabídneme pohled na tým soupeře a začínáme ve Francii, protože ve čtvrtek přijede do Edenu druhý tým posledního ročníku Ligue 1 Racing Lens. Jaká je pověst tamního týmu mezi francouzskými fanoušky? Proč byl klub ze severu Francie řadu let v problémech a od covidu se usadil mezi nejlepšími týmy Ligue 1? Jaký fotbal se dá ve čtvrtek očekávat? A kdo patří mezi největší hvězdy Francouzů? To všechno jsme v dnešním vydání podcastu Livesport Daily probrali s redaktorem francouzské sekce Radio Prague International a expertem na francouzský fotbal Guillaumem Narguetem. &lt;/p&gt;
@@ -487,21 +503,5 @@ Každodenní porce sportovních informací pro ty, kterým jen výsledky nestač
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1785959246587-1f52fd8b2b40a.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>#839: Je náročnější naučit se česky, nebo vydržet dávky Jindřicha Trpišovského? &gt;&gt;&gt; Mick van Buren</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1785959246587-1f52fd8b2b40a.jpg" /></item>
-		<item>
-			<title>#838: Proč Česko dominuje vodnímu slalomu? &gt;&gt;&gt; Jakub Krejčí</title>
-			<description>&lt;p&gt;Vodní slalom patří dlouhodobě mezi nejúspěšnější české sporty, uplynulé mistrovství světa bylo z hlediska úspěchů přesto výjimečné. Sedm medailí včetně tří zlatých, navíc v americké Oklahomě, kde se za dva roky bude závodit i na olympijských hrách. Proč bylo Česko tak dominantní, jak se on sám vyrovnal se specifickými podmínkami nebo co mu tak trochu chybělo při oslavách, řekl v dnešní epizodě podcastu Livesport Daily kajakář a mistr světa v kategorii K1, Jakub Krejčí.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/livesport-daily/episodes/838-Pro-esko-dominuje-vodnmu-slalomu---Jakub-Krej-e3muqdn</link>
-			<guid isPermaLink="false">a6de3fb4-cc89-47f7-9361-8782667c76ca</guid>
-			<dc:creator>Jakub Burian, Jan Denemark, Tomáš Vogl</dc:creator>
-			<pubDate>Wed, 05 Aug 2026 04:00:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-7-4/429182007-44100-2-b7b3de6004b03.mp3" length="24748616" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Vodní slalom patří dlouhodobě mezi nejúspěšnější české sporty, uplynulé mistrovství světa bylo z hlediska úspěchů přesto výjimečné. Sedm medailí včetně tří zlatých, navíc v americké Oklahomě, kde se za dva roky bude závodit i na olympijských hrách. Proč bylo Česko tak dominantní, jak se on sám vyrovnal se specifickými podmínkami nebo co mu tak trochu chybělo při oslavách, řekl v dnešní epizodě podcastu Livesport Daily kajakář a mistr světa v kategorii K1, Jakub Krejčí.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:25:46</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1785827982425-7673d438f0218.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>#838: Proč Česko dominuje vodnímu slalomu? &gt;&gt;&gt; Jakub Krejčí</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1785827982425-7673d438f0218.jpg" /></item>
 		</channel>
 </rss>
