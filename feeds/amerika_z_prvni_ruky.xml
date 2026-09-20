@@ -1,1 +1,48 @@
-
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Přes Atlantik</title>
+    <language>cs</language>
+    <copyright>Český rozhlas 2000-2026</copyright>
+    <link>https://novtom.github.io/rss/feeds/amerika_z_prvni_ruky.xml</link>
+    <ttl>1440</ttl>
+    <description>Podcast Českého rozhlasu Plus o americké politice a každodenním životě v USA. Vychází jednou za čtrnáct dní ve středu. V ostatních týdnech vydáváme bonusové materiály. &lt;br&gt;&lt;br&gt;Všechny díly podcastu Přes Atlantik můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/a389557d-0082-3b81-86fd-b7f66e141dbf?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=a389557d-0082-3b81-86fd-b7f66e141dbf_description"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
+    <image>
+      <url>https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/4be2f19feeed997e9e02bfd0adc46ad6.png?itok=LgXm-YnZ&amp;v=39be94ff</url>
+      <title>Přes Atlantik</title>
+      <link>https://www.mujrozhlas.cz/rapi/view/show/a389557d-0082-3b81-86fd-b7f66e141dbf</link>
+    </image>
+    <itunes:summary>Podcast Českého rozhlasu Plus o americké politice a každodenním životě v USA. Vychází jednou za čtrnáct dní ve středu. V ostatních týdnech vydáváme bonusové materiály. </itunes:summary>
+    <itunes:category text="News">
+      <itunes:category text="Politics" />
+    </itunes:category>
+    <itunes:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/4be2f19feeed997e9e02bfd0adc46ad6.png?itok=LgXm-YnZ&amp;v=39be94ff" />
+    <itunes:author>Český rozhlas</itunes:author>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:owner>
+      <itunes:email>internet@rozhlas.cz</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Jak politika mění každodenní život Američanů</title>
+      <description>Jana Ciglerová, která je od dubna americkou zpravodajkou Českého rozhlasu, se po několika letech na Floridě přestěhovala do okolí Washingtonu. Právě její zkušenost otevírá první díl nového pořadu Českého rozhlasu Plus Přes Atlantik. S bývalým zpravodajem ve Washingtonu Janem Kalibou rozebírá, jak rozdílně se žije v republikánských a demokratických státech USA.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Přes Atlantik můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/a389557d-0082-3b81-86fd-b7f66e141dbf?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=ab3936b1-e00a-34bf-8973-d2474efb5483"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
+      <itunes:subtitle>Jana Ciglerová, která je od dubna americkou zpravodajkou Českého rozhlasu, se po několika letech na Floridě přestěhovala do okolí Washingtonu. Právě její zkušenost otevírá první díl nového pořadu Českého rozhlasu Plus Přes Atlantik. S bývalým zpravodajem ve Washingtonu Janem Kalibou rozebírá, jak rozdílně se žije v republikánských a demokratických státech USA.</itunes:subtitle>
+      <itunes:summary>Jana Ciglerová, která je od dubna americkou zpravodajkou Českého rozhlasu, se po několika letech na Floridě přestěhovala do okolí Washingtonu. Právě její zkušenost otevírá první díl nového pořadu Českého rozhlasu Plus Přes Atlantik. S bývalým zpravodajem ve Washingtonu Janem Kalibou rozebírá, jak rozdílně se žije v republikánských a demokratických státech USA.</itunes:summary>
+      <itunes:duration>00:34:52</itunes:duration>
+      <pubDate>Wed, 16 Sep 2026 01:00:00 +0200</pubDate>
+      <enclosure url="http://portal.rozhlas.cz/sites/default/files/audios/41b3625d4789203d6b9dec8bc9b2c89f_0.mp3" type="audio/mpeg" length="50209920" />
+      <guid isPermaLink="false">9643308</guid>
+      <link>https://www.mujrozhlas.cz/rapi/view/episode/ab3936b1-e00a-34bf-8973-d2474efb5483</link>
+    <itunes:title>Jak politika mění každodenní život Američanů</itunes:title><itunes:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/4be2f19feeed997e9e02bfd0adc46ad6.png?itok=LgXm-YnZ&amp;v=39be94ff" /><media:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/4be2f19feeed997e9e02bfd0adc46ad6.png?itok=LgXm-YnZ&amp;v=39be94ff" /></item>
+    <item>
+      <title>Startuje podcast Přes Atlantik</title>
+      <description>Jana Ciglerová z Ameriky, Jan Kaliba z Česka. Oba mají zkušenost s každodenním životem za Atlantikem a za sebou tisíce natočených rozhovorů s Američany a Američankami v nejrůznějších situacích. Teď se spojí přes oceán v novém podcastu Českého rozhlasu Plus.&lt;br&gt;&lt;br&gt;Všechny díly podcastu Přes Atlantik můžete pohodlně poslouchat v mobilní aplikaci mujRozhlas pro &lt;a href="https://play.google.com/store/apps/details?id=cz.rozhlas.mujrozhlas"&gt;Android&lt;/a&gt; a &lt;a href="https://apps.apple.com/cz/app/id1455654616"&gt;iOS&lt;/a&gt; nebo na webu &lt;a href="https://www.mujrozhlas.cz/rapi/view/show/a389557d-0082-3b81-86fd-b7f66e141dbf?utm_source=rss&amp;utm_medium=podcast&amp;utm_campaign=d5e69bf1-ce55-327d-986f-3c179269069d"&gt;mujRozhlas.cz&lt;/a&gt;.</description>
+      <itunes:subtitle>Jana Ciglerová z Ameriky, Jan Kaliba z Česka. Oba mají zkušenost s každodenním životem za Atlantikem a za sebou tisíce natočených rozhovorů s Američany a Američankami v nejrůznějších situacích. Teď se spojí přes oceán v novém podcastu Českého rozhlasu Plus.</itunes:subtitle>
+      <itunes:summary>Jana Ciglerová z Ameriky, Jan Kaliba z Česka. Oba mají zkušenost s každodenním životem za Atlantikem a za sebou tisíce natočených rozhovorů s Američany a Američankami v nejrůznějších situacích. Teď se spojí přes oceán v novém podcastu Českého rozhlasu Plus.</itunes:summary>
+      <itunes:duration>00:02:29</itunes:duration>
+      <pubDate>Fri, 11 Sep 2026 16:15:00 +0200</pubDate>
+      <enclosure url="http://portal.rozhlas.cz/sites/default/files/audios/d95fc7c7c0d47b06cae694fe4a4a5076.mp3" type="audio/mpeg" length="3593152" />
+      <guid isPermaLink="false">9642554</guid>
+      <link>https://www.mujrozhlas.cz/rapi/view/episode/d5e69bf1-ce55-327d-986f-3c179269069d</link>
+    <itunes:title>Startuje podcast Přes Atlantik</itunes:title><itunes:image href="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/4be2f19feeed997e9e02bfd0adc46ad6.png?itok=LgXm-YnZ&amp;v=39be94ff" /><media:thumbnail url="https://portal.rozhlas.cz/sites/default/files/styles/mr_square_large/public/images/4be2f19feeed997e9e02bfd0adc46ad6.png?itok=LgXm-YnZ&amp;v=39be94ff" /></item>
+  </channel>
+</rss>
