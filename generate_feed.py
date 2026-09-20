@@ -55,6 +55,7 @@ podcasts = {
     "livesport_daily.xml":"https://anchor.fm/s/e1fe2874/podcast/rss",
     "ptam_se_ja.xml":"https://feeds.transistor.fm/ptam-se-ja",
     "zlamany_topol.xml":"https://www.omnycontent.com/d/playlist/87baeba4-4dea-4967-b7da-b2a300763cfe/715e1336-517e-4367-b7c3-b31c006cc814/f34bc7b6-ccaf-4a11-8a12-b31c006cc826/podcast.rss",
+    "amerika_z_prvni_ruky.xml":"https://api.mujrozhlas.cz/rss/podcast/a389557d-0082-3b81-86fd-b7f66e141dbf",
 }
 
 # ===== Pomocné funkce =====
