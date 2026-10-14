@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 13 Oct 2026 11:17:56 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 14 Oct 2026 04:32:21 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Europe's Growth Engine Moved East</title>
+			<description>&lt;p&gt;Poland grows at almost 4%, Germany at barely 1%, and France pays more to borrow than at any time since the euro crisis. Meanwhile China sells us cars, solar panels and electronics, and Brussels answers with regulation. We asked Polish economist Marcin Piątkowski, just back from years in Asia, the questions Europe avoids: Is the West the new sick man? Is the East growing on credit? And what did Asia get right that we forgot?&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Europes-Growth-Engine-Moved-East-e3qe527</link>
+			<guid isPermaLink="false">8272a2bc-9ba2-4a37-9dfd-33b4bf9082e6</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 14 Oct 2026 04:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-9-13/434056428-44100-2-2e57dcd14185b.mp3" length="44656848" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Poland grows at almost 4%, Germany at barely 1%, and France pays more to borrow than at any time since the euro crisis. Meanwhile China sells us cars, solar panels and electronics, and Brussels answers with regulation. We asked Polish economist Marcin Piątkowski, just back from years in Asia, the questions Europe avoids: Is the West the new sick man? Is the East growing on credit? And what did Asia get right that we forgot?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:46:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Europe's Growth Engine Moved East</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>Global Energy Shock. Interview with Bogdan Ivan from Romania</title>
 			<description>&lt;p&gt;Europe killed its Russian gas habit and walked straight into its second energy crisis of the decade. Plus war in the Middle East has choked the Strait of Hormuz and sent oil back above 100 dollars. We asked Romanian energy (ex)minister Bogdan Ivan the questions politicians dodge: What will be our retail price? Will Russians come back? And have we traded one dependence for another?&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>Asijská auta jedou do Evropy ft. Martin Vaculík a Michal Dokoupil</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Auta, kam se podíváš</title>
-			<description>&lt;p&gt;Automobilový průmysl je páteří české i středoevropské ekonomiky. A právě teď stojí na historickém rozcestí. Zvítězí tradiční Evropa nebo disruptoři v čele s Číňani a Teslou? V úvodním analytickém dílu nové série o auťácích si klademe (pro Evropu) bolavé otázky: přežijí evropská auta? Kde dnes vzniká inovace a přidaná hodnota? Čím budeme jezdit za deset let?&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Auta--kam-se-podv-e3e9cdr</link>
-			<guid isPermaLink="false">b7fc46f2-f278-424d-bffe-ff20db068b54</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Wed, 28 Jan 2026 05:30:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-0-27/416964882-44100-2-4592450a68b4e.mp3" length="34945566" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Automobilový průmysl je páteří české i středoevropské ekonomiky. A právě teď stojí na historickém rozcestí. Zvítězí tradiční Evropa nebo disruptoři v čele s Číňani a Teslou? V úvodním analytickém dílu nové série o auťácích si klademe (pro Evropu) bolavé otázky: přežijí evropská auta? Kde dnes vzniká inovace a přidaná hodnota? Čím budeme jezdit za deset let?&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:36:24</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Auta, kam se podíváš</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
