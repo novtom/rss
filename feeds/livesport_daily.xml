@@ -6,7 +6,7 @@
 Každodenní porce sportovních informací pro ty, kterým jen výsledky nestačí. </description>
 		<link>https://novtom.github.io/rss/feeds/livesport_daily.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Tue, 20 Oct 2026 19:00:08 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Oct 2026 08:32:51 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/e1fe2874/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jakub Burian, Jan Denemark, Tomáš Vogl</author>
 		<copyright>Jakub Burian, Jan Denemark, Tomáš Vogl</copyright>
@@ -23,6 +23,22 @@ Každodenní porce sportovních informací pro ty, kterým jen výsledky nestač
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:category text="Sports" />
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/37815301/37815301-1701951627840-4d5fcdaeed05f.jpg" />
+		<item>
+			<title>#893: Jak zapadl Santi Denia do české repre? &gt;&gt;&gt; Eduard Poustka</title>
+			<description>&lt;p&gt;Eduard Poustka zažil od začátku milénia u fotbalové reprezentace všechno důležité. V pozici maséra národního týmu přežil několik svazových šéfů, řadu hlavních trenérů a jeho rukama prošly desítky hráčů, kteří to dotáhli až na samotný vrchol. Kromě oficiální funkce ho ale v posledním čtvrtstoletí berou fanoušci jako studnici dobré nálady a hráči dost často taky jako osobního psychologa. Jak moc se proměnila jeho profese a kontakt s hráči? Jak se mu v reprezentaci pracuje pod novým realizačním týmem?  Jak náročné byly podmínky pro práci na mistrovství světa? A jak moc mu pomáhají v přemýšlení chvíle u rybníka? To všechno jsme v dnešním vydání podcastu Livesport Daily probrali přímo s masérem národního týmu Eduardem Poustkou.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/livesport-daily/episodes/893-Jak-zapadl-Santi-Denia-do-esk-repre---Eduard-Poustka-e3qqfoi</link>
+			<guid isPermaLink="false">b3bc3dcc-0ca9-45e8-8f5e-4cd818107833</guid>
+			<dc:creator>Jakub Burian, Jan Denemark, Tomáš Vogl</dc:creator>
+			<pubDate>Wed, 21 Oct 2026 03:30:00 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-9-20/434600495-44100-2-da03ceb4e63ac.mp3" length="44099708" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Eduard Poustka zažil od začátku milénia u fotbalové reprezentace všechno důležité. V pozici maséra národního týmu přežil několik svazových šéfů, řadu hlavních trenérů a jeho rukama prošly desítky hráčů, kteří to dotáhli až na samotný vrchol. Kromě oficiální funkce ho ale v posledním čtvrtstoletí berou fanoušci jako studnici dobré nálady a hráči dost často taky jako osobního psychologa. Jak moc se proměnila jeho profese a kontakt s hráči? Jak se mu v reprezentaci pracuje pod novým realizačním týmem?  Jak náročné byly podmínky pro práci na mistrovství světa? A jak moc mu pomáhají v přemýšlení chvíle u rybníka? To všechno jsme v dnešním vydání podcastu Livesport Daily probrali přímo s masérem národního týmu Eduardem Poustkou.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:45:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1792522594447-984739c0fbbb8.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>#893: Jak zapadl Santi Denia do české repre? &gt;&gt;&gt; Eduard Poustka</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1792522594447-984739c0fbbb8.jpg" /></item>
 		<item>
 			<title>#892: Skončí série proher Slavie proti hvězdám Fenerbahce? &gt;&gt;&gt; Aleš Černý</title>
 			<description>&lt;p&gt;Třetí zápas pražské Slavie v Lize mistrů = naše třetí epizoda věnovaná soupeři sešívaných. Už dnes večer se český mistr představí v Istanbulu na horké půdě Fenerbahce a dost možná tak skončí jedna dlouhá série. Oba týmy totiž čekají na výhru v Champions League od ročníku 2007/2008. Proč Fenerbahce nevyhrává domácí tituly? Kdo z nabitého kádru tureckého týmu letos táhne tým a od koho se naopak čeká víc? A jak může Slavia proti Fenerbahce uspět? To všechno jsme v dnešním vydání podcastu Livesport Daily probrali s bývalým novinářem a dlouholetým fanouškem Fenerbahce Alešem Černým. &lt;/p&gt;
@@ -487,21 +503,5 @@ Každodenní porce sportovních informací pro ty, kterým jen výsledky nestač
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1789662475134-37fe1b6ef54da.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>#870: Jak rozjeli ligu brněnští nováčci? &gt;&gt;&gt; David Nekvinda</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1789662475134-37fe1b6ef54da.jpg" /></item>
-		<item>
-			<title>#869: Jaký příběh napíše návrat Čechů do O2 areny? &gt;&gt;&gt; Tomáš Berdych</title>
-			<description>&lt;p&gt;Pražská O2 Arena se chystá na velký návrat. Po dlouhých třinácti letech se do pražského sportovního svatostánku vrací tenisový Davis Cup a Češi v něm od pátku do soboty vyzvou ve druhém kole kvalifikace silnou Ameriku v čele se čtvrtým hráčem žebříčku ATP Benem Sheltonem. Jak se dívá na to, že na sebe dva takto silné výběry naráží už v této fázi soutěže? Jaké bylo pozadí rozhodnutí nehrát tento zápas na antuce? Jak se Češi připravují na čtyři leváky v americkém týmu? A jakou největší hádanku před víkendem řeší? To všechno jsme v dnešním vydání podcastu Livesport Daily probrali přímo v O2 areně s dvojnásobným vítězem Davis Cupu a nyní kapitánem českého týmu Tomášem Berdychem.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/livesport-daily/episodes/869-Jak-pbh-nape-nvrat-ech-do-O2-areny---Tom-Berdych-e3ousdo</link>
-			<guid isPermaLink="false">b914effe-2248-46b7-890c-7e0a1c48e19d</guid>
-			<dc:creator>Jakub Burian, Jan Denemark, Tomáš Vogl</dc:creator>
-			<pubDate>Thu, 17 Sep 2026 03:40:00 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-8-16/432039367-44100-2-382dbb71c5c76.mp3" length="24242049" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;Pražská O2 Arena se chystá na velký návrat. Po dlouhých třinácti letech se do pražského sportovního svatostánku vrací tenisový Davis Cup a Češi v něm od pátku do soboty vyzvou ve druhém kole kvalifikace silnou Ameriku v čele se čtvrtým hráčem žebříčku ATP Benem Sheltonem. Jak se dívá na to, že na sebe dva takto silné výběry naráží už v této fázi soutěže? Jaké bylo pozadí rozhodnutí nehrát tento zápas na antuce? Jak se Češi připravují na čtyři leváky v americkém týmu? A jakou největší hádanku před víkendem řeší? To všechno jsme v dnešním vydání podcastu Livesport Daily probrali přímo v O2 areně s dvojnásobným vítězem Davis Cupu a nyní kapitánem českého týmu Tomášem Berdychem.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:25:15</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1789588193504-a10fe5851069.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>#869: Jaký příběh napíše návrat Čechů do O2 areny? &gt;&gt;&gt; Tomáš Berdych</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/37815301/37815301-1789588193504-a10fe5851069.jpg" /></item>
 		</channel>
 </rss>
