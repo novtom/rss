@@ -5,7 +5,7 @@
 		<description>&lt;p&gt;Vítejte u našeho podcastu! Jeden z nás je businessman, druhý trader, a spolu se bavíme o ekonomii, financích, politice a mezinárodních vztazích. Děláme taky rozhovory s lidmi z celého světa: od Hongkongu po New York. Podcast je někdy česky, někdy anglicky. Btw, nemáme paywall ani se vám nesnažíme nic prodat. Na X (Twitter) nás najdete jako @janruzijan &amp;amp; @kweenolog.&lt;br /&gt;&lt;br /&gt;Welcome to our podcast! One of us is a businessman, the other is a trader, and we talk about macro, finance, politics, and international affairs. We also interview interesting people from all over the world, starting in Hong Kong and finishing in New York. Sometime podcast is in English, sometime in Czech. There's no paywall, and we don't sell anything. We simply provide data and facts. You can find us on X (Twitter): @janruzijan &amp;amp; @kweenolog.&lt;/p&gt;</description>
 		<link>https://novtom.github.io/rss/feeds/ruz_vor.xml</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 18 Nov 2026 14:06:17 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 25 Nov 2026 09:29:39 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/f5e22098/podcast/rss" rel="self" type="application/rss+xml" />
 		<author>Jan Růžička</author>
 		<copyright>Jan Růžička</copyright>
@@ -23,6 +23,22 @@
 			<itunes:category text="Politics" />
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+		<item>
+			<title>Daně? Máme právo na ně! Díl 1: teorie a Evropa</title>
+			<description>&lt;p&gt;Daně jsou díky PAQu zase sexy, jen nikdo nepočítá alternativy. Náš podcast proto na dva týdny zakládá daňový think tank. Milton Friedman, Rakouská škola, Keynes a Evropa: chválíme Estonsko a Švýcarsko, haníme Francii a Norsko. A kam patří Česko?&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Dan--Mme-prvo-na-n--Dl-1-teorie-a-Evropa-e3t079d</link>
+			<guid isPermaLink="false">d552f5e3-a137-4973-9f7d-5e5a53c2825f</guid>
+			<dc:creator>Jan Růžička</dc:creator>
+			<pubDate>Wed, 25 Nov 2026 09:06:17 GMT</pubDate>
+			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-10-25/437588441-44100-2-7cc0ce8ab03038.mp3" length="46739956" type="audio/mpeg" />
+			<itunes:summary>&lt;p&gt;Daně jsou díky PAQu zase sexy, jen nikdo nepočítá alternativy. Náš podcast proto na dva týdny zakládá daňový think tank. Milton Friedman, Rakouská škola, Keynes a Evropa: chválíme Estonsko a Švýcarsko, haníme Francii a Norsko. A kam patří Česko?&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:48:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
+			<itunes:episodeType>full</itunes:episodeType>
+		<itunes:title>Daně? Máme právo na ně! Díl 1: teorie a Evropa</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		<item>
 			<title>After the Midterms: What Changes for the World? Interview with Kevin Rudd</title>
 			<description>&lt;p&gt;Democrats took both chambers, including Senate seats in Texas, Ohio, Kansas and Iowa. Does it change anything beyond Washington? In the coming weeks Trump heads to APEC in Shenzhen, a possible meeting with Xi and Putin, and the G20 in Miami. We asked Kevin Rudd, Australian minister, prime minister and ambassador to the United States, whether to expect grand bargains or more confrontation, what Beijing reads into the result, and which assumption Europe gets most dangerously wrong.&lt;/p&gt;
@@ -487,21 +503,5 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
 			<itunes:episodeType>full</itunes:episodeType>
 		<itunes:title>AI, čipy, roboti. Čínské inovace jedou</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
-		<item>
-			<title>Dr. Zineb Riboua on Iran: Decapitation Strike, the Key Role of China, and a New Middle East</title>
-			<description>&lt;p&gt;What happened in the last 48 hours in Iran — and why is this time different? With Dr. Zineb Riboua from Hudson Institute in Washington, we unpack whether this was a decapitation strike, what Trump is aiming for, how China factors into the equation, and what it means for Russia, the Gulf, Israel, and Europe — plus what to watch next.&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/jan514/episodes/Dr--Zineb-Riboua-on-Iran-Decapitation-Strike--the-Key-Role-of-China--and-a-New-Middle-East-e3fqeli</link>
-			<guid isPermaLink="false">ac36c4ab-772c-429a-9546-fc87bc72aae2</guid>
-			<dc:creator>Jan Růžička</dc:creator>
-			<pubDate>Mon, 02 Mar 2026 10:15:03 GMT</pubDate>
-			<enclosure url="http://podcast-relay.novtom.workers.dev/?u=https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-2-2/419109576-44100-2-4fe512d60a79a.mp3" length="36847698" type="audio/mpeg" />
-			<itunes:summary>&lt;p&gt;What happened in the last 48 hours in Iran — and why is this time different? With Dr. Zineb Riboua from Hudson Institute in Washington, we unpack whether this was a decapitation strike, what Trump is aiming for, how China factors into the equation, and what it means for Russia, the Gulf, Israel, and Europe — plus what to watch next.&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:duration>00:38:22</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" />
-			<itunes:episodeType>full</itunes:episodeType>
-		<itunes:title>Dr. Zineb Riboua on Iran: Decapitation Strike, the Key Role of China, and a New Middle East</itunes:title><media:thumbnail url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41152374/41152374-1758457560496-d665f39843aa3.jpg" /></item>
 		</channel>
 </rss>
